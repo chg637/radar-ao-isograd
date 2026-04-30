@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T07:36:58.608Z",
+  "generated_at": "2026-04-30T07:49:16.315Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
@@ -7,25 +7,25 @@
       "fetched": 89,
       "matched": 6,
       "go": 0,
-      "generated_at": "2026-04-30T07:36:06.845Z"
+      "generated_at": "2026-04-30T07:48:23.997Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 817,
-      "matched": 2,
+      "matched": 1,
       "go": 0,
-      "generated_at": "2026-04-30T07:36:49.704Z"
+      "generated_at": "2026-04-30T07:49:07.056Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-04-30T07:36:58.556Z"
+      "generated_at": "2026-04-30T07:49:16.262Z"
     }
   },
   "total_fetched": 906,
-  "total_matched": 8,
+  "total_matched": 7,
   "total_go": 0,
   "total_dedup_collisions": 0,
   "notices": [
@@ -215,45 +215,6 @@
         "delay": 3
       },
       "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "26-41826",
-      "ref": "26-41826",
-      "acheteur": "Sète agglopôle Méditerranée",
-      "objet": "Mission d'Assistance à la Maîtrise d'Ouvrage Technique et Juridique pour la Passation d'un Contrat de Performance en Matière de Génie Climatique",
-      "description": "Mission d'Assistance à la Maîtrise d'Ouvrage Technique et Juridique pour la Passation d'un Contrat de Performance en Matière de Génie Climatique",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-06-01",
-      "montant": 150,
-      "publication": "2026-04-24",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-41826",
-      "_boamp": {
-        "famille": "Marchés entre 90 k€ et seuils européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Assistance à maîtrise d'ouvrage"
-        ],
-        "departement": "34"
-      },
-      "segment": "Autre",
-      "keyword_hits": [
-        "passation"
-      ],
-      "score": 49,
-      "score_detail": {
-        "fit": 10,
-        "size": 10,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "no",
       "notes": "",
       "auto": true
     },

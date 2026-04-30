@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-30T07:36:49.704Z",
+  "generated_at": "2026-04-30T07:49:07.056Z",
   "source": "BOAMP",
   "window_days": 7,
   "total_fetched": 817,
-  "total_matched": 2,
+  "total_matched": 1,
   "total_go": 0,
   "notices": [
     {
@@ -42,45 +42,6 @@
         "delay": 3
       },
       "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "26-41826",
-      "ref": "26-41826",
-      "acheteur": "Sète agglopôle Méditerranée",
-      "objet": "Mission d'Assistance à la Maîtrise d'Ouvrage Technique et Juridique pour la Passation d'un Contrat de Performance en Matière de Génie Climatique",
-      "description": "Mission d'Assistance à la Maîtrise d'Ouvrage Technique et Juridique pour la Passation d'un Contrat de Performance en Matière de Génie Climatique",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-06-01",
-      "montant": 150,
-      "publication": "2026-04-24",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-41826",
-      "_boamp": {
-        "famille": "Marchés entre 90 k€ et seuils européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Assistance à maîtrise d'ouvrage"
-        ],
-        "departement": "34"
-      },
-      "segment": "Autre",
-      "keyword_hits": [
-        "passation"
-      ],
-      "score": 49,
-      "score_detail": {
-        "fit": 10,
-        "size": 10,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "no",
       "notes": "",
       "auto": true
     }

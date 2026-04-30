@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T07:13:43.799Z",
+  "generated_at": "2026-04-30T07:27:30.980Z",
   "source": "Profil",
   "total_fetched": 0,
   "total_matched": 0,
@@ -9,6 +9,5 @@
     "uge",
     "iae-aix"
   ],
-  "notices": [],
-  "_warning": "APIFY_TOKEN manquant — exécution sautée."
+  "notices": []
 }

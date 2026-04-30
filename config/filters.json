@@ -1,0 +1,90 @@
+{
+  "_comment": "Configuration centralisée du radar. Modifie ces listes pour ajuster la veille sans toucher au code.",
+
+  "cpv_codes": [
+    { "code": "80300000", "label": "Services d'enseignement supérieur", "weight": "high" },
+    { "code": "80400000", "label": "Enseignement adultes et autres", "weight": "high" },
+    { "code": "80420000", "label": "E-learning", "weight": "very_high" },
+    { "code": "80500000", "label": "Services de formation", "weight": "high" },
+    { "code": "80510000", "label": "Formation spécialisée", "weight": "high" },
+    { "code": "80530000", "label": "Formation professionnelle", "weight": "very_high" },
+    { "code": "80531200", "label": "Formation technique", "weight": "high" },
+    { "code": "79132000", "label": "Services de certification", "weight": "very_high" },
+    { "code": "72200000", "label": "Programmation et conseil logiciel", "weight": "medium" },
+    { "code": "72260000", "label": "Services connexes aux logiciels", "weight": "high" },
+    { "code": "72416000", "label": "Fournisseurs de services applicatifs (ASP/SaaS)", "weight": "very_high" },
+    { "code": "48190000", "label": "Logiciels éducatifs", "weight": "very_high" }
+  ],
+
+  "keywords_fr": [
+    "plateforme d'évaluation",
+    "plateforme de certification",
+    "examens en ligne",
+    "télésurveillance",
+    "surveillance à distance",
+    "proctoring",
+    "passation",
+    "test center",
+    "centres d'examens",
+    "computer-based testing",
+    "dématérialisation des épreuves",
+    "banque de questions",
+    "QCM",
+    "test adaptatif",
+    "psychométrie",
+    "ingénierie d'évaluation",
+    "conception d'épreuves",
+    "référentiel de compétences",
+    "certification de compétences",
+    "validation des acquis",
+    "VAE",
+    "RNCP",
+    "France Compétences",
+    "compétences numériques",
+    "DigComp"
+  ],
+
+  "keywords_en": [
+    "digital assessment platform",
+    "computer-based testing",
+    "remote proctoring",
+    "online examination",
+    "online exam",
+    "skills certification",
+    "competence assessment",
+    "test delivery",
+    "examination platform",
+    "digital skills",
+    "DigComp",
+    "e-learning platform",
+    "certification services",
+    "item banking",
+    "psychometrics"
+  ],
+
+  "countries": ["FRA", "BEL", "LUX"],
+
+  "languages": ["FR", "EN"],
+
+  "buyer_segment_rules": [
+    { "match": ["université", "iut", "ecole supérieure", "comue", "polytech", "iae"], "segment": "ESR" },
+    { "match": ["france travail", "pôle emploi", "opco", "afpa", "carif", "pic", "prf"], "segment": "Formation pro" },
+    { "match": ["ministère", "préfecture", "dgfip", "douanes", "armée", "intérieur", "ena", "insp"], "segment": "État" },
+    { "match": ["région", "conseil régional", "département", "conseil départemental", "métropole", "cnfpt", "commune", "communauté", "ville de", "mairie", "epsm"], "segment": "Collectivités" },
+    { "match": ["chambre de métiers", "chambre des métiers", "cma de", "cma ", "chambre de commerce", "cci ", "chambre d'agriculture"], "segment": "Consulaire" },
+    { "match": ["chu", "centre hospitalier", "hôpital", "ars", "anfh", "ght"], "segment": "FPH" },
+    { "match": ["commission européenne", "european commission", "cedefop", "eurofound", "etf", "eu-osha"], "segment": "UE" }
+  ],
+
+  "scoring": {
+    "fit_keywords_strong": ["plateforme", "proctoring", "télésurveillance", "certification de compétences", "examens en ligne"],
+    "fit_keywords_medium": ["évaluation", "formation", "compétences", "QCM", "examens"],
+    "tech_keywords_bonus": ["RGPD", "RGAA", "ISO 27001", "SecNumCloud", "accessibilité"],
+    "thresholds": {
+      "go": 75,
+      "conditional": 55
+    }
+  },
+
+  "publication_window_days": 7
+}

@@ -1,0 +1,77 @@
+name: Sync Radar AO (TED)
+
+# Quand le workflow tourne :
+on:
+  schedule:
+    # Tous les jours à 6h UTC (8h Paris en été, 7h en hiver)
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    # Bouton "Run workflow" manuel dans l'onglet Actions
+  push:
+    branches: [main]
+    paths:
+      - 'sync_ted.js'
+      - 'config/filters.json'
+      - '.github/workflows/sync-ao.yml'
+
+jobs:
+  sync:
+    name: Pull TED + auto-score
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # nécessaire pour committer les nouveaux JSON
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install deps (rien pour le moment, fetch est natif Node 18+)
+        run: npm install --omit=dev || echo "Pas de deps à installer"
+
+      - name: Run sync_ted.js
+        run: node sync_ted.js
+        env:
+          TZ: Europe/Paris
+
+      - name: Show data dir
+        run: ls -la data/ && echo "--- latest.json ---" && head -50 data/latest.json
+
+      - name: Copie latest.json dans dashboard/data pour Vercel
+        run: |
+          mkdir -p dashboard/data
+          cp data/latest.json dashboard/data/latest.json
+
+      - name: Commit & push si nouveaux JSON
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "Radar AO Bot"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "Pas de changement à committer."
+          else
+            git commit -m "data: sync TED $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
+
+      # Notification optionnelle quand un AO Go ferme arrive
+      # Active ce step en ajoutant le secret SLACK_WEBHOOK dans Settings > Secrets
+      - name: Notification Slack si Go ferme
+        if: success()
+        env:
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+        run: |
+          if [ -z "$SLACK_WEBHOOK" ]; then
+            echo "Pas de webhook Slack configuré, on skip."
+            exit 0
+          fi
+          GO_COUNT=$(node -e "const d=require('./data/latest.json'); console.log(d.total_go || 0)")
+          if [ "$GO_COUNT" -gt 0 ]; then
+            curl -X POST -H 'Content-Type: application/json' \
+              --data "{\"text\": \"Radar AO — ${GO_COUNT} nouvel(s) AO Go ferme. Voir le dashboard.\"}" \
+              "$SLACK_WEBHOOK" || true
+          fi

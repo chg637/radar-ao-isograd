@@ -1,0 +1,1441 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Radar AO Isograd — Dashboard</title>
+<style>
+  :root {
+    --teal: #05676A;
+    --teal-dark: #034547;
+    --teal-light: #E1EFEF;
+    --mint: #00CC99;
+    --mint-light: #D6F5EB;
+    --orange: #FF6B35;
+    --grey-900: #1A1F24;
+    --grey-700: #4A5560;
+    --grey-500: #6B7280;
+    --grey-300: #D1D5DB;
+    --grey-100: #F3F4F6;
+    --grey-50: #FAFBFC;
+    --red: #DC2626;
+    --amber: #F59E0B;
+    --green: #16A34A;
+    --bg: #FFFFFF;
+    --shadow-sm: 0 1px 2px rgba(5,103,106,0.06);
+    --shadow-md: 0 4px 12px rgba(5,103,106,0.08);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+    background: var(--grey-50);
+    color: var(--grey-900);
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  header {
+    background: linear-gradient(135deg, var(--teal) 0%, var(--teal-dark) 100%);
+    color: white;
+    padding: 20px 32px;
+    box-shadow: var(--shadow-md);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  .header-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+    max-width: 1600px;
+    margin: 0 auto;
+  }
+  .brand { display: flex; align-items: center; gap: 14px; }
+  .brand-dot {
+    width: 10px; height: 10px; border-radius: 50%;
+    background: var(--mint);
+    box-shadow: 0 0 12px var(--mint);
+  }
+  .brand h1 { font-size: 18px; font-weight: 700; letter-spacing: -0.2px; }
+  .brand .sub { font-size: 12px; opacity: 0.75; margin-top: 2px; }
+  .header-stats { display: flex; gap: 28px; }
+  .stat { text-align: right; }
+  .stat-label { font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; opacity: 0.7; }
+  .stat-value { font-size: 20px; font-weight: 700; margin-top: 2px; }
+  .stat-value .small { font-size: 13px; opacity: 0.7; font-weight: 400; }
+
+  main {
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 24px 32px 48px;
+  }
+
+  .tabs {
+    display: flex;
+    gap: 4px;
+    border-bottom: 1px solid var(--grey-300);
+    margin-bottom: 24px;
+  }
+  .tab {
+    padding: 10px 20px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--grey-700);
+    border-bottom: 2px solid transparent;
+    transition: all 0.15s;
+    font-family: inherit;
+  }
+  .tab:hover { color: var(--teal); }
+  .tab.active { color: var(--teal); border-bottom-color: var(--teal); font-weight: 600; }
+
+  .tab-content { display: none; }
+  .tab-content.active { display: block; }
+
+  .toolbar {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-bottom: 16px;
+    padding: 16px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: var(--shadow-sm);
+  }
+  .toolbar input, .toolbar select {
+    padding: 8px 12px;
+    border: 1px solid var(--grey-300);
+    border-radius: 6px;
+    font-size: 13px;
+    font-family: inherit;
+    background: white;
+    transition: border-color 0.15s;
+  }
+  .toolbar input:focus, .toolbar select:focus {
+    outline: none;
+    border-color: var(--teal);
+    box-shadow: 0 0 0 3px var(--teal-light);
+  }
+  .toolbar input { flex: 1; min-width: 200px; }
+
+  .btn {
+    padding: 8px 16px;
+    border: 1px solid var(--teal);
+    background: white;
+    color: var(--teal);
+    border-radius: 6px;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s;
+  }
+  .btn:hover { background: var(--teal); color: white; }
+  .btn-primary { background: var(--teal); color: white; }
+  .btn-primary:hover { background: var(--teal-dark); }
+  .btn-ghost { border-color: var(--grey-300); color: var(--grey-700); }
+  .btn-ghost:hover { background: var(--grey-100); color: var(--grey-900); border-color: var(--grey-500); }
+
+  table {
+    width: 100%;
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: var(--shadow-sm);
+    border-collapse: collapse;
+  }
+  th {
+    text-align: left;
+    padding: 12px 14px;
+    background: var(--grey-100);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    color: var(--grey-700);
+    font-weight: 600;
+    border-bottom: 1px solid var(--grey-300);
+    cursor: pointer;
+    user-select: none;
+  }
+  th:hover { color: var(--teal); }
+  th.sorted { color: var(--teal); }
+  th.sorted::after { content: " ▾"; font-size: 10px; }
+  th.sorted.asc::after { content: " ▴"; }
+  td {
+    padding: 12px 14px;
+    border-bottom: 1px solid var(--grey-100);
+    font-size: 13px;
+    vertical-align: top;
+  }
+  tr:last-child td { border-bottom: none; }
+  tr:hover td { background: var(--grey-50); }
+
+  .pill {
+    display: inline-block;
+    padding: 3px 10px;
+    border-radius: 12px;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 1.4;
+    white-space: nowrap;
+  }
+  .pill-go { background: #DCF5E8; color: var(--green); }
+  .pill-cond { background: #FEF3C7; color: #92400E; }
+  .pill-no { background: #FEE2E2; color: var(--red); }
+  .pill-cpv { background: var(--teal-light); color: var(--teal-dark); font-family: ui-monospace, monospace; }
+  .pill-source { background: var(--grey-100); color: var(--grey-700); }
+
+  .score-bar {
+    width: 100%;
+    height: 6px;
+    background: var(--grey-100);
+    border-radius: 3px;
+    overflow: hidden;
+    margin-top: 4px;
+  }
+  .score-fill {
+    height: 100%;
+    border-radius: 3px;
+    transition: width 0.3s;
+  }
+  .score-go .score-fill { background: var(--green); }
+  .score-cond .score-fill { background: var(--amber); }
+  .score-no .score-fill { background: var(--red); }
+  .score-num { font-size: 13px; font-weight: 700; color: var(--grey-900); }
+
+  .grid-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+  }
+  .grid-3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 24px;
+  }
+  @media (max-width: 1024px) {
+    .grid-2, .grid-3 { grid-template-columns: 1fr; }
+  }
+
+  .card {
+    background: white;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: var(--shadow-sm);
+    border: 1px solid var(--grey-100);
+  }
+  .card h3 {
+    font-size: 14px;
+    color: var(--teal);
+    margin-bottom: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+  }
+  .card h2 {
+    font-size: 17px;
+    color: var(--grey-900);
+    margin-bottom: 4px;
+    font-weight: 700;
+  }
+  .card .sub { color: var(--grey-500); font-size: 12px; margin-bottom: 16px; }
+  .card ul { list-style: none; padding: 0; }
+  .card li {
+    padding: 8px 0;
+    border-bottom: 1px solid var(--grey-100);
+    font-size: 13px;
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+  }
+  .card li:last-child { border-bottom: none; }
+  .card li .badge {
+    flex-shrink: 0;
+    background: var(--teal-light);
+    color: var(--teal-dark);
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: 600;
+    font-family: ui-monospace, monospace;
+    min-width: 70px;
+    text-align: center;
+  }
+
+  /* Calculator */
+  .calc {
+    background: white;
+    padding: 24px;
+    border-radius: 8px;
+    box-shadow: var(--shadow-sm);
+  }
+  .calc-row {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 14px;
+  }
+  .calc-label {
+    flex: 1;
+    font-size: 13px;
+    color: var(--grey-700);
+  }
+  .calc-label strong { color: var(--grey-900); display: block; margin-bottom: 2px; }
+  .calc-row select {
+    flex: 0 0 280px;
+    padding: 8px 12px;
+    border: 1px solid var(--grey-300);
+    border-radius: 6px;
+    font-size: 13px;
+    font-family: inherit;
+  }
+  .calc-result {
+    margin-top: 24px;
+    padding: 24px;
+    border-radius: 8px;
+    text-align: center;
+    background: var(--grey-50);
+    border: 1px solid var(--grey-100);
+  }
+  .calc-result .big {
+    font-size: 56px;
+    font-weight: 800;
+    line-height: 1;
+    margin: 8px 0;
+  }
+  .calc-result .verdict {
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    margin-bottom: 4px;
+  }
+
+  /* Checklist */
+  .checklist label {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 13px;
+    transition: background 0.1s;
+  }
+  .checklist label:hover { background: var(--grey-50); }
+  .checklist input[type="checkbox"] {
+    margin-top: 2px;
+    width: 16px;
+    height: 16px;
+    accent-color: var(--teal);
+  }
+  .checklist input:checked + span { color: var(--grey-500); text-decoration: line-through; }
+
+  .keyword-tag {
+    display: inline-block;
+    background: var(--teal-light);
+    color: var(--teal-dark);
+    padding: 4px 10px;
+    margin: 3px 4px 3px 0;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: 500;
+  }
+  .keyword-tag.en { background: var(--mint-light); color: #00664D; }
+
+  .row-detail {
+    background: var(--grey-50) !important;
+  }
+  .row-detail td {
+    padding: 16px 24px;
+    border-bottom: 2px solid var(--grey-100);
+  }
+  .detail-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 16px;
+  }
+  .detail-grid div { font-size: 12px; }
+  .detail-grid strong { display: block; color: var(--grey-700); font-size: 11px; text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 4px; }
+
+  .cell-action a { color: var(--teal); text-decoration: none; font-weight: 500; }
+  .cell-action a:hover { text-decoration: underline; }
+
+  .empty-state {
+    padding: 48px 24px;
+    text-align: center;
+    color: var(--grey-500);
+    background: white;
+    border-radius: 8px;
+  }
+
+  details summary {
+    cursor: pointer;
+    padding: 8px 0;
+    font-weight: 500;
+    color: var(--teal);
+  }
+  details[open] summary { margin-bottom: 8px; }
+
+  .help-text {
+    font-size: 12px;
+    color: var(--grey-500);
+    margin-top: 6px;
+  }
+
+  .modal-edit {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 200;
+    align-items: center;
+    justify-content: center;
+  }
+  .modal-edit.active { display: flex; }
+  .modal-content {
+    background: white;
+    border-radius: 12px;
+    padding: 28px;
+    width: 720px;
+    max-width: 92vw;
+    max-height: 92vh;
+    overflow-y: auto;
+  }
+  .modal-content h2 { color: var(--teal); margin-bottom: 18px; }
+  .modal-content label { display: block; font-size: 12px; color: var(--grey-700); font-weight: 600; margin: 12px 0 4px; text-transform: uppercase; letter-spacing: 0.4px; }
+  .modal-content input, .modal-content select, .modal-content textarea {
+    width: 100%;
+    padding: 8px 12px;
+    border: 1px solid var(--grey-300);
+    border-radius: 6px;
+    font-size: 13px;
+    font-family: inherit;
+  }
+  .modal-content textarea { min-height: 80px; resize: vertical; }
+  .modal-actions { display: flex; gap: 12px; justify-content: flex-end; margin-top: 20px; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-row">
+    <div class="brand">
+      <div class="brand-dot"></div>
+      <div>
+        <h1>Radar AO Isograd</h1>
+        <div class="sub">France & Europe — ITS + Services sur-mesure</div>
+      </div>
+    </div>
+    <div class="header-stats">
+      <div class="stat">
+        <div class="stat-label">AO suivis</div>
+        <div class="stat-value" id="stat-total">0</div>
+      </div>
+      <div class="stat">
+        <div class="stat-label">Go ferme (≥75)</div>
+        <div class="stat-value" id="stat-go">0</div>
+      </div>
+      <div class="stat">
+        <div class="stat-label">Pipeline théorique</div>
+        <div class="stat-value" id="stat-pipe">0 <span class="small">k€</span></div>
+      </div>
+      <div class="stat">
+        <div class="stat-label">Dernière sync</div>
+        <div class="stat-value" id="stat-sync" style="font-size:14px; line-height:1.4;">—</div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main>
+
+<div class="tabs">
+  <button class="tab active" data-tab="radar">Radar AO</button>
+  <button class="tab" data-tab="scoring">Scoring & Go/No-Go</button>
+  <button class="tab" data-tab="sources">Sources & mots-clés</button>
+  <button class="tab" data-tab="checklist">Checklist conformité</button>
+</div>
+
+<!-- TAB 1 : RADAR -->
+<div class="tab-content active" id="tab-radar">
+
+  <div class="toolbar">
+    <input type="text" id="search" placeholder="Rechercher acheteur, objet, mot-clé…" />
+    <select id="filter-status">
+      <option value="">Tous statuts</option>
+      <option value="go">Go ferme (≥75)</option>
+      <option value="cond">Go conditionnel (55-74)</option>
+      <option value="no">No-go (<55)</option>
+    </select>
+    <select id="filter-source">
+      <option value="">Toutes sources</option>
+      <option>BOAMP</option>
+      <option>TED</option>
+      <option>PLACE</option>
+      <option>AWS-Achat</option>
+      <option>Maximilien</option>
+      <option>EU Funding Portal</option>
+      <option>CEDEFOP</option>
+      <option>Sourcing</option>
+    </select>
+    <select id="filter-segment">
+      <option value="">Tous segments</option>
+      <option>ESR</option>
+      <option>Formation pro</option>
+      <option>État</option>
+      <option>Collectivités</option>
+      <option>FPH</option>
+      <option>UE</option>
+    </select>
+    <button class="btn btn-primary" onclick="syncFromTED()">Synchroniser TED</button>
+    <button class="btn" onclick="openModal()">+ AO manuel</button>
+    <button class="btn" onclick="exportCSV()">CSV</button>
+    <button class="btn-ghost btn" onclick="resetData()">Réinitialiser</button>
+  </div>
+
+  <table id="ao-table">
+    <thead>
+      <tr>
+        <th data-sort="acheteur">Acheteur</th>
+        <th data-sort="objet">Objet</th>
+        <th data-sort="cpv">CPV</th>
+        <th data-sort="segment">Segment</th>
+        <th data-sort="source">Source</th>
+        <th data-sort="montant">Montant (k€)</th>
+        <th data-sort="deadline">Deadline</th>
+        <th data-sort="score" class="sorted">Score</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody id="ao-tbody"></tbody>
+  </table>
+
+  <div class="empty-state" id="empty-state" style="display:none;">
+    Aucun appel d'offres ne correspond aux filtres. Ajuste les filtres ou importe de nouveaux AO.
+  </div>
+
+</div>
+
+<!-- TAB 2 : SCORING -->
+<div class="tab-content" id="tab-scoring">
+
+  <div class="grid-2">
+    <div>
+      <h2 style="font-size:18px; margin-bottom:8px;">Calculateur de score</h2>
+      <p class="sub" style="color:var(--grey-500); font-size:13px; margin-bottom:16px;">
+        Renseigne chaque critère pour obtenir le score sur 100 et la décision recommandée. Pour ajouter un AO scoré au radar, copie-colle ensuite dans le formulaire d'ajout.
+      </p>
+
+      <div class="calc">
+        <div class="calc-row">
+          <div class="calc-label">
+            <strong>Fit produit</strong>
+            <span class="help-text">Adéquation avec ITS + services Isograd</span>
+          </div>
+          <select id="s-fit">
+            <option value="40">Cœur de cible — pure ITS ou hybride (40)</option>
+            <option value="35">Pure services sur-mesure (35)</option>
+            <option value="25">Périphérique avec brique exploitable (25)</option>
+            <option value="10">Marginal (10)</option>
+            <option value="0">Hors-cible (0)</option>
+          </select>
+        </div>
+
+        <div class="calc-row">
+          <div class="calc-label">
+            <strong>Taille / budget</strong>
+            <span class="help-text">Estimation du montant total</span>
+          </div>
+          <select id="s-size">
+            <option value="15">Plus de 1 M€ (15)</option>
+            <option value="13">215k à 1 M€ (13)</option>
+            <option value="10">90k à 215k€ (10)</option>
+            <option value="5">Moins de 90k€ (5)</option>
+          </select>
+        </div>
+
+        <div class="calc-row">
+          <div class="calc-label">
+            <strong>Faisabilité technique</strong>
+            <span class="help-text">RGAA, SecNumCloud, langues, intégration</span>
+          </div>
+          <select id="s-tech">
+            <option value="15">Stack standard, sans contrainte particulière (15)</option>
+            <option value="12">RGAA AA + RGPD documentés exigés (12)</option>
+            <option value="8">SecNumCloud / souveraineté à clarifier (8)</option>
+            <option value="3">Multiples contraintes lourdes (3)</option>
+          </select>
+        </div>
+
+        <div class="calc-row">
+          <div class="calc-label">
+            <strong>Faisabilité commerciale</strong>
+            <span class="help-text">Sponsor, sourcing, allotissement</span>
+          </div>
+          <select id="s-com">
+            <option value="15">Compte connu, sponsor identifié, sourcing fait (15)</option>
+            <option value="10">Compte connu, pas encore sourcé (10)</option>
+            <option value="5">Compte inconnu mais accessible (5)</option>
+            <option value="0">Compte fermé / sans relais (0)</option>
+          </select>
+        </div>
+
+        <div class="calc-row">
+          <div class="calc-label">
+            <strong>Exigences administratives</strong>
+            <span class="help-text">Qualiopi, ISO, références, capacité financière</span>
+          </div>
+          <select id="s-admin">
+            <option value="10">Toutes exigences couvertes (10)</option>
+            <option value="7">1 exigence à compléter (7)</option>
+            <option value="3">2 exigences à compléter (3)</option>
+            <option value="0">Plusieurs exigences manquantes (0)</option>
+          </select>
+        </div>
+
+        <div class="calc-row">
+          <div class="calc-label">
+            <strong>Délai</strong>
+            <span class="help-text">Jours calendaires avant la deadline</span>
+          </div>
+          <select id="s-delay">
+            <option value="5">Plus de 30 jours (5)</option>
+            <option value="3">20 à 30 jours (3)</option>
+            <option value="1">15 à 20 jours (1)</option>
+            <option value="0">Moins de 15 jours (0)</option>
+          </select>
+        </div>
+
+        <div class="calc-result" id="calc-result">
+          <div class="verdict" id="verdict">Score à calculer</div>
+          <div class="big" id="score-num">—</div>
+          <div id="verdict-help" style="color:var(--grey-700); font-size:13px; margin-top:8px;"></div>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <h2 style="font-size:18px; margin-bottom:8px;">Seuils de décision</h2>
+      <p class="sub" style="color:var(--grey-500); font-size:13px; margin-bottom:16px;">
+        Le scoring est une discipline, pas un calcul scientifique. Il sert à trancher vite.
+      </p>
+
+      <div class="card" style="border-left: 4px solid var(--green);">
+        <h2 style="color:var(--green);">≥ 75 — Go ferme</h2>
+        <div class="sub">Sponsor identifié. Lancement de la réponse immédiat. Capacity planning enclenché.</div>
+        <ul>
+          <li><span class="badge" style="background:#DCF5E8; color:var(--green);">J+0</span><div>Réunion de lancement (30 min) — bid manager + experts.</div></li>
+          <li><span class="badge" style="background:#DCF5E8; color:var(--green);">J+5</span><div>Trame du mémoire technique validée.</div></li>
+          <li><span class="badge" style="background:#DCF5E8; color:var(--green);">J-5</span><div>Revue de conformité Sophie M.</div></li>
+        </ul>
+      </div>
+
+      <div class="card" style="border-left: 4px solid var(--amber); margin-top: 16px;">
+        <h2 style="color:#92400E;">55 — 74 — Go conditionnel</h2>
+        <div class="sub">24h pour vérifier sourcing, sponsor, faisabilité. Décision tranchée par le comité.</div>
+        <ul>
+          <li><span class="badge" style="background:#FEF3C7; color:#92400E;">24h</span><div>Pre-bid commercial : un appel à l'acheteur ou au sponsor.</div></li>
+          <li><span class="badge" style="background:#FEF3C7; color:#92400E;">24h</span><div>Vérification stock administratif (manque-t-il une référence ?).</div></li>
+          <li><span class="badge" style="background:#FEF3C7; color:#92400E;">48h</span><div>Décision finale go/no-go documentée.</div></li>
+        </ul>
+      </div>
+
+      <div class="card" style="border-left: 4px solid var(--red); margin-top: 16px;">
+        <h2 style="color:var(--red);">< 55 — No-go documenté</h2>
+        <div class="sub">On note la raison (1 ligne), on archive, on capitalise pour le radar suivant.</div>
+        <ul>
+          <li><span class="badge" style="background:#FEE2E2; color:var(--red);">5 min</span><div>Fiche no-go : raison principale + signal pour la veille future.</div></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<!-- TAB 3 : SOURCES -->
+<div class="tab-content" id="tab-sources">
+
+  <div class="grid-2">
+    <div class="card">
+      <h3>Sources niveau 1 — quotidien</h3>
+      <ul>
+        <li><span class="badge">N1</span><div><strong>BOAMP</strong> — alertes par CPV + mots-clés.<br><a href="https://www.boamp.fr/" target="_blank" style="color:var(--teal);">boamp.fr</a></div></li>
+        <li><span class="badge">N1</span><div><strong>TED</strong> (UE) — recherches sauvegardées par CPV + pays.<br><a href="https://ted.europa.eu/" target="_blank" style="color:var(--teal);">ted.europa.eu</a></div></li>
+        <li><span class="badge">N1</span><div><strong>PLACE</strong> — profil acheteur de l'État.<br><a href="https://www.marches-publics.gouv.fr/" target="_blank" style="color:var(--teal);">marches-publics.gouv.fr</a></div></li>
+        <li><span class="badge">N1</span><div><strong>Profils acheteurs Tier-1</strong> — Paris 1, Paris 8, emlyon, EFREI, INSEEC, IONIS, UGE, ICN, IAE Aix-Marseille.</div></li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h3>Sources niveau 2 — hebdomadaire</h3>
+      <ul>
+        <li><span class="badge">N2</span><div><strong>AWS-Achat</strong> — très utilisé par les universités.<br><a href="https://www.marches-publics.info/" target="_blank" style="color:var(--teal);">marches-publics.info</a></div></li>
+        <li><span class="badge">N2</span><div><strong>Maximilien</strong> — Île-de-France.<br><a href="https://www.maximilien.fr/" target="_blank" style="color:var(--teal);">maximilien.fr</a></div></li>
+        <li><span class="badge">N2</span><div><strong>Achatpublic.com</strong>, <strong>e-marchespublics.com</strong>, <strong>Klekoon</strong> — agrégateurs.</div></li>
+        <li><span class="badge">N2</span><div><strong>France Marchés</strong> — recherche rétro.<br><a href="https://www.francemarches.com/" target="_blank" style="color:var(--teal);">francemarches.com</a></div></li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h3>Sources niveau 3 — UE et niches</h3>
+      <ul>
+        <li><span class="badge">N3</span><div><strong>EU Funding Portal</strong> — Digital Europe, Erasmus+, FSE+.<br><a href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/" target="_blank" style="color:var(--teal);">funding-tenders portal</a></div></li>
+        <li><span class="badge">N3</span><div><strong>CEDEFOP</strong> — appels d'offres dédiés compétences.<br><a href="https://www.cedefop.europa.eu/en/about-cedefop/public-procurement" target="_blank" style="color:var(--teal);">cedefop.europa.eu</a></div></li>
+        <li><span class="badge">N3</span><div><strong>ETF</strong>, <strong>Eurofound</strong>, <strong>EU-OSHA</strong> — agences thématiques.</div></li>
+        <li><span class="badge">N3</span><div><strong>ANSSI</strong> — qualifications SecNumCloud à anticiper.</div></li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h3>Sources niveau 4 — signaux faibles</h3>
+      <ul>
+        <li><span class="badge">N4</span><div><strong>Avis de pré-information</strong> (PIN) BOAMP et TED — un AO à venir dans 6-12 mois.</div></li>
+        <li><span class="badge">N4</span><div><strong>LinkedIn</strong> — DSI universités, DRH France Travail, achats Régions/CHU.</div></li>
+        <li><span class="badge">N4</span><div><strong>Événements</strong> — FIED, RED, AMUE, Educause Europe, Educatec.</div></li>
+        <li><span class="badge">N4</span><div><strong>Presse</strong> — Newstank Education, Acteurs Publics, Educpros.</div></li>
+      </ul>
+    </div>
+  </div>
+
+  <div style="margin-top:24px;" class="grid-2">
+    <div class="card">
+      <h3>Codes CPV à paramétrer</h3>
+      <ul>
+        <li><span class="badge">80300000</span><div>Services d'enseignement supérieur</div></li>
+        <li><span class="badge">80400000</span><div>Enseignement adultes et autres</div></li>
+        <li><span class="badge">80420000</span><div>E-learning</div></li>
+        <li><span class="badge">80500000</span><div>Services de formation</div></li>
+        <li><span class="badge">80510000</span><div>Formation spécialisée</div></li>
+        <li><span class="badge">80530000</span><div>Formation professionnelle</div></li>
+        <li><span class="badge">80531200</span><div>Formation technique</div></li>
+        <li><span class="badge">79132000</span><div>Services de certification</div></li>
+        <li><span class="badge">72200000</span><div>Programmation et conseil logiciel</div></li>
+        <li><span class="badge">72260000</span><div>Services connexes aux logiciels</div></li>
+        <li><span class="badge">72416000</span><div>Fournisseurs de services applicatifs (ASP / SaaS)</div></li>
+        <li><span class="badge">48190000</span><div>Logiciels éducatifs</div></li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h3>Mots-clés de veille</h3>
+      <p style="font-size:12px; color:var(--grey-700); margin-bottom:8px; font-weight:600;">FRANÇAIS — plateforme et passation</p>
+      <div>
+        <span class="keyword-tag">plateforme d'évaluation</span>
+        <span class="keyword-tag">examens en ligne</span>
+        <span class="keyword-tag">télésurveillance</span>
+        <span class="keyword-tag">proctoring</span>
+        <span class="keyword-tag">surveillance à distance</span>
+        <span class="keyword-tag">test center</span>
+        <span class="keyword-tag">computer-based testing</span>
+        <span class="keyword-tag">dématérialisation des épreuves</span>
+        <span class="keyword-tag">banque de questions</span>
+        <span class="keyword-tag">QCM en ligne</span>
+        <span class="keyword-tag">test adaptatif</span>
+        <span class="keyword-tag">psychométrie</span>
+      </div>
+
+      <p style="font-size:12px; color:var(--grey-700); margin: 14px 0 8px; font-weight:600;">FRANÇAIS — ingénierie et services</p>
+      <div>
+        <span class="keyword-tag">ingénierie d'évaluation</span>
+        <span class="keyword-tag">référentiel de compétences</span>
+        <span class="keyword-tag">certification de compétences</span>
+        <span class="keyword-tag">RNCP</span>
+        <span class="keyword-tag">France Compétences</span>
+        <span class="keyword-tag">VAE</span>
+        <span class="keyword-tag">DigComp</span>
+        <span class="keyword-tag">compétences numériques</span>
+        <span class="keyword-tag">RGAA</span>
+        <span class="keyword-tag">RGPD</span>
+      </div>
+
+      <p style="font-size:12px; color:var(--grey-700); margin: 14px 0 8px; font-weight:600;">ANGLAIS — TED et UE</p>
+      <div>
+        <span class="keyword-tag en">digital assessment platform</span>
+        <span class="keyword-tag en">computer-based testing</span>
+        <span class="keyword-tag en">remote proctoring</span>
+        <span class="keyword-tag en">online examination</span>
+        <span class="keyword-tag en">skills certification</span>
+        <span class="keyword-tag en">competence assessment</span>
+        <span class="keyword-tag en">test delivery</span>
+        <span class="keyword-tag en">item banking</span>
+        <span class="keyword-tag en">psychometrics</span>
+        <span class="keyword-tag en">DigComp</span>
+        <span class="keyword-tag en">accessibility audit</span>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<!-- TAB 4 : CHECKLIST -->
+<div class="tab-content" id="tab-checklist">
+
+  <div class="grid-2">
+    <div class="card">
+      <h3>Pièces administratives</h3>
+      <div class="checklist" id="check-admin"></div>
+    </div>
+
+    <div class="card">
+      <h3>Pièces techniques et stratégiques</h3>
+      <div class="checklist" id="check-tech"></div>
+    </div>
+  </div>
+
+  <div style="margin-top:24px;" class="card">
+    <h3>Glossaire express</h3>
+    <div class="grid-3">
+      <ul>
+        <li><span class="badge">AO</span><div>Appel d'offres</div></li>
+        <li><span class="badge">AOO</span><div>Appel d'Offres Ouvert</div></li>
+        <li><span class="badge">BOAMP</span><div>Bulletin Officiel des Annonces des Marchés Publics</div></li>
+        <li><span class="badge">BPU</span><div>Bordereau des Prix Unitaires</div></li>
+        <li><span class="badge">CCAP</span><div>Cahier Clauses Administratives Particulières</div></li>
+      </ul>
+      <ul>
+        <li><span class="badge">CCTP</span><div>Cahier Clauses Techniques Particulières</div></li>
+        <li><span class="badge">CPV</span><div>Common Procurement Vocabulary</div></li>
+        <li><span class="badge">DCE</span><div>Dossier Consultation Entreprises</div></li>
+        <li><span class="badge">DPGF</span><div>Décomposition Prix Global et Forfaitaire</div></li>
+        <li><span class="badge">DUME</span><div>Document Unique de Marché Européen</div></li>
+      </ul>
+      <ul>
+        <li><span class="badge">MAPA</span><div>Marché à Procédure Adaptée</div></li>
+        <li><span class="badge">PIN</span><div>Avis de pré-information</div></li>
+        <li><span class="badge">RAO</span><div>Rapport d'Analyse des Offres</div></li>
+        <li><span class="badge">RC</span><div>Règlement de Consultation</div></li>
+        <li><span class="badge">UGAP</span><div>Union Groupements d'Achats Publics</div></li>
+      </ul>
+    </div>
+  </div>
+
+</div>
+
+</main>
+
+<!-- MODAL ADD/EDIT AO -->
+<div class="modal-edit" id="modal-ao">
+  <div class="modal-content">
+    <h2 id="modal-title">Nouvel appel d'offres</h2>
+    <input type="hidden" id="m-id" />
+    <div class="grid-2">
+      <div>
+        <label>Acheteur</label>
+        <input type="text" id="m-acheteur" placeholder="Université Paris 8 — IED" />
+      </div>
+      <div>
+        <label>Référence</label>
+        <input type="text" id="m-ref" placeholder="3/BOAMP/2620082" />
+      </div>
+    </div>
+    <label>Objet</label>
+    <input type="text" id="m-objet" placeholder="Plateforme de télésurveillance des examens en ligne" />
+    <div class="grid-3">
+      <div>
+        <label>CPV</label>
+        <input type="text" id="m-cpv" placeholder="80420000" />
+      </div>
+      <div>
+        <label>Segment</label>
+        <select id="m-segment">
+          <option>ESR</option>
+          <option>Formation pro</option>
+          <option>État</option>
+          <option>Collectivités</option>
+          <option>FPH</option>
+          <option>UE</option>
+        </select>
+      </div>
+      <div>
+        <label>Source</label>
+        <select id="m-source">
+          <option>BOAMP</option>
+          <option>TED</option>
+          <option>PLACE</option>
+          <option>AWS-Achat</option>
+          <option>Maximilien</option>
+          <option>EU Funding Portal</option>
+          <option>CEDEFOP</option>
+          <option>Sourcing</option>
+        </select>
+      </div>
+    </div>
+    <div class="grid-3">
+      <div>
+        <label>Montant estimé (k€)</label>
+        <input type="number" id="m-montant" placeholder="150" />
+      </div>
+      <div>
+        <label>Deadline</label>
+        <input type="date" id="m-deadline" />
+      </div>
+      <div>
+        <label>Score (0-100)</label>
+        <input type="number" id="m-score" min="0" max="100" placeholder="79" />
+      </div>
+    </div>
+    <label>URL</label>
+    <input type="url" id="m-url" placeholder="https://..." />
+    <label>Notes / pre-bid</label>
+    <textarea id="m-notes" placeholder="Sponsor, contact, points de vigilance, sourcing fait, etc."></textarea>
+    <div class="modal-actions">
+      <button class="btn btn-ghost" onclick="closeModal()">Annuler</button>
+      <button class="btn btn-primary" onclick="saveAO()">Enregistrer</button>
+    </div>
+  </div>
+</div>
+
+<script>
+// ========== DATA ==========
+const SEED = [
+  {
+    id: 1,
+    acheteur: "Université Paris 8 — IED",
+    ref: "3/BOAMP/2620082",
+    objet: "Plateforme de télésurveillance des examens en ligne et services associés",
+    cpv: "80420000",
+    segment: "ESR",
+    source: "BOAMP",
+    montant: 180,
+    deadline: "2026-04-03",
+    score: 79,
+    url: "https://www.francemarches.com/appel-offre/3boamp2620082-2026-mise-disposition-plateforme",
+    notes: "AO cœur de cible, deadline déjà passée. Suivre attribution + RAO. Cas d'usage référence pour pre-bid auprès de Paris 1, Lyon 2, Bordeaux Montaigne, Paris-Saclay (instituts à distance). À surveiller pour itération suivante (marché renouvelable)."
+  },
+  {
+    id: 2,
+    acheteur: "France Travail — DSI",
+    ref: "À sourcer",
+    objet: "Évaluation de positionnement compétences numériques pour parcours de reconversion (volumétrie nationale)",
+    cpv: "80530000",
+    segment: "Formation pro",
+    source: "Sourcing",
+    montant: 850,
+    deadline: "2026-09-30",
+    score: 68,
+    url: "",
+    notes: "Signal faible — partenariats annoncés Numeum, Diversidays, Social Builder. À approcher en pre-bid via direction de la transformation. Sourcing actif via LinkedIn DRH France Travail et FT Numérique."
+  },
+  {
+    id: 3,
+    acheteur: "Commission européenne — DG EAC",
+    ref: "DIGITAL-2026-SKILLS-09",
+    objet: "European Digital Skills Certificate — feasibility & implementation framework",
+    cpv: "79132000",
+    segment: "UE",
+    source: "EU Funding Portal",
+    montant: 1200,
+    deadline: "2026-06-15",
+    score: 72,
+    url: "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=DIGITAL-2026-SKILLS-09",
+    notes: "À jouer en consortium (institut de recherche + Isograd ingénierie). Référentiel DigComp = avantage compétitif. Cycle long, montant élevé."
+  },
+  {
+    id: 4,
+    acheteur: "CEDEFOP",
+    ref: "CEDEFOP/2026/OP/0004",
+    objet: "Mapping digital skills in IVET curricula — analyse comparative et framework",
+    cpv: "79900000",
+    segment: "UE",
+    source: "CEDEFOP",
+    montant: 450,
+    deadline: "2026-05-27",
+    score: 64,
+    url: "https://www.cedefop.europa.eu/en/about-cedefop/public-procurement",
+    notes: "Marché services d'études, fit fort avec ingénierie d'évaluation Isograd. Concurrence ECVL, Skills Panorama. Préparer un consortium avec un partenaire académique."
+  },
+  {
+    id: 5,
+    acheteur: "Région Occitanie",
+    ref: "À sourcer",
+    objet: "Dispositif PRF 2027 — évaluation et certification des compétences sortie de parcours",
+    cpv: "80530000",
+    segment: "Formation pro",
+    source: "Sourcing",
+    montant: 600,
+    deadline: "2026-12-15",
+    score: 55,
+    url: "https://www.laregion.fr/Appel-a-projets-Apprentissage-en-Occitanie-2026",
+    notes: "Marché à anticiper, le PRF 2027 sera publié fin 2026. Pre-bid à organiser via DGS formation. Allotissement par filière probable, vise un lot pilote."
+  },
+  {
+    id: 6,
+    acheteur: "ANFH (Hôpitaux)",
+    ref: "À sourcer",
+    objet: "Plateforme d'évaluation pour le DPC (Développement Professionnel Continu)",
+    cpv: "79132000",
+    segment: "FPH",
+    source: "Sourcing",
+    montant: 350,
+    deadline: "2026-11-30",
+    score: 58,
+    url: "",
+    notes: "Segment FPH peu attaqué par concurrents Tosa. Demande connaissance fine du secteur soignant. Approche via direction nationale ANFH + 1-2 délégations régionales."
+  }
+];
+
+const ADMIN_CHECK = [
+  "DUME ou DC1/DC2 à jour",
+  "Attestations fiscales et sociales (URSSAF, impôts) < 6 mois",
+  "Attestation RCP / RC exploitation",
+  "Kbis < 3 mois",
+  "Statuts de la société",
+  "Comptes annuels 3 derniers exercices (avec liasse fiscale)",
+  "CA total + CA spécifique au domaine sur 3 ans",
+  "Liste de références similaires (5 min., dont 2 publiques)",
+  "CV équipe projet (CP, ingénieur eval, PMO, support)",
+  "Certificat Qualiopi en cours de validité",
+  "Attestation ISO 27001 (ou plan de mise en conformité)",
+  "Attestation RGAA AA (ou plan de mise en conformité)",
+];
+
+const TECH_CHECK = [
+  "Politique RGPD + PIA type",
+  "Politique RSE et bilan carbone (selon montant)",
+  "Liste des sous-traitants envisagés et part sous-traitée",
+  "Mémoire technique structuré selon rubriques du RC",
+  "BPU / DPGF complets et cohérents avec le mémoire",
+  "Acte d'engagement signé",
+  "CCAP / CCTP visés par un signataire",
+  "Mémoire prix avec décomposition jours-hommes",
+  "Plan de transition / réversibilité documenté",
+  "Plan d'assurance qualité + plan de continuité d'activité",
+  "Note de méthodologie pédagogique et psychométrique",
+  "Réponse aux variantes (le cas échéant)",
+];
+
+// ========== STATE ==========
+let aos = loadAOs();
+let lastSync = null;
+let sortKey = "score";
+let sortDir = "desc";
+
+function loadAOs() {
+  try {
+    const stored = localStorage.getItem("isograd_radar_ao");
+    if (stored) return JSON.parse(stored);
+  } catch (e) {}
+  return [...SEED];
+}
+function saveAOs() {
+  try { localStorage.setItem("isograd_radar_ao", JSON.stringify(aos)); } catch (e) {}
+}
+
+// === Fetch des données TED depuis le JSON committé par GitHub Actions ===
+// Le worker GitHub Actions écrit data/latest.json à côté du repo. En local
+// (dashboard servi depuis le sous-dossier dashboard/), on remonte d'un cran.
+// En prod (Vercel), on configure un rewrite pour exposer ../data/ comme /data/.
+const DATA_URL_CANDIDATES = [
+  "/data/latest.json",          // Vercel avec rewrite
+  "../data/latest.json",        // Dashboard ouvert localement à côté du repo
+  "./data/latest.json"          // Si le dashboard est colocalisé avec data/
+];
+
+async function fetchTED() {
+  for (const url of DATA_URL_CANDIDATES) {
+    try {
+      const r = await fetch(url, { cache: "no-store" });
+      if (r.ok) {
+        const data = await r.json();
+        return { data, url };
+      }
+    } catch (e) { /* essai suivant */ }
+  }
+  return null;
+}
+
+function mergeTED(remote) {
+  // Conserve les notes manuelles + ajustements de score sur les AO existants.
+  // Ajoute les nouveaux AO TED, en marquant ceux jamais vus avec _new = true.
+  const seen = new Set();
+  try {
+    const s = localStorage.getItem("isograd_radar_seen");
+    if (s) JSON.parse(s).forEach(id => seen.add(id));
+  } catch (e) {}
+
+  const byKey = new Map();
+  // 1. Garde les AO manuels (pas auto)
+  aos.filter(a => !a.auto).forEach(a => byKey.set("man-" + a.id, a));
+  // 2. Pour les AO TED précédents, garde les notes/score override s'il y en a
+  const existingAuto = new Map();
+  aos.filter(a => a.auto).forEach(a => existingAuto.set(a.ref, a));
+
+  remote.notices.forEach(n => {
+    const prev = existingAuto.get(n.ref);
+    const merged = {
+      ...n,
+      id: n.ref || ("ted-" + Math.random().toString(36).slice(2, 9)),
+      auto: true,
+      notes: prev?.notes || "",
+      score_manual: prev?.score_manual ?? null,
+      _new: !seen.has(n.ref)
+    };
+    // Si Charles a override le score, on l'utilise
+    if (merged.score_manual != null) merged.score = merged.score_manual;
+    byKey.set("ted-" + n.ref, merged);
+  });
+
+  aos = Array.from(byKey.values());
+  saveAOs();
+
+  // Mémorise les ref vues
+  const allRefs = remote.notices.map(n => n.ref).filter(Boolean);
+  try {
+    localStorage.setItem("isograd_radar_seen", JSON.stringify(allRefs));
+  } catch (e) {}
+
+  lastSync = remote.generated_at;
+  updateSyncBadge();
+}
+
+function updateSyncBadge() {
+  const el = document.getElementById("stat-sync");
+  if (!lastSync) { el.textContent = "—"; return; }
+  const d = new Date(lastSync);
+  const now = new Date();
+  const diffMin = Math.round((now - d) / 60000);
+  let label;
+  if (diffMin < 60) label = `Il y a ${diffMin} min`;
+  else if (diffMin < 1440) label = `Il y a ${Math.round(diffMin / 60)} h`;
+  else label = d.toLocaleDateString("fr-FR", { day: "2-digit", month: "short" });
+  el.innerHTML = label + '<div style="font-size:10px; opacity:0.7; font-weight:400;">' + d.toLocaleString("fr-FR") + '</div>';
+}
+
+async function syncFromTED() {
+  const btn = event?.target;
+  if (btn) btn.disabled = true, btn.textContent = "Sync en cours…";
+  const result = await fetchTED();
+  if (btn) btn.disabled = false, btn.textContent = "Synchroniser TED";
+  if (!result) {
+    alert("Aucun fichier data/latest.json trouvé.\n\nVérifie que le workflow GitHub Actions a bien tourné, ou place le dashboard à côté du dossier data/.");
+    return;
+  }
+  mergeTED(result.data);
+  render();
+  alert(`Sync OK depuis ${result.url}\n\n${result.data.total_matched} AO matchés, ${result.data.total_go} en Go ferme.`);
+}
+
+// Auto-fetch silencieux au load (ne bloque pas si data absente)
+async function autoSyncOnLoad() {
+  const result = await fetchTED();
+  if (result) {
+    mergeTED(result.data);
+    render();
+  }
+}
+
+function loadCheck(key, total) {
+  try {
+    const stored = localStorage.getItem("isograd_radar_check_" + key);
+    if (stored) return JSON.parse(stored);
+  } catch (e) {}
+  return new Array(total).fill(false);
+}
+function saveCheck(key, arr) {
+  try { localStorage.setItem("isograd_radar_check_" + key, JSON.stringify(arr)); } catch (e) {}
+}
+
+// ========== TABS ==========
+document.querySelectorAll(".tab").forEach(t => {
+  t.addEventListener("click", () => {
+    document.querySelectorAll(".tab").forEach(x => x.classList.remove("active"));
+    document.querySelectorAll(".tab-content").forEach(x => x.classList.remove("active"));
+    t.classList.add("active");
+    document.getElementById("tab-" + t.dataset.tab).classList.add("active");
+  });
+});
+
+// ========== TABLE ==========
+function statusOf(score) {
+  if (score >= 75) return { cls: "go", label: "Go ferme" };
+  if (score >= 55) return { cls: "cond", label: "Conditionnel" };
+  return { cls: "no", label: "No-go" };
+}
+
+function fmtDate(d) {
+  if (!d) return "—";
+  const dt = new Date(d);
+  if (isNaN(dt)) return d;
+  const now = new Date();
+  const days = Math.round((dt - now) / 86400000);
+  const fmt = dt.toLocaleDateString("fr-FR", { day: "2-digit", month: "short", year: "numeric" });
+  if (days < 0) return fmt + ' <span style="color:var(--grey-500); font-size:11px;">(passé)</span>';
+  if (days <= 7) return fmt + ' <span style="color:var(--red); font-size:11px;">(J-' + days + ')</span>';
+  if (days <= 30) return fmt + ' <span style="color:var(--amber); font-size:11px;">(J-' + days + ')</span>';
+  return fmt;
+}
+
+function render() {
+  const search = document.getElementById("search").value.toLowerCase();
+  const fStatus = document.getElementById("filter-status").value;
+  const fSource = document.getElementById("filter-source").value;
+  const fSegment = document.getElementById("filter-segment").value;
+
+  let filtered = aos.filter(a => {
+    if (fSource && a.source !== fSource) return false;
+    if (fSegment && a.segment !== fSegment) return false;
+    if (fStatus) {
+      const s = statusOf(a.score).cls;
+      if (s !== fStatus) return false;
+    }
+    if (search) {
+      const blob = (a.acheteur + " " + a.objet + " " + a.ref + " " + a.notes + " " + a.cpv).toLowerCase();
+      if (!blob.includes(search)) return false;
+    }
+    return true;
+  });
+
+  filtered.sort((a, b) => {
+    let va = a[sortKey], vb = b[sortKey];
+    if (sortKey === "deadline") { va = new Date(va).getTime() || 0; vb = new Date(vb).getTime() || 0; }
+    if (typeof va === "string") va = va.toLowerCase();
+    if (typeof vb === "string") vb = vb.toLowerCase();
+    if (va < vb) return sortDir === "asc" ? -1 : 1;
+    if (va > vb) return sortDir === "asc" ? 1 : -1;
+    return 0;
+  });
+
+  const tbody = document.getElementById("ao-tbody");
+  tbody.innerHTML = filtered.map(a => {
+    const st = statusOf(a.score);
+    return `
+      <tr data-id="${a.id}" class="ao-row">
+        <td>
+          <strong>${escape(a.acheteur)}</strong>
+          ${a._new ? '<span class="pill" style="background:var(--mint); color:white; margin-left:6px; font-size:9px; padding:2px 6px;">NOUVEAU</span>' : ''}
+          <div style="color:var(--grey-500); font-size:11px;">${escape(a.ref)}</div>
+        </td>
+        <td>${escape(a.objet)}</td>
+        <td><span class="pill pill-cpv">${escape(a.cpv)}</span></td>
+        <td>${escape(a.segment)}</td>
+        <td><span class="pill pill-source">${escape(a.source)}</span></td>
+        <td style="text-align:right; font-variant-numeric: tabular-nums;">${a.montant ? a.montant.toLocaleString("fr-FR") : "—"}</td>
+        <td>${fmtDate(a.deadline)}</td>
+        <td>
+          <span class="pill pill-${st.cls}">${st.label}</span>
+          <div class="score-num">${a.score}/100</div>
+          <div class="score-bar score-${st.cls}"><div class="score-fill" style="width:${a.score}%;"></div></div>
+        </td>
+        <td class="cell-action">
+          <a href="#" onclick="toggleDetail(${a.id}); return false;">Détail</a> ·
+          <a href="#" onclick="editAO(${a.id}); return false;">Éditer</a> ·
+          <a href="#" onclick="deleteAO(${a.id}); return false;" style="color:var(--red);">Supp.</a>
+        </td>
+      </tr>
+    `;
+  }).join("");
+
+  document.getElementById("empty-state").style.display = filtered.length === 0 ? "block" : "none";
+  document.getElementById("ao-table").style.display = filtered.length === 0 ? "none" : "table";
+
+  // stats
+  document.getElementById("stat-total").textContent = aos.length;
+  document.getElementById("stat-go").textContent = aos.filter(a => a.score >= 75).length;
+  const pipe = aos.reduce((s, a) => s + (a.score >= 55 ? (a.montant || 0) : 0), 0);
+  document.getElementById("stat-pipe").innerHTML = pipe.toLocaleString("fr-FR") + ' <span class="small">k€</span>';
+
+  // sort indicator
+  document.querySelectorAll("th").forEach(th => {
+    th.classList.remove("sorted", "asc");
+    if (th.dataset.sort === sortKey) {
+      th.classList.add("sorted");
+      if (sortDir === "asc") th.classList.add("asc");
+    }
+  });
+}
+
+function escape(s) {
+  if (s === undefined || s === null) return "";
+  return String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
+}
+
+let openedDetail = null;
+function toggleDetail(id) {
+  const existing = document.querySelector(".row-detail");
+  if (existing) existing.remove();
+  if (openedDetail === id) { openedDetail = null; return; }
+  openedDetail = id;
+  const ao = aos.find(a => a.id === id);
+  const row = document.querySelector('tr[data-id="' + id + '"]');
+  const detail = document.createElement("tr");
+  detail.className = "row-detail";
+  detail.innerHTML = `
+    <td colspan="9">
+      <div class="detail-grid">
+        <div><strong>Acheteur</strong>${escape(ao.acheteur)}</div>
+        <div><strong>Référence</strong>${escape(ao.ref)}</div>
+        <div><strong>CPV</strong>${escape(ao.cpv)}</div>
+        <div><strong>Segment</strong>${escape(ao.segment)}</div>
+        <div><strong>Source</strong>${escape(ao.source)}</div>
+        <div><strong>Montant</strong>${ao.montant ? ao.montant + " k€" : "—"}</div>
+        <div><strong>Deadline</strong>${fmtDate(ao.deadline)}</div>
+        <div><strong>Score</strong>${ao.score}/100 — ${statusOf(ao.score).label}</div>
+        ${ao.url ? '<div style="grid-column: 1 / -1;"><strong>URL</strong><a href="' + escape(ao.url) + '" target="_blank" style="color:var(--teal);">' + escape(ao.url) + '</a></div>' : ''}
+        <div style="grid-column: 1 / -1;"><strong>Notes</strong>${escape(ao.notes).replace(/\n/g, "<br>")}</div>
+      </div>
+    </td>
+  `;
+  row.after(detail);
+}
+
+document.getElementById("ao-table").addEventListener("click", e => {
+  const th = e.target.closest("th[data-sort]");
+  if (!th) return;
+  const k = th.dataset.sort;
+  if (sortKey === k) sortDir = sortDir === "asc" ? "desc" : "asc";
+  else { sortKey = k; sortDir = "desc"; }
+  render();
+});
+
+["search", "filter-status", "filter-source", "filter-segment"].forEach(id => {
+  document.getElementById(id).addEventListener("input", render);
+});
+
+// ========== MODAL ==========
+function openModal(id) {
+  document.getElementById("modal-ao").classList.add("active");
+  if (id) {
+    const ao = aos.find(a => a.id === id);
+    document.getElementById("modal-title").textContent = "Éditer un appel d'offres";
+    document.getElementById("m-id").value = ao.id;
+    document.getElementById("m-acheteur").value = ao.acheteur;
+    document.getElementById("m-ref").value = ao.ref;
+    document.getElementById("m-objet").value = ao.objet;
+    document.getElementById("m-cpv").value = ao.cpv;
+    document.getElementById("m-segment").value = ao.segment;
+    document.getElementById("m-source").value = ao.source;
+    document.getElementById("m-montant").value = ao.montant || "";
+    document.getElementById("m-deadline").value = ao.deadline || "";
+    document.getElementById("m-score").value = ao.score;
+    document.getElementById("m-url").value = ao.url || "";
+    document.getElementById("m-notes").value = ao.notes || "";
+  } else {
+    document.getElementById("modal-title").textContent = "Nouvel appel d'offres";
+    document.getElementById("m-id").value = "";
+    ["m-acheteur","m-ref","m-objet","m-cpv","m-montant","m-deadline","m-score","m-url","m-notes"].forEach(k => document.getElementById(k).value = "");
+  }
+}
+function closeModal() {
+  document.getElementById("modal-ao").classList.remove("active");
+}
+function editAO(id) { openModal(id); }
+function saveAO() {
+  const id = parseInt(document.getElementById("m-id").value) || 0;
+  const data = {
+    acheteur: document.getElementById("m-acheteur").value,
+    ref: document.getElementById("m-ref").value,
+    objet: document.getElementById("m-objet").value,
+    cpv: document.getElementById("m-cpv").value,
+    segment: document.getElementById("m-segment").value,
+    source: document.getElementById("m-source").value,
+    montant: parseInt(document.getElementById("m-montant").value) || 0,
+    deadline: document.getElementById("m-deadline").value,
+    score: parseInt(document.getElementById("m-score").value) || 0,
+    url: document.getElementById("m-url").value,
+    notes: document.getElementById("m-notes").value,
+  };
+  if (id) {
+    const i = aos.findIndex(a => a.id === id);
+    aos[i] = { ...aos[i], ...data };
+  } else {
+    const newId = Math.max(0, ...aos.map(a => a.id)) + 1;
+    aos.push({ id: newId, ...data });
+  }
+  saveAOs();
+  closeModal();
+  render();
+}
+function deleteAO(id) {
+  if (!confirm("Supprimer cet AO du radar ?")) return;
+  aos = aos.filter(a => a.id !== id);
+  saveAOs();
+  render();
+}
+function resetData() {
+  if (!confirm("Réinitialiser le radar avec les AO de démarrage ? (les saisies actuelles seront perdues)")) return;
+  aos = [...SEED];
+  saveAOs();
+  render();
+}
+function exportCSV() {
+  const cols = ["id","acheteur","ref","objet","cpv","segment","source","montant","deadline","score","url","notes"];
+  const rows = [cols.join(";")];
+  aos.forEach(a => {
+    rows.push(cols.map(c => {
+      const v = String(a[c] === undefined ? "" : a[c]).replace(/"/g, '""').replace(/\n/g, " ");
+      return v.includes(";") || v.includes('"') ? '"' + v + '"' : v;
+    }).join(";"));
+  });
+  const blob = new Blob(["﻿" + rows.join("\n")], { type: "text/csv;charset=utf-8" });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = "radar_ao_isograd_" + new Date().toISOString().slice(0, 10) + ".csv";
+  a.click();
+}
+
+// ========== CALC ==========
+const CALC_IDS = ["s-fit","s-size","s-tech","s-com","s-admin","s-delay"];
+function computeScore() {
+  let total = 0;
+  CALC_IDS.forEach(id => total += parseInt(document.getElementById(id).value) || 0);
+  const result = document.getElementById("calc-result");
+  const verdict = document.getElementById("verdict");
+  const num = document.getElementById("score-num");
+  const help = document.getElementById("verdict-help");
+  num.textContent = total;
+  if (total >= 75) {
+    result.style.borderLeft = "4px solid var(--green)";
+    verdict.textContent = "Go ferme";
+    verdict.style.color = "var(--green)";
+    num.style.color = "var(--green)";
+    help.textContent = "Lance la réponse. Sponsor identifié, capacity planning enclenché.";
+  } else if (total >= 55) {
+    result.style.borderLeft = "4px solid var(--amber)";
+    verdict.textContent = "Conditionnel — 24h pour trancher";
+    verdict.style.color = "#92400E";
+    num.style.color = "#92400E";
+    help.textContent = "Pre-bid commercial sous 24h, vérification stock administratif, décision documentée.";
+  } else {
+    result.style.borderLeft = "4px solid var(--red)";
+    verdict.textContent = "No-go documenté";
+    verdict.style.color = "var(--red)";
+    num.style.color = "var(--red)";
+    help.textContent = "Note la raison principale en 1 ligne, archive, capitalise pour le radar suivant.";
+  }
+}
+CALC_IDS.forEach(id => document.getElementById(id).addEventListener("change", computeScore));
+
+// ========== CHECKLIST ==========
+function renderChecklist(containerId, items, key) {
+  const state = loadCheck(key, items.length);
+  const c = document.getElementById(containerId);
+  c.innerHTML = items.map((t, i) => `
+    <label>
+      <input type="checkbox" data-i="${i}" ${state[i] ? "checked" : ""} />
+      <span>${escape(t)}</span>
+    </label>
+  `).join("");
+  c.querySelectorAll("input").forEach(cb => {
+    cb.addEventListener("change", () => {
+      state[parseInt(cb.dataset.i)] = cb.checked;
+      saveCheck(key, state);
+    });
+  });
+}
+
+renderChecklist("check-admin", ADMIN_CHECK, "admin");
+renderChecklist("check-tech", TECH_CHECK, "tech");
+
+// ========== INIT ==========
+render();
+computeScore();
+autoSyncOnLoad();
+</script>
+
+</body>
+</html>

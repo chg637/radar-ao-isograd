@@ -1,0 +1,190 @@
+{
+  "generated_at": "2026-04-30T06:14:02.215Z",
+  "source": "TED",
+  "window_days": 7,
+  "total_fetched": 89,
+  "total_matched": 6,
+  "total_go": 0,
+  "notices": [
+    {
+      "id": "297074-2026",
+      "ref": "297074-2026",
+      "acheteur": "UNIVERSITE DE MONTPELLIER / Ecole Nationale Supérieure de Chimie de Montpellier",
+      "objet": "France – Services de certification – Fourniture, correction et délivrance de tests de compétences en langue anglaise de type TOEIC",
+      "description": "Les prestations attendues comprennent : - La fourniture des tests sous format papier et/ou électronique (en ligne) ; - La livraison des tests ; - La surveillance à distance des tests ; - La formation des personnels de l'Université à la surveillance des tests en présentiel ; - La correction des tests ainsi que la communication des résultats ; - La délivrance des attestations de score et leur duplicata. À titre indicatif et au regard du périmètre énoncé précédemment, le nombre estimatif d’étudiants devant passer une certification correspond à environ 1 100 candidats par an.",
+      "cpv": "79132000",
+      "pays": "FRA",
+      "deadline": "",
+      "montant": 330,
+      "publication": "2026-04-30",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/297074-2026",
+      "segment": "ESR",
+      "keyword_hits": [
+        "surveillance à distance"
+      ],
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "285905-2026",
+      "ref": "285905-2026",
+      "acheteur": "EPSM Lille Métropole",
+      "objet": "France – Services de formation de personnel – Prestation de formation à destination du personnel du Groupement Hospitalier Territorial de Psychiatrie du Nord Pas de Calais",
+      "description": "Réhabilitation psychosociale / Prise en charge de la douleur / Familles et aidants ; Partenaires de soins / EDUCATION THERAPEUTIQUE DU PATIENT (E.T.P) / Prendre en charge et prévenir le suicide chez l'adolescent / déceler un psycho-trauma et prise en charge / Informer les patients sur les dommages liés aux soins / Périnatalité, relation mère enfant et problématique de l'attachement / Génogramme / bientraitance en psychiatrie / Prévention des risques psychosociaux et épuisement professionnel / Sensibilisation à l'approche systémique en thérapies familiales / Evaluation des pratiques professionnelles et prise en charge des pathologies / Formations bureautiques / ANIMER DES ACTIVITÉS PHYSIQUES ET SPORTIVES THÉRAPEUTIQUES / Approche psychomotrice des troubles et du spectre autistique et des troubles envahissants du développement / Comment gérer les patients difficiles aux personnalités complexes / Les états limites - Personnalité Borderline / Ethique et décision dans le soin / ETHNOPSYCHIATRIE : SENSIBILISATION POUR LES PSYCHOLOGUES / Hypnose thérapeutique module 1 / Optimiser la prise en charge des patients présentant une psychose émergente / Précarité et rupture des parcours dans le soin / Repérage et prise en charge clinique du burn out / Projet thérapeutique personnalisé en psychiatrie / PSYCHIATRIE POUR NON SOIGNANTS / THERAPIE COMPORTEMENTALE DIALECTIQUE / TRAVAILLER AVEC UN INTERPRETE - TRAVAILLER EN TANT QU'INTERPRETE / TRAVAILLER EN EQUIPE MOBILE DE PSYCHIATRIE / Prise en charge des T.N.D en CMP / Développement psycho affectif de l'enfant et de l'adolescent / FORMATION ET CERTIFICATION A LA COTATION ADI-R / FORMATION ET CERTIFICATION A LA COTATION ADOS-2 / Le trouble de déficit de l'attention avec ou sans hyperactivité (TDA/H) / Les bases de la thérapie narrative / Les troubles du neurodéveloppment (TND) / PASSATION ET INTERPRETATION DES TESTS RORSCHACH / Profil psycho-éducatif PEP 3 / DEVELOPPEMENT DES CONNAISSANCES PROFESSIONNELLES EN PSYCHIATRIE / habilités sociales / HARCELEMENT SCOLAIRE, LES REFUS SCOLAIRES ANXIEUX / Les soins à médiation en santé mentale / Les thérapies brèves et outils / REMEDIATION COGNITIVE : INITIATION / Analyses de pratiques professionnelles / Programme d'entraînement aux habiletés parentales (PEHP) / Thérapie brève orientée solutions / Réactualiser ses connaissances en psychiatrie / prise en charge du psychotraumatisme en psychomotricité / PRISE EN CHARGE DES TROUBLES DU COMPORTEMENT ALIMENTAIRE EN PSYCHOMOTRICITE / Makaton / Troubles des conduites alimentaires chez l'enfant et l'adolescent / Autisme, troubles sensoriels et troubles du comportement",
+      "cpv": "79632000",
+      "pays": "FRA",
+      "deadline": "",
+      "montant": 1215,
+      "publication": "2026-04-27",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/285905-2026",
+      "segment": "Collectivités",
+      "keyword_hits": [
+        "passation"
+      ],
+      "score": 67,
+      "score_detail": {
+        "fit": 25,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "277139-2026",
+      "ref": "277139-2026",
+      "acheteur": "VILLE de PARIS - DFA - SDA",
+      "objet": "France – Services de formation professionnelle – Accord-cadre à bons de commande pour des prestations de formation et d’accompagnement au diplôme du CAP Accompagnant éducatif petite enfance par la Validation des acquis de l’expérience",
+      "description": "Accord-cadre à bons de commande pour des prestations de formation et d’accompagnement au diplôme du CAP Accompagnant éducatif petite enfance par la Validation des acquis de l’expérience",
+      "cpv": "80530000",
+      "pays": "FRA",
+      "deadline": "2026-05-26",
+      "montant": 0,
+      "publication": "2026-04-23",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/277139-2026",
+      "segment": "Collectivités",
+      "keyword_hits": [
+        "validation des acquis"
+      ],
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "298703-2026",
+      "ref": "298703-2026",
+      "acheteur": "CMA de Moselle",
+      "objet": "France – Services de formation – Prestations de formation pour la Chambre de Métiers et de l'Artisanat de la Moselle",
+      "description": "Maîtriser les bases de Canva afin de créer des visuels attractifs et professionnels pour ses supports de communication. / S'initier à l'utilisation de l'IA dans un contexte professionnel / Créer facilement un site internet, référencer son site web / Créer et administrer son site e-commerce, référencer son site, mettre en valeurs ses produits / Maîtriser les techniques de référencement pour augmenter la visibilité d'un site Internet / Définir sa stratégie digitale - Obtention de la certification RS7298 / Valoriser des réseaux sociaux avec des images percutantes / Découvrir les fonctionnalités essentielles d'Excel / Maitriser la gestion administrative, commerciale et financière de la micro entreprise et son évolution / Acquérir les connaissances de base en gestion commerciale et financière spécifiques à la micro entreprise / Créer, envoyer et gérer des factures électroniques de manière efficace / Identifier les risques alimentaires pour le consommateur - Etablir un plan de maîtrise sanitaire / Maitriser les obligations particulières des débits de boisson et toutes les informations liées aux normes législatives, réglementaires et jurisprudentielles / Intervenir efficacement face à une situation d'accident du travail - Obtenir le certificat de SST reconnu par l'INRS / Maintenir les compétences du SST à jour / Réaliser efficacement une technique de beauté des ongles / Conduire un protocole de modelage / Maîtriser les règles de création d'entreprise - Obtention de la certification RS n°6996 / Consolider son projet de micro-entreprise - Obtention de la certification RS6994 / Assister à la gestion des ressoures humaines et au management des collaborateurs d'une entreprise artisanale TPE/PME Obtention de la certification ADEA -TPE-PME RNCP 38289- niveau 4-Titre professionnel / Assurer la comptabilité générale d'une entreprise artisanale TPE/PME Obtention de la certification ADEA -TPE-PME RNCP 38289- niveau 4-Titre professionnel / Assurer la rentabilité et la réalisation des budgets de sa TPE/PME Obtention de la certification ADEA -TPE-PME RNCP 38289- niveau 4-Titre professionnel / Assurer l'organisation administrative avec les outils bureautique/numérique Obtention de la certification ADEA -TPE-PME RNCP 38289- niveau 4-Titre professionnel / Définir sa stratégie commerciale et son marketing digital Obtention de la certification ADEA -TPE-PME RNCP 38289- niveau 4-Titre professionnel / Permettre aux artisans de comprendre les fondamentaux de la?RSE et d'en mesurer l'intérêt pour leur activité / Acquérir les connaissances de base pour gérer les principales missions RH d'une TPE/PME / Acquérir une méthodologie complète pour recruter efficacement / Comprendre les bases du droit du travail applicables aux TPE / Comprendre les enjeux de la diversité en entreprise / Acquérir les connaissances et outils nécessaires pour intégrer concrètement l'égalité femmes-hommes et la mixité dans la politique RH de l'entreprise / Comprendre les enjeux du handicap dans les parcours professionnels / Identifier les situations d'illettrisme et d'illectronisme, comprendre leurs impacts sur l'emploi et la vie professionnelle / Renforcer les compétences clés de base pour favoriser l'autonomie, la communication et l'efficacité dans un cadre professionnel / Découvrir les principes de base de la tarification dans les métiers d'art / Initier une réflexion sur son univers artistique et acquérir des outils pour construire une identité cohérente entre discours et image / Découvrir le fonctionnement des réseaux sociaux adaptés aux métiers d'art / Initier une démarche personnelle de créativité pour stimuler son imagination et entretenir son inspiration",
+      "cpv": "80500000",
+      "pays": "FRA",
+      "deadline": "",
+      "montant": 742,
+      "publication": "2026-04-30",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/298703-2026",
+      "segment": "Consulaire",
+      "keyword_hits": [
+        "RNCP"
+      ],
+      "score": 65,
+      "score_detail": {
+        "fit": 25,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "290912-2026",
+      "ref": "290912-2026",
+      "acheteur": "CCI France",
+      "objet": "France – Services relatifs aux programmes de formation – Prestations de rédaction partielle d’un dossier de création ou de renouvellement de certification pour le réseau de formation de CCI France",
+      "description": "Lot 1 : Rédaction de dossiers de certification (Répertoire National de Certifications Professionnelles (RNCP)/Répertoire spécifique RS)) – certifications métiers et compétences transversales, / Lot 2 : Assistance à la structuration et au contrôle de dossiers de certification en langues (CLOE)",
+      "cpv": "80521000",
+      "pays": "FRA",
+      "deadline": "2026-05-29",
+      "montant": 0,
+      "publication": "2026-04-28",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/290912-2026",
+      "segment": "Consulaire",
+      "keyword_hits": [
+        "RNCP"
+      ],
+      "score": 60,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "294725-2026",
+      "ref": "294725-2026",
+      "acheteur": "Conseil Départemental de la Mayenne",
+      "objet": "France – Services de fourniture de logiciels – Maintenance des outils d'infrastructure pour le système de stockage centralisé NetApp et prestations associées",
+      "description": "La présente consultation concerne la maintenance des outils d'infrastructure pour le système de stockage centralisé NetApp et prestations associées. La procédure de passation utilisée est l'appel d'offres ouvert. Elle est soumise aux dispositions des articles L. 2124-2, R. 2124-2 1° et R. 2161-2 à R. 2161-5 du Code de la commande publique. L'accord-cadre avec minimum et maximum est passé en application des articles L2125-1 1°, R. 2162-1 à R. 2162-6, R. 2162-13 et R. 2162-14 du Code de la commande publique, pour une durée de 4 ans à compter de la date de notification du contrat. Il donnera lieu à l'émission de bons de commande. A titre indicatif, la date prévisionnelle de notification est le 28 juillet 2026. Les montants minimum et maximum H.T. pour la durée de l'accord-cadre sont fixés comme suit : 250 000 euro(s) / 1 000 000 euro(s)",
+      "cpv": "72268000",
+      "pays": "FRA",
+      "deadline": "2026-06-01",
+      "montant": 0,
+      "publication": "2026-04-29",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/294725-2026",
+      "segment": "Collectivités",
+      "keyword_hits": [
+        "passation"
+      ],
+      "score": 47,
+      "score_detail": {
+        "fit": 10,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true
+    }
+  ]
+}

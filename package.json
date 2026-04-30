@@ -1,0 +1,16 @@
+{
+  "name": "radar-ao-isograd",
+  "version": "1.0.0",
+  "description": "Radar appels d'offres France & UE pour Isograd ITS — Sprint 1 (auto-ingestion TED)",
+  "main": "sync_ted.js",
+  "scripts": {
+    "sync": "node sync_ted.js",
+    "sync:ted": "node sync_ted.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "private": true,
+  "license": "UNLICENSED",
+  "author": "Charles GOSSET / Isograd"
+}

@@ -1,4 +1,4 @@
-name: Sync Radar AO (TED)
+name: Sync Radar AO (TED + BOAMP + Profils)
 
 # Quand le workflow tourne :
 on:
@@ -11,12 +11,17 @@ on:
     branches: [main]
     paths:
       - 'sync_ted.js'
+      - 'sync_boamp.js'
+      - 'sync_profils.js'
+      - 'merge_sources.js'
       - 'config/filters.json'
+      - 'config/boamp.json'
+      - 'config/profils_tier1.json'
       - '.github/workflows/sync-ao.yml'
 
 jobs:
   sync:
-    name: Pull TED + auto-score
+    name: Pull TED + BOAMP + Profils, merge, auto-score
     runs-on: ubuntu-latest
     permissions:
       contents: write   # nécessaire pour committer les nouveaux JSON
@@ -30,16 +35,42 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install deps (rien pour le moment, fetch est natif Node 18+)
+      - name: Install deps (rien — fetch est natif Node 18+)
         run: npm install --omit=dev || echo "Pas de deps à installer"
 
+      # === Source 1 : TED (Sprint 1) ===
       - name: Run sync_ted.js
         run: node sync_ted.js
         env:
           TZ: Europe/Paris
+        continue-on-error: true   # si TED tombe, on garde BOAMP et Profils
+
+      # === Source 2 : BOAMP (Sprint 2) ===
+      - name: Run sync_boamp.js
+        run: node sync_boamp.js
+        env:
+          TZ: Europe/Paris
+        continue-on-error: true
+
+      # === Source 3 : Profils Tier-1 via Apify (Sprint 2) ===
+      - name: Run sync_profils.js
+        run: node sync_profils.js
+        env:
+          TZ: Europe/Paris
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+        continue-on-error: true
+
+      # === Merge des 3 sources ===
+      - name: Run merge_sources.js
+        run: node merge_sources.js
+        env:
+          TZ: Europe/Paris
 
       - name: Show data dir
-        run: ls -la data/ && echo "--- latest.json ---" && head -50 data/latest.json
+        run: |
+          ls -la data/
+          echo "--- latest.json (head) ---"
+          head -60 data/latest.json
 
       - name: Copie latest.json dans dashboard/data pour Vercel
         run: |
@@ -50,15 +81,15 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "Radar AO Bot"
-          git add data/
+          git add data/ dashboard/data/
           if git diff --staged --quiet; then
             echo "Pas de changement à committer."
           else
-            git commit -m "data: sync TED $(date -u +%Y-%m-%dT%H:%MZ)"
+            git commit -m "data: sync TED+BOAMP+Profils $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
           fi
 
-      # Notification optionnelle quand un AO Go ferme arrive
+      # Notification Slack si Go ferme (toutes sources confondues)
       # Active ce step en ajoutant le secret SLACK_WEBHOOK dans Settings > Secrets
       - name: Notification Slack si Go ferme
         if: success()
@@ -71,7 +102,8 @@ jobs:
           fi
           GO_COUNT=$(node -e "const d=require('./data/latest.json'); console.log(d.total_go || 0)")
           if [ "$GO_COUNT" -gt 0 ]; then
+            BREAKDOWN=$(node -e "const d=require('./data/latest.json'); const s=d.sources_summary||{}; console.log(Object.entries(s).filter(([k,v])=>v.present).map(([k,v])=>k+':'+v.matched).join(' | '))")
             curl -X POST -H 'Content-Type: application/json' \
-              --data "{\"text\": \"Radar AO — ${GO_COUNT} nouvel(s) AO Go ferme. Voir le dashboard.\"}" \
+              --data "{\"text\": \"Radar AO — ${GO_COUNT} nouvel(s) AO Go ferme. Détail : ${BREAKDOWN}. Voir le dashboard.\"}" \
               "$SLACK_WEBHOOK" || true
           fi

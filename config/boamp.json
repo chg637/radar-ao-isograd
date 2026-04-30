@@ -1,0 +1,62 @@
+{
+  "_comment": "Configuration de la source BOAMP. On utilise l'API publique Opendatasoft (https://boamp-datadila.opendatasoft.com) qui sort du JSON natif. Plus propre qu'un parser ATOM XML, et le dataset est complet.",
+
+  "api_endpoint": "https://boamp-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/boamp/records",
+
+  "_doc_keywords": "Liste de mots-clés ou expressions full-text. Mis bout à bout avec OR dans la clause search(). Tu peux raffiner si tu veux, sinon le code agrège automatiquement filters.json.keywords_fr + keywords_en.",
+  "search_terms_extra": [],
+
+  "_doc_natures": "Types d'avis BOAMP à conserver. Les valeurs viennent du champ 'nature_libelle' du dataset. On garde les avis prospectifs (à venir / en cours) pour le radar, et on exclut les Résultat de marché / Rectificatif / Annulation qui sont du bruit pour de la pré-vente.",
+  "natures_libelle": [
+    "Avis de marché",
+    "Avis d'intention de conclure",
+    "Périodique"
+  ],
+
+  "_doc_window": "Fenêtre temporelle en jours. On pull tous les BOAMP publiés sur cette fenêtre (au lieu de la fenêtre TED de 7j).",
+  "window_days": 7,
+
+  "_doc_pagination": "L'API limite à 100 résultats par page. Le code paginera tant qu'il reste des résultats, dans la limite de max_pages.",
+  "page_size": 100,
+  "max_pages": 10,
+
+  "_doc_descripteurs": "BOAMP n'a pas de CPV mais sa propre taxonomie de 'descripteurs' (libellés métier). On utilise une blacklist pour virer les faux positifs ('télésurveillance' = gardiennage, 'passation' = assurance) qui n'ont rien à voir avec Isograd.",
+  "descripteurs_blacklist": [
+    "Alarme",
+    "Gardiennage",
+    "Surveillance",
+    "Télésurveillance",
+    "Assurance",
+    "Véhicules (location)",
+    "Véhicules",
+    "Transport",
+    "Maîtrise d'œuvre",
+    "Travaux",
+    "Bâtiment",
+    "Voirie",
+    "Énergie",
+    "Eau",
+    "Espaces verts",
+    "Mobilier",
+    "Restauration",
+    "Nettoyage"
+  ],
+
+  "_doc_descripteurs_whitelist": "Si non vide, on ne garde QUE les avis ayant au moins un descripteur de cette liste. Vide par défaut = on accepte tout sauf la blacklist.",
+  "descripteurs_whitelist": [],
+
+  "_doc_negative_phrases": "Si l'objet ou la description contient l'une de ces phrases, l'avis est rejeté même si un mot-clé positif a matché. Sert à virer les faux positifs sémantiques (ex: 'passation' qui match 'passation de marché' au lieu de 'passation d'épreuves').",
+  "negative_phrases": [
+    "passation de marché",
+    "passation des marchés",
+    "passation du marché",
+    "passation d'un marché",
+    "passation de servitudes",
+    "passation des servitudes",
+    "marché de surveillance",
+    "marché de gardiennage"
+  ],
+
+  "_doc_order_by": "Tri DESC sur dateparution pour avoir les plus récents en premier.",
+  "order_by": "dateparution DESC"
+}

@@ -187,6 +187,37 @@
   .pill-no { background: #FEE2E2; color: var(--red); }
   .pill-cpv { background: var(--teal-light); color: var(--teal-dark); font-family: ui-monospace, monospace; }
   .pill-source { background: var(--grey-100); color: var(--grey-700); }
+  .pill-source-TED { background: #DBE7F4; color: #1B4079; }
+  .pill-source-BOAMP { background: var(--teal-light); color: var(--teal-dark); }
+  .pill-source-Profil { background: #FFE5D6; color: #B0401C; }
+  .pill-source-Sourcing { background: #E5E2F4; color: #41338C; }
+  .sources-bar {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    background: var(--grey-100);
+    padding: 10px 16px;
+    border-radius: 8px;
+    margin-bottom: 16px;
+    font-size: 12px;
+    align-items: center;
+  }
+  .sources-bar .src-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: white;
+    padding: 4px 10px;
+    border-radius: 999px;
+    border: 1px solid var(--grey-300);
+  }
+  .sources-bar .src-chip .src-dot {
+    width: 8px; height: 8px; border-radius: 50%;
+  }
+  .src-dot-TED { background: #1B4079; }
+  .src-dot-BOAMP { background: var(--teal); }
+  .src-dot-Profil { background: var(--orange); }
+  .src-chip.disabled { opacity: 0.5; }
 
   .score-bar {
     width: 100%;
@@ -463,6 +494,11 @@
 <!-- TAB 1 : RADAR -->
 <div class="tab-content active" id="tab-radar">
 
+  <div class="sources-bar" id="sources-bar">
+    <span style="font-weight:600; color:var(--grey-700);">Sources :</span>
+    <span id="sources-chips">en attente du sync…</span>
+  </div>
+
   <div class="toolbar">
     <input type="text" id="search" placeholder="Rechercher acheteur, objet, mot-clé…" />
     <select id="filter-status">
@@ -491,7 +527,7 @@
       <option>FPH</option>
       <option>UE</option>
     </select>
-    <button class="btn btn-primary" onclick="syncFromTED()">Synchroniser TED</button>
+    <button class="btn btn-primary" onclick="syncFromTED()">Synchroniser le radar</button>
     <button class="btn" onclick="openModal()">+ AO manuel</button>
     <button class="btn" onclick="exportCSV()">CSV</button>
     <button class="btn-ghost btn" onclick="resetData()">Réinitialiser</button>
@@ -1050,7 +1086,8 @@ async function fetchTED() {
 
 function mergeTED(remote) {
   // Conserve les notes manuelles + ajustements de score sur les AO existants.
-  // Ajoute les nouveaux AO TED, en marquant ceux jamais vus avec _new = true.
+  // Ajoute les nouveaux AO (toutes sources : TED, BOAMP, Profil), en marquant
+  // ceux jamais vus avec _new = true.
   const seen = new Set();
   try {
     const s = localStorage.getItem("isograd_radar_seen");
@@ -1060,36 +1097,60 @@ function mergeTED(remote) {
   const byKey = new Map();
   // 1. Garde les AO manuels (pas auto)
   aos.filter(a => !a.auto).forEach(a => byKey.set("man-" + a.id, a));
-  // 2. Pour les AO TED précédents, garde les notes/score override s'il y en a
+  // 2. Pour les AO auto précédents, garde les notes/score override par (source, ref)
   const existingAuto = new Map();
-  aos.filter(a => a.auto).forEach(a => existingAuto.set(a.ref, a));
+  aos.filter(a => a.auto).forEach(a => existingAuto.set((a.source || "TED") + "::" + a.ref, a));
 
-  remote.notices.forEach(n => {
-    const prev = existingAuto.get(n.ref);
+  (remote.notices || []).forEach(n => {
+    const src = n.source || "TED";
+    const prev = existingAuto.get(src + "::" + n.ref);
     const merged = {
       ...n,
-      id: n.ref || ("ted-" + Math.random().toString(36).slice(2, 9)),
+      id: n.id || n.ref || (src.toLowerCase() + "-" + Math.random().toString(36).slice(2, 9)),
       auto: true,
       notes: prev?.notes || "",
       score_manual: prev?.score_manual ?? null,
-      _new: !seen.has(n.ref)
+      _new: !seen.has(n.ref || n.id)
     };
     // Si Charles a override le score, on l'utilise
     if (merged.score_manual != null) merged.score = merged.score_manual;
-    byKey.set("ted-" + n.ref, merged);
+    byKey.set(src.toLowerCase() + "-" + (n.ref || n.id), merged);
   });
 
   aos = Array.from(byKey.values());
   saveAOs();
 
-  // Mémorise les ref vues
-  const allRefs = remote.notices.map(n => n.ref).filter(Boolean);
+  // Mémorise les ref vues (toutes sources)
+  const allRefs = (remote.notices || []).map(n => n.ref || n.id).filter(Boolean);
   try {
     localStorage.setItem("isograd_radar_seen", JSON.stringify(allRefs));
   } catch (e) {}
 
   lastSync = remote.generated_at;
   updateSyncBadge();
+  updateSourcesBar(remote.sources_summary);
+}
+
+function updateSourcesBar(summary) {
+  const el = document.getElementById("sources-chips");
+  if (!el) return;
+  if (!summary) {
+    // Fallback : si pas de summary (compat sprint 1), reconstruit depuis les notices
+    const counts = {};
+    aos.filter(a => a.auto).forEach(a => {
+      const s = a.source || "TED";
+      counts[s] = (counts[s] || 0) + 1;
+    });
+    el.innerHTML = Object.entries(counts).map(([k, v]) =>
+      `<span class="src-chip"><span class="src-dot src-dot-${k}"></span><strong>${k}</strong> ${v} matchés</span>`
+    ).join("") || "—";
+    return;
+  }
+  el.innerHTML = Object.entries(summary).map(([k, v]) => {
+    const cls = v.present ? "src-chip" : "src-chip disabled";
+    const dotKey = ["TED", "BOAMP", "Profil"].includes(k) ? k : "TED";
+    return `<span class="${cls}" title="${v.fetched || 0} avis fetchés"><span class="src-dot src-dot-${dotKey}"></span><strong>${k}</strong> ${v.matched || 0} matchés${v.go ? ` · <span style="color:var(--green); font-weight:600;">${v.go} Go</span>` : ""}${!v.present ? " (absent)" : ""}</span>`;
+  }).join("");
 }
 
 function updateSyncBadge() {
@@ -1109,7 +1170,7 @@ async function syncFromTED() {
   const btn = event?.target;
   if (btn) btn.disabled = true, btn.textContent = "Sync en cours…";
   const result = await fetchTED();
-  if (btn) btn.disabled = false, btn.textContent = "Synchroniser TED";
+  if (btn) btn.disabled = false, btn.textContent = "Synchroniser le radar";
   if (!result) {
     alert("Aucun fichier data/latest.json trouvé.\n\nVérifie que le workflow GitHub Actions a bien tourné, ou place le dashboard à côté du dossier data/.");
     return;
@@ -1212,7 +1273,7 @@ function render() {
         <td>${escape(a.objet)}</td>
         <td><span class="pill pill-cpv">${escape(a.cpv)}</span></td>
         <td>${escape(a.segment)}</td>
-        <td><span class="pill pill-source">${escape(a.source)}</span></td>
+        <td><span class="pill pill-source pill-source-${escape(a.source)}">${escape(a.source)}</span>${a._also_seen_in && a._also_seen_in.length ? `<div style="font-size:10px; color:var(--grey-500); margin-top:2px;">+ ${a._also_seen_in.join(', ')}</div>` : ''}</td>
         <td style="text-align:right; font-variant-numeric: tabular-nums;">${a.montant ? a.montant.toLocaleString("fr-FR") : "—"}</td>
         <td>${fmtDate(a.deadline)}</td>
         <td>
@@ -1246,6 +1307,9 @@ function render() {
       if (sortDir === "asc") th.classList.add("asc");
     }
   });
+
+  // sources bar (fallback si pas de summary remote)
+  if (typeof updateSourcesBar === "function") updateSourcesBar(null);
 }
 
 function escape(s) {

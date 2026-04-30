@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-04-30T07:06:01.688Z",
+  "source": "Profil",
+  "total_fetched": 0,
+  "total_matched": 0,
+  "total_go": 0,
+  "profils_actifs": [
+    "paris8-ied",
+    "uge",
+    "iae-aix"
+  ],
+  "notices": [],
+  "_warning": "APIFY_TOKEN manquant — exécution sautée."
+}

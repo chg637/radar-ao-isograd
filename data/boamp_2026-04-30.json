@@ -1,0 +1,127 @@
+{
+  "generated_at": "2026-04-30T06:49:08.035Z",
+  "source": "BOAMP",
+  "window_days": 7,
+  "total_fetched": 817,
+  "total_matched": 3,
+  "total_go": 0,
+  "notices": [
+    {
+      "id": "26-40640",
+      "ref": "26-40640",
+      "acheteur": "VILLE de PARIS - DFA - SDA",
+      "objet": "Accord-cadre à bons de commande pour des prestations de formation et d’accompagnement au diplôme du CAP Accompagnant éducatif petite enfance par la Validation des acquis de l’expérience",
+      "description": "Accord-cadre à bons de commande pour des prestations de formation et d’accompagnement au diplôme du CAP Accompagnant éducatif petite enfance par la Validation des acquis de l’expérience",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-05-26",
+      "montant": 0,
+      "publication": "2026-04-23",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-40640",
+      "_boamp": {
+        "famille": "Marchés européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Formation"
+        ],
+        "departement": "75"
+      },
+      "segment": "Collectivités",
+      "keyword_hits": [
+        "validation des acquis"
+      ],
+      "score": 60,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "26-41826",
+      "ref": "26-41826",
+      "acheteur": "Sète agglopôle Méditerranée",
+      "objet": "Mission d'Assistance à la Maîtrise d'Ouvrage Technique et Juridique pour la Passation d'un Contrat de Performance en Matière de Génie Climatique",
+      "description": "Mission d'Assistance à la Maîtrise d'Ouvrage Technique et Juridique pour la Passation d'un Contrat de Performance en Matière de Génie Climatique",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-06-01",
+      "montant": 150,
+      "publication": "2026-04-24",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-41826",
+      "_boamp": {
+        "famille": "Marchés entre 90 k€ et seuils européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Assistance à maîtrise d'ouvrage"
+        ],
+        "departement": "34"
+      },
+      "segment": "Autre",
+      "keyword_hits": [
+        "passation"
+      ],
+      "score": 49,
+      "score_detail": {
+        "fit": 10,
+        "size": 10,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "26-40752",
+      "ref": "26-40752",
+      "acheteur": "SEDIF",
+      "objet": "Accords-cadres à bons de commande pour la passation de servitudes",
+      "description": "Accords-cadres à bons de commande pour la passation de servitudes",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-06-05",
+      "montant": 0,
+      "publication": "2026-04-23",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-40752",
+      "_boamp": {
+        "famille": "Marchés européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Prestations de services"
+        ],
+        "departement": "75,77,78,91,92,93,94,95"
+      },
+      "segment": "Autre",
+      "keyword_hits": [
+        "passation"
+      ],
+      "score": 47,
+      "score_detail": {
+        "fit": 10,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true
+    }
+  ]
+}

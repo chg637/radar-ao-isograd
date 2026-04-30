@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-30T07:48:23.997Z",
+  "generated_at": "2026-04-30T10:27:07.389Z",
   "source": "TED",
   "window_days": 7,
   "total_fetched": 89,
-  "total_matched": 6,
+  "total_matched": 5,
   "total_go": 0,
   "notices": [
     {
@@ -153,36 +153,6 @@
         "delay": 3
       },
       "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "294725-2026",
-      "ref": "294725-2026",
-      "acheteur": "Conseil Départemental de la Mayenne",
-      "objet": "France – Services de fourniture de logiciels – Maintenance des outils d'infrastructure pour le système de stockage centralisé NetApp et prestations associées",
-      "description": "La présente consultation concerne la maintenance des outils d'infrastructure pour le système de stockage centralisé NetApp et prestations associées. La procédure de passation utilisée est l'appel d'offres ouvert. Elle est soumise aux dispositions des articles L. 2124-2, R. 2124-2 1° et R. 2161-2 à R. 2161-5 du Code de la commande publique. L'accord-cadre avec minimum et maximum est passé en application des articles L2125-1 1°, R. 2162-1 à R. 2162-6, R. 2162-13 et R. 2162-14 du Code de la commande publique, pour une durée de 4 ans à compter de la date de notification du contrat. Il donnera lieu à l'émission de bons de commande. A titre indicatif, la date prévisionnelle de notification est le 28 juillet 2026. Les montants minimum et maximum H.T. pour la durée de l'accord-cadre sont fixés comme suit : 250 000 euro(s) / 1 000 000 euro(s)",
-      "cpv": "72268000",
-      "pays": "FRA",
-      "deadline": "2026-06-01",
-      "montant": 0,
-      "publication": "2026-04-29",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/294725-2026",
-      "segment": "Collectivités",
-      "keyword_hits": [
-        "passation"
-      ],
-      "score": 47,
-      "score_detail": {
-        "fit": 10,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "no",
       "notes": "",
       "auto": true
     }

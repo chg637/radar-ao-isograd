@@ -111,9 +111,11 @@ jobs:
           echo "Push échoué après 3 tentatives"
           exit 1
 
-      # Notification Slack si Go ferme (toutes sources confondues)
-      # Active ce step en ajoutant le secret SLACK_WEBHOOK dans Settings > Secrets
-      - name: Notification Slack si Go ferme
+      # Heartbeat quotidien : envoie un récap Slack à chaque run, pour
+      # confirmer que le radar tourne et donner les compteurs par source.
+      # Le message est plus appuyé si au moins un Go ferme remonte.
+      # Active ce step en ajoutant le secret SLACK_WEBHOOK dans Settings > Secrets.
+      - name: Notification Slack (heartbeat + Go ferme)
         if: success()
         env:
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
@@ -122,10 +124,45 @@ jobs:
             echo "Pas de webhook Slack configuré, on skip."
             exit 0
           fi
-          GO_COUNT=$(node -e "const d=require('./data/latest.json'); console.log(d.total_go || 0)")
-          if [ "$GO_COUNT" -gt 0 ]; then
-            BREAKDOWN=$(node -e "const d=require('./data/latest.json'); const s=d.sources_summary||{}; console.log(Object.entries(s).filter(([k,v])=>v.present).map(([k,v])=>k+':'+v.matched).join(' | '))")
+          # Construit le message à partir de latest.json
+          MESSAGE=$(node -e "
+            const d = require('./data/latest.json');
+            const s = d.sources_summary || {};
+            const date = new Date().toLocaleDateString('fr-FR', { day: '2-digit', month: '2-digit' });
+            const breakdown = Object.entries(s)
+              .map(([k, v]) => v.present ? \`\${k}: \${v.matched}\` : \`\${k}: ❌\`)
+              .join(' | ');
+            const dedup = d.total_dedup_collisions || 0;
+            const go = d.total_go || 0;
+            const head = go > 0
+              ? \`🎯 Radar AO \${date} — \${go} AO Go ferme !\`
+              : \`📡 Radar AO \${date} — heartbeat\`;
+            const detail = \`\${d.total_matched || 0} AO uniques (\${breakdown})\${dedup ? ' · '+dedup+' doublons fusionnés' : ''}\`;
+            console.log(head + '\\n' + detail);
+          ")
+          # Slack accepte les retours à la ligne dans le payload JSON
+          curl -X POST -H 'Content-Type: application/json' \
+            --data "$(jq -n --arg t "$MESSAGE" '{text: $t}')" \
+            "$SLACK_WEBHOOK" || true
+
+      # Alerte si une source est manquante (data/*_TODAY.json absent ou vide).
+      # Évite que continue-on-error masque une source qui plante en boucle.
+      - name: Alerte source manquante
+        if: success()
+        env:
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+        run: |
+          if [ -z "$SLACK_WEBHOOK" ]; then exit 0; fi
+          MISSING=$(node -e "
+            const d = require('./data/latest.json');
+            const s = d.sources_summary || {};
+            const missing = Object.entries(s)
+              .filter(([k, v]) => !v.present)
+              .map(([k]) => k);
+            console.log(missing.join(','));
+          ")
+          if [ -n "$MISSING" ]; then
             curl -X POST -H 'Content-Type: application/json' \
-              --data "{\"text\": \"Radar AO — ${GO_COUNT} nouvel(s) AO Go ferme. Détail : ${BREAKDOWN}. Voir le dashboard.\"}" \
+              --data "$(jq -n --arg t "⚠️ Radar AO — source(s) absente(s) ce run : $MISSING. Vérifie les logs Actions." '{text: $t}')" \
               "$SLACK_WEBHOOK" || true
           fi

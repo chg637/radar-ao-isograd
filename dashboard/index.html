@@ -1426,11 +1426,32 @@ function resetData() {
   render();
 }
 function exportCSV() {
-  const cols = ["id","acheteur","ref","objet","cpv","segment","source","montant","deadline","score","url","notes"];
+  // Colonnes du CSV — inclut les méta-données sprint 2 (BOAMP nature/descripteurs,
+  // profil id/platform, vu_aussi_sur pour les AO dédupliqués cross-source).
+  const cols = [
+    "id", "acheteur", "ref", "objet", "cpv", "segment", "source",
+    "montant", "deadline", "publication", "score", "score_status",
+    "vu_aussi_sur", "boamp_nature", "boamp_famille", "boamp_descripteurs",
+    "boamp_departement", "profil_id", "profil_platform",
+    "keyword_hits", "url", "notes"
+  ];
+  const get = (a, c) => {
+    switch (c) {
+      case "vu_aussi_sur": return (a._also_seen_in || []).join(", ");
+      case "boamp_nature": return a._boamp?.nature || "";
+      case "boamp_famille": return a._boamp?.famille || "";
+      case "boamp_descripteurs": return (a._boamp?.descripteurs || []).join(", ");
+      case "boamp_departement": return a._boamp?.departement || "";
+      case "profil_id": return a._profil?.id || "";
+      case "profil_platform": return a._profil?.platform || "";
+      case "keyword_hits": return (a.keyword_hits || []).join(", ");
+      default: return a[c] === undefined ? "" : a[c];
+    }
+  };
   const rows = [cols.join(";")];
   aos.forEach(a => {
     rows.push(cols.map(c => {
-      const v = String(a[c] === undefined ? "" : a[c]).replace(/"/g, '""').replace(/\n/g, " ");
+      const v = String(get(a, c)).replace(/"/g, '""').replace(/\n/g, " ");
       return v.includes(";") || v.includes('"') ? '"' + v + '"' : v;
     }).join(";"));
   });

@@ -86,5 +86,34 @@
     }
   },
 
-  "publication_window_days": 7
+  "publication_window_days": 7,
+
+  "_doc_negative_phrases": "Phrases qui invalident un match positif si présentes dans l'objet ou description. Communes TED + BOAMP. Vise les ambiguïtés sémantiques type 'passation' qui matche aussi 'passation de marché' au lieu de 'passation d'épreuves'.",
+  "negative_phrases": [
+    "passation de marché",
+    "passation des marchés",
+    "passation du marché",
+    "passation d'un marché",
+    "passation de servitudes",
+    "passation des servitudes",
+    "passation d'un contrat",
+    "passation du contrat",
+    "passation des contrats",
+    "passation d'une convention",
+    "passation de la convention",
+    "passation de bail",
+    "passation d'un bail",
+    "passation des baux",
+    "passation d'un accord-cadre",
+    "procédure de passation",
+    "procédures de passation",
+    "marché de surveillance",
+    "marché de gardiennage",
+    "système de stockage",
+    "stockage centralisé",
+    "infrastructure réseau",
+    "outils d'infrastructure",
+    "génie climatique",
+    "performance énergétique"
+  ]
 }

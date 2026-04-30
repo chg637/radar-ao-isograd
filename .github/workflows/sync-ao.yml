@@ -89,13 +89,24 @@ jobs:
           git commit -m "data: sync TED+BOAMP+Profils $(date -u +%Y-%m-%dT%H:%MZ)"
           # Retry avec rebase si la branche distante a avancé entre le checkout
           # et le push (typique : commit manuel pendant que le workflow tourne).
+          # Sur conflit dans data/, on garde la version du runner (la plus fraîche)
+          # via --strategy-option=theirs. Le bot ne touche que data/ et dashboard/data/,
+          # donc pas de risque d'écraser du code sensible.
           for i in 1 2 3; do
             if git push; then
               echo "Push OK (tentative $i)"
               exit 0
             fi
-            echo "Push rejeté (tentative $i), pull --rebase puis retry"
-            git pull --rebase origin main
+            echo "Push rejeté (tentative $i), pull --rebase --strategy-option=theirs puis retry"
+            git pull --rebase --strategy-option=theirs origin main || {
+              echo "Rebase a échoué malgré --theirs, abort et fallback"
+              git rebase --abort 2>/dev/null || true
+              # Fallback : on prend brutalement nos versions et on push
+              git fetch origin main
+              git reset --soft origin/main
+              git add data/ dashboard/data/
+              git commit -m "data: sync TED+BOAMP+Profils $(date -u +%Y-%m-%dT%H:%MZ) (force resolution)" || true
+            }
           done
           echo "Push échoué après 3 tentatives"
           exit 1

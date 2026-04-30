@@ -84,10 +84,21 @@ jobs:
           git add data/ dashboard/data/
           if git diff --staged --quiet; then
             echo "Pas de changement à committer."
-          else
-            git commit -m "data: sync TED+BOAMP+Profils $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
+            exit 0
           fi
+          git commit -m "data: sync TED+BOAMP+Profils $(date -u +%Y-%m-%dT%H:%MZ)"
+          # Retry avec rebase si la branche distante a avancé entre le checkout
+          # et le push (typique : commit manuel pendant que le workflow tourne).
+          for i in 1 2 3; do
+            if git push; then
+              echo "Push OK (tentative $i)"
+              exit 0
+            fi
+            echo "Push rejeté (tentative $i), pull --rebase puis retry"
+            git pull --rebase origin main
+          done
+          echo "Push échoué après 3 tentatives"
+          exit 1
 
       # Notification Slack si Go ferme (toutes sources confondues)
       # Active ce step en ajoutant le secret SLACK_WEBHOOK dans Settings > Secrets

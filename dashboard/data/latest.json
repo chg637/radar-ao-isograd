@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-04-30T10:48:51.793Z",
+  "generated_at": "2026-05-01T08:07:41.424Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 89,
-      "matched": 5,
+      "fetched": 67,
+      "matched": 4,
       "go": 0,
-      "generated_at": "2026-04-30T10:47:59.348Z"
+      "generated_at": "2026-05-01T08:06:46.931Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 836,
-      "matched": 1,
+      "fetched": 730,
+      "matched": 0,
       "go": 0,
-      "generated_at": "2026-04-30T10:48:42.231Z"
+      "generated_at": "2026-05-01T08:07:31.918Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-04-30T10:48:51.746Z"
+      "generated_at": "2026-05-01T08:07:41.376Z"
     }
   },
-  "total_fetched": 925,
-  "total_matched": 5,
+  "total_fetched": 797,
+  "total_matched": 4,
   "total_go": 0,
-  "total_dedup_collisions": 1,
+  "total_dedup_collisions": 0,
   "dedup_breakdown": {
     "by_id": 0,
-    "fuzzy_signature": 1,
+    "fuzzy_signature": 0,
     "fuzzy_jaccard": 0
   },
   "notices": [
@@ -123,39 +123,6 @@
       "score_status": "cond",
       "notes": "",
       "auto": true
-    },
-    {
-      "id": "277139-2026",
-      "ref": "277139-2026",
-      "acheteur": "VILLE de PARIS - DFA - SDA",
-      "objet": "France – Services de formation professionnelle – Accord-cadre à bons de commande pour des prestations de formation et d’accompagnement au diplôme du CAP Accompagnant éducatif petite enfance par la Validation des acquis de l’expérience",
-      "description": "Accord-cadre à bons de commande pour des prestations de formation et d’accompagnement au diplôme du CAP Accompagnant éducatif petite enfance par la Validation des acquis de l’expérience",
-      "cpv": "80530000",
-      "pays": "FRA",
-      "deadline": "2026-05-26",
-      "montant": 0,
-      "publication": "2026-04-23",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/277139-2026",
-      "segment": "Collectivités",
-      "keyword_hits": [
-        "validation des acquis"
-      ],
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true,
-      "_also_seen_in": [
-        "BOAMP"
-      ]
     },
     {
       "id": "290912-2026",

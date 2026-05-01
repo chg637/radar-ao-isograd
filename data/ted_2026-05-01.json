@@ -1,38 +1,10 @@
 {
-  "generated_at": "2026-05-01T08:07:41.424Z",
-  "source": "MERGE",
-  "sources_summary": {
-    "TED": {
-      "present": true,
-      "fetched": 67,
-      "matched": 4,
-      "go": 0,
-      "generated_at": "2026-05-01T08:06:46.931Z"
-    },
-    "BOAMP": {
-      "present": true,
-      "fetched": 730,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-05-01T08:07:31.918Z"
-    },
-    "Profil": {
-      "present": true,
-      "fetched": 0,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-05-01T08:07:41.376Z"
-    }
-  },
-  "total_fetched": 797,
+  "generated_at": "2026-05-01T08:06:46.931Z",
+  "source": "TED",
+  "window_days": 7,
+  "total_fetched": 67,
   "total_matched": 4,
   "total_go": 0,
-  "total_dedup_collisions": 0,
-  "dedup_breakdown": {
-    "by_id": 0,
-    "fuzzy_signature": 0,
-    "fuzzy_jaccard": 0
-  },
   "notices": [
     {
       "id": "297074-2026",

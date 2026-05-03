@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-05-02T07:26:35.941Z",
+  "generated_at": "2026-05-03T01:23:28.360Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 54,
       "matched": 4,
-      "go": 0,
-      "generated_at": "2026-05-02T07:25:46.724Z"
+      "go": 1,
+      "generated_at": "2026-05-03T01:22:55.970Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 621,
+      "fetched": 386,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-05-02T07:26:26.920Z"
+      "generated_at": "2026-05-03T01:23:19.578Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-05-02T07:26:35.904Z"
+      "generated_at": "2026-05-03T01:23:28.311Z"
     }
   },
-  "total_fetched": 675,
+  "total_fetched": 440,
   "total_matched": 4,
-  "total_go": 0,
+  "total_go": 1,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
     "by_id": 0,
@@ -51,16 +51,17 @@
       "keyword_hits": [
         "surveillance à distance"
       ],
-      "score": 70,
+      "bureautique": false,
+      "score": 80,
       "score_detail": {
-        "fit": 30,
+        "fit": 40,
         "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
         "delay": 3
       },
-      "score_status": "cond",
+      "score_status": "go",
       "notes": "",
       "auto": true
     },
@@ -79,12 +80,44 @@
       "url": "https://ted.europa.eu/fr/notice/-/detail/285905-2026",
       "segment": "Collectivités",
       "keyword_hits": [
-        "passation"
+        "bureautique"
       ],
+      "bureautique": true,
       "score": 67,
       "score_detail": {
         "fit": 25,
         "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "296186-2026",
+      "ref": "296186-2026",
+      "acheteur": "stad Vilvoorde",
+      "objet": "Belgique – Services de fourniture de logiciels – Leveren, implementeren, onderhoud en ondersteuning van toepassingssoftware Burgerzaken",
+      "description": "• Eenvoudige toegang tot het rijksregister voor opvragingen en bijwerkingen. De mogelijkheid om via vrije structuren bijwerkingen te doen, wordt als een grote meerwaarde gezien. • Beveiligingsstructuur om toegang te krijgen tot het rijksregister (eenvoudig in te stellen). • De procedures worden zoveel mogelijk opgesplitst zodat een correcte opvolging van de verschillende procedures mogelijk is (bij voorkeur begeleid via wizard). • De medewerker kan documenten uploaden (uploaden van scans van aangeboden documenten (vonnissen, aktes...), kan op elk moment digitaal de status van een lopend dossier raadplegen. • Rechtstreeks mailen vanuit de toepassing met handtekening van medewerker/dienst (eventueel via koppeling met Exclaimer). • Toegang tot de elektronische post van het rijksregister op eenvoudige en duidelijke manier. • Opvraagmogelijkheden: o Op nationaal nummer o Fonetisch (deel van een naam, afwezigheid van symbolen worden genegeerd) o Op adres o Op geboortedatum • De toepassing laat toe op een digitale en beveiligde wijze informatie/documentatie uit te wisselen met verschillende overheden en partijen. • Het beheer van de dossiers dient vanaf de aanvraag tot de voltooiing van het dossier volledig digitaal te verlopen. • Briefwisseling/emailverkeer, gerelateerd aan een dossier/burger kan eenvoudig digitaal worden gearchiveerd op een uniforme wijze. • Beheer van de informatietypes is voorzien. • Belangrijk is dat de toepassing voorziet dat iedereen op dezelfde manier een dossier opbouwt. • De toepassing moet voorzien dat ook een medewerker een dossier van een collega snel kan opvolgen en ook de status van het dossier eenvoudig kan raadplegen (mits instellen van beveiligingsregels). • Mogelijkheid tot management-rapportage van alle procedures: men kan zelf beleidsrapporten samenstellen via lijsten en liefst ook visueel via alle soorten diagrammen. • Het opbouwen van een dossier/procedure gebeurt via een wizard/stappenplan en is heel eenvoudig te gebruiken. Het zelf kunnen maken van wizards wordt gezien als meerwaarde. • Digitale agenda: Wettelijke vervaldata worden automatisch overgenomen, daarnaast mogelijkheid om zelf taken met vervaldata, zoals referentieadressen, tijdelijke afwezigheden, etc. toevoegen. Hiervan komt een melding via mail naar een zelf gekozen mailadres. • Notitieveld: om alle belangrijke en relevante info in te kunnen noteren per inwoner/adres/dossier/procedure tussen de werknemers (niet zichtbaar voor andere overheden/besturen of de burger zelf). • Documentenbeheer: het moet mogelijk zijn eigen documenten/brieven/oproepingen toe te voegen in de toepassing, aangepast aan de huisstijl, waarbij deze steeds in de procedure bewaard kunnen worden. • Beheer van speciale informatietypes. • Annulatie, toevoegen, suppressie van informatie, zowel op eenvoudige wijze als via vrije structuren. • Verbeteren van informatie, zowel op eenvoudige wijze als via vrije structuren. • Beheer van woningbestand: o Toevoegen van straatnamen o Toevoegen, verwijderen, verbeteren, historiek zetten van huisnummers o Toevoegen, verwijderen, verbeteren, historiek zetten van busnummers o De historiek hiervan moet op een eenvoudige manier teruggevonden worden o Opmaken van lijsten leegstand o Toevoegen van grondplannen van gebouwen • Beheer van registers en het in bulk kunnen versturen van brieven (fysiek en/of digitaal): o Register van identiteitskaarten (inclusief opvolging) o Register van verblijfskaarten (inclusief opvolging) o Register van kids-ID (inclusief opvolging) o Register van poliovaccinaties (inclusief opvolging) o Register van wettelijke samenwoning (inclusief opvolging indien nodig – cfr. schijnsituaties) • Synchronisatie met Belpic en bevolkingstoepassing (R27 – ophalen van de afgeleverde eIDs). • Opmaken van oproepingskaarten – automatisch ingestelde query of andere werkwijze volgens de wettelijke data opgelegd door de FOD Binnenlandse Zaken. • Digitale woonstcontrole • Adreswijzigingen digitaal doorsturen naar de lokale politie (koppeling met Focus/digitale woonstcontrole). • Instellen van algemene en specifieke vragen naar de lokale wijkinspecteur. • Afzonderlijke woonstcontroles voor: o Bevolking o Vreemdelingen o Ambtshalve afvoeringen o Ambtshalve inschrijvingen o Tijdelijke afwezigheid o Vreemdelingen woonstcontrole o Samenwoonstverslag o Vertrek buitenland Belg o Vertrek buitenland niet-Belg o Aankomst (van andere gemeente, buitenland) o Interne mutatie o Woonstcontrole zonder verhuis (= politioneel onderzoek – PO) • Specifieke afzonderlijke procedures voor referentieadressen: natuurlijk persoon omwille van verblijf in een mobiele woning, OCMW detentie (met eventueel automatische mailing naar algemeen mailadres van eigen OCMW), OCMW natuurlijk persoon, met mogelijkheid tot bewaren van bewijsstukken in de procedure • Lijst kunnen opmaken met afgehandelde/openstaande adrescontroles. • Opsplitsing van woonstcontroles: Vreemdelingen/bevolking. / • De toepassing maakt de medewerker wegwijs in de voor te leggen documenten/ bewijsstukken/af te leveren documenten voor zoveel mogelijk procedures etc. Een voorgestelde procedure op basis van de informatie die we zelf in kunnen geven, zou een meerwaarde zijn. • De medewerker wordt op een logische, overzichtelijke en eenvoudige manier begeleid in de verschillende stappen doorheen de verschillende procedures (inclusief schijndossiers) vanaf de aanmelding van de burger (aan het loket) tot het voltooien van zijn/haar aanvraag. Indien contactname met bijvoorbeeld DVZ of ambassade noodzakelijk is, staat dit opgenomen in het stappenplan. • De procedures worden zoveel mogelijk opgesplitst zodat een correcte opvolging van de verschillende procedure mogelijk is. • Belangrijk is dat de toepassing voorziet dat iedereen op dezelfde manier een dossier opbouwt. • De toepassing moet voorzien dat ook een collega een dossier van een andere collega snel kan opvolgen en ook de status van zijn dossier eenvoudig kan raadplegen (mits instellen van beveiligingsregels). • Mogelijkheid tot management-rapportage van alle procedures: men kan zelf beleidsrapporten samenstellen via lijsten en liefst ook visueel via alle soorten diagrammen. • De medewerker wordt bij de uitvoering van de taken/ stappen begeleid wat betreft respecteren van wettelijke termijnen evenals zelf opgelegde termijnen. Medewerkers worden ook geïnformeerd over get verstrijken van termijnen via e-mail indien dit gewenst is. • Notitieveld: om alle belangrijke en relevante info in te kunnen noteren per dossier/procedure (niet zichtbaar voor andere overheden/besturen of de burger zelf). • Koppeling van de verschillende registers om het aktenummer automatisch doorlopend te laten nummeren. • Per register worden standaardteksten voorzien. Deze worden automatisch aangepast bij het wisselen van dienstjaar. • Koppeling met andere modules. • Onderscheid tussen beslissingen overheid (rechtbanken,…), te ondertekenen aktes, te behandelen aktes. • Het beheer van de dossiers dient vanaf de aanvraag tot de voltooiing van het dossier volledig digitaal te verlopen - dit zou moeten leiden tot snellere afhandelingstijden van een dossier (geen archivering op papier/ geen kopieën/ …). • De procedures worden zoveel mogelijk opgesplitst zodat een correcte opvolging van de verschillende procedure mogelijk is (liefst begeleid via wizard/stappenplan). Het zelf kunnen maken van wizards wordt gezien als meerwaarde. • De medewerker krijgt informatie omtrent de stappen van te volgen procedure. • De medewerker kan documenten uploaden en kan op elk moment digitaal de stand van een lopend dossier raadplegen. • Rechtstreeks mailen vanuit de toepassing met handtekening van medewerker/dienst (eventueel via koppeling met Exclaimer). • Aanleg van een digitale lijst van ontvangen buitenlandse documenten waarop voortgang kan aangeduid worden. • Koppeling met ScanSearch om akten, opgemaakt voor de invoering van DABS, eenvoudig te kunnen migreren op afschrift- en uittrekselniveau. / De toepassing maakt het mogelijk om vreemdelingendossiers volledig digitaal te beheren: • registreren van niet-Belgen • uploaden van scans van aangeboden documenten (paspoorten, aktes...) • uitvoeren van bijwerkingen, zowel op eenvoudige manier als via vrije structuren. • afleveren van bijlagen • opvolging van te ondernemen acties bij specifieke dossiers (wettelijk bepaalde termijnen – hiervan kan men, indien gewenst, per mail geïnformeerd worden) • controle buitenlandse documenten (paspoorten, identiteitsdocumenten, etc.) aan de hand van Keesingscanner • Notitieveld: om alle belangrijke en relevante info in te kunnen noteren per dossier/procedure (niet zichtbaar voor andere overheden/besturen of de burger zelf). • Aanleg van een digitale lijst van ontvangen buitenlandse documenten waarop voortgang kan aangeduid worden. • Rechtstreeks mailen vanuit de toepassing met handtekening van medewerker/dienst (eventueel via koppeling met Exclaimer). Het vreemdelingendossier moet opgevolgd kunnen worden vanaf het moment van binnenkomst tot de voltooiing van de aanvraag. De toepassing zorgt voor een automatische bijwerking van het eigen bevolkingsbestand door een correcte en feilloze communicatie met het rijksregister. Het is mogelijk om documenten, bezorgd door de vreemdeling, in de module te bewaren en te koppelen aan het dossier zodat alle dossiers volledig digitaal raadpleegbaar zijn, op een snelle en gebruiksvriendelijke manier. Daarnaast is het mogelijk om documenten van Dienst Vreemdelingenzaken Brussel (DVZ) in te scannen en te bewaren bij het vreemdelingendossier waarop ze betrekking hebben. Alle communicatie (met DVZ, de politie, de burger, andere steden en gemeenten e.a.) vertrekt vanuit de toepassing en wordt hierin bewaard. Alle mogelijke procedures voor de inschrijving van niet-Belgen en/of verwerking van vreemdelingendossiers moeten worden voorzien. In deze context moeten alle mogelijke bijlagen, zoals voorzien in de vreemdelingenwetgeving, kunnen geregistreerd/opgeslagen worden. Telkens een nieuwe procedure of een nieuw document verschijnt, zorgt de leverancier dat deze binnen een redelijke termijn in de software beschikbaar is. Alle te volgen stappen binnen een procedure moeten gebruiksvriendelijk zijn. Iedere stap dient zo opgebouwd te zijn dat de medewerker meteen weet wat hij moet doen, welke documenten hij moet opvragen bij de vreemdeling, welke documenten hij moet afleveren aan de vreemdeling, welke documenten overgemaakt moeten worden aan DVZ… De overbodige informatie wordt automatisch door de toepassing weggelaten of doorstreept. Bij twijfel over een procedure zou een medewerker de mogelijkheid moeten krijgen om door middel van ingave van enkele elementen op de beste opties uit te komen. De toepassing moet toelaten op een eenvoudige manier de persoonsgegevens en/of adresgegevens van een burger op basis van verschillende zoekcriteria op te zoeken. In een groot aantal vreemdelingenprocedures zijn er data voorzien waarop actie ondernomen moet worden door de gemeentelijke diensten. Binnen de aangeboden oplossing dienen dagelijks, indien nodig, boodschappen te verschijnen dat er actie ondernomen moet worden in bepaalde vreemdelingendossiers. Daarnaast vragen wij om te beschrijven of en hoe er machtigingen of delegaties van die boodschappen aan collega's kunnen ingesteld worden. De aangeboden oplossing voorziet in consultatiemogelijkheden voor medewerkers die niet dagelijks bezig zijn met de behandeling van vreemdelingendossiers. De digitale vreemdelingendossiers zijn en blijven eigendom van de stad Vilvoorde.",
+      "cpv": "72268000",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-04-30",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/296186-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -109,42 +142,14 @@
       "url": "https://ted.europa.eu/fr/notice/-/detail/298703-2026",
       "segment": "Consulaire",
       "keyword_hits": [
-        "RNCP"
+        "Excel",
+        "bureautique"
       ],
+      "bureautique": true,
       "score": 65,
       "score_detail": {
         "fit": 25,
         "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "290912-2026",
-      "ref": "290912-2026",
-      "acheteur": "CCI France",
-      "objet": "France – Services relatifs aux programmes de formation – Prestations de rédaction partielle d’un dossier de création ou de renouvellement de certification pour le réseau de formation de CCI France",
-      "description": "Lot 1 : Rédaction de dossiers de certification (Répertoire National de Certifications Professionnelles (RNCP)/Répertoire spécifique RS)) – certifications métiers et compétences transversales, / Lot 2 : Assistance à la structuration et au contrôle de dossiers de certification en langues (CLOE)",
-      "cpv": "80521000",
-      "pays": "FRA",
-      "deadline": "2026-05-29",
-      "montant": 0,
-      "publication": "2026-04-28",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/290912-2026",
-      "segment": "Consulaire",
-      "keyword_hits": [
-        "RNCP"
-      ],
-      "score": 60,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,

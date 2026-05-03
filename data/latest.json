@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T08:04:45.439Z",
+  "generated_at": "2026-05-03T08:25:23.000Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
@@ -7,26 +7,26 @@
       "fetched": 54,
       "matched": 4,
       "go": 1,
-      "generated_at": "2026-05-03T08:04:14.136Z"
+      "generated_at": "2026-05-03T08:24:51.155Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 386,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-05-03T08:04:36.837Z"
+      "matched": 1,
+      "go": 1,
+      "generated_at": "2026-05-03T08:25:14.104Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-05-03T08:04:45.388Z"
+      "generated_at": "2026-05-03T08:25:22.951Z"
     }
   },
   "total_fetched": 440,
-  "total_matched": 4,
-  "total_go": 1,
+  "total_matched": 5,
+  "total_go": 2,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
     "by_id": 0,
@@ -56,6 +56,46 @@
       "score_detail": {
         "fit": 40,
         "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "go",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "26-43274",
+      "ref": "26-43274",
+      "acheteur": "Conseil Départemental de la Corrèze",
+      "objet": "Prestations de surveillance humaine et de télésurveillance pour le Conseil Départemental de la Corrèze (2026AFF015)",
+      "description": "Prestations de surveillance humaine et de télésurveillance pour le Conseil Départemental de la Corrèze (2026AFF015)",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-05-29",
+      "montant": 150,
+      "publication": "2026-04-29",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-43274",
+      "_boamp": {
+        "famille": "Marchés entre 90 k€ et seuils européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Surveillance",
+          "Prestations de services"
+        ],
+        "departement": "19"
+      },
+      "segment": "Collectivités",
+      "keyword_hits": [
+        "télésurveillance"
+      ],
+      "score": 77,
+      "score_detail": {
+        "fit": 40,
+        "size": 10,
         "tech": 12,
         "com": 5,
         "admin": 7,

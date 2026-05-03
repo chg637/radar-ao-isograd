@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-05-03T08:25:22.951Z",
+  "generated_at": "2026-05-03T11:32:17.134Z",
   "source": "Profil",
   "total_fetched": 0,
   "total_matched": 0,
   "total_go": 0,
   "profils_actifs": [
-    "paris8-ied",
-    "uge",
-    "iae-aix"
+    "place_generic"
   ],
   "notices": []
 }

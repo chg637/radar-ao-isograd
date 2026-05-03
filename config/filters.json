@@ -19,29 +19,37 @@
   "keywords_fr": [
     "plateforme d'évaluation",
     "plateforme de certification",
+    "plateforme d'examen",
     "examens en ligne",
     "télésurveillance",
     "surveillance à distance",
     "proctoring",
-    "passation",
     "test center",
     "centres d'examens",
     "computer-based testing",
     "dématérialisation des épreuves",
     "banque de questions",
-    "QCM",
     "test adaptatif",
     "psychométrie",
     "ingénierie d'évaluation",
     "conception d'épreuves",
     "référentiel de compétences",
     "certification de compétences",
-    "validation des acquis",
-    "VAE",
-    "RNCP",
-    "France Compétences",
     "compétences numériques",
     "DigComp"
+  ],
+
+  "keywords_bureautique": [
+    "Excel",
+    "Word",
+    "PowerPoint",
+    "Outlook",
+    "Microsoft Office",
+    "suite bureautique",
+    "bureautique",
+    "Office 365",
+    "tableur",
+    "traitement de texte"
   ],
 
   "keywords_en": [
@@ -77,8 +85,34 @@
   ],
 
   "scoring": {
-    "fit_keywords_strong": ["plateforme", "proctoring", "télésurveillance", "certification de compétences", "examens en ligne"],
-    "fit_keywords_medium": ["évaluation", "formation", "compétences", "QCM", "examens"],
+    "fit_keywords_strong": [
+      "plateforme d'évaluation",
+      "plateforme de certification",
+      "plateforme d'examen",
+      "proctoring",
+      "télésurveillance",
+      "surveillance à distance",
+      "examens en ligne",
+      "computer-based testing",
+      "remote proctoring",
+      "examination platform",
+      "digital assessment platform",
+      "ingénierie d'évaluation",
+      "banque de questions",
+      "psychométrie",
+      "certification de compétences",
+      "DigComp"
+    ],
+    "fit_keywords_medium": [
+      "évaluation",
+      "certification",
+      "compétences numériques",
+      "competence assessment",
+      "test adaptatif",
+      "QCM"
+    ],
+    "_comment_formation_pure": "Les CPV ci-dessous sont des CPV formation pure. On les pénalise SAUF si bureautique présent (ILP).",
+    "formation_cpv": ["80500000", "80510000", "80520000", "80521000", "80530000", "80531200", "79632000"],
     "tech_keywords_bonus": ["RGPD", "RGAA", "ISO 27001", "SecNumCloud", "accessibilité"],
     "thresholds": {
       "go": 75,
@@ -86,34 +120,5 @@
     }
   },
 
-  "publication_window_days": 7,
-
-  "_doc_negative_phrases": "Phrases qui invalident un match positif si présentes dans l'objet ou description. Communes TED + BOAMP. Vise les ambiguïtés sémantiques type 'passation' qui matche aussi 'passation de marché' au lieu de 'passation d'épreuves'.",
-  "negative_phrases": [
-    "passation de marché",
-    "passation des marchés",
-    "passation du marché",
-    "passation d'un marché",
-    "passation de servitudes",
-    "passation des servitudes",
-    "passation d'un contrat",
-    "passation du contrat",
-    "passation des contrats",
-    "passation d'une convention",
-    "passation de la convention",
-    "passation de bail",
-    "passation d'un bail",
-    "passation des baux",
-    "passation d'un accord-cadre",
-    "procédure de passation",
-    "procédures de passation",
-    "marché de surveillance",
-    "marché de gardiennage",
-    "système de stockage",
-    "stockage centralisé",
-    "infrastructure réseau",
-    "outils d'infrastructure",
-    "génie climatique",
-    "performance énergétique"
-  ]
+  "publication_window_days": 7
 }

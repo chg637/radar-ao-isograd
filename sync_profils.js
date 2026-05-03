@@ -1,10 +1,11 @@
 #!/usr/bin/env node
 /**
- * Sync Profils Tier-1 — Sprint 2 du Radar AO Isograd
+ * Sync Profils Tier-1 — Sprint 3 du Radar AO Isograd
  *
- * Pull les AO publiés sur les profils acheteurs Tier-1 (universités autonomes,
- * établissements qui ne publient pas sur BOAMP) via Apify (token via
- * env APIFY_TOKEN).
+ * Pull les AO publiés via Apify (token via env APIFY_TOKEN). Supporte deux
+ * modes par profil :
+ *   - actor_id   : on appelle directement un actor public (ex: apify~web-scraper)
+ *   - task_id    : on appelle une saved task pré-configurée (recommandé)
  *
  * Si APIFY_TOKEN n'est pas défini, le script log un warning et sort propre
  * (le workflow GitHub continue sans bloquer).
@@ -37,13 +38,26 @@ async function apifyFetch(url, options = {}) {
   return data;
 }
 
-async function startRun(actorId, input, token) {
+async function startActorRun(actorId, input, token) {
   const url = `${APIFY_BASE}/acts/${actorId}/runs?token=${encodeURIComponent(token)}`;
-  log(`Apify start run : actor=${actorId}`);
+  log(`Apify start actor run : actor=${actorId}`);
   const data = await apifyFetch(url, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify(input || {})
+  });
+  return data.data;
+}
+
+async function startTaskRun(taskId, input, token) {
+  // Une saved task contient déjà l'input par défaut. On peut éventuellement
+  // l'override en passant un body, ou laisser vide pour utiliser tel quel.
+  const url = `${APIFY_BASE}/actor-tasks/${taskId}/runs?token=${encodeURIComponent(token)}`;
+  log(`Apify start task run : task=${taskId}`);
+  const data = await apifyFetch(url, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: input && Object.keys(input).length ? JSON.stringify(input) : "{}"
   });
   return data.data;
 }
@@ -68,21 +82,23 @@ async function getDatasetItems(datasetId, token, limit = 50) {
   return await apifyFetch(url);
 }
 
-// Format attendu d'un item Apify (à respecter dans la pageFunction de l'actor) :
-//   { titre, url, date_publication?, deadline?, montant_kEur?, description?, reference? }
+// Format d'un item Apify (la pageFunction PLACE retourne ces champs) :
+//   { id, reference, titre, objet, organisme, categorie, procedure, lieu,
+//     url, _dates_brutes, _profil_id, _profil_nom, _scraped_at }
 function normalizeApifyItem(item, profil) {
   const titre = item.titre || item.title || item.objet || "";
   const url = item.url || item.link || "";
-  const ref = item.reference || item.ref || (item.url ? new URL(item.url, "https://x.x").pathname.split("/").pop() : "") || "";
-  const description = item.description || item.summary || titre;
-  const datePub = (item.date_publication || item.publication || item.published || "").slice(0, 10);
+  const ref = item.reference || item.ref || "";
+  const description = item.objet || item.description || titre;
+  const datePub = (item.publication || item.date_publication || "").slice(0, 10);
   const deadline = (item.deadline || item.date_limite || "").slice(0, 10);
-  const montant = Number(item.montant_kEur || item.montant || item.amount || 0);
+  const montant = Number(item.montant_kEur || item.montant || 0);
+  const acheteur = item.organisme || item.acheteur || profil.nom;
 
   return {
-    id: ref || `${profil.id}_${Buffer.from(titre).toString("base64").slice(0, 10)}`,
-    ref,
-    acheteur: profil.nom,
+    id: ref || item.id || `${profil.id}_${Buffer.from(titre).toString("base64").slice(0, 10)}`,
+    ref: ref || String(item.id || ""),
+    acheteur,
     objet: titre,
     description,
     cpv: "",
@@ -95,7 +111,10 @@ function normalizeApifyItem(item, profil) {
     _profil: {
       id: profil.id,
       platform: profil.platform || "",
-      url_profil: profil.url_profil || ""
+      url_profil: profil.url_profil || "",
+      categorie: item.categorie || "",
+      procedure: item.procedure || "",
+      lieu: item.lieu || ""
     }
   };
 }
@@ -141,20 +160,29 @@ async function main() {
   const allItems = [];
   for (const profil of actifs) {
     log(`--- Profil : ${profil.nom} (${profil.id}) ---`);
-    const actorId = profil.actor_id || profilsConfig.apify.default_actor_id;
-    const input = profil.actor_input || {};
-    if (!profil.url_profil && (!input.startUrls || input.startUrls.length === 0)) {
-      log(`SKIP ${profil.id} : pas d'URL profil ni de startUrls. Configure-le.`);
-      continue;
-    }
+
     let runStarted;
     try {
-      runStarted = await startRun(actorId, input, token);
+      if (profil.task_id) {
+        runStarted = await startTaskRun(profil.task_id, profil.actor_input || {}, token);
+      } else if (profil.actor_id || profilsConfig.apify.default_actor_id) {
+        const actorId = profil.actor_id || profilsConfig.apify.default_actor_id;
+        const input = profil.actor_input || {};
+        if (!input.startUrls && !profil.url_profil) {
+          log(`SKIP ${profil.id} : pas de task_id, pas d'actor input. Configure-le.`);
+          continue;
+        }
+        runStarted = await startActorRun(actorId, input, token);
+      } else {
+        log(`SKIP ${profil.id} : ni task_id ni actor_id. Skip.`);
+        continue;
+      }
       log(`Run started : ${runStarted.id} (status ${runStarted.status})`);
     } catch (e) {
       log(`ERREUR start run ${profil.id} : ${e.message}`);
       continue;
     }
+
     let runDone;
     try {
       runDone = await waitForRun(runStarted.id, token, profilsConfig.apify.timeout_run_seconds || 240);
@@ -163,6 +191,7 @@ async function main() {
       log(`ERREUR wait run ${profil.id} : ${e.message}`);
       continue;
     }
+
     let items;
     try {
       items = await getDatasetItems(runDone.defaultDatasetId, token, profilsConfig.apify.max_items_per_run || 50);
@@ -181,7 +210,7 @@ async function main() {
     const n = normalizeApifyItem(item, profil);
     const { matched, hits } = matchesKeywords(n, filters);
     if (!matched) continue;
-    n.segment = detectSegment(n, filters, "ESR"); // défaut ESR pour les profils Tier-1
+    n.segment = detectSegment(n, filters, "ESR"); // défaut ESR pour Profils
     n.keyword_hits = hits;
     const { total: score, detail } = autoScore(n, filters, { profilBoost: true });
     n.score = score;

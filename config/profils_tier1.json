@@ -1,105 +1,57 @@
 {
-  "_comment": "Liste des profils acheteurs Tier-1 (universités autonomes, écoles privées, institutions) qui publient leurs AO sur leur propre profil et pas sur BOAMP. Le scraping passe par un actor Apify configurable.",
+  "_comment": "Liste des profils acheteurs Tier-1. Sprint 3 v1 : on appelle une saved task Apify (pré-configurée avec une pageFunction qui scrape PLACE). Sprint 3.5 : enrichissement avec recherche par mot-clé.",
 
-  "_doc_strategie": "Trois stratégies par profil : 'apify' = on appelle un actor Apify (token APIFY_TOKEN requis), 'rss' = flux RSS direct (zéro coût), 'ods' = API Opendatasoft.",
+  "_doc_strategie": "Deux modes possibles par profil : 'task_id' (recommandé, on appelle une saved task pré-configurée dans Apify) ou 'actor_id' (on appelle directement un actor public en passant l'input).",
 
   "apify": {
-    "_doc_actor": "Actor Apify recommandé : 'apify/web-scraper' (public, gratuit jusqu'à 5$ de crédit/mois). Tu peux aussi pointer un actor custom que tu auras créé. L'actor doit retourner des items avec au minimum : { titre, url, date_publication, deadline?, montant_kEur? }.",
+    "_doc_actor": "default_actor_id servait de fallback en Sprint 2. Conservé pour rétrocompatibilité, mais maintenant on utilise les saved tasks (champ task_id par profil).",
     "default_actor_id": "apify~web-scraper",
     "timeout_run_seconds": 240,
     "max_items_per_run": 50
   },
 
-  "_doc_seed": "Seed list construite depuis tes comptes clés (Paris 1, Paris 8 IED, emlyon, ICN, EFREI, IONIS, OMNES, UGE, IAE Aix). Les URLs profil acheteur sont à confirmer/compléter — celles avec 'À CONFIRMER' nécessitent une recherche manuelle sur le site de l'établissement.",
+  "_doc_seed": "Sprint 3 v1 : un seul profil actif qui pointe sur la saved task PLACE (radar-ao-isograd-place). Cette task scrape les 10 derniers AO PLACE génériques, le filtre matchesKeywords côté Node garde uniquement ceux qui matchent un mot-clé Isograd. Les autres profils restent en désactivé en attendant Sprint 3.5.",
 
   "profils": [
     {
+      "id": "place_generic",
+      "nom": "PLACE — derniers AO publiés",
+      "platform": "marches-publics.gouv.fr",
+      "task_id": "XiTlEhrCTSshrBjeN",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": true,
+      "match_acheteur": []
+    },
+    {
       "id": "paris8-ied",
       "nom": "Université Paris 8 — IED",
-      "platform": "À CONFIRMER (probablement marches-publics.gouv.fr ou place.gouv.fr)",
-      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Paris%208",
-      "strategy": "apify",
-      "actor_input": {
-        "startUrls": [{ "url": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Paris%208" }],
-        "pageFunction": "// Voir docs/apify_pageFunction.js pour le template"
-      },
-      "actif": true
-    },
-    {
-      "id": "paris1-sorbonne",
-      "nom": "Université Paris 1 Panthéon-Sorbonne",
-      "platform": "À CONFIRMER",
-      "url_profil": "",
-      "strategy": "apify",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Paris+8",
+      "strategy": "apify_task",
       "actor_input": {},
-      "actif": false
-    },
-    {
-      "id": "emlyon",
-      "nom": "emlyon business school",
-      "platform": "Privé — peu de chance d'AO publics, à mettre en pause",
-      "url_profil": "",
-      "strategy": "apify",
-      "actor_input": {},
-      "actif": false
-    },
-    {
-      "id": "icn",
-      "nom": "ICN Business School",
-      "platform": "Privé — idem emlyon",
-      "url_profil": "",
-      "strategy": "apify",
-      "actor_input": {},
-      "actif": false
-    },
-    {
-      "id": "efrei",
-      "nom": "EFREI Paris",
-      "platform": "Privé",
-      "url_profil": "",
-      "strategy": "apify",
-      "actor_input": {},
-      "actif": false
-    },
-    {
-      "id": "ionis",
-      "nom": "IONIS Education Group",
-      "platform": "Privé",
-      "url_profil": "",
-      "strategy": "apify",
-      "actor_input": {},
-      "actif": false
-    },
-    {
-      "id": "omnes-inseec",
-      "nom": "OMNES Education / INSEEC",
-      "platform": "Privé",
-      "url_profil": "",
-      "strategy": "apify",
-      "actor_input": {},
-      "actif": false
+      "actif": false,
+      "_note": "Sprint 3.5 : créer une task dédiée avec recherche par keyword + match_acheteur strict"
     },
     {
       "id": "uge",
       "nom": "Université Gustave Eiffel",
-      "platform": "À CONFIRMER (probablement place.gouv.fr ou achatpublic.com)",
+      "platform": "PLACE",
       "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Gustave+Eiffel",
-      "strategy": "apify",
-      "actor_input": {
-        "startUrls": [{ "url": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Gustave+Eiffel" }]
-      },
-      "actif": true
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false,
+      "_note": "Sprint 3.5"
     },
     {
       "id": "iae-aix",
       "nom": "IAE Aix-Marseille",
-      "platform": "À CONFIRMER (univ-amu.fr ou place.gouv.fr)",
+      "platform": "PLACE",
       "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Aix-Marseille",
-      "strategy": "apify",
-      "actor_input": {
-        "startUrls": [{ "url": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Aix-Marseille" }]
-      },
-      "actif": true
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false,
+      "_note": "Sprint 3.5"
     }
   ]
 }

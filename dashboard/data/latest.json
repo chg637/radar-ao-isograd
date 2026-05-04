@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-05-03T11:32:17.177Z",
+  "generated_at": "2026-05-04T08:24:46.300Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 54,
-      "matched": 4,
+      "fetched": 71,
+      "matched": 6,
       "go": 1,
-      "generated_at": "2026-05-03T11:31:36.232Z"
+      "generated_at": "2026-05-04T08:24:05.636Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 386,
+      "fetched": 329,
       "matched": 1,
       "go": 1,
-      "generated_at": "2026-05-03T11:31:59.977Z"
+      "generated_at": "2026-05-04T08:24:29.181Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-05-03T11:32:17.134Z"
+      "generated_at": "2026-05-04T08:24:46.249Z"
     }
   },
-  "total_fetched": 440,
-  "total_matched": 5,
+  "total_fetched": 400,
+  "total_matched": 7,
   "total_go": 2,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -127,6 +127,68 @@
       "score_detail": {
         "fit": 25,
         "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "302265-2026",
+      "ref": "302265-2026",
+      "acheteur": "AZ Sint-Jan Brugge AV",
+      "objet": "Belgique – Services de gestion des salaires – Aanstellen van een sociaal secretariaat - loonmotor",
+      "description": "De opdracht betreft het leveren van diensten voor HR en loon- en weddeadministratie door een erkend sociaal secretariaat volgens het Belgisch socialezekerheidsrecht. De overeenkomst wordt gesloten voor een periode van 4 jaar met 6 mogelijke verlengingen van 1 jaar.",
+      "cpv": "79211110",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-04",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/302265-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "303924-2026",
+      "ref": "303924-2026",
+      "acheteur": "Stad Halle",
+      "objet": "Belgique – Services de développement de logiciels d'infogérance et services de développement de suites logicielles – Software voor facilitaire opvolging",
+      "description": "Om de werking van de dienst Facilitair Beheer en van stad en OCMW Halle te optimaliseren wordt een overheidsopdracht uitgeschreven voor de aankoop en implementatie van software die de processen van facilitair beheer moet stroomlijnen. Stad en OCMW Halle werken op dit moment op verschillende manieren voor gebouwenbeheer, asset management, contractbeheer, voorraadbeheer, onderhoudsplanning, meldingenbeheer, werkorders en werkplanning, alsook voor de opmaak van aankoopdossiers overheidsopdrachten voor zowel leveringen, diensten als werken, die vaak een gevolg zijn van technische werken die dienen te gebeuren. Om dit facilitaire luik te uniformiseren en te optimaliseren wenst de organisatie hiervoor een softwarepakket aan te kopen. Stad en OCMW Halle wensen een reeds beschikbare software aan te kopen die over verschillende modules beschikt en waar een zekere vorm van flexibiliteit aanwezig is, maar waarbij maatwerk en bijkomende kosten voor dat maatwerk vermeden worden. De aanbestedende overheid ziet er op toe dat deze opdracht wordt uitgevoerd met inachtname van de anti-discriminatiewetgeving.",
+      "cpv": "72212420",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-04",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/303924-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,

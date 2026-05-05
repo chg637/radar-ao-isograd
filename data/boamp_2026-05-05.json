@@ -1,0 +1,50 @@
+{
+  "generated_at": "2026-05-05T08:03:02.652Z",
+  "source": "BOAMP",
+  "window_days": 7,
+  "total_fetched": 358,
+  "total_matched": 1,
+  "total_go": 1,
+  "notices": [
+    {
+      "id": "26-43274",
+      "ref": "26-43274",
+      "acheteur": "Conseil Départemental de la Corrèze",
+      "objet": "Prestations de surveillance humaine et de télésurveillance pour le Conseil Départemental de la Corrèze (2026AFF015)",
+      "description": "Prestations de surveillance humaine et de télésurveillance pour le Conseil Départemental de la Corrèze (2026AFF015)",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-05-29",
+      "montant": 150,
+      "publication": "2026-04-29",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-43274",
+      "_boamp": {
+        "famille": "Marchés entre 90 k€ et seuils européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Surveillance",
+          "Prestations de services"
+        ],
+        "departement": "19"
+      },
+      "segment": "Collectivités",
+      "keyword_hits": [
+        "télésurveillance"
+      ],
+      "score": 77,
+      "score_detail": {
+        "fit": 40,
+        "size": 10,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "go",
+      "notes": "",
+      "auto": true
+    }
+  ]
+}

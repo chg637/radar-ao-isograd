@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-05-05T08:03:25.053Z",
+  "generated_at": "2026-05-06T08:18:59.694Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 79,
-      "matched": 7,
+      "fetched": 78,
+      "matched": 8,
       "go": 1,
-      "generated_at": "2026-05-05T08:02:36.275Z"
+      "generated_at": "2026-05-06T08:18:14.829Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 358,
+      "fetched": 390,
       "matched": 1,
       "go": 1,
-      "generated_at": "2026-05-05T08:03:02.652Z"
+      "generated_at": "2026-05-06T08:18:38.242Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-05-05T08:03:25.003Z"
+      "generated_at": "2026-05-06T08:18:59.641Z"
     }
   },
-  "total_fetched": 437,
-  "total_matched": 8,
+  "total_fetched": 468,
+  "total_matched": 9,
   "total_go": 2,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -102,6 +102,37 @@
         "delay": 3
       },
       "score_status": "go",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "310417-2026",
+      "ref": "310417-2026",
+      "acheteur": "Provincie Oost-Vlaanderen",
+      "objet": "Belgique – Services de formation dans le domaine de la sécurité – Het organiseren van opleidingen reddingen in snelstromend en overstromingswater",
+      "description": "Voorwerp van de opdracht: Deze opdracht betreft een dienstenopdracht voor het organiseren van opleidingen inzake redding in snelstromend en overstromingswater, ten behoeve van PAULO Brandweer en de deelnemende brandweerzones. De opdracht betreft een sociale en andere specifieke dienst zoals opgesomd in bijlage III van de wet van 17 juni 2016. PAULO Brandweer leidt cursisten op in redding in snelstromend en overstromingswater en beschikt hiervoor over een poule van instructeurs in opleiding. Voor de organisatie van deze opleidingen werkt PAULO samen met een opdrachtnemer die de volledige cursus kan aanbieden (per groep van 12 deelnemers), inclusief optionele componenten zoals hotel, restauratie, theorielokaal, logistiek, materiaal en certificering. Het aantal instructeurs dat de opdrachtnemer moet voorzien, wordt per opleidingstraject door PAULO vastgesteld, afhankelijk van: • het aantal beschikbare PAULO-instructeurs, en • het competentieniveau dat deze instructeurs op dat moment hebben bereikt. De opdrachtnemer biedt een structuur die toelaat dat PAULO-instructeurs: • actief meedraaien in de opleiding, • praktijkervaring opdoen onder supervisie van een volledig gekwalificeerde instructeur, • en gradueel doorgroeien naar autonome inzetbaarheid[MP6.1][MP6.2][ME6.3]. Looptijd overeenkomst: De uitvoeringstermijn van deze opdracht bedraagt 2 jaar, te rekenen vanaf de datum van de kennisgeving van de gunning. Na afloop van deze vaste termijn kan de opdracht stilzwijgend worden verlengd met 2 periodes van telkens 12 maanden, onder dezelfde contractuele voorwaarden.[MP7.1][ME7.2] Deze verlengingen dienen uitsluitend om PAULO toe te laten de kwaliteit, werking en resultaten van de opleidingen te evalueren en eventueel een nieuwe procedure op te starten indien de opdracht na twee jaar niet langer voldoet aan de verwachtingen. Indien de opleidingen postief worden geëvalueerd, kan zij tot 4 jaar van deze dienstverlening genieten, mede gelet op de investeringen en kosten die met dergelijke specialistische opleiding gepaard gaan.",
+      "cpv": "80550000",
+      "pays": "BEL",
+      "deadline": "2026-06-16",
+      "montant": 0,
+      "publication": "2026-05-06",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/310417-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 67,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
       "notes": "",
       "auto": true
     },

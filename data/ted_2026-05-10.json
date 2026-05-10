@@ -1,70 +1,11 @@
 {
-  "generated_at": "2026-05-10T08:03:27.737Z",
-  "source": "MERGE",
-  "sources_summary": {
-    "TED": {
-      "present": true,
-      "fetched": 92,
-      "matched": 10,
-      "go": 0,
-      "generated_at": "2026-05-10T08:02:43.254Z"
-    },
-    "BOAMP": {
-      "present": true,
-      "fetched": 344,
-      "matched": 1,
-      "go": 0,
-      "generated_at": "2026-05-10T08:03:06.301Z"
-    },
-    "Profil": {
-      "present": true,
-      "fetched": 0,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-05-10T08:03:27.691Z"
-    }
-  },
-  "total_fetched": 436,
-  "total_matched": 11,
+  "generated_at": "2026-05-10T08:02:43.254Z",
+  "source": "TED",
+  "window_days": 7,
+  "total_fetched": 92,
+  "total_matched": 10,
   "total_go": 0,
-  "total_dedup_collisions": 0,
-  "dedup_breakdown": {
-    "by_id": 0,
-    "fuzzy_signature": 0,
-    "fuzzy_jaccard": 0
-  },
   "notices": [
-    {
-      "id": "317581-2026",
-      "ref": "317581-2026",
-      "acheteur": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding - Extern Verzelfstandigd Agentschap",
-      "objet": "Belgique – Services d'épreuves de conduite automobile – Examentool rijexamen C & D",
-      "description": "VDAB is een officieel examencentrum voor rijbewijzen C&D, wat ervoor zorgt dat onze opgeleide cursisten onmiddellijk kunnen overgaan tot examinering. Door de Bijzondere Wet van 6 januari 2014 met betrekking tot de Zesde Staatshervorming werd de bevoegdheid inzake de organisatie van rijexamens overgedragen aan de gewesten. De uitoefening van deze bevoegdheid wordt o.a. ondersteund door een aantal IT-applicaties die ontwikkeld werden door de overheid die de regelgeving rond de uitvoering van dergelijke examens beheert inclusief bijvoorbeeld de set van examenvragen die kunnen gesteld worden. Anderzijds behoort het organiseren van de rijbewijs examens zelf, inclusief het verwerven en onderhouden van de tooling die daarvoor nodig is, tot de verantwoordelijkheid van de organiserende instantie.",
-      "cpv": "80411100",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 1331,
-      "publication": "2026-05-08",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/317581-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 74,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 14,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
     {
       "id": "312476-2026",
       "ref": "312476-2026",
@@ -97,39 +38,31 @@
       "auto": true
     },
     {
-      "id": "26-45895",
-      "ref": "26-45895",
-      "acheteur": "Mairie de Roissy-en-Brie",
-      "objet": "ALARMES ANTI-INTRUSION PAR TELESURVEILLANCE ET PROTECTION PAR VIGILES",
-      "description": "ALARMES ANTI-INTRUSION PAR TELESURVEILLANCE ET PROTECTION PAR VIGILES",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-05-18",
-      "montant": 0,
+      "id": "317581-2026",
+      "ref": "317581-2026",
+      "acheteur": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding - Extern Verzelfstandigd Agentschap",
+      "objet": "Belgique – Services d'épreuves de conduite automobile – Examentool rijexamen C & D",
+      "description": "VDAB is een officieel examencentrum voor rijbewijzen C&D, wat ervoor zorgt dat onze opgeleide cursisten onmiddellijk kunnen overgaan tot examinering. Door de Bijzondere Wet van 6 januari 2014 met betrekking tot de Zesde Staatshervorming werd de bevoegdheid inzake de organisatie van rijexamens overgedragen aan de gewesten. De uitoefening van deze bevoegdheid wordt o.a. ondersteund door een aantal IT-applicaties die ontwikkeld werden door de overheid die de regelgeving rond de uitvoering van dergelijke examens beheert inclusief bijvoorbeeld de set van examenvragen die kunnen gesteld worden. Anderzijds behoort het organiseren van de rijbewijs examens zelf, inclusief het verwerven en onderhouden van de tooling die daarvoor nodig is, tot de verantwoordelijkheid van de organiserende instantie.",
+      "cpv": "80411100",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 1331,
       "publication": "2026-05-08",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-45895",
-      "_boamp": {
-        "famille": "Marchés européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Télésurveillance"
-        ],
-        "departement": "77"
-      },
-      "segment": "Collectivités",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/317581-2026",
+      "segment": "Autre",
       "keyword_hits": [
-        "télésurveillance"
+        "Word"
       ],
-      "score": 72,
+      "bureautique": true,
+      "score": 74,
       "score_detail": {
-        "fit": 40,
-        "size": 8,
-        "tech": 12,
+        "fit": 30,
+        "size": 15,
+        "tech": 14,
         "com": 5,
         "admin": 7,
-        "delay": 0
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -167,18 +100,18 @@
       "auto": true
     },
     {
-      "id": "314423-2026",
-      "ref": "314423-2026",
-      "acheteur": "stad Kortrijk",
-      "objet": "Belgique – Services de fourniture de logiciels – Software burgerzaken voor de stad Kortrijk",
-      "description": "Voorwerp van deze diensten: Levering, implementatie en onderhoud van een beheerstoepassing Burgerzaken. Stad Kortrijk wenst met deze opdracht een nieuwe beheerstoepassing aan te kopen die beter kan beantwoorden aan de noden van alle belanghebbenden. Het gaat hierbij om het bestuur en haar vertegenwoordigers, medewerkers, de lokale politiezone, … maar vooral haar externe klanten: Burgers. De belanghebbende verwachten steeds efficiëntere en effectieve dienstverlening en daarop wensen we met een nieuwe toepassing beter te voldoen. Voor medewerkers oriënteert deze verwachting zich in één laagdrempelige toepassing of uniforme interface om zo een maximale inzetbaarheid mogelijk te maken. Voor burgers sluit de verwachting aan bij de digitale dienstverleningsstrategie van de Vlaamse Overheid en wenst Stad Kortrijk sterk in te zetten op het gebruik van de Vlaamse bouwstenen die worden aangeleverd door Digitaal Vlaanderen. De aangeboden oplossing moet te allen tijde voldoen aan de algemene onderrichtingen die werden bepaald door de Federale Overheidsdiensten in het domein Burgerzaken. Ze kan zich vlot integreren in de bestaande architectuur en met huidige toepassingen door uit te gaan van een open-data en API-filosofie met voldoende interoperabiliteit.",
-      "cpv": "72268000",
+      "id": "302265-2026",
+      "ref": "302265-2026",
+      "acheteur": "AZ Sint-Jan Brugge AV",
+      "objet": "Belgique – Services de gestion des salaires – Aanstellen van een sociaal secretariaat - loonmotor",
+      "description": "De opdracht betreft het leveren van diensten voor HR en loon- en weddeadministratie door een erkend sociaal secretariaat volgens het Belgisch socialezekerheidsrecht. De overeenkomst wordt gesloten voor een periode van 4 jaar met 6 mogelijke verlengingen van 1 jaar.",
+      "cpv": "79211110",
       "pays": "BEL",
       "deadline": "",
       "montant": 0,
-      "publication": "2026-05-07",
+      "publication": "2026-05-04",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/314423-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/302265-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -198,18 +131,18 @@
       "auto": true
     },
     {
-      "id": "314736-2026",
-      "ref": "314736-2026",
-      "acheteur": "Thuispunt Gent bv",
-      "objet": "Belgique – Services d'aide aux utilisateurs et services d'assistance – Exploitatie van een Multikanaal helpdesk",
-      "description": "Deze opdracht heeft betrekking op de exploitatie van een Multikanaal Helpdesk voor Thuispunt Gent 24 uur op 24 uur – 7 dagen op 7. De opdracht omvat de exploitatie van een telefonische en digitale helpdesk, waarbij opgeleide onthaalmedewerkers op een klantvriendelijke, inhoudelijke, kwalitatieve en efficiënte manier worden ingezet voor de behandeling van inkomende en uitgaande contacten via diverse kanalen. Daarnaast omvat de opdracht de rekrutering, opleiding, supervisie, monitoring en coaching van de onthaalmedewerkers en het aanleveren van gegevens over deze activiteiten. Thuispunt Gent is een erkende woonmaatschappij met werkingsgebied Gent en beheert ruim 10.500 wooneenheden. Thuispunt Gent biedt diverse vormen van dienstverlening en zet daarbij meerdere kanalen in om zijn centrale communicatie- en informatierol te vervullen. Kandidaat-huurders, huurders en ex-huurders nemen zowel telefonisch als digitaal contact op met Thuispunt Gent met uiteenlopende vragen. Deze hebben onder meer betrekking op technische meldingen aan de woning, het huurcontract (zoals inschrijving en plaats op de wachtlijst) en betalingen van huur, huurlasten of herstellingsfacturen. Daarnaast richt de dienstverlening zich ook tot andere doelgroepen, zoals kandidaat-eigenaars, eigenaars (in het kader van het inhuren van woningen), leveranciers en buurtbewoners. Via deze kanalen wordt volgende informatie verstrekt: • Eerstelijnsinformatie: Basisinformatie over dienstverlening, met antwoorden op veel gestelde vragen. • Statusinformatie over dossiers: voor bepaalde thema’s wordt de stand van zaken van dossiers meegedeeld, zonder dat er wijzigingen in deze dossiers worden aangebracht. • Informatie op maat en begeleiding: Voor specifieke vragen wordt gerichte ondersteuning geboden, zoals: - het maken, wijzigen of verplaatsen van afspraken; - het registreren en aanmaken van meldingen van herstellingsaanvragen of defecten aan de woning of gemeenschappelijke delen via de facilitymanagementsoftware Planon. Er wordt hierbij een onderscheid gemaakt in bereikbaarheid - enerzijds de bereikbaarheid op weekdagen tussen 8u en 20u, waarin het merendeel van de contactopnames wordt behandeld; - anderzijds een permanentieregeling tussen 20u en 8u (’s nachts), evenals tijdens weekenddagen en officiële Belgische feestdagen. Tijdens deze permanentieregeling is de opdrachtgever uitsluitend telefonisch bereikbaar voor technische noodgevallen en staat opdrachtnemer in voor het opvangen en doorverwijzen van deze dringende technische noodgevallen. Deze opdracht is een opdracht van diensten in de zin van art. 2, 21° van de wet overheidsopdrachten.",
-      "cpv": "72253000",
+      "id": "303924-2026",
+      "ref": "303924-2026",
+      "acheteur": "Stad Halle",
+      "objet": "Belgique – Services de développement de logiciels d'infogérance et services de développement de suites logicielles – Software voor facilitaire opvolging",
+      "description": "Om de werking van de dienst Facilitair Beheer en van stad en OCMW Halle te optimaliseren wordt een overheidsopdracht uitgeschreven voor de aankoop en implementatie van software die de processen van facilitair beheer moet stroomlijnen. Stad en OCMW Halle werken op dit moment op verschillende manieren voor gebouwenbeheer, asset management, contractbeheer, voorraadbeheer, onderhoudsplanning, meldingenbeheer, werkorders en werkplanning, alsook voor de opmaak van aankoopdossiers overheidsopdrachten voor zowel leveringen, diensten als werken, die vaak een gevolg zijn van technische werken die dienen te gebeuren. Om dit facilitaire luik te uniformiseren en te optimaliseren wenst de organisatie hiervoor een softwarepakket aan te kopen. Stad en OCMW Halle wensen een reeds beschikbare software aan te kopen die over verschillende modules beschikt en waar een zekere vorm van flexibiliteit aanwezig is, maar waarbij maatwerk en bijkomende kosten voor dat maatwerk vermeden worden. De aanbestedende overheid ziet er op toe dat deze opdracht wordt uitgevoerd met inachtname van de anti-discriminatiewetgeving.",
+      "cpv": "72212420",
       "pays": "BEL",
       "deadline": "",
       "montant": 0,
-      "publication": "2026-05-07",
+      "publication": "2026-05-04",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/314736-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/303924-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -291,18 +224,18 @@
       "auto": true
     },
     {
-      "id": "302265-2026",
-      "ref": "302265-2026",
-      "acheteur": "AZ Sint-Jan Brugge AV",
-      "objet": "Belgique – Services de gestion des salaires – Aanstellen van een sociaal secretariaat - loonmotor",
-      "description": "De opdracht betreft het leveren van diensten voor HR en loon- en weddeadministratie door een erkend sociaal secretariaat volgens het Belgisch socialezekerheidsrecht. De overeenkomst wordt gesloten voor een periode van 4 jaar met 6 mogelijke verlengingen van 1 jaar.",
-      "cpv": "79211110",
+      "id": "314423-2026",
+      "ref": "314423-2026",
+      "acheteur": "stad Kortrijk",
+      "objet": "Belgique – Services de fourniture de logiciels – Software burgerzaken voor de stad Kortrijk",
+      "description": "Voorwerp van deze diensten: Levering, implementatie en onderhoud van een beheerstoepassing Burgerzaken. Stad Kortrijk wenst met deze opdracht een nieuwe beheerstoepassing aan te kopen die beter kan beantwoorden aan de noden van alle belanghebbenden. Het gaat hierbij om het bestuur en haar vertegenwoordigers, medewerkers, de lokale politiezone, … maar vooral haar externe klanten: Burgers. De belanghebbende verwachten steeds efficiëntere en effectieve dienstverlening en daarop wensen we met een nieuwe toepassing beter te voldoen. Voor medewerkers oriënteert deze verwachting zich in één laagdrempelige toepassing of uniforme interface om zo een maximale inzetbaarheid mogelijk te maken. Voor burgers sluit de verwachting aan bij de digitale dienstverleningsstrategie van de Vlaamse Overheid en wenst Stad Kortrijk sterk in te zetten op het gebruik van de Vlaamse bouwstenen die worden aangeleverd door Digitaal Vlaanderen. De aangeboden oplossing moet te allen tijde voldoen aan de algemene onderrichtingen die werden bepaald door de Federale Overheidsdiensten in het domein Burgerzaken. Ze kan zich vlot integreren in de bestaande architectuur en met huidige toepassingen door uit te gaan van een open-data en API-filosofie met voldoende interoperabiliteit.",
+      "cpv": "72268000",
       "pays": "BEL",
       "deadline": "",
       "montant": 0,
-      "publication": "2026-05-04",
+      "publication": "2026-05-07",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/302265-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/314423-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -322,18 +255,18 @@
       "auto": true
     },
     {
-      "id": "303924-2026",
-      "ref": "303924-2026",
-      "acheteur": "Stad Halle",
-      "objet": "Belgique – Services de développement de logiciels d'infogérance et services de développement de suites logicielles – Software voor facilitaire opvolging",
-      "description": "Om de werking van de dienst Facilitair Beheer en van stad en OCMW Halle te optimaliseren wordt een overheidsopdracht uitgeschreven voor de aankoop en implementatie van software die de processen van facilitair beheer moet stroomlijnen. Stad en OCMW Halle werken op dit moment op verschillende manieren voor gebouwenbeheer, asset management, contractbeheer, voorraadbeheer, onderhoudsplanning, meldingenbeheer, werkorders en werkplanning, alsook voor de opmaak van aankoopdossiers overheidsopdrachten voor zowel leveringen, diensten als werken, die vaak een gevolg zijn van technische werken die dienen te gebeuren. Om dit facilitaire luik te uniformiseren en te optimaliseren wenst de organisatie hiervoor een softwarepakket aan te kopen. Stad en OCMW Halle wensen een reeds beschikbare software aan te kopen die over verschillende modules beschikt en waar een zekere vorm van flexibiliteit aanwezig is, maar waarbij maatwerk en bijkomende kosten voor dat maatwerk vermeden worden. De aanbestedende overheid ziet er op toe dat deze opdracht wordt uitgevoerd met inachtname van de anti-discriminatiewetgeving.",
-      "cpv": "72212420",
+      "id": "314736-2026",
+      "ref": "314736-2026",
+      "acheteur": "Thuispunt Gent bv",
+      "objet": "Belgique – Services d'aide aux utilisateurs et services d'assistance – Exploitatie van een Multikanaal helpdesk",
+      "description": "Deze opdracht heeft betrekking op de exploitatie van een Multikanaal Helpdesk voor Thuispunt Gent 24 uur op 24 uur – 7 dagen op 7. De opdracht omvat de exploitatie van een telefonische en digitale helpdesk, waarbij opgeleide onthaalmedewerkers op een klantvriendelijke, inhoudelijke, kwalitatieve en efficiënte manier worden ingezet voor de behandeling van inkomende en uitgaande contacten via diverse kanalen. Daarnaast omvat de opdracht de rekrutering, opleiding, supervisie, monitoring en coaching van de onthaalmedewerkers en het aanleveren van gegevens over deze activiteiten. Thuispunt Gent is een erkende woonmaatschappij met werkingsgebied Gent en beheert ruim 10.500 wooneenheden. Thuispunt Gent biedt diverse vormen van dienstverlening en zet daarbij meerdere kanalen in om zijn centrale communicatie- en informatierol te vervullen. Kandidaat-huurders, huurders en ex-huurders nemen zowel telefonisch als digitaal contact op met Thuispunt Gent met uiteenlopende vragen. Deze hebben onder meer betrekking op technische meldingen aan de woning, het huurcontract (zoals inschrijving en plaats op de wachtlijst) en betalingen van huur, huurlasten of herstellingsfacturen. Daarnaast richt de dienstverlening zich ook tot andere doelgroepen, zoals kandidaat-eigenaars, eigenaars (in het kader van het inhuren van woningen), leveranciers en buurtbewoners. Via deze kanalen wordt volgende informatie verstrekt: • Eerstelijnsinformatie: Basisinformatie over dienstverlening, met antwoorden op veel gestelde vragen. • Statusinformatie over dossiers: voor bepaalde thema’s wordt de stand van zaken van dossiers meegedeeld, zonder dat er wijzigingen in deze dossiers worden aangebracht. • Informatie op maat en begeleiding: Voor specifieke vragen wordt gerichte ondersteuning geboden, zoals: - het maken, wijzigen of verplaatsen van afspraken; - het registreren en aanmaken van meldingen van herstellingsaanvragen of defecten aan de woning of gemeenschappelijke delen via de facilitymanagementsoftware Planon. Er wordt hierbij een onderscheid gemaakt in bereikbaarheid - enerzijds de bereikbaarheid op weekdagen tussen 8u en 20u, waarin het merendeel van de contactopnames wordt behandeld; - anderzijds een permanentieregeling tussen 20u en 8u (’s nachts), evenals tijdens weekenddagen en officiële Belgische feestdagen. Tijdens deze permanentieregeling is de opdrachtgever uitsluitend telefonisch bereikbaar voor technische noodgevallen en staat opdrachtnemer in voor het opvangen en doorverwijzen van deze dringende technische noodgevallen. Deze opdracht is een opdracht van diensten in de zin van art. 2, 21° van de wet overheidsopdrachten.",
+      "cpv": "72253000",
       "pays": "BEL",
       "deadline": "",
       "montant": 0,
-      "publication": "2026-05-04",
+      "publication": "2026-05-07",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/303924-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/314736-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"

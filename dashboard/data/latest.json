@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-05-10T08:03:27.737Z",
+  "generated_at": "2026-05-11T09:32:25.431Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 92,
+      "fetched": 96,
       "matched": 10,
       "go": 0,
-      "generated_at": "2026-05-10T08:02:43.254Z"
+      "generated_at": "2026-05-11T09:31:44.402Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 344,
+      "fetched": 347,
       "matched": 1,
       "go": 0,
-      "generated_at": "2026-05-10T08:03:06.301Z"
+      "generated_at": "2026-05-11T09:32:07.932Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-05-10T08:03:27.691Z"
+      "generated_at": "2026-05-11T09:32:25.378Z"
     }
   },
-  "total_fetched": 436,
+  "total_fetched": 443,
   "total_matched": 11,
   "total_go": 0,
   "total_dedup_collisions": 0,

@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-05-11T09:32:25.431Z",
+  "generated_at": "2026-05-12T08:33:35.967Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 96,
+      "fetched": 93,
       "matched": 10,
       "go": 0,
-      "generated_at": "2026-05-11T09:31:44.402Z"
+      "generated_at": "2026-05-12T08:32:55.636Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 347,
+      "fetched": 365,
       "matched": 1,
       "go": 0,
-      "generated_at": "2026-05-11T09:32:07.932Z"
+      "generated_at": "2026-05-12T08:33:18.790Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-05-11T09:32:25.378Z"
+      "generated_at": "2026-05-12T08:33:35.922Z"
     }
   },
-  "total_fetched": 443,
+  "total_fetched": 458,
   "total_matched": 11,
   "total_go": 0,
   "total_dedup_collisions": 0,
@@ -97,6 +97,37 @@
       "auto": true
     },
     {
+      "id": "326531-2026",
+      "ref": "326531-2026",
+      "acheteur": "APNI",
+      "objet": "France – Conseil en affaires et en gestion et services connexes – Accord-Cadre de prestations de services d'appui à la mise en oeuvre et à la gestion des actions de formation à destination des salariés du secteur des particuliers employeurs et de l'emploi à domicile",
+      "description": "L'objectif poursuivi par cet accompagnement est de garantir une égale qualité des dispenses de formation sur tout le territoire français, DROM inclus. Il vise à accompagner les organismes de formation dispensateur de formation du catalogue de la branche vers l'excellence pédagogique. / L'objectif est de garantir une chaîne indemnitaire fluide, sécurisée et traçable, assurant un paiement rapide, exact et conforme aux exigences de la branche.",
+      "cpv": "79400000",
+      "pays": "FRA",
+      "deadline": "",
+      "montant": 2671,
+      "publication": "2026-05-12",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/326531-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Excel"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "26-45895",
       "ref": "26-45895",
       "acheteur": "Mairie de Roissy-en-Brie",
@@ -161,6 +192,37 @@
         "com": 5,
         "admin": 7,
         "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "323060-2026",
+      "ref": "323060-2026",
+      "acheteur": "EDF SA",
+      "objet": "France – Services de développement de logiciels de bureautique – Licences Bureautiques PDF",
+      "description": "Fournir et mettre en place une solution logicielle permettant l’édition, la gestion et la manipulation avancée de fichiers PDF au sein du groupe EDF. Le logiciel doit offrir des fonctionnalités essentielles telles que l’édition, l’annotation, la signature numérique, et l’archivage sécurisé des documents. Il doit également assurer la conformité réglementaire et la sécurité informatique tout en intégrant des outils de traitement par lots et de gestion multilingue. Le prestataire doit garantir un support technique, la maintenance et la mise à jour du logiciel. Enfin, la solution doit être adaptée au contexte organisationnel et technique de l’entreprise et à son système d’information.",
+      "cpv": "72212920",
+      "pays": "FRA",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-12",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/323060-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "bureautique"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -272,68 +334,6 @@
       "publication": "2026-05-05",
       "source": "TED",
       "url": "https://ted.europa.eu/fr/notice/-/detail/306953-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "302265-2026",
-      "ref": "302265-2026",
-      "acheteur": "AZ Sint-Jan Brugge AV",
-      "objet": "Belgique – Services de gestion des salaires – Aanstellen van een sociaal secretariaat - loonmotor",
-      "description": "De opdracht betreft het leveren van diensten voor HR en loon- en weddeadministratie door een erkend sociaal secretariaat volgens het Belgisch socialezekerheidsrecht. De overeenkomst wordt gesloten voor een periode van 4 jaar met 6 mogelijke verlengingen van 1 jaar.",
-      "cpv": "79211110",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-05-04",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/302265-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "303924-2026",
-      "ref": "303924-2026",
-      "acheteur": "Stad Halle",
-      "objet": "Belgique – Services de développement de logiciels d'infogérance et services de développement de suites logicielles – Software voor facilitaire opvolging",
-      "description": "Om de werking van de dienst Facilitair Beheer en van stad en OCMW Halle te optimaliseren wordt een overheidsopdracht uitgeschreven voor de aankoop en implementatie van software die de processen van facilitair beheer moet stroomlijnen. Stad en OCMW Halle werken op dit moment op verschillende manieren voor gebouwenbeheer, asset management, contractbeheer, voorraadbeheer, onderhoudsplanning, meldingenbeheer, werkorders en werkplanning, alsook voor de opmaak van aankoopdossiers overheidsopdrachten voor zowel leveringen, diensten als werken, die vaak een gevolg zijn van technische werken die dienen te gebeuren. Om dit facilitaire luik te uniformiseren en te optimaliseren wenst de organisatie hiervoor een softwarepakket aan te kopen. Stad en OCMW Halle wensen een reeds beschikbare software aan te kopen die over verschillende modules beschikt en waar een zekere vorm van flexibiliteit aanwezig is, maar waarbij maatwerk en bijkomende kosten voor dat maatwerk vermeden worden. De aanbestedende overheid ziet er op toe dat deze opdracht wordt uitgevoerd met inachtname van de anti-discriminatiewetgeving.",
-      "cpv": "72212420",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-05-04",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/303924-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"

@@ -1,70 +1,11 @@
 {
-  "generated_at": "2026-05-13T08:39:10.353Z",
-  "source": "MERGE",
-  "sources_summary": {
-    "TED": {
-      "present": true,
-      "fetched": 87,
-      "matched": 8,
-      "go": 0,
-      "generated_at": "2026-05-13T08:38:25.678Z"
-    },
-    "BOAMP": {
-      "present": true,
-      "fetched": 400,
-      "matched": 2,
-      "go": 0,
-      "generated_at": "2026-05-13T08:38:48.611Z"
-    },
-    "Profil": {
-      "present": true,
-      "fetched": 0,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-05-13T08:39:10.300Z"
-    }
-  },
-  "total_fetched": 487,
-  "total_matched": 10,
+  "generated_at": "2026-05-13T08:38:25.678Z",
+  "source": "TED",
+  "window_days": 7,
+  "total_fetched": 87,
+  "total_matched": 8,
   "total_go": 0,
-  "total_dedup_collisions": 0,
-  "dedup_breakdown": {
-    "by_id": 0,
-    "fuzzy_signature": 0,
-    "fuzzy_jaccard": 0
-  },
   "notices": [
-    {
-      "id": "317581-2026",
-      "ref": "317581-2026",
-      "acheteur": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding - Extern Verzelfstandigd Agentschap",
-      "objet": "Belgique – Services d'épreuves de conduite automobile – Examentool rijexamen C & D",
-      "description": "VDAB is een officieel examencentrum voor rijbewijzen C&D, wat ervoor zorgt dat onze opgeleide cursisten onmiddellijk kunnen overgaan tot examinering. Door de Bijzondere Wet van 6 januari 2014 met betrekking tot de Zesde Staatshervorming werd de bevoegdheid inzake de organisatie van rijexamens overgedragen aan de gewesten. De uitoefening van deze bevoegdheid wordt o.a. ondersteund door een aantal IT-applicaties die ontwikkeld werden door de overheid die de regelgeving rond de uitvoering van dergelijke examens beheert inclusief bijvoorbeeld de set van examenvragen die kunnen gesteld worden. Anderzijds behoort het organiseren van de rijbewijs examens zelf, inclusief het verwerven en onderhouden van de tooling die daarvoor nodig is, tot de verantwoordelijkheid van de organiserende instantie.",
-      "cpv": "80411100",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 1331,
-      "publication": "2026-05-08",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/317581-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 74,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 14,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
     {
       "id": "312476-2026",
       "ref": "312476-2026",
@@ -91,6 +32,37 @@
         "com": 5,
         "admin": 7,
         "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "317581-2026",
+      "ref": "317581-2026",
+      "acheteur": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding - Extern Verzelfstandigd Agentschap",
+      "objet": "Belgique – Services d'épreuves de conduite automobile – Examentool rijexamen C & D",
+      "description": "VDAB is een officieel examencentrum voor rijbewijzen C&D, wat ervoor zorgt dat onze opgeleide cursisten onmiddellijk kunnen overgaan tot examinering. Door de Bijzondere Wet van 6 januari 2014 met betrekking tot de Zesde Staatshervorming werd de bevoegdheid inzake de organisatie van rijexamens overgedragen aan de gewesten. De uitoefening van deze bevoegdheid wordt o.a. ondersteund door een aantal IT-applicaties die ontwikkeld werden door de overheid die de regelgeving rond de uitvoering van dergelijke examens beheert inclusief bijvoorbeeld de set van examenvragen die kunnen gesteld worden. Anderzijds behoort het organiseren van de rijbewijs examens zelf, inclusief het verwerven en onderhouden van de tooling die daarvoor nodig is, tot de verantwoordelijkheid van de organiserende instantie.",
+      "cpv": "80411100",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 1331,
+      "publication": "2026-05-08",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/317581-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 74,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 14,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -128,45 +100,6 @@
       "auto": true
     },
     {
-      "id": "26-45895",
-      "ref": "26-45895",
-      "acheteur": "Mairie de Roissy-en-Brie",
-      "objet": "ALARMES ANTI-INTRUSION PAR TELESURVEILLANCE ET PROTECTION PAR VIGILES",
-      "description": "ALARMES ANTI-INTRUSION PAR TELESURVEILLANCE ET PROTECTION PAR VIGILES",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-05-18",
-      "montant": 0,
-      "publication": "2026-05-08",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-45895",
-      "_boamp": {
-        "famille": "Marchés européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Télésurveillance"
-        ],
-        "departement": "77"
-      },
-      "segment": "Collectivités",
-      "keyword_hits": [
-        "télésurveillance"
-      ],
-      "score": 72,
-      "score_detail": {
-        "fit": 40,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "310417-2026",
       "ref": "310417-2026",
       "acheteur": "Provincie Oost-Vlaanderen",
@@ -192,37 +125,6 @@
         "com": 5,
         "admin": 7,
         "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "323060-2026",
-      "ref": "323060-2026",
-      "acheteur": "EDF SA",
-      "objet": "France – Services de développement de logiciels de bureautique – Licences Bureautiques PDF",
-      "description": "Fournir et mettre en place une solution logicielle permettant l’édition, la gestion et la manipulation avancée de fichiers PDF au sein du groupe EDF. Le logiciel doit offrir des fonctionnalités essentielles telles que l’édition, l’annotation, la signature numérique, et l’archivage sécurisé des documents. Il doit également assurer la conformité réglementaire et la sécurité informatique tout en intégrant des outils de traitement par lots et de gestion multilingue. Le prestataire doit garantir un support technique, la maintenance et la mise à jour du logiciel. Enfin, la solution doit être adaptée au contexte organisationnel et technique de l’entreprise et à son système d’information.",
-      "cpv": "72212920",
-      "pays": "FRA",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-05-12",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/323060-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "bureautique"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -291,6 +193,37 @@
       "auto": true
     },
     {
+      "id": "323060-2026",
+      "ref": "323060-2026",
+      "acheteur": "EDF SA",
+      "objet": "France – Services de développement de logiciels de bureautique – Licences Bureautiques PDF",
+      "description": "Fournir et mettre en place une solution logicielle permettant l’édition, la gestion et la manipulation avancée de fichiers PDF au sein du groupe EDF. Le logiciel doit offrir des fonctionnalités essentielles telles que l’édition, l’annotation, la signature numérique, et l’archivage sécurisé des documents. Il doit également assurer la conformité réglementaire et la sécurité informatique tout en intégrant des outils de traitement par lots et de gestion multilingue. Le prestataire doit garantir un support technique, la maintenance et la mise à jour du logiciel. Enfin, la solution doit être adaptée au contexte organisationnel et technique de l’entreprise et à son système d’information.",
+      "cpv": "72212920",
+      "pays": "FRA",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-12",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/323060-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "bureautique"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "312507-2026",
       "ref": "312507-2026",
       "acheteur": "CAISSE CENTRALE MSA",
@@ -316,45 +249,6 @@
         "com": 5,
         "admin": 7,
         "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "26-47511",
-      "ref": "26-47511",
-      "acheteur": "Direction générale de l'Aviation civile",
-      "objet": "Accompagnement à la conformité ISO 9001 en vigueur des services du secrétariat général (SG) de la Direction générale de l'Aviation civile au cours de son deuxième cycle de certification 2027-2029",
-      "description": "Accompagnement à la conformité ISO 9001 en vigueur des services du secrétariat général (SG) de la Direction générale de l'Aviation civile au cours de son deuxième cycle de certification 2027-2029",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-06-18",
-      "montant": 50,
-      "publication": "2026-05-12",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-47511",
-      "_boamp": {
-        "famille": "Marchés <90 k€ (MAPA)",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Adaptée",
-        "descripteurs": [
-          "Prestations de services"
-        ],
-        "departement": "75"
-      },
-      "segment": "Autre",
-      "keyword_hits": [
-        "certification services"
-      ],
-      "score": 59,
-      "score_detail": {
-        "fit": 25,
-        "size": 5,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
       },
       "score_status": "cond",
       "notes": "",

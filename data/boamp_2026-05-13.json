@@ -1,0 +1,88 @@
+{
+  "generated_at": "2026-05-13T08:38:48.611Z",
+  "source": "BOAMP",
+  "window_days": 7,
+  "total_fetched": 400,
+  "total_matched": 2,
+  "total_go": 0,
+  "notices": [
+    {
+      "id": "26-45895",
+      "ref": "26-45895",
+      "acheteur": "Mairie de Roissy-en-Brie",
+      "objet": "ALARMES ANTI-INTRUSION PAR TELESURVEILLANCE ET PROTECTION PAR VIGILES",
+      "description": "ALARMES ANTI-INTRUSION PAR TELESURVEILLANCE ET PROTECTION PAR VIGILES",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-05-18",
+      "montant": 0,
+      "publication": "2026-05-08",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-45895",
+      "_boamp": {
+        "famille": "Marchés européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Télésurveillance"
+        ],
+        "departement": "77"
+      },
+      "segment": "Collectivités",
+      "keyword_hits": [
+        "télésurveillance"
+      ],
+      "score": 72,
+      "score_detail": {
+        "fit": 40,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "26-47511",
+      "ref": "26-47511",
+      "acheteur": "Direction générale de l'Aviation civile",
+      "objet": "Accompagnement à la conformité ISO 9001 en vigueur des services du secrétariat général (SG) de la Direction générale de l'Aviation civile au cours de son deuxième cycle de certification 2027-2029",
+      "description": "Accompagnement à la conformité ISO 9001 en vigueur des services du secrétariat général (SG) de la Direction générale de l'Aviation civile au cours de son deuxième cycle de certification 2027-2029",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-06-18",
+      "montant": 50,
+      "publication": "2026-05-12",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-47511",
+      "_boamp": {
+        "famille": "Marchés <90 k€ (MAPA)",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Adaptée",
+        "descripteurs": [
+          "Prestations de services"
+        ],
+        "departement": "75"
+      },
+      "segment": "Autre",
+      "keyword_hits": [
+        "certification services"
+      ],
+      "score": 59,
+      "score_detail": {
+        "fit": 25,
+        "size": 5,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    }
+  ]
+}

@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-05-12T08:33:35.967Z",
+  "generated_at": "2026-05-13T08:39:10.353Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 93,
-      "matched": 10,
+      "fetched": 87,
+      "matched": 8,
       "go": 0,
-      "generated_at": "2026-05-12T08:32:55.636Z"
+      "generated_at": "2026-05-13T08:38:25.678Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 365,
-      "matched": 1,
+      "fetched": 400,
+      "matched": 2,
       "go": 0,
-      "generated_at": "2026-05-12T08:33:18.790Z"
+      "generated_at": "2026-05-13T08:38:48.611Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-05-12T08:33:35.922Z"
+      "generated_at": "2026-05-13T08:39:10.300Z"
     }
   },
-  "total_fetched": 458,
-  "total_matched": 11,
+  "total_fetched": 487,
+  "total_matched": 10,
   "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -291,68 +291,6 @@
       "auto": true
     },
     {
-      "id": "306144-2026",
-      "ref": "306144-2026",
-      "acheteur": "Provincie Oost-Vlaanderen",
-      "objet": "Belgique – Logiciels et systèmes d'information – Raamovereenkomst voor FME-licenties, geven van opleidingen voor FME, het aanbieden van consultancy voor de infrastructuur met FME en het aanbieden van consultancy voor het schrijven van scripts in een FME-infrastructuur",
-      "description": "DataWISE staat voor 'Datagedreven Werken Is Samen Efficiënter' en heeft als doel steden en gemeenten te helpen om slimmer en efficiënter met data te werken door gegevens beter te bundelen en toegankelijk te maken. Doelstellingen: Het opzetten van een gedeelde infrastructuur die het mogelijk maakt om gegevens te verzamelen, controleren, hergebruiken en beschikbaar te stellen op basis van bewezen ETL-technologie (Extract, Transform, Load). Het project omvat het uitwerken en implementeren van tien generieke gebruikstoepassingen binnen deze gedeelde infrastructuur. Drie werden reeds bepaald, zeven worden vastgelegd via een participatietraject. Het delen van kennis via een lerend netwerk, coaching en opleidingen. Er is ervoor gekozen om in te zetten op de gekende FME-software als ETL-tool om de gebruikstoepassingen te implementeren. De opdracht is opgezet als een raamovereenkomst en valt uiteen in een aantal grote onderdelen. In een eerste onderdeel worden er verschillende FME-licenties aangeschaft, wat op verschillende manieren kan. Dit kan zowel door de aankoop van de licenties als de huur van de licenties. Een tweede onderdeel bevat de consultancy om de FME-infrastructuur op te zetten. Indien er verschillende FME-licenties worden ingezet, moet hiervoor ook een infrastructuur worden opgezet met bijvoorbeeld servers en integraties met andere software. Voor DataWISE zal de infrastructuur in staat moeten zijn om de ontwikkelde processen gedeeld te kunnen aanbieden tussen verschillende steden en gemeenten, hetzij als sjabloon, hetzij om bepaalde processen te implementeren. Om met FME te kunnen omgaan worden er verschillende opleidingen aangeboden, wat een derde onderdeel is van de opdracht. Ten slotte is er ook consultancy voorzien voor het uitwerken van verschillende scripts, dit om gebruikstoepassingen te kunnen implementeren. Het geheel zal opgezet worden als een aankoopcentrale. Een aankoopcentrale is nodig om het DataWISE-verhaal op te zetten, om DataWISE verder te verankeren na het aflopen van het EFRO-project en om te kunnen opschalen. Er kan al tijdens het project gebruik gemaakt worden van de aankoopcentrale door andere besturen (buiten het DataWISE-project), dit onder andere om de kennis en expertise opgedaan in het project te kunnen delen. Er kan gebruik gemaakt worden van de aankoopcentrale door alle lokale instanties op het grondgebied van het Vlaamse gewest. In de selectie- en gunningsleidraad is een lijst opgenomen om welke instanties het gaat. Binnen de raamovereenkomst zullen afnames gebeuren door middel van een cascadesysteem voor bestellingen onder de 30 000 EUR en met mini-competities voor afnames boven de 30 000 EUR. In de gunningsleidraad staat beschrijven hoe die afnames gaan gebeuren. De Provincie Oost-Vlaanderen zal een kostendekkende vergoeding vragen voor elke afname die zal plaatsvinden binnen deze raamovereenkomst.",
-      "cpv": "48000000",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-05-05",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/306144-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "306953-2026",
-      "ref": "306953-2026",
-      "acheteur": "Familiehulp vzw",
-      "objet": "Belgique – Services de formation – Raamovereenkomst met meerdere deelnemers voor het uitwerken en geven van trainingen voor bedienden, middenkader en directie en het begeleiden van teams.",
-      "description": "Uitwerken van de opdracht en trainingsmodule met als onderwerp “Leiderschapsvaardigheden voor middenkader en directie” in 2 modules: een basis en een verdiepende module o Dag 1 – De basismodule van 1 dag richt zich op startende leidinggevenden en biedt een introductie in de leiderschapsrollen zoals gedefinieerd binnen Familiehulp. De deelnemers leren deze rollen inzetten en maken de transfer naar hun dagelijkse praktijk. Er wordt gewerkt rond het faciliteren van verandering op een verbindende en oplossingsgerichte manier, met aandacht voor de afgesproken kaders binnen de organisatie. o Dag 2 – De verdiepende module van 1 dag is bedoeld voor meer ervaren leidinggevenden en biedt ruimte voor verdieping. De focus ligt op het versterken van leiderschapsvaardigheden, het begeleiden van teams in veranderprocessen, het omgaan met spanningen en conflicten. o Modaliteit: Fysieke training / Uitwerken van de opdracht en trainingsmodule met als onderwerp “Verbindende communicatie voor bedienden, middenkader en directie” in 2 modules: een basis en verdiepende module. o 1 - Basismodule: Een tweedaagse basisopleiding verbindende communicatie aangeboden, waarin twee doelgroepen samen deelnemen: startende medewerkers met een backofficefunctie en startende leidinggevenden. Deze opleiding biedt een introductie in de principes van verbindende communicatie (VC), met aandacht voor het onderscheid tussen verbindende en aanvallende communicatie, de onderliggende processen, en de valkuilen. De deelnemers leren hun eigen gevoelens en behoeften helder te verwoorden, ontwikkelen luistervaardigheden en oefenen met het toepassen van de VC-stappen in diverse werkcontexten – ook wanneer het gaat om moeilijk bespreekbare thema’s. o 2 – Verdiepende module: De verdiepende module van 1 dag voor teams Deze verdieping richt zich op het toepassen van verbindende communicatie in uitdagende situaties, zoals het geven en ontvangen van feedback, het omgaan met conflicten en het hanteren van lastige emoties. De deelnemers leren hoe ze verbindende communicatie kunnen inzetten in hun team. Er wordt ook aandacht besteed aan het behouden van verbinding, zelfs wanneer de ander communicatie gebruikt die als aanvallend of gewelddadig wordt ervaren. o Modaliteit: Fysieke training / Uitwerken van de opdracht en trainingsmodule met als onderwerp “Oplossingsgericht werken voor bedienden, middenkader en directie” in 2 modules Module 1: Deze 2-daagse basismodule Oplossingsgericht werken is specifiek afgestemd op twee doelgroepen, die elk aparte sessies volgen: Startende medewerkers met een eerder backofficefunctie Startende leidinggevenden met focus op hun leidinggevende rol De opleiding biedt een introductie in de principes van oplossingsgerichte gespreksvoering, met aandacht voor het onderscheid tussen probleemgericht en oplossingsgericht denken en communiceren. De deelnemers leren de vier stappen van het oplossingsgerichte gesprek kennen en oefenen hoe ze deze kunnen toepassen in hun dagelijkse werkcontext. Module 2: Deze verdiepingsmodule van 1 dag bouwt voort op de basisprincipes van de oplossingsgerichte aanpak en focust op het stimuleren van samenwerking binnen het team dat ze begeleiden. De inhoud wordt afgestemd op concrete werksituaties, zodat deelnemers kunnen oefenen met herkenbare cases en uitdagingen. Tijdens de opleiding krijgen deelnemers een opfrissing van de oplossingsgerichte principes en oefenen ze met het voeren van oplossingsgerichte gesprekken, het geven van constructieve feedback en het omgaan met weerstand. Er wordt ook gewerkt rond het omzetten van intenties naar concrete acties, zowel op individueel niveau als binnen het team. o Modaliteit: Fysieke training / Uitwerken van Coachopdrachten. o Deze coaching is geen standaard training, maar een begeleidingsvorm die inspeelt op concrete noden in de praktijk. Ze wordt ingezet wanneer de leidinggevende extra ondersteuning nodig heeft om het team te faciliteren in hun samenwerking, of wanneer de dynamiek binnen het team tijdelijk te complex is om zelfstandig te hanteren. o De coaching vertrekt vanuit de principes van de oplossingsgerichte aanpak en focust op het versterken van constructieve communicatie, samenwerking en teamontwikkeling. De sessies worden afgestemd op de specifieke context en uitdagingen van het team, met aandacht voor de afgesproken kaders binnen onze organisatie. o Hoe ondersteunen we de leidinggevende in de conflictsituatie. Welke tools heeft de leidinggevende ter beschikking en hoe deze te gebruiken. o Modaliteit: Fysiek / Uitwerken van de opdracht en trainingsmodule met als onderwerp “Teamdynamiek” voor één dag o Deelnemers hebben een minimum basiskennis om te kunnen deelnemen.  Fasen teamontwikkeling  Doelen en teamcharter opstellen  Taken, rollen en samenwerking o De focus ligt op het verdiepen van inzicht in de onderliggende processen die teamwerking beïnvloeden. De deelnemers leren kijken naar hun team in functie van gewoontes en krijgen handvatten om conflicten op een productieve manier aan te pakken. Er wordt gewerkt rond het versterken van vertrouwen en psychologische veiligheid, en het bevorderen van inclusie en diversiteit binnen teams. o Leerdoelen van de opleiding  Observeren en concluderen over de werking van het team  Conflicten op een productieve manier aanpakken  Belang van vertrouwen en veiligheid in teams en hoe bereiken we dat  Inclusie en diversiteit binnen het team  Zelfreflectie gedrag en communicatie – gevolgen op het team o Modaliteit: Fysieke training",
-      "cpv": "80500000",
-      "pays": "BEL",
-      "deadline": "2026-06-09",
-      "montant": 0,
-      "publication": "2026-05-05",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/306953-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "312507-2026",
       "ref": "312507-2026",
       "acheteur": "CAISSE CENTRALE MSA",
@@ -378,6 +316,45 @@
         "com": 5,
         "admin": 7,
         "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "26-47511",
+      "ref": "26-47511",
+      "acheteur": "Direction générale de l'Aviation civile",
+      "objet": "Accompagnement à la conformité ISO 9001 en vigueur des services du secrétariat général (SG) de la Direction générale de l'Aviation civile au cours de son deuxième cycle de certification 2027-2029",
+      "description": "Accompagnement à la conformité ISO 9001 en vigueur des services du secrétariat général (SG) de la Direction générale de l'Aviation civile au cours de son deuxième cycle de certification 2027-2029",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-06-18",
+      "montant": 50,
+      "publication": "2026-05-12",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-47511",
+      "_boamp": {
+        "famille": "Marchés <90 k€ (MAPA)",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Adaptée",
+        "descripteurs": [
+          "Prestations de services"
+        ],
+        "departement": "75"
+      },
+      "segment": "Autre",
+      "keyword_hits": [
+        "certification services"
+      ],
+      "score": 59,
+      "score_detail": {
+        "fit": 25,
+        "size": 5,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
       },
       "score_status": "cond",
       "notes": "",

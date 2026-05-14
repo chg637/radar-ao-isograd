@@ -1,0 +1,227 @@
+{
+  "generated_at": "2026-05-14T08:32:04.379Z",
+  "source": "TED",
+  "window_days": 7,
+  "total_fetched": 74,
+  "total_matched": 7,
+  "total_go": 0,
+  "notices": [
+    {
+      "id": "312476-2026",
+      "ref": "312476-2026",
+      "acheteur": "Uniformation",
+      "objet": "France – Services de formation professionnelle – Catalogue national des formations transversales",
+      "description": "Améliorer et réussir ses écrits professionnels / Animer des réunions à distance / Bases de la réglementation en établissement recevant du public (ERP) / Droit du travail - niveau 2 les contrats et les ruptures / Gérer un projet - les bases / S'engager dans une démarche de responsabilité sociétale de votre structure (RSE) / S'initier à une démarche qualité de vie au travail (QVT) / Savoir gérer et organiser une manifestation évènementielle de A à Z / Traitement de texte - initiation / Construire un support de présentation / Utilisation des logiciels de visioconférence - initiation / Transmettre ses savoirs et ses compétences professionnelles / Agir concrètement pour l'emploi des 50 ans et plus : de la compréhension à l'action RH et managériale / Formation Premiers Secours en Santé Mentale (formateurs agréés sur la liste de PSSM France) / Mieux accueillir et orienter les publics en difficulté avec le numérique",
+      "cpv": "80530000",
+      "pays": "FRA",
+      "deadline": "2026-05-20",
+      "montant": 2561,
+      "publication": "2026-05-07",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/312476-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "traitement de texte"
+      ],
+      "bureautique": true,
+      "score": 74,
+      "score_detail": {
+        "fit": 35,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "317581-2026",
+      "ref": "317581-2026",
+      "acheteur": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding - Extern Verzelfstandigd Agentschap",
+      "objet": "Belgique – Services d'épreuves de conduite automobile – Examentool rijexamen C & D",
+      "description": "VDAB is een officieel examencentrum voor rijbewijzen C&D, wat ervoor zorgt dat onze opgeleide cursisten onmiddellijk kunnen overgaan tot examinering. Door de Bijzondere Wet van 6 januari 2014 met betrekking tot de Zesde Staatshervorming werd de bevoegdheid inzake de organisatie van rijexamens overgedragen aan de gewesten. De uitoefening van deze bevoegdheid wordt o.a. ondersteund door een aantal IT-applicaties die ontwikkeld werden door de overheid die de regelgeving rond de uitvoering van dergelijke examens beheert inclusief bijvoorbeeld de set van examenvragen die kunnen gesteld worden. Anderzijds behoort het organiseren van de rijbewijs examens zelf, inclusief het verwerven en onderhouden van de tooling die daarvoor nodig is, tot de verantwoordelijkheid van de organiserende instantie.",
+      "cpv": "80411100",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 1331,
+      "publication": "2026-05-08",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/317581-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 74,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 14,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "326531-2026",
+      "ref": "326531-2026",
+      "acheteur": "APNI",
+      "objet": "France – Conseil en affaires et en gestion et services connexes – Accord-Cadre de prestations de services d'appui à la mise en oeuvre et à la gestion des actions de formation à destination des salariés du secteur des particuliers employeurs et de l'emploi à domicile",
+      "description": "L'objectif poursuivi par cet accompagnement est de garantir une égale qualité des dispenses de formation sur tout le territoire français, DROM inclus. Il vise à accompagner les organismes de formation dispensateur de formation du catalogue de la branche vers l'excellence pédagogique. / L'objectif est de garantir une chaîne indemnitaire fluide, sécurisée et traçable, assurant un paiement rapide, exact et conforme aux exigences de la branche.",
+      "cpv": "79400000",
+      "pays": "FRA",
+      "deadline": "",
+      "montant": 2671,
+      "publication": "2026-05-12",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/326531-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Excel"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "314423-2026",
+      "ref": "314423-2026",
+      "acheteur": "stad Kortrijk",
+      "objet": "Belgique – Services de fourniture de logiciels – Software burgerzaken voor de stad Kortrijk",
+      "description": "Voorwerp van deze diensten: Levering, implementatie en onderhoud van een beheerstoepassing Burgerzaken. Stad Kortrijk wenst met deze opdracht een nieuwe beheerstoepassing aan te kopen die beter kan beantwoorden aan de noden van alle belanghebbenden. Het gaat hierbij om het bestuur en haar vertegenwoordigers, medewerkers, de lokale politiezone, … maar vooral haar externe klanten: Burgers. De belanghebbende verwachten steeds efficiëntere en effectieve dienstverlening en daarop wensen we met een nieuwe toepassing beter te voldoen. Voor medewerkers oriënteert deze verwachting zich in één laagdrempelige toepassing of uniforme interface om zo een maximale inzetbaarheid mogelijk te maken. Voor burgers sluit de verwachting aan bij de digitale dienstverleningsstrategie van de Vlaamse Overheid en wenst Stad Kortrijk sterk in te zetten op het gebruik van de Vlaamse bouwstenen die worden aangeleverd door Digitaal Vlaanderen. De aangeboden oplossing moet te allen tijde voldoen aan de algemene onderrichtingen die werden bepaald door de Federale Overheidsdiensten in het domein Burgerzaken. Ze kan zich vlot integreren in de bestaande architectuur en met huidige toepassingen door uit te gaan van een open-data en API-filosofie met voldoende interoperabiliteit.",
+      "cpv": "72268000",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-07",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/314423-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "314736-2026",
+      "ref": "314736-2026",
+      "acheteur": "Thuispunt Gent bv",
+      "objet": "Belgique – Services d'aide aux utilisateurs et services d'assistance – Exploitatie van een Multikanaal helpdesk",
+      "description": "Deze opdracht heeft betrekking op de exploitatie van een Multikanaal Helpdesk voor Thuispunt Gent 24 uur op 24 uur – 7 dagen op 7. De opdracht omvat de exploitatie van een telefonische en digitale helpdesk, waarbij opgeleide onthaalmedewerkers op een klantvriendelijke, inhoudelijke, kwalitatieve en efficiënte manier worden ingezet voor de behandeling van inkomende en uitgaande contacten via diverse kanalen. Daarnaast omvat de opdracht de rekrutering, opleiding, supervisie, monitoring en coaching van de onthaalmedewerkers en het aanleveren van gegevens over deze activiteiten. Thuispunt Gent is een erkende woonmaatschappij met werkingsgebied Gent en beheert ruim 10.500 wooneenheden. Thuispunt Gent biedt diverse vormen van dienstverlening en zet daarbij meerdere kanalen in om zijn centrale communicatie- en informatierol te vervullen. Kandidaat-huurders, huurders en ex-huurders nemen zowel telefonisch als digitaal contact op met Thuispunt Gent met uiteenlopende vragen. Deze hebben onder meer betrekking op technische meldingen aan de woning, het huurcontract (zoals inschrijving en plaats op de wachtlijst) en betalingen van huur, huurlasten of herstellingsfacturen. Daarnaast richt de dienstverlening zich ook tot andere doelgroepen, zoals kandidaat-eigenaars, eigenaars (in het kader van het inhuren van woningen), leveranciers en buurtbewoners. Via deze kanalen wordt volgende informatie verstrekt: • Eerstelijnsinformatie: Basisinformatie over dienstverlening, met antwoorden op veel gestelde vragen. • Statusinformatie over dossiers: voor bepaalde thema’s wordt de stand van zaken van dossiers meegedeeld, zonder dat er wijzigingen in deze dossiers worden aangebracht. • Informatie op maat en begeleiding: Voor specifieke vragen wordt gerichte ondersteuning geboden, zoals: - het maken, wijzigen of verplaatsen van afspraken; - het registreren en aanmaken van meldingen van herstellingsaanvragen of defecten aan de woning of gemeenschappelijke delen via de facilitymanagementsoftware Planon. Er wordt hierbij een onderscheid gemaakt in bereikbaarheid - enerzijds de bereikbaarheid op weekdagen tussen 8u en 20u, waarin het merendeel van de contactopnames wordt behandeld; - anderzijds een permanentieregeling tussen 20u en 8u (’s nachts), evenals tijdens weekenddagen en officiële Belgische feestdagen. Tijdens deze permanentieregeling is de opdrachtgever uitsluitend telefonisch bereikbaar voor technische noodgevallen en staat opdrachtnemer in voor het opvangen en doorverwijzen van deze dringende technische noodgevallen. Deze opdracht is een opdracht van diensten in de zin van art. 2, 21° van de wet overheidsopdrachten.",
+      "cpv": "72253000",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-07",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/314736-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "323060-2026",
+      "ref": "323060-2026",
+      "acheteur": "EDF SA",
+      "objet": "France – Services de développement de logiciels de bureautique – Licences Bureautiques PDF",
+      "description": "Fournir et mettre en place une solution logicielle permettant l’édition, la gestion et la manipulation avancée de fichiers PDF au sein du groupe EDF. Le logiciel doit offrir des fonctionnalités essentielles telles que l’édition, l’annotation, la signature numérique, et l’archivage sécurisé des documents. Il doit également assurer la conformité réglementaire et la sécurité informatique tout en intégrant des outils de traitement par lots et de gestion multilingue. Le prestataire doit garantir un support technique, la maintenance et la mise à jour du logiciel. Enfin, la solution doit être adaptée au contexte organisationnel et technique de l’entreprise et à son système d’information.",
+      "cpv": "72212920",
+      "pays": "FRA",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-12",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/323060-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "bureautique"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "312507-2026",
+      "ref": "312507-2026",
+      "acheteur": "CAISSE CENTRALE MSA",
+      "objet": "France – Services de santé – Programme ambulatoire d'éducation thérapeutique de la MSA ciblant les maladies cardio neurovasculaires et leurs facteurs de risque associés",
+      "description": "La prestation du Lot 1, réalisée par le titulaire, devra s’articuler avec le prestataire du Lot 2 pour les outils pédagogiques et respecter la méthodologie d’élaboration du programme décrite ci-dessous. À ce titre, le candidat devra apporter dans son offre des éléments méthodologiques et descriptifs pour chacune des étapes détaillées ci-dessous. Ces éléments devront démontrer la qualité, la pertinence et l’adaptabilité de la démarche proposée, en particulier pour la population ciblée : les patients cardio-neurovasculaires et/ou présentant des facteurs de risque associés, avec une approche reposant sur : • Des thématiques socles, à destination de l’ensemble de la population cible, portant au moins sur : l’alimentation et activité physique, la santé mentale et les conduites addictives ; • Des fiches pédagogiques par pathologie, mobilisables par les équipes éducatives en fonction des besoins, centrées sur l’auto-soins. • Des sessions d’ETP adaptés à toutes les populations, notamment les plus vulnérables et répondant aux besoins de ces populations (ex. santé cardiovasculaire des femmes). / Les outils pédagogiques sont destinés à accompagner la mise en œuvre des sessions d’ETP. Ils visent à uniformiser les contenus éducatifs et les messages, tout en fournissant aux patients des supports complémentaires tels que des aides à la décision, des aide-mémoires ou d’autres documents enrichissant la séance. Des différents types d’outils pédagogiques de programme d’ETP ont été recensés, notamment : • Supports d’information : affiches, brochures, synthèses, etc… • Supports d’animation : classeurs imagiers, bandes audio ou vidéo, cédéroms, brochures, représentations d’objets du quotidien, matériel de soins, jeux pédagogiques, etc… / Le présent lot constitue un marché national. Chaque prestataire pourra être retenu en fonction de son périmètre d’intervention, tel que précisé dans son offre. Ainsi, plusieurs titulaires pourront être sélectionnés pour ce lot, en fonction de leur zone géographique de couverture. La formation visera à former de nouvelles équipes éducatives issues de structures d’exercice coordonné dans la mise en œuvre du nouveau programme d’ETP ambulatoire MSA, ainsi que des équipes déjà formées à l’ETP 40 heures, qui bénéficieront d’une actualisation de leurs compétences selon ce même programme. Elle sera organisée en présentiel et distanciel et devra s’inscrire dans le cadre du DPC et validera la formation ETP 40 heures. / Le prestataire devra réaliser l’évaluation quadriennale du programme d’ET3P et du nouveau programme d’ETP ambulatoire MSA. Les données à analyser comprendront l’analyse des données d’évaluation des sessions d’ETP : • Le traitement des données recueillies par tableaux Excel du programme ET3P MSA • Le recueil et traitement de données qualitatives à recueillir par le prestataire • Le traitement des données produites dans le cadre du nouveau programme ETP ambulatoire MSA et des données qualitatives à recueillir par le prestataire (Lot 1).",
+      "cpv": "85100000",
+      "pays": "FRA",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-07",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/312507-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Excel"
+      ],
+      "bureautique": true,
+      "score": 60,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    }
+  ]
+}

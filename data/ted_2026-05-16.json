@@ -1,38 +1,10 @@
 {
-  "generated_at": "2026-05-16T07:57:40.875Z",
-  "source": "MERGE",
-  "sources_summary": {
-    "TED": {
-      "present": true,
-      "fetched": 55,
-      "matched": 3,
-      "go": 0,
-      "generated_at": "2026-05-16T07:57:09.211Z"
-    },
-    "BOAMP": {
-      "present": true,
-      "fetched": 263,
-      "matched": 1,
-      "go": 0,
-      "generated_at": "2026-05-16T07:57:27.711Z"
-    },
-    "Profil": {
-      "present": true,
-      "fetched": 0,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-05-16T07:57:40.829Z"
-    }
-  },
-  "total_fetched": 318,
-  "total_matched": 4,
+  "generated_at": "2026-05-16T07:57:09.211Z",
+  "source": "TED",
+  "window_days": 7,
+  "total_fetched": 55,
+  "total_matched": 3,
   "total_go": 0,
-  "total_dedup_collisions": 0,
-  "dedup_breakdown": {
-    "by_id": 0,
-    "fuzzy_signature": 0,
-    "fuzzy_jaccard": 0
-  },
   "notices": [
     {
       "id": "326531-2026",
@@ -122,45 +94,6 @@
         "com": 5,
         "admin": 7,
         "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "26-47511",
-      "ref": "26-47511",
-      "acheteur": "Direction générale de l'Aviation civile",
-      "objet": "Accompagnement à la conformité ISO 9001 en vigueur des services du secrétariat général (SG) de la Direction générale de l'Aviation civile au cours de son deuxième cycle de certification 2027-2029",
-      "description": "Accompagnement à la conformité ISO 9001 en vigueur des services du secrétariat général (SG) de la Direction générale de l'Aviation civile au cours de son deuxième cycle de certification 2027-2029",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-06-18",
-      "montant": 50,
-      "publication": "2026-05-12",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-47511",
-      "_boamp": {
-        "famille": "Marchés <90 k€ (MAPA)",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Adaptée",
-        "descripteurs": [
-          "Prestations de services"
-        ],
-        "departement": "75"
-      },
-      "segment": "Autre",
-      "keyword_hits": [
-        "certification services"
-      ],
-      "score": 59,
-      "score_detail": {
-        "fit": 25,
-        "size": 5,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
       },
       "score_status": "cond",
       "notes": "",

@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-05-15T08:44:24.592Z",
+  "generated_at": "2026-05-16T07:57:40.875Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 75,
-      "matched": 4,
+      "fetched": 55,
+      "matched": 3,
       "go": 0,
-      "generated_at": "2026-05-15T08:43:47.783Z"
+      "generated_at": "2026-05-16T07:57:09.211Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 286,
-      "matched": 2,
+      "fetched": 263,
+      "matched": 1,
       "go": 0,
-      "generated_at": "2026-05-15T08:44:11.505Z"
+      "generated_at": "2026-05-16T07:57:27.711Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-05-15T08:44:24.540Z"
+      "generated_at": "2026-05-16T07:57:40.829Z"
     }
   },
-  "total_fetched": 361,
-  "total_matched": 6,
+  "total_fetched": 318,
+  "total_matched": 4,
   "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -34,37 +34,6 @@
     "fuzzy_jaccard": 0
   },
   "notices": [
-    {
-      "id": "317581-2026",
-      "ref": "317581-2026",
-      "acheteur": "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding - Extern Verzelfstandigd Agentschap",
-      "objet": "Belgique – Services d'épreuves de conduite automobile – Examentool rijexamen C & D",
-      "description": "VDAB is een officieel examencentrum voor rijbewijzen C&D, wat ervoor zorgt dat onze opgeleide cursisten onmiddellijk kunnen overgaan tot examinering. Door de Bijzondere Wet van 6 januari 2014 met betrekking tot de Zesde Staatshervorming werd de bevoegdheid inzake de organisatie van rijexamens overgedragen aan de gewesten. De uitoefening van deze bevoegdheid wordt o.a. ondersteund door een aantal IT-applicaties die ontwikkeld werden door de overheid die de regelgeving rond de uitvoering van dergelijke examens beheert inclusief bijvoorbeeld de set van examenvragen die kunnen gesteld worden. Anderzijds behoort het organiseren van de rijbewijs examens zelf, inclusief het verwerven en onderhouden van de tooling die daarvoor nodig is, tot de verantwoordelijkheid van de organiserende instantie.",
-      "cpv": "80411100",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 1331,
-      "publication": "2026-05-08",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/317581-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 74,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 14,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
     {
       "id": "326531-2026",
       "ref": "326531-2026",
@@ -91,45 +60,6 @@
         "com": 5,
         "admin": 7,
         "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "26-45895",
-      "ref": "26-45895",
-      "acheteur": "Mairie de Roissy-en-Brie",
-      "objet": "ALARMES ANTI-INTRUSION PAR TELESURVEILLANCE ET PROTECTION PAR VIGILES",
-      "description": "ALARMES ANTI-INTRUSION PAR TELESURVEILLANCE ET PROTECTION PAR VIGILES",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-05-18",
-      "montant": 0,
-      "publication": "2026-05-08",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-45895",
-      "_boamp": {
-        "famille": "Marchés européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Télésurveillance"
-        ],
-        "departement": "77"
-      },
-      "segment": "Collectivités",
-      "keyword_hits": [
-        "télésurveillance"
-      ],
-      "score": 72,
-      "score_detail": {
-        "fit": 40,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
       },
       "score_status": "cond",
       "notes": "",

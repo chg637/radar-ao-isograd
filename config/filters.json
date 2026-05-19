@@ -1,5 +1,14 @@
 {
-  "_comment": "Configuration centralisée du radar. Modifie ces listes pour ajuster la veille sans toucher au code.",
+  "_comment": "Configuration centralisée du radar v2 — durcissement des filtres sans modif du code Node.js. Ne touche que les champs existants : keywords_fr, keywords_en, keywords_bureautique, scoring.fit_keywords_strong, countries, formation_cpv.",
+  "_changelog_v2": [
+    "Remplacement de 'télésurveillance' générique par 'télésurveillance d'examens' / 'des épreuves' / 'des candidats' pour viser uniquement les vrais positifs",
+    "Idem pour 'surveillance à distance' → 'surveillance à distance d'examens'",
+    "Ajout 'Pack Office', 'Microsoft Office', 'suite bureautique Microsoft' pour scoper Excel/Word/etc. au contexte Office",
+    "Ajout pays TED : CHE, DEU, ITA, ESP, NLD, PRT (couverture EU élargie)",
+    "Ajout CPV 80520000 (centres d'enseignement) et 80521000 (modules formation)",
+    "Retrait des CPV ambigus 72200000 et 72260000 du scoring high (gardés en weight medium uniquement)",
+    "Ajout keywords FR/EN: skills mapping, talent assessment, GPEC, RH analytics"
+  ],
 
   "cpv_codes": [
     { "code": "80300000", "label": "Services d'enseignement supérieur", "weight": "high" },
@@ -7,12 +16,12 @@
     { "code": "80420000", "label": "E-learning", "weight": "very_high" },
     { "code": "80500000", "label": "Services de formation", "weight": "high" },
     { "code": "80510000", "label": "Formation spécialisée", "weight": "high" },
+    { "code": "80520000", "label": "Centres d'enseignement", "weight": "high" },
+    { "code": "80521000", "label": "Modules de formation", "weight": "high" },
     { "code": "80530000", "label": "Formation professionnelle", "weight": "very_high" },
     { "code": "80531200", "label": "Formation technique", "weight": "high" },
     { "code": "79132000", "label": "Services de certification", "weight": "very_high" },
-    { "code": "72200000", "label": "Programmation et conseil logiciel", "weight": "medium" },
-    { "code": "72260000", "label": "Services connexes aux logiciels", "weight": "high" },
-    { "code": "72416000", "label": "Fournisseurs de services applicatifs (ASP/SaaS)", "weight": "very_high" },
+    { "code": "72416000", "label": "Fournisseurs ASP/SaaS (plateformes testing)", "weight": "very_high" },
     { "code": "48190000", "label": "Logiciels éducatifs", "weight": "very_high" }
   ],
 
@@ -21,8 +30,11 @@
     "plateforme de certification",
     "plateforme d'examen",
     "examens en ligne",
-    "télésurveillance",
-    "surveillance à distance",
+    "télésurveillance d'examens",
+    "télésurveillance des épreuves",
+    "télésurveillance des candidats",
+    "surveillance à distance d'examens",
+    "surveillance à distance des candidats",
     "proctoring",
     "test center",
     "centres d'examens",
@@ -36,18 +48,23 @@
     "référentiel de compétences",
     "certification de compétences",
     "compétences numériques",
-    "DigComp"
+    "DigComp",
+    "skills mapping",
+    "cartographie des compétences",
+    "GPEC",
+    "talent assessment",
+    "test de positionnement"
   ],
 
   "keywords_bureautique": [
+    "Pack Office",
+    "Microsoft Office",
+    "Office 365",
+    "suite bureautique Microsoft",
     "Excel",
     "Word",
     "PowerPoint",
     "Outlook",
-    "Microsoft Office",
-    "suite bureautique",
-    "bureautique",
-    "Office 365",
     "tableur",
     "traitement de texte"
   ],
@@ -60,6 +77,8 @@
     "online exam",
     "skills certification",
     "competence assessment",
+    "skills mapping",
+    "talent assessment",
     "test delivery",
     "examination platform",
     "digital skills",
@@ -67,15 +86,16 @@
     "e-learning platform",
     "certification services",
     "item banking",
-    "psychometrics"
+    "psychometrics",
+    "MS Office training"
   ],
 
-  "countries": ["FRA", "BEL", "LUX"],
+  "countries": ["FRA", "BEL", "LUX", "CHE", "DEU", "ITA", "ESP", "NLD", "PRT"],
 
   "languages": ["FR", "EN"],
 
   "buyer_segment_rules": [
-    { "match": ["université", "iut", "ecole supérieure", "comue", "polytech", "iae"], "segment": "ESR" },
+    { "match": ["université", "iut", "ecole supérieure", "comue", "polytech", "iae", "school", "university", "college"], "segment": "ESR" },
     { "match": ["france travail", "pôle emploi", "opco", "afpa", "carif", "pic", "prf"], "segment": "Formation pro" },
     { "match": ["ministère", "préfecture", "dgfip", "douanes", "armée", "intérieur", "ena", "insp"], "segment": "État" },
     { "match": ["région", "conseil régional", "département", "conseil départemental", "métropole", "cnfpt", "commune", "communauté", "ville de", "mairie", "epsm"], "segment": "Collectivités" },
@@ -90,8 +110,9 @@
       "plateforme de certification",
       "plateforme d'examen",
       "proctoring",
-      "télésurveillance",
-      "surveillance à distance",
+      "télésurveillance d'examens",
+      "télésurveillance des épreuves",
+      "surveillance à distance d'examens",
       "examens en ligne",
       "computer-based testing",
       "remote proctoring",
@@ -101,6 +122,8 @@
       "banque de questions",
       "psychométrie",
       "certification de compétences",
+      "skills mapping",
+      "talent assessment",
       "DigComp"
     ],
     "fit_keywords_medium": [
@@ -109,7 +132,8 @@
       "compétences numériques",
       "competence assessment",
       "test adaptatif",
-      "QCM"
+      "QCM",
+      "test de positionnement"
     ],
     "_comment_formation_pure": "Les CPV ci-dessous sont des CPV formation pure. On les pénalise SAUF si bureautique présent (ILP).",
     "formation_cpv": ["80500000", "80510000", "80520000", "80521000", "80530000", "80531200", "79632000"],

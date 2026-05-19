@@ -1,7 +1,9 @@
 {
-  "_comment": "Liste des profils acheteurs Tier-1. Sprint 3 v1 : on appelle une saved task Apify (pré-configurée avec une pageFunction qui scrape PLACE). Sprint 3.5 : enrichissement avec recherche par mot-clé.",
+  "_comment": "Liste des profils acheteurs Tier-1 v2 — sourcing élargi : universités autonomes RCE, grandes écoles, OPCO, métropoles. Tous en actif:false initialement, à activer au fur et à mesure que les saved tasks Apify sont créées.",
 
-  "_doc_strategie": "Deux modes possibles par profil : 'task_id' (recommandé, on appelle une saved task pré-configurée dans Apify) ou 'actor_id' (on appelle directement un actor public en passant l'input).",
+  "_doc_strategie": "Deux modes possibles par profil : 'task_id' (recommandé, on appelle une saved task pré-configurée dans Apify) ou 'actor_id' (on appelle directement un actor public en passant l'input). Pour les nouveaux profils, il faut créer une saved task PLACE avec recherche par keyword + match_acheteur strict.",
+
+  "_doc_volumetrie": "5$ Apify gratuit/mois = ~10 profils actifs avec un run/jour. Si on dépasse, passer en plan payant ou utiliser actor léger (Cheerio Scraper > Web Scraper avec Puppeteer).",
 
   "apify": {
     "_doc_actor": "default_actor_id servait de fallback en Sprint 2. Conservé pour rétrocompatibilité, mais maintenant on utilise les saved tasks (champ task_id par profil).",
@@ -10,7 +12,14 @@
     "max_items_per_run": 50
   },
 
-  "_doc_seed": "Sprint 3 v1 : un seul profil actif qui pointe sur la saved task PLACE (radar-ao-isograd-place). Cette task scrape les 10 derniers AO PLACE génériques, le filtre matchesKeywords côté Node garde uniquement ceux qui matchent un mot-clé Isograd. Les autres profils restent en désactivé en attendant Sprint 3.5.",
+  "_doc_changelog_v2": [
+    "Conservation du profil place_generic actif (scan global PLACE)",
+    "Ajout 20 universités autonomes RCE (Paris-Saclay, Sorbonne, Aix-Marseille, Lyon 1-2-3, Bordeaux, Lille, Strasbourg, Toulouse Capitole/3, Rennes 1-2, Nantes, Grenoble Alpes, Montpellier, Nice, PSL, Paris 1, Paris-Cité, etc.)",
+    "Ajout 7 grandes écoles d'ingénieur (Polytechnique, CentraleSupélec, Mines, INSA Lyon/Toulouse, ESPCI, AgroParisTech)",
+    "Ajout 5 écoles de commerce top (HEC, ESSEC, ESCP, EM Lyon, EDHEC)",
+    "Ajout 10 OPCO (Atlas, Akto, Constructys, Afdas, Opco EP, Opco Mobilités, Ocapiat, Opco Santé, Uniformation, Opcommerce)",
+    "Ajout 5 métropoles + régions clés"
+  ],
 
   "profils": [
     {
@@ -23,6 +32,53 @@
       "actif": true,
       "match_acheteur": []
     },
+
+    {
+      "_section": "═════ Universités autonomes RCE — Tier 1 ESR ═════",
+      "id": "paris-saclay",
+      "nom": "Université Paris-Saclay",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Paris-Saclay",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "sorbonne-universite",
+      "nom": "Sorbonne Université",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Sorbonne+Universit%C3%A9",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "psl",
+      "nom": "Université PSL",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=PSL",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "paris1",
+      "nom": "Paris 1 Panthéon-Sorbonne",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Panth%C3%A9on-Sorbonne",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "paris-cite",
+      "nom": "Université Paris Cité",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Paris+Cit%C3%A9",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
     {
       "id": "paris8-ied",
       "nom": "Université Paris 8 — IED",
@@ -30,8 +86,7 @@
       "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Paris+8",
       "strategy": "apify_task",
       "actor_input": {},
-      "actif": false,
-      "_note": "Sprint 3.5 : créer une task dédiée avec recherche par keyword + match_acheteur strict"
+      "actif": false
     },
     {
       "id": "uge",
@@ -40,18 +95,333 @@
       "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Gustave+Eiffel",
       "strategy": "apify_task",
       "actor_input": {},
-      "actif": false,
-      "_note": "Sprint 3.5"
+      "actif": false
+    },
+    {
+      "id": "aix-marseille",
+      "nom": "Aix-Marseille Université",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Aix-Marseille",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
     },
     {
       "id": "iae-aix",
       "nom": "IAE Aix-Marseille",
       "platform": "PLACE",
-      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Aix-Marseille",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=IAE+Aix",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "lyon1",
+      "nom": "Université Claude Bernard Lyon 1",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Claude+Bernard+Lyon",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "lyon2",
+      "nom": "Université Lumière Lyon 2",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Lumi%C3%A8re+Lyon",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "lyon3",
+      "nom": "Université Jean Moulin Lyon 3",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Jean+Moulin+Lyon",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "bordeaux",
+      "nom": "Université de Bordeaux",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Universit%C3%A9+de+Bordeaux",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "lille",
+      "nom": "Université de Lille",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Universit%C3%A9+de+Lille",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "strasbourg",
+      "nom": "Université de Strasbourg",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Universit%C3%A9+de+Strasbourg",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "toulouse-capitole",
+      "nom": "Toulouse 1 Capitole",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Toulouse+Capitole",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "rennes1",
+      "nom": "Université Rennes 1",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Universit%C3%A9+Rennes",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "nantes",
+      "nom": "Nantes Université",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Nantes+Universit%C3%A9",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "grenoble-alpes",
+      "nom": "Université Grenoble Alpes",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Grenoble+Alpes",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "montpellier",
+      "nom": "Université de Montpellier",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Universit%C3%A9+de+Montpellier",
       "strategy": "apify_task",
       "actor_input": {},
       "actif": false,
-      "_note": "Sprint 3.5"
+      "_note": "Déjà identifié en sprint 1 — certification TOEIC 330k€ — opportunité chaude"
+    },
+    {
+      "id": "nice-cote-azur",
+      "nom": "Université Côte d'Azur",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=C%C3%B4te+d%27Azur",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+
+    {
+      "_section": "═════ Grandes écoles d'ingénieur — Tier 1 ESR ═════",
+      "id": "polytechnique",
+      "nom": "École Polytechnique",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Polytechnique",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "centralesupelec",
+      "nom": "CentraleSupélec",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=CentraleSup%C3%A9lec",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "mines-paristech",
+      "nom": "Mines ParisTech",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Mines+ParisTech",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "insa-lyon",
+      "nom": "INSA Lyon",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=INSA+Lyon",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "insa-toulouse",
+      "nom": "INSA Toulouse",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=INSA+Toulouse",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "agroparistech",
+      "nom": "AgroParisTech",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=AgroParisTech",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+
+    {
+      "_section": "═════ Écoles de commerce top — Tier 1 ESR privé ═════",
+      "id": "hec",
+      "nom": "HEC Paris",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=HEC+Paris",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false,
+      "_note": "École privée mais publie certains AO sur PLACE quand financés par CCI Paris IDF"
+    },
+
+    {
+      "_section": "═════ OPCO — Tier 1 Formation pro ═════",
+      "id": "opco-atlas",
+      "nom": "OPCO Atlas (banque/assurance/conseil)",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Atlas",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "opco-akto",
+      "nom": "OPCO Akto (services intensifs main d'œuvre)",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Akto",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "opco-constructys",
+      "nom": "OPCO Constructys (BTP)",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Constructys",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "opco-afdas",
+      "nom": "OPCO Afdas (culture/médias)",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Afdas",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "opco-ep",
+      "nom": "OPCO EP (entreprises de proximité)",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=OPCO+EP",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "opco-mobilites",
+      "nom": "OPCO Mobilités (transport/automobile)",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Opcomobilit%C3%A9s",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "opco-sante",
+      "nom": "OPCO Santé",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=OPCO+Sant%C3%A9",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "uniformation",
+      "nom": "Uniformation (cohésion sociale)",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Uniformation",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "opcommerce",
+      "nom": "L'Opcommerce (commerce)",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Opcommerce",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+
+    {
+      "_section": "═════ Métropoles & Régions — Tier 1 Collectivités ═════",
+      "id": "grand-paris",
+      "nom": "Métropole du Grand Paris",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Grand+Paris",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "metropole-lyon",
+      "nom": "Métropole de Lyon",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=M%C3%A9tropole+de+Lyon",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "region-idf",
+      "nom": "Région Île-de-France",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=R%C3%A9gion+%C3%8Ele-de-France",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "region-aura",
+      "nom": "Région Auvergne-Rhône-Alpes",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=Auvergne-Rh%C3%B4ne-Alpes",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false
+    },
+    {
+      "id": "cnfpt",
+      "nom": "CNFPT (formation des agents territoriaux)",
+      "platform": "PLACE",
+      "url_profil": "https://www.marches-publics.gouv.fr/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&searchAnnCons&keyword=CNFPT",
+      "strategy": "apify_task",
+      "actor_input": {},
+      "actif": false,
+      "_note": "Très gros acheteur formation (1,7 Mds budget). À prioriser à l'activation."
     }
   ]
 }

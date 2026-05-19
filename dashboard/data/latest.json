@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-05-18T09:52:49.669Z",
+  "generated_at": "2026-05-19T09:35:12.051Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 60,
-      "matched": 3,
+      "fetched": 66,
+      "matched": 4,
       "go": 0,
-      "generated_at": "2026-05-18T09:52:16.314Z"
+      "generated_at": "2026-05-19T09:34:32.732Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 249,
-      "matched": 1,
+      "fetched": 282,
+      "matched": 2,
       "go": 0,
-      "generated_at": "2026-05-18T09:52:32.861Z"
+      "generated_at": "2026-05-19T09:34:54.305Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-05-18T09:52:49.625Z"
+      "generated_at": "2026-05-19T09:35:11.996Z"
     }
   },
-  "total_fetched": 309,
-  "total_matched": 4,
+  "total_fetched": 348,
+  "total_matched": 6,
   "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -34,6 +34,45 @@
     "fuzzy_jaccard": 0
   },
   "notices": [
+    {
+      "id": "26-48692",
+      "ref": "26-48692",
+      "acheteur": "Ville de Gennevilliers",
+      "objet": "Gestion d'un réseau de télésurveillance dans les bâtiments communaux de la Ville de Gennevilliers",
+      "description": "Gestion d'un réseau de télésurveillance dans les bâtiments communaux de la Ville de Gennevilliers",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-05-26",
+      "montant": 0,
+      "publication": "2026-05-19",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-48692",
+      "_boamp": {
+        "famille": "Marchés européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Télésurveillance"
+        ],
+        "departement": "92"
+      },
+      "segment": "Collectivités",
+      "keyword_hits": [
+        "télésurveillance"
+      ],
+      "score": 72,
+      "score_detail": {
+        "fit": 40,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
     {
       "id": "326531-2026",
       "ref": "326531-2026",
@@ -128,6 +167,37 @@
       "auto": true
     },
     {
+      "id": "341531-2026",
+      "ref": "341531-2026",
+      "acheteur": "C-smart dv",
+      "objet": "Belgique – Services de fourniture de logiciels – RAAMOVEREENKOMST VOOR DE LEVERING, IMPLEMENTATIE EN ONDERHOUD VAN EEN GEÏNTEGREERDE SOFTWAREOPLOSSING VOOR DE VERWERKING VAN GEMEENTELIJKE ADMINISTRATIEVE SANCTIES (GAS)",
+      "description": "De opdracht heeft tot doel de levering, implementatie en het onderhoud van een geïntegreerde softwareoplossing voor het beheer en de verwerking van gemeentelijke administratieve sancties (GAS). De aanbestedende overheid treedt op als intercommunale en oefent, in opdracht van en voor rekening van meerdere aangesloten lokale besturen, de rol uit van sanctionerend ambtenaar zoals bedoeld in de toepasselijke GAS-regelgeving. De softwareoplossing moet de aanbestedende overheid in staat stellen om, op een efficiënte, uniforme en rechtszekere manier, de volledige administratieve afhandeling van GAS-dossiers te ondersteunen, met inbegrip van onder meer: • de registratie en verwerking van vaststellingen; • de opvolging van procedures en wettelijke termijnen; • de voorbereiding en afhandeling van sanctiebeslissingen; • de communicatie met overtreders en betrokken instanties; • de opvolging van betalingen, beroepen en eventuele invordering; • de rapportering ten behoeve van de aangesloten lokale besturen. De oplossing moet multi-tenant of multi-organisatie inzetbaar zijn, zodat dossiers van verschillende lokale besturen gescheiden maar beheersbaar binnen één platform kunnen worden verwerkt, met respect voor rolverdeling, toegangsrechten en gegevensbescherming. De opdracht omvat naast de terbeschikkingstelling van de software eveneens de implementatie, configuratie, opleiding, technische ondersteuning en het onderhoud van de oplossing gedurende de volledige looptijd van de overeenkomst.",
+      "cpv": "72268000",
+      "pays": "BEL",
+      "deadline": "2026-05-28",
+      "montant": 0,
+      "publication": "2026-05-19",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/341531-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 62,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "26-47511",
       "ref": "26-47511",
       "acheteur": "Direction générale de l'Aviation civile",
@@ -153,14 +223,14 @@
       "keyword_hits": [
         "certification services"
       ],
-      "score": 59,
+      "score": 57,
       "score_detail": {
         "fit": 25,
         "size": 5,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",

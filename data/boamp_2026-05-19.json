@@ -1,88 +1,9 @@
 {
-  "generated_at": "2026-05-19T09:34:54.305Z",
+  "generated_at": "2026-05-19T13:48:04.232Z",
   "source": "BOAMP",
   "window_days": 7,
-  "total_fetched": 282,
-  "total_matched": 2,
+  "total_fetched": 287,
+  "total_matched": 0,
   "total_go": 0,
-  "notices": [
-    {
-      "id": "26-48692",
-      "ref": "26-48692",
-      "acheteur": "Ville de Gennevilliers",
-      "objet": "Gestion d'un réseau de télésurveillance dans les bâtiments communaux de la Ville de Gennevilliers",
-      "description": "Gestion d'un réseau de télésurveillance dans les bâtiments communaux de la Ville de Gennevilliers",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-05-26",
-      "montant": 0,
-      "publication": "2026-05-19",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-48692",
-      "_boamp": {
-        "famille": "Marchés européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Télésurveillance"
-        ],
-        "departement": "92"
-      },
-      "segment": "Collectivités",
-      "keyword_hits": [
-        "télésurveillance"
-      ],
-      "score": 72,
-      "score_detail": {
-        "fit": 40,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "26-47511",
-      "ref": "26-47511",
-      "acheteur": "Direction générale de l'Aviation civile",
-      "objet": "Accompagnement à la conformité ISO 9001 en vigueur des services du secrétariat général (SG) de la Direction générale de l'Aviation civile au cours de son deuxième cycle de certification 2027-2029",
-      "description": "Accompagnement à la conformité ISO 9001 en vigueur des services du secrétariat général (SG) de la Direction générale de l'Aviation civile au cours de son deuxième cycle de certification 2027-2029",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-06-18",
-      "montant": 50,
-      "publication": "2026-05-12",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-47511",
-      "_boamp": {
-        "famille": "Marchés <90 k€ (MAPA)",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Adaptée",
-        "descripteurs": [
-          "Prestations de services"
-        ],
-        "departement": "75"
-      },
-      "segment": "Autre",
-      "keyword_hits": [
-        "certification services"
-      ],
-      "score": 57,
-      "score_detail": {
-        "fit": 25,
-        "size": 5,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    }
-  ]
+  "notices": []
 }

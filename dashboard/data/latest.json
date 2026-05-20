@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-05-19T13:48:17.345Z",
+  "generated_at": "2026-05-20T08:59:53.329Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 112,
+      "fetched": 119,
       "matched": 3,
       "go": 0,
-      "generated_at": "2026-05-19T13:47:39.323Z"
+      "generated_at": "2026-05-20T08:59:03.788Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 287,
+      "fetched": 289,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-05-19T13:48:04.232Z"
+      "generated_at": "2026-05-20T08:59:30.896Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-05-19T13:48:17.286Z"
+      "generated_at": "2026-05-20T08:59:53.285Z"
     }
   },
-  "total_fetched": 399,
+  "total_fetched": 408,
   "total_matched": 3,
   "total_go": 0,
   "total_dedup_collisions": 0,
@@ -66,37 +66,6 @@
       "auto": true
     },
     {
-      "id": "326531-2026",
-      "ref": "326531-2026",
-      "acheteur": "APNI",
-      "objet": "France – Conseil en affaires et en gestion et services connexes – Accord-Cadre de prestations de services d'appui à la mise en oeuvre et à la gestion des actions de formation à destination des salariés du secteur des particuliers employeurs et de l'emploi à domicile",
-      "description": "L'objectif poursuivi par cet accompagnement est de garantir une égale qualité des dispenses de formation sur tout le territoire français, DROM inclus. Il vise à accompagner les organismes de formation dispensateur de formation du catalogue de la branche vers l'excellence pédagogique. / L'objectif est de garantir une chaîne indemnitaire fluide, sécurisée et traçable, assurant un paiement rapide, exact et conforme aux exigences de la branche.",
-      "cpv": "79400000",
-      "pays": "FRA",
-      "deadline": "",
-      "montant": 2671,
-      "publication": "2026-05-12",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/326531-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Excel"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "340167-2026",
       "ref": "340167-2026",
       "acheteur": "Koninklijke Bibliotheek",
@@ -118,6 +87,37 @@
       "score_detail": {
         "fit": 30,
         "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "343216-2026",
+      "ref": "343216-2026",
+      "acheteur": "Land Saarland",
+      "objet": "Allemagne – Services de certification de signature électronique – Signaturkarten_Saarland_2026",
+      "description": "Bei den saarländischen Gerichten und Staatsanwaltschaften ist der elektronische Rechtsverkehr nahezu flächendeckend eröffnet. In fast allen Arbeitseinheiten ist die elektronische Aktenführung ausgerollt. Darüber hinaus sind auch die weiteren Behörden des Geschäftsbereichs der saarländischen Justiz zur Teilnahme am Elektronischen Rechtsverkehr. befähigt. Im Rahmen dessen fallen – kraft bundesgesetzlicher Vorgaben – Signiervorgänge an. Erwägungen zur Einführung einer elektronischen Gefangenenpersonalakte im Justizvollzug werden möglicherweise zur Einbeziehung einer weiteren Personengruppe in den Nutzerkreis von Signaturkarten führen. Eine weitere Erhöhung könnte sich ergeben, falls es vom Auftraggeber als notwendig erachtet wird, dass bestimmte Bedienstete eine Zweitsignaturkarte erhalten. Mit diesem Rahmenvertrag sollen Signaturkarten mit integrierten qualifizierten Zertifikaten zur Erstellung einer qualifizierten elektronischen Signatur für das Ministerium der Justiz (Auftraggeber) und seinen Geschäftsbereich, umfassend insbesondere die Gerichte, Staatsanwaltschaften, Justizvollzugsanstalten und sonstigen Einrichtungen der Justiz, (Bedarfsstellen) beschafft werden. Die Signaturkarten werden im Rahmen von qualifizierten elektronischen Signaturerstellungseinheiten nach Art. 3 Nr. 23 eIDAS-Verordnung (EU) Nr. 910/2014 zum Einsatz kommen und dem schriftformersetzenden Signieren von elektronischen Dokumenten dienen. Die Feststellung der Identität des Kartenantragstellers erfolgt beim Auftraggeber über das sogenannte Behörden-Ident-Verfahren, bei welchem die Identität der Kartenantragsteller gerichts- und behördenintern von den jeweiligen Bedarfsstellen bestätigt wird. Mit Ablauf des 19.09.2026 endet der bisherige Rahmenvertrag mit dem aktuellen Zertifizierungsanbieter und mit ihm die Gültigkeit der vorhandenen Signaturkarten. Durch den jetzt ausgeschriebenen Rahmenvertrag wird die Bereitstellung von Signaturkaten inklusive qualifizierter Zertifikate für den Anschlusszeitraum beschafft. Dementsprechend muss der Auftragnehmer für die vorhandenen Inhaber von Signaturkarten rechtzeitig vor Ablauf des 19.09.2026 (spätestens zum 19. Juni 2026) neue Signaturkarten inklusive qualifizierter Zertifikaten bereitstellen, sodass ein Signieren über das Ende der Laufzeit des aktuellen Rahmenvertrags hinaus unterbrechungsfrei möglich ist. Derzeit sind in der saarländischen Justiz rund 900 Signaturkarten im Einsatz. Während der Laufzeit des Vertrages sind bedarfsabhängig ferner bereitzustellen: - neue Signaturkarten inklusive qualifizierter Zertifikate für neu hinzukommende Nutzer, - Folgesignaturkarten inklusive qualifizierter Zertifikate für vorhandene Nutzer nach Ablauf der Gültigkeit der Signaturkarten und - Ersatzsignaturkarten inklusive qualifizierter Zertifikate für vorhandene Signaturkarten, die aus nicht vom Auftragnehmer zu vertretenden Umständen (z.B. Verlust, Beschädigung) vorzeitig ungültig geworden sind. Alle weiteren relevanten Informationen sind den beigefügten Vergabeunterlagen, insbesondere Anlage 2.1, zu entnehmen. Um Beachtung wird gebeten.",
+      "cpv": "79132100",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-20",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/343216-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 60,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,

@@ -1,52 +1,24 @@
 {
-  "generated_at": "2026-05-23T08:11:53.987Z",
-  "source": "MERGE",
-  "sources_summary": {
-    "TED": {
-      "present": true,
-      "fetched": 103,
-      "matched": 4,
-      "go": 0,
-      "generated_at": "2026-05-23T08:11:17.464Z"
-    },
-    "BOAMP": {
-      "present": true,
-      "fetched": 287,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-05-23T08:11:41.025Z"
-    },
-    "Profil": {
-      "present": true,
-      "fetched": 0,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-05-23T08:11:53.934Z"
-    }
-  },
-  "total_fetched": 390,
+  "generated_at": "2026-05-23T08:11:17.464Z",
+  "source": "TED",
+  "window_days": 7,
+  "total_fetched": 103,
   "total_matched": 4,
   "total_go": 0,
-  "total_dedup_collisions": 0,
-  "dedup_breakdown": {
-    "by_id": 0,
-    "fuzzy_signature": 0,
-    "fuzzy_jaccard": 0
-  },
   "notices": [
     {
-      "id": "352505-2026",
-      "ref": "352505-2026",
-      "acheteur": "Gemeente Zaanstad",
-      "objet": "Pays-Bas – Services d'éducation des adultes et autres services d'enseignement – Volwasseneneducatie WEB",
-      "description": "De regio Zaanstreek-Waterland heeft, samen met partners, in december 2025 een ‘Regionale aanpak basisvaardigheden’ vastgesteld voor de periode 2026 tot en met 2029. We willen dat beperkte basisvaardigheden geen drempel zijn voor het meedoen in onze samenleving door te zorgen dat de inwoners van Zaanstreek-Waterland hun basisvaardigheden kunnen (blijven) ontwikkelen en door te zorgen dat de maatschappij rekening houdt met mensen met beperkte basisvaardigheden. Wij wensen één aanbieder te contracteren die basisvaardighedenonderwijs kan verzorgen aan 18+ers, die niet-inburgeringsplichtig zijn. Het contract omvat het leveren van formeel en non-formeel P taalaanbod binnen de volwasseneneducatie, gericht op de beheersing van taal-, reken- en digitale basisvaardigheden voor zowel NT1- als NT2-deelnemers. Tot slot valt ook B2 taalonderwijs, voor niet-inburgeraars, binnen de scope van de opdracht, zij het enkel op doorverwijzing vanuit een gemeentelijk loket. Zie aanbestedingsdocumenten. De opdracht betreft een raamovereenkomst, waarbij er geen sprake is van enige garantie op het gebied van omzet, afname of volumes. Om wel beeld te schetsen bij de opdracht en deze zo bepaalbaar te maken voor inschrijvers, wordt er in de aanbestedingsdocumenten wel inzicht gegeven in historische volumes alsmede in budgetplafonds. Ten aanzien van al deze getallen geldt dat ook hier geen rechten aan kunnen worden ontleend, daar deze door tal van omstandigheden kunnen fluctueren. Zie aanbestedingsdocumenten.",
-      "cpv": "80400000",
+      "id": "342824-2026",
+      "ref": "342824-2026",
+      "acheteur": "Ministerie van Defensie",
+      "objet": "Pays-Bas – Services de formation dans le domaine de la sécurité – Computer Assisted eXercise (CAX) Cybernet",
+      "description": "De opdracht betreft het opzetten, begeleiden en evalueren van een CAX oefening in een virtuele omgeving, waarin door middel van scenario’s defensieve en offensieve cyber-skills worden getraind. Samenvattend: het verzorgen van de jaarlijkse Computer Assisted eXercise (CAX) Cybernet oefening. Deze aanbesteding is het gevolg van het aflopen van de huidige Raamovereenkomst. Deze Europese openbare aanbesteding heeft tot doel het sluiten van één raamovereenkomst met één Opdrachtnemer voor het uitvoeren van diensten. Voor een uitvoerige beschrijving van de opdracht wordt verwezen naar het Programma van eisen als opgenomen in de Bijlage 3 van deze Aanbestedingsleidraad.",
+      "cpv": "80550000",
       "pays": "NLD",
-      "deadline": "2026-08-21",
-      "montant": 6875,
-      "publication": "2026-05-22",
+      "deadline": "2026-07-06",
+      "montant": 1800,
+      "publication": "2026-05-19",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/352505-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/342824-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -66,18 +38,18 @@
       "auto": true
     },
     {
-      "id": "342824-2026",
-      "ref": "342824-2026",
-      "acheteur": "Ministerie van Defensie",
-      "objet": "Pays-Bas – Services de formation dans le domaine de la sécurité – Computer Assisted eXercise (CAX) Cybernet",
-      "description": "De opdracht betreft het opzetten, begeleiden en evalueren van een CAX oefening in een virtuele omgeving, waarin door middel van scenario’s defensieve en offensieve cyber-skills worden getraind. Samenvattend: het verzorgen van de jaarlijkse Computer Assisted eXercise (CAX) Cybernet oefening. Deze aanbesteding is het gevolg van het aflopen van de huidige Raamovereenkomst. Deze Europese openbare aanbesteding heeft tot doel het sluiten van één raamovereenkomst met één Opdrachtnemer voor het uitvoeren van diensten. Voor een uitvoerige beschrijving van de opdracht wordt verwezen naar het Programma van eisen als opgenomen in de Bijlage 3 van deze Aanbestedingsleidraad.",
-      "cpv": "80550000",
+      "id": "352505-2026",
+      "ref": "352505-2026",
+      "acheteur": "Gemeente Zaanstad",
+      "objet": "Pays-Bas – Services d'éducation des adultes et autres services d'enseignement – Volwasseneneducatie WEB",
+      "description": "De regio Zaanstreek-Waterland heeft, samen met partners, in december 2025 een ‘Regionale aanpak basisvaardigheden’ vastgesteld voor de periode 2026 tot en met 2029. We willen dat beperkte basisvaardigheden geen drempel zijn voor het meedoen in onze samenleving door te zorgen dat de inwoners van Zaanstreek-Waterland hun basisvaardigheden kunnen (blijven) ontwikkelen en door te zorgen dat de maatschappij rekening houdt met mensen met beperkte basisvaardigheden. Wij wensen één aanbieder te contracteren die basisvaardighedenonderwijs kan verzorgen aan 18+ers, die niet-inburgeringsplichtig zijn. Het contract omvat het leveren van formeel en non-formeel P taalaanbod binnen de volwasseneneducatie, gericht op de beheersing van taal-, reken- en digitale basisvaardigheden voor zowel NT1- als NT2-deelnemers. Tot slot valt ook B2 taalonderwijs, voor niet-inburgeraars, binnen de scope van de opdracht, zij het enkel op doorverwijzing vanuit een gemeentelijk loket. Zie aanbestedingsdocumenten. De opdracht betreft een raamovereenkomst, waarbij er geen sprake is van enige garantie op het gebied van omzet, afname of volumes. Om wel beeld te schetsen bij de opdracht en deze zo bepaalbaar te maken voor inschrijvers, wordt er in de aanbestedingsdocumenten wel inzicht gegeven in historische volumes alsmede in budgetplafonds. Ten aanzien van al deze getallen geldt dat ook hier geen rechten aan kunnen worden ontleend, daar deze door tal van omstandigheden kunnen fluctueren. Zie aanbestedingsdocumenten.",
+      "cpv": "80400000",
       "pays": "NLD",
-      "deadline": "2026-07-06",
-      "montant": 1800,
-      "publication": "2026-05-19",
+      "deadline": "2026-08-21",
+      "montant": 6875,
+      "publication": "2026-05-22",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/342824-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/352505-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"

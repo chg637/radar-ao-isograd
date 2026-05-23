@@ -1,29 +1,33 @@
 {
-  "_comment": "Configuration v3 — REFRAME MÉTIER CRITIQUE : Isograd vend ITS/Tosa = plateformes d'ÉVALUATION et CERTIFICATION de compétences. NE FAIT PAS DE FORMATION. Les CPV formation pure sont déprioritisés ou exclus, les keywords sont durcis sur l'angle test/évaluation/psychométrie.",
-  "_changelog_v3": [
-    "REFRAME : prioriser CPV 79132000 (certification), 72416000 (ASP SaaS), 48190000 (logiciels éducatifs) — ce qu'Isograd vend",
-    "Dépriorisation des CPV formation pure (80500000/80510000/80520000/80521000/80530000/80531200) en weight low (passaient en high avant)",
-    "Ajout obligatoire : un keyword de la liste mandatory_keywords doit matcher pour qu'un AO sorte (sinon rejet)",
-    "Negative phrases élargies : 'prestation de formation', 'animer des sessions', 'conception de modules', 'former les agents'",
-    "Pays TED : FRA, BEL, LUX, CHE, DEU, ITA, ESP, NLD, PRT, CAN (élargi v2)"
+  "_comment": "Configuration v4 — Élargissement du sourcing AO : fenêtre 14j, mots-clés VAE/bilan/audit/GPEC ajoutés, CPV connexes (conseil RH, services info). Reste cohérent avec reframe v3 (évaluation/certification uniquement, pas formation pure).",
+  "_changelog_v4": [
+    "publication_window_days passé de 7 à 14 jours → x2 sur le volume capturé",
+    "Ajout massif keywords FR : VAE, validation des acquis, bilan de compétences, GPEC, audit de compétences, habilitation, RNCP, RS, Qualiopi",
+    "Ajout keywords EN : VPL (validation of prior learning), skills audit, competency framework, accreditation, qualification",
+    "Ajout CPV connexes : 79410000 (conseil gestion), 79633000 (développement pro), 79420000 (management), 72500000 (services info)",
+    "Mandatory keywords élargi : VAE, bilan, audit, GPEC, habilitation",
+    "Pays : ajout CAN-QC + élargissement existant"
   ],
 
   "cpv_codes": [
     { "code": "79132000", "label": "Services de certification", "weight": "very_high" },
     { "code": "72416000", "label": "Fournisseurs ASP/SaaS (plateformes testing en SaaS)", "weight": "very_high" },
     { "code": "48190000", "label": "Logiciels éducatifs (plateformes de test, e-assessment)", "weight": "very_high" },
-    { "code": "79420000", "label": "Services liés au management (incluant évaluation)", "weight": "medium" },
-    { "code": "73111000", "label": "Services de recherche (incluant psychométrie/évaluation)", "weight": "medium" },
-    { "code": "72200000", "label": "Programmation et conseil logiciel (plateformes test)", "weight": "low" },
+    { "code": "79420000", "label": "Services liés au management (incluant évaluation)", "weight": "high" },
+    { "code": "79410000", "label": "Services de conseil en gestion (audit compétences)", "weight": "high" },
+    { "code": "79633000", "label": "Services de développement professionnel (VAE, bilans)", "weight": "high" },
+    { "code": "73111000", "label": "Services de recherche (psychométrie/évaluation)", "weight": "medium" },
+    { "code": "72500000", "label": "Services informatiques (plateformes test)", "weight": "medium" },
+    { "code": "72200000", "label": "Programmation et conseil logiciel", "weight": "low" },
     { "code": "72260000", "label": "Services connexes aux logiciels", "weight": "low" },
-    { "code": "80420000", "label": "E-learning (uniquement si plateforme d'évaluation, pas cours)", "weight": "medium" },
-    { "code": "80300000", "label": "Enseignement supérieur (uniquement si évaluation/certification)", "weight": "low" },
-    { "code": "80500000", "label": "Services de formation — DÉPRIORITISÉ (pas notre métier)", "weight": "low" },
+    { "code": "80420000", "label": "E-learning (uniquement si plateforme d'évaluation)", "weight": "medium" },
+    { "code": "80300000", "label": "Enseignement supérieur (uniquement si éval/certif)", "weight": "low" },
+    { "code": "80500000", "label": "Services de formation — DÉPRIORITISÉ", "weight": "low" },
     { "code": "80510000", "label": "Formation spécialisée — DÉPRIORITISÉ", "weight": "low" },
     { "code": "80530000", "label": "Formation professionnelle — DÉPRIORITISÉ", "weight": "low" }
   ],
 
-  "_doc_mandatory_keywords": "AU MOINS UN keyword de cette liste doit matcher (titre ou description) pour qu'un AO soit conservé. Sinon il est écarté, même si CPV ou autre keyword matche. Garde-fou anti-formation pure.",
+  "_doc_mandatory_keywords": "AU MOINS UN keyword de cette liste doit matcher. v4 élargi à VAE/bilan/audit/GPEC/habilitation.",
   "mandatory_keywords": [
     "certification",
     "évaluation",
@@ -35,6 +39,7 @@
     "épreuve",
     "épreuves",
     "compétences",
+    "competences",
     "skills",
     "psychométrie",
     "psychometrics",
@@ -44,7 +49,26 @@
     "proctoring",
     "télésurveillance d'examens",
     "DigComp",
-    "QCM"
+    "QCM",
+    "VAE",
+    "validation des acquis",
+    "bilan de compétences",
+    "bilan competences",
+    "audit de compétences",
+    "audit competences",
+    "GPEC",
+    "habilitation",
+    "RNCP",
+    "RS ",
+    "Qualiopi",
+    "cartographie des compétences",
+    "skills mapping",
+    "talent assessment",
+    "VPL",
+    "validation of prior learning",
+    "competency framework",
+    "accreditation",
+    "qualification professionnelle"
   ],
 
   "keywords_fr": [
@@ -80,7 +104,30 @@
     "test de positionnement",
     "passation d'épreuves",
     "session d'évaluation",
-    "session de certification"
+    "session de certification",
+    "VAE",
+    "validation des acquis de l'expérience",
+    "validation des acquis professionnels",
+    "VAP",
+    "bilan de compétences",
+    "bilan professionnel",
+    "audit de compétences",
+    "audit des compétences",
+    "cartographie des compétences",
+    "GPEC",
+    "gestion prévisionnelle des emplois",
+    "habilitation",
+    "habilitations professionnelles",
+    "RNCP",
+    "fiche RNCP",
+    "Répertoire spécifique",
+    "Qualiopi",
+    "certification professionnelle",
+    "qualification professionnelle",
+    "accréditation",
+    "ré-accréditation",
+    "renouvellement de certification",
+    "audit Qualiopi"
   ],
 
   "keywords_bureautique": [
@@ -95,7 +142,7 @@
     "PowerPoint",
     "tableur"
   ],
-  "_doc_keywords_bureautique": "Ces mots-clés ne sont valides que combinés à un mandatory_keyword (certification, test, évaluation, etc.). Sinon faux positifs (achat logiciels Office).",
+  "_doc_keywords_bureautique": "Mots-clés bureautique valides uniquement combinés à un mandatory_keyword.",
 
   "keywords_en": [
     "digital assessment platform",
@@ -108,6 +155,8 @@
     "competence assessment",
     "competency assessment",
     "skills mapping",
+    "skills audit",
+    "competency framework",
     "talent assessment",
     "test delivery",
     "examination platform",
@@ -118,21 +167,26 @@
     "item banking",
     "psychometrics",
     "test administration",
-    "exam invigilation"
+    "exam invigilation",
+    "validation of prior learning",
+    "VPL",
+    "professional qualification",
+    "accreditation",
+    "re-accreditation"
   ],
 
-  "countries": ["FRA", "BEL", "LUX", "CHE", "DEU", "ITA", "ESP", "NLD", "PRT", "CAN"],
+  "countries": ["FRA", "BEL", "LUX", "CHE", "DEU", "ITA", "ESP", "NLD", "PRT", "CAN", "GBR"],
 
   "languages": ["FR", "EN"],
 
   "buyer_segment_rules": [
     { "match": ["université", "iut", "ecole supérieure", "comue", "polytech", "iae", "school", "university", "college"], "segment": "ESR" },
-    { "match": ["france travail", "pôle emploi", "opco", "afpa", "carif", "pic", "prf"], "segment": "Formation pro" },
-    { "match": ["ministère", "préfecture", "dgfip", "douanes", "armée", "intérieur", "ena", "insp"], "segment": "État" },
-    { "match": ["région", "conseil régional", "département", "conseil départemental", "métropole", "cnfpt", "commune", "communauté", "ville de", "mairie", "epsm"], "segment": "Collectivités" },
+    { "match": ["france travail", "pôle emploi", "opco", "afpa", "carif", "pic", "prf", "agefiph"], "segment": "Formation pro" },
+    { "match": ["ministère", "préfecture", "dgfip", "douanes", "armée", "intérieur", "ena", "insp", "dinum"], "segment": "État" },
+    { "match": ["région", "conseil régional", "département", "conseil départemental", "métropole", "cnfpt", "commune", "communauté", "ville de", "mairie", "epsm", "sdis"], "segment": "Collectivités" },
     { "match": ["chambre de métiers", "chambre des métiers", "cma de", "cma ", "chambre de commerce", "cci ", "chambre d'agriculture"], "segment": "Consulaire" },
-    { "match": ["chu", "centre hospitalier", "hôpital", "ars", "anfh", "ght"], "segment": "FPH" },
-    { "match": ["commission européenne", "european commission", "cedefop", "eurofound", "etf", "eu-osha"], "segment": "UE" }
+    { "match": ["chu", "centre hospitalier", "hôpital", "ars", "anfh", "ght", "ehpad"], "segment": "FPH" },
+    { "match": ["commission européenne", "european commission", "cedefop", "eurofound", "etf", "eu-osha", "erasmus"], "segment": "UE" }
   ],
 
   "scoring": {
@@ -158,7 +212,12 @@
       "skills certification",
       "skills mapping",
       "talent assessment",
-      "DigComp"
+      "DigComp",
+      "VAE",
+      "validation des acquis de l'expérience",
+      "bilan de compétences",
+      "audit de compétences",
+      "cartographie des compétences"
     ],
     "fit_keywords_medium": [
       "évaluation",
@@ -168,7 +227,12 @@
       "test adaptatif",
       "QCM",
       "test de positionnement",
-      "passation d'épreuves"
+      "passation d'épreuves",
+      "GPEC",
+      "RNCP",
+      "Qualiopi",
+      "habilitation",
+      "qualification professionnelle"
     ],
     "_comment_formation_pure": "CPV formation pure — PÉNALITÉ si présents seuls sans keyword certification/évaluation",
     "formation_cpv_penalty": ["80500000", "80510000", "80520000", "80521000", "80530000", "80531200", "79632000"],
@@ -179,5 +243,6 @@
     }
   },
 
-  "publication_window_days": 7
+  "_doc_publication_window": "Élargi à 14 jours pour doubler le volume capturé sans perdre en qualité (le filtrage métier reste strict).",
+  "publication_window_days": 14
 }

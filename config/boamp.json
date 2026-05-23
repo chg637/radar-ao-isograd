@@ -1,14 +1,12 @@
 {
-  "_comment": "Configuration BOAMP v3 — Negative phrases élargies pour éliminer la formation pure. Whitelist descripteurs centrée sur évaluation/certification/logiciels.",
-  "_changelog_v3": [
-    "Ajout massif negative_phrases : 'prestation de formation', 'animer des sessions', 'former les', 'conception de modules pédagogiques', 'accompagnement pédagogique'",
-    "Descripteurs whitelist resserrée : Évaluation, Certification, Compétences, Logiciel, Services informatiques",
-    "Descripteurs blacklist élargie : Formation (sauf si combiné Évaluation), Cours, Pédagogie, Coaching",
-    "Surveillance/Télésurveillance/Vidéosurveillance restent blacklistés (faux positifs bâtiments)"
+  "_comment": "Configuration BOAMP v4 — Élargi : fenêtre 14j + whitelist VAE/Bilan/Audit/Habilitation + retrait Formation pure de la whitelist (gardée en blacklist sauf si combiné mandatory_keyword).",
+  "_changelog_v4": [
+    "window_days passé de 7 à 14 jours",
+    "Whitelist descripteurs élargie : VAE, Bilan de compétences, Audit, Habilitation, Qualification",
+    "Negative phrases inchangées (héritées v3, formation pure exclue)"
   ],
 
   "api_endpoint": "https://boamp-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/boamp/records",
-
   "search_terms_extra": [],
 
   "natures_libelle": [
@@ -17,11 +15,10 @@
     "Périodique"
   ],
 
-  "window_days": 7,
+  "window_days": 14,
   "page_size": 100,
-  "max_pages": 10,
+  "max_pages": 20,
 
-  "_doc_descripteurs": "BOAMP utilise sa propre taxonomie de descripteurs métier. On veut UNIQUEMENT évaluation/certification/logiciels — pas formation pure.",
   "descripteurs_blacklist": [
     "Alarme",
     "Gardiennage",
@@ -51,7 +48,6 @@
     "Animation pédagogique"
   ],
 
-  "_doc_descripteurs_whitelist": "Whitelist : on ne garde QUE les avis avec au moins un de ces descripteurs. Resserrée sur évaluation/certif/logiciels.",
   "descripteurs_whitelist": [
     "Évaluation",
     "Certification",
@@ -61,11 +57,20 @@
     "Logiciels",
     "Services informatiques",
     "Examen",
-    "Formation (évaluation)",
-    "Test"
+    "Test",
+    "VAE",
+    "Validation des acquis",
+    "Bilan de compétences",
+    "Audit",
+    "Audit RH",
+    "Habilitation",
+    "Qualification",
+    "Conseil RH",
+    "GPEC",
+    "Plateforme",
+    "SaaS"
   ],
 
-  "_doc_negative_phrases": "Phrases qui annulent un match. v3 ajoute massivement les patterns formation pure (Isograd ne fait pas de formation).",
   "negative_phrases": [
     "evaluation environnementale",
     "evaluation immobiliere",

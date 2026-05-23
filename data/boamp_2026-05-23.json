@@ -1,9 +1,50 @@
 {
-  "generated_at": "2026-05-23T13:40:52.555Z",
+  "generated_at": "2026-05-23T15:54:24.152Z",
   "source": "BOAMP",
-  "window_days": 7,
-  "total_fetched": 849,
-  "total_matched": 0,
+  "window_days": 14,
+  "total_fetched": 1973,
+  "total_matched": 1,
   "total_go": 0,
-  "notices": []
+  "notices": [
+    {
+      "id": "26-48746",
+      "ref": "26-48746",
+      "acheteur": "CFDC de l'AP-HP",
+      "objet": "Prestations de suivi et de renouvellement combinées des certification ISO 9001 et des certification QUALIOPI® des structures du CFDC",
+      "description": "Prestations de suivi et de renouvellement combinées des certification ISO 9001 et des certification QUALIOPI® des structures du CFDC",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-06-15",
+      "montant": 50,
+      "publication": "2026-05-18",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-48746",
+      "_boamp": {
+        "famille": "Marchés <90 k€ (MAPA)",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Adaptée",
+        "descripteurs": [
+          "Audit"
+        ],
+        "departement": "75,77,78,91,92,93,94,95"
+      },
+      "segment": "Autre",
+      "keyword_hits": [
+        "Qualiopi",
+        "renouvellement de certification"
+      ],
+      "score": 57,
+      "score_detail": {
+        "fit": 25,
+        "size": 5,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    }
+  ]
 }

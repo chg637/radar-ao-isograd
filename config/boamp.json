@@ -1,32 +1,27 @@
 {
-  "_comment": "Configuration source BOAMP v2 — durcissement filtres + nouvelles negative_phrases pour éliminer les faux positifs télésurveillance bâtiments / gardiennage / videosurveillance.",
-  "_changelog_v2": [
-    "Ajout 'Télésurveillance' dans descripteurs_blacklist (les vrais positifs passeront via les keywords contextuels de filters.json)",
-    "Ajout 'Surveillance' et 'Vidéosurveillance' dans descripteurs_blacklist",
-    "Élargissement negative_phrases avec patterns télésurveillance bâtiments / réseau / intrusion",
-    "Ajout descripteurs_whitelist optionnelle : si activée, on ne garde QUE les AO avec un descripteur de la liste"
+  "_comment": "Configuration BOAMP v3 — Negative phrases élargies pour éliminer la formation pure. Whitelist descripteurs centrée sur évaluation/certification/logiciels.",
+  "_changelog_v3": [
+    "Ajout massif negative_phrases : 'prestation de formation', 'animer des sessions', 'former les', 'conception de modules pédagogiques', 'accompagnement pédagogique'",
+    "Descripteurs whitelist resserrée : Évaluation, Certification, Compétences, Logiciel, Services informatiques",
+    "Descripteurs blacklist élargie : Formation (sauf si combiné Évaluation), Cours, Pédagogie, Coaching",
+    "Surveillance/Télésurveillance/Vidéosurveillance restent blacklistés (faux positifs bâtiments)"
   ],
 
   "api_endpoint": "https://boamp-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/boamp/records",
 
-  "_doc_keywords": "Liste de mots-clés ou expressions full-text. Mis bout à bout avec OR dans la clause search(). Tu peux raffiner si tu veux, sinon le code agrège automatiquement filters.json.keywords_fr + keywords_en.",
   "search_terms_extra": [],
 
-  "_doc_natures": "Types d'avis BOAMP à conserver. Les valeurs viennent du champ 'nature_libelle' du dataset. On garde les avis prospectifs (à venir / en cours) pour le radar, et on exclut les Résultat de marché / Rectificatif / Annulation qui sont du bruit pour de la pré-vente.",
   "natures_libelle": [
     "Avis de marché",
     "Avis d'intention de conclure",
     "Périodique"
   ],
 
-  "_doc_window": "Fenêtre temporelle en jours. On pull tous les BOAMP publiés sur cette fenêtre (au lieu de la fenêtre TED de 7j).",
   "window_days": 7,
-
-  "_doc_pagination": "L'API limite à 100 résultats par page. Le code paginera tant qu'il reste des résultats, dans la limite de max_pages.",
   "page_size": 100,
   "max_pages": 10,
 
-  "_doc_descripteurs": "BOAMP n'a pas de CPV mais sa propre taxonomie de 'descripteurs' (libellés métier). On utilise une blacklist élargie pour virer les faux positifs (gardiennage, télésurveillance bâtiments, vidéosurveillance...). Les vrais positifs télésurveillance d'examens passent via les keywords contextuels de filters.json (keywords_strict_with_context + context_formation).",
+  "_doc_descripteurs": "BOAMP utilise sa propre taxonomie de descripteurs métier. On veut UNIQUEMENT évaluation/certification/logiciels — pas formation pure.",
   "descripteurs_blacklist": [
     "Alarme",
     "Gardiennage",
@@ -48,16 +43,16 @@
     "Restauration",
     "Nettoyage",
     "Médico-social",
-    "Action sociale"
+    "Action sociale",
+    "Pédagogie",
+    "Cours particuliers",
+    "Coaching",
+    "Conseil pédagogique",
+    "Animation pédagogique"
   ],
 
-  "_doc_descripteurs_whitelist": "Si non vide, on ne garde QUE les avis ayant au moins un descripteur de cette liste. Recommandé pour le BOAMP qui est très bruyant. Liste exhaustive des descripteurs métier liés à la formation/certification.",
+  "_doc_descripteurs_whitelist": "Whitelist : on ne garde QUE les avis avec au moins un de ces descripteurs. Resserrée sur évaluation/certif/logiciels.",
   "descripteurs_whitelist": [
-    "Formation",
-    "Formation professionnelle",
-    "Formation continue",
-    "Enseignement",
-    "Enseignement supérieur",
     "Évaluation",
     "Certification",
     "Compétences",
@@ -65,10 +60,12 @@
     "Logiciel",
     "Logiciels",
     "Services informatiques",
-    "Conseil en formation"
+    "Examen",
+    "Formation (évaluation)",
+    "Test"
   ],
 
-  "_doc_negative_phrases": "Phrases supplémentaires spécifiques au BOAMP, ajoutées à filters.json -> negative_phrases. Permet de dégager les faux positifs sémantiques sans toucher à la veille TED. v2 : élargi pour couvrir tous les cas télésurveillance non liés à des examens.",
+  "_doc_negative_phrases": "Phrases qui annulent un match. v3 ajoute massivement les patterns formation pure (Isograd ne fait pas de formation).",
   "negative_phrases": [
     "evaluation environnementale",
     "evaluation immobiliere",
@@ -88,9 +85,30 @@
     "videosurveillance",
     "controle d'acces physique",
     "alarme anti-intrusion",
-    "patrouille"
+    "patrouille",
+    "prestation de formation",
+    "prestations de formation",
+    "actions de formation",
+    "animer des sessions",
+    "animation de formation",
+    "animation des sessions",
+    "former les agents",
+    "former les personnels",
+    "former les collaborateurs",
+    "former les salaries",
+    "former les enseignants",
+    "former les apprenants",
+    "former les stagiaires",
+    "conception de modules",
+    "conception pedagogique",
+    "ingenierie pedagogique",
+    "accompagnement pedagogique",
+    "coaching individuel",
+    "tutorat",
+    "cours particuliers",
+    "stages pratiques",
+    "alternance"
   ],
 
-  "_doc_order_by": "Tri DESC sur dateparution pour avoir les plus récents en premier.",
   "order_by": "dateparution DESC"
 }

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-23T08:11:17.464Z",
+  "generated_at": "2026-05-23T13:39:33.131Z",
   "source": "TED",
   "window_days": 7,
-  "total_fetched": 103,
-  "total_matched": 4,
+  "total_fetched": 298,
+  "total_matched": 16,
   "total_go": 0,
   "notices": [
     {
@@ -38,18 +38,18 @@
       "auto": true
     },
     {
-      "id": "352505-2026",
-      "ref": "352505-2026",
-      "acheteur": "Gemeente Zaanstad",
-      "objet": "Pays-Bas – Services d'éducation des adultes et autres services d'enseignement – Volwasseneneducatie WEB",
-      "description": "De regio Zaanstreek-Waterland heeft, samen met partners, in december 2025 een ‘Regionale aanpak basisvaardigheden’ vastgesteld voor de periode 2026 tot en met 2029. We willen dat beperkte basisvaardigheden geen drempel zijn voor het meedoen in onze samenleving door te zorgen dat de inwoners van Zaanstreek-Waterland hun basisvaardigheden kunnen (blijven) ontwikkelen en door te zorgen dat de maatschappij rekening houdt met mensen met beperkte basisvaardigheden. Wij wensen één aanbieder te contracteren die basisvaardighedenonderwijs kan verzorgen aan 18+ers, die niet-inburgeringsplichtig zijn. Het contract omvat het leveren van formeel en non-formeel P taalaanbod binnen de volwasseneneducatie, gericht op de beheersing van taal-, reken- en digitale basisvaardigheden voor zowel NT1- als NT2-deelnemers. Tot slot valt ook B2 taalonderwijs, voor niet-inburgeraars, binnen de scope van de opdracht, zij het enkel op doorverwijzing vanuit een gemeentelijk loket. Zie aanbestedingsdocumenten. De opdracht betreft een raamovereenkomst, waarbij er geen sprake is van enige garantie op het gebied van omzet, afname of volumes. Om wel beeld te schetsen bij de opdracht en deze zo bepaalbaar te maken voor inschrijvers, wordt er in de aanbestedingsdocumenten wel inzicht gegeven in historische volumes alsmede in budgetplafonds. Ten aanzien van al deze getallen geldt dat ook hier geen rechten aan kunnen worden ontleend, daar deze door tal van omstandigheden kunnen fluctueren. Zie aanbestedingsdocumenten.",
-      "cpv": "80400000",
+      "id": "347409-2026",
+      "ref": "347409-2026",
+      "acheteur": "Waterschap Rivierenland",
+      "objet": "Pays-Bas – Travaux d'équipement électrique – Raamovereenkomst Elektrotechnische en Procesautomatisering werkzaamheden iWA2.0/ iPA2.0 2026",
+      "description": "De Raamovereenkomst Elektrotechnische en Procesautomatisering werkzaamheden iWA2.0/iPA2.0 2026-2030 is voornamelijk gebaseerd op de programma’s iWA2.0 en iPA2.0. De, niet uitputtende, werkzaamheden zijn onderverdeeld in: • Werkzaamheden aan de objecten stuwen en gemalen, krooshekreiniger, meetpunten en dergelijke objecten in het watersysteem. Deze objecten behoren tot het programma iWA2.0 • Werkzaamheden aan de objecten rioolgemalen en rioolwaterzuiveringsinstallaties (rwzi’s) in de waterketen. Deze objecten behoren tot het programma iPA2.0; • Buiten de programma’s iWA2.0 en iPA2.0 kunnen werkzaamheden op de (de)centrale locaties/kantoren van WSRL deel uitmaken van deze Raamovereenkomst. De werkzaamheden moeten wel in relatie staan met de werkzaamheden zoals in deze Aanbestedingsleidraad benoemd; • Detachering van personeel in geval van capaciteitsbehoefte bij WSRL. Voor deze objecten dienen er voornamelijk elektrotechnische installatiewerkzaamheden uitgevoerd te worden. Meestal worden de engineeringswerkzaamheden door WSRL zelf uitgevoerd. In sommige gevallen kan de engineering door Opdrachtnemer onderdeel uitmaken van de Nadere opdracht. WSRL hanteert voor het gehele programma iWA2.0 en iPA2.0 de volgende doelstellingen: • Het vervangen van de procesautomatisering eens per 12,5 jaar van de objecten waarbij enkel op elektrotechnisch en procesautomatisering vlak vervanging dient plaats te vinden; • Bij het vervangen van de procesautomatisering gelijktijdig het vervangen van de elektrotechnische componenten, welke niet meer voldoen aan de normen of aan vervanging toe zijn, inclusief de benodigde documentatie van de objecten; • Het technisch en functioneel op orde houden van de centrale hoofdposten watersysteem en waterketen.   Het doel van deze aanbesteding is tweeledig: 1. Het sluiten van een Raamovereenkomst(en) met één of meerdere ondernemingen voor Elektrotechnische installaties & Procesautomatisering werkzaamheden iWA2.0/ iPA2.0 2026-2030; 2. Het verstrekken van één Opdracht (een Nadere opdracht vanuit vakgebied B) voor werkzaamheden aan gemaal Middelkoop.",
+      "cpv": "45310000",
       "pays": "NLD",
-      "deadline": "2026-08-21",
-      "montant": 6875,
-      "publication": "2026-05-22",
+      "deadline": "2026-07-02",
+      "montant": 100000,
+      "publication": "2026-05-21",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/352505-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/347409-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -63,6 +63,68 @@
         "com": 5,
         "admin": 7,
         "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "342854-2026",
+      "ref": "342854-2026",
+      "acheteur": "Gemeente Zaanstad",
+      "objet": "Pays-Bas – Services de développement de logiciels de gestion d'internet et d'intranet – Sociaal intranet",
+      "description": "Gemeente Zaanstad heeft al 10 jaar een sociaal intranet. Het is de spil van de interne communicatie middelenmix. Medewerkers weten niet beter dan dat ze op het intranet zelf berichten kunnen plaatsen, vragen stellen en organisatie nieuws en organisatie informatie kunnen vinden. Zie aanbestedingsdocumenten. Hiervoor geldt een plafondbedrag van € 80.000, - excl. BTW per jaar. Indien dit bedrag in de inschrijving wordt overschreden wordt de inschrijving terzijde gelegd en niet meegenomen voor de verdere beoordeling.",
+      "cpv": "72212220",
+      "pays": "NLD",
+      "deadline": "2026-08-20",
+      "montant": 800,
+      "publication": "2026-05-19",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/342854-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "348211-2026",
+      "ref": "348211-2026",
+      "acheteur": "Belastingdienst, IUC Belastingdienst",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Beheer, Onderhoud & support Oracle Exadata-omgeving",
+      "description": "De Belastingdienst maakt gebruik van een Exadata-omgeving als onderdeel van haar kritieke dataplatforminfrastructuur. Deze omgeving ondersteunt diverse bedrijfskritische applicaties en processen die essentieel zijn voor de uitvoering van haar taken. Om de continuïteit, prestaties en (Informatie)beveiliging van deze omgeving te waarborgen, wordt een aanbesteding gestart voor het onderhoud en de ondersteuning van de bestaande Exadata-stack (Installed base). De scope van deze aanbesteding omvat primair het Beheer, Onderhoud & Support van de Oracle Exadata-stack (Installed Base) en Technical Accountmanagement (TAM) die een directe relatie hebben met de Oracle Exadata-omgeving Keuze-element: Consultancy Herzieningsclausules: 1. Uitbreiding Programmatuur; 2. Nieuwe Programmatuur; 3. Technology refresh; 4. Logische opvolger; 5. Tijdelijk verlenging Overeenkomst. De opdracht betreft primair het Beheer, Onderhoud & Support op 5 Oracle Exadata X10M Engineered systems (incl Systeemsoftware en databasesoftware). De geraamde waarde van Diensten (Beheer, Onderhoud & Support) is geraamd op een waarde van 400.000 (excl. BTW) per jaar. De omvang is (mede) gebaseerd op ramingen, waar geen rechten aan kunnen worden ontleend. Deze omvang is exclusief Keuze-elementen en Herziengingen.",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 2209,
+      "publication": "2026-05-21",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/348211-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -100,6 +162,286 @@
       "auto": true
     },
     {
+      "id": "334836-2026",
+      "ref": "334836-2026",
+      "acheteur": "Kansspelautoriteit",
+      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Applicatiebeheer Exact omgeving",
+      "description": "De Kansspelautoriteit zoekt een opdrachtnemer die Ksa kan voorzien in dienstverlening rondom haar Exact omgeving. De Exact omgeving (met onder andere Exact Financials Enterprise en Exact Synergy Enterprise) vormt een geheel aan centrale applicaties waarin kritische bedrijfsprocessen worden ondersteund. Exact is op dit moment ingericht als onderdeel van de bedrijfsvoering van de Ksa en bevat onder meer bestaande administratieve processen, stamdata, autorisaties, rapportages, koppelingen, specifieke inrichting een aanpassingen aan werkprocessen, workflows, controles en historische gegevens. Momenteel maken 10 gebruikers gebruik van Exact Financials Enterprise. Momenteel maken 230 (professional licenties) gebruikers gebruik van Exact Synergy Enterprise van de ingerichte workflows en selfservice. En er zijn 50 zware gebruikers die gebruik maken van Exact Synergy Enterprise.",
+      "cpv": "72200000",
+      "pays": "NLD",
+      "deadline": "2026-06-30",
+      "montant": 0,
+      "publication": "2026-05-18",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/334836-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 67,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "352314-2026",
+      "ref": "352314-2026",
+      "acheteur": "Regisseur Studenten Reisrecht B.V.",
+      "objet": "Pays-Bas – Services de développement de logiciels de communication – Europese aanbesteding AI-chatbot",
+      "description": "De scope van de opdracht ziet op het leveren, implementeren, beheren, onderhouden en doorontwikkelen van een AI-chatbotoplossing ter vervanging van de huidige chatbot. De AI-chatbotoplossing dient studenten op een toegankelijke, betrouwbare en efficiënte wijze te ondersteunen en Sessies adequaat af te handelen. Onder de opdracht valt niet alleen de beschikbaarstelling van de oplossing zelf, maar ook de bijbehorende dienstverlening die nodig is om de AI-chatbot gedurende de looptijd goed, veilig en toekomstbestendig te laten functioneren. Deze opdracht is niet onderverdeeld in percelen. Inschrijven op een gedeelte van de opdracht is niet toegestaan en leidt tot uitsluiting van verdere deelname aan de aanbestedingsprocedure. De onderhavige opdracht in deze aanbesteding vertegenwoordigt een geschatte opdrachtwaarde van € 96.000,00 exclusief btw per jaar voor het leveren, onderhouden en beheren van de AI-chatbot en inclusief verwerken van 100.000 Sessies. Let op: Deze jaarlijkse opdrachtwaarde is tevens een prijsplafond. Een Inschrijver met een Inschrijving met een prijsindiening in Annex III Prijzenblad waarvan de jaarlijkse kosten hoger zijn dan € 96.000,00 exclusief btw wordt uitgesloten van verdere deelname aan deze aanbesteding.",
+      "cpv": "72212510",
+      "pays": "NLD",
+      "deadline": "2026-07-03",
+      "montant": 0,
+      "publication": "2026-05-22",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/352314-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 67,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "335552-2026",
+      "ref": "335552-2026",
+      "acheteur": "Gemeente Nijkerk",
+      "objet": "Pays-Bas – Services relatifs aux logiciels – Financieel Systeem",
+      "description": "De gemeente Nijkerk is voornemens om een overeenkomst af te sluiten met een samenwerkingspartner voor de levering en implementatie van een financieel systeem. Op het moment maakt de gemeente gebruik van ons huidige financiële systeem van leverancier Centric, maar deze overeenkomst loopt binnenkort af. We zijn op zoek naar een samenwerkingspartner die begrijpt waar onze behoeften liggen en die samen met ons ervoor zorgt dat we worden ondersteund bij het betrouwbaar, transparant en efficiënt uitvoeren van onze financiële taken. 1",
+      "cpv": "72260000",
+      "pays": "NLD",
+      "deadline": "2026-06-15",
+      "montant": 0,
+      "publication": "2026-05-18",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/335552-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "337107-2026",
+      "ref": "337107-2026",
+      "acheteur": "ROC van Amsterdam - Flevoland en Voortgezet Onderwijs van Amsterdam",
+      "objet": "Pays-Bas – Services de programmation de progiciels – Marktconsultatie overname en doorontwikkeling applicatie Flexx",
+      "description": "De Stichting ROC van Amsterdam – Flevoland wil onderzoeken op welke wijze de onderwijsondersteunende applicatie Flexx 2.0, inclusief de bijbehorende intellectuele eigendomsrechten, kan worden overgedragen aan een marktpartij voor wie het ontwikkelen, beheren en exploiteren van dergelijke software tot de kernactiviteiten behoort. Het ROCvA-F is zelf geen softwareleverancier maar er bestaat in de markt wel interesse voor Flexx. Het ROCvA-F wil daarom verkennen of er marktpartijen zijn die het systeem structureel kunnen overnemen en verder kunnen ontwikkelen en beheren, waarbij geldt dat ROCvA-F de intellectuele eigendomsrechten niet kosteloos overdraagt maar hiervoor een passende tegenprestatie verwacht. In deze marktconsultatie wordt daarom nadrukkelijk verkend in hoeverre marktpartijen bereid en in staat zijn om Flexx over te nemen onder deze voorwaarden. Het is daarbij essentieel dat de continuïteit van de dienstverlening wordt gewaarborgd. Flexx ondersteunt kritische onderwijsprocessen, waardoor verstoring of uitval gedurende een eventuele overgangsperiode niet acceptabel is.",
+      "cpv": "72210000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-18",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/337107-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "341636-2026",
+      "ref": "341636-2026",
+      "acheteur": "Medizinische Universität Lausitz - Carl Thiem KdöR",
+      "objet": "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Beschaffung von Entwicklungsleistungen für die Digitalisierung der akademischen Verwaltung auf Basis des koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint",
+      "description": "5.1. Art und Umfang der zu erbringenden Leistungen Die MUL-CT strebt beim Aufbau der digitalen Universität an, akademische Verwaltungsprozesse zukünftig im koellisch-toolkit/koellisch-core-framework auf Office365/Sharepoint umzusetzen. Dabei wird die Entwicklung einer performanten Informationstechnologie & Aufbau digitaler Plattformen für die akademische Verwaltung definiert, um durch Digitalisierung und Automatisierung schlanke und digitale Verwaltungsprozesse direkt von Beginn an zu entwickeln. Die durch den Auftragnehmer zu erbringende Leistungen beinhaltet die Entwicklung von akademischen Verwaltungsprozessen auf Basis von dem koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint. 5.1.1. zu erbringende Dienstleistungen Folgende Aufgaben sind durch das Projektteam des Auftragnehmers in den zu beauftragenden Projekten zu erbringen: - Architektur & Konzeption: Entwicklung, Implementierung und Weiterentwicklung von digitalen Verwaltungslösungen für die Universität auf Basis des koellisch-Toolkit/Core Framework in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Workflow-Entwicklung: Konzeption und Umsetzung komplexer Workflows inkl. Fristen- und Mandatsverwaltung, Abstimmungs- und Dokumentationsprozessen sowie digitale Akten mit rechtssicherer Dokumentation - Schnittstellen & Integration: Design und Realisierung von Anbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Fehleranalyse & Wartung: Analyse und Behebung von Lösungsfehlern im Ticketsystem inkl. Eskalationsmanagement - Testing & Qualitätsmanagement: Steuerung von Test- und Rollout-Phasen, Qualitätssicherung und Erstellung technischer Dokumentationen - IT-Projektleitung: Übernahme von (Teil-)Projektleitungen im Rahmen der Digitalisierungsprojekte der MUL-CT Tätigkeiten, die während der Digitalisierungsvorhaben der MUL-CT zu erwarten und von jeweiligen Entwickler:in köllisch-toolkit/köllisch-core-framework zu übernehmen sind: - Konzeption, Implementierung und Weiterentwicklung von Lösungen auf Basis des köllisch-Toolkit/Core Frameworks in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Realisierung von Workflows und digitalen Akten inkl. Fristen- und Mandatsverwaltung, rechtssicherer Dokumentation, Abstimmungs- und Sitzungsorganisation - Analyse und Behebung von Lösungsfehlern im Rahmen des Ticketsystems, inkl. Eskalationsmanagement und Support bei Fehlertickets - Mitwirkung bei Schnittstellenanbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Übernahme von (Teil-)Projektleitungen in Digitalisierungsprojekten inkl. Steuerung von Test- und Rollout-Phasen - Planung, Durchführung und Dokumentation von Test- und Qualitätssicherungsmaßnahmen (funktionales Testing, Abnahmetests, Regressionstests) - Durchführung von Schulungen und Workshops für unterschiedliche Zielgruppen (Key-User, Gremienmitglieder, Verwaltung, interne IT) - Coaching und Training interner IT-Mitarbeitender zur Förderung des nachhaltigen Kompetenzaufbaus",
+      "cpv": "72000000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-19",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/341636-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Microsoft Office",
+        "Office 365"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "345949-2026",
+      "ref": "345949-2026",
+      "acheteur": "Medizinisches Zentrum für Gesundheit Bad Lippspringe gGmbH (MZG) / Karl-Hansen-Klinik GmbH",
+      "objet": "Allemagne – Imprimantes et traceurs – Outputmanagement / KDF-Systeme",
+      "description": "Der Auftragnehmer ist ein IT-Dienstleister mit weitgehender Erfahrung im Bereich der Bereitstellung von Dokumentenverarbeitungsgeräten und der Erbringung von Full-Service-Dienstleistungen. Der Auftragnehmer übernimmt die Gesamtverantwortung für die Funktionalität und die volle Integrationsfähigkeit der Dokumentenverarbeitungsgeräte in die vorhandene und geplante EDV-Landschaft der Auftraggeber. Ebenso sichert er die Betriebssicherheit der Dokumentenverarbeitungsgeräte zu und garantiert deren Einsatzbereitschaft im vorgegebenen Zeitrahmen. Erfüllungsort für alle Leistungen sind die Standorte der Auftraggeber, die beim jeweiligen Abruf aus der Rahmenvereinbarung benannt werden. Alle Hauptstandorte der Auftraggeber sind per Glasfasernetz untereinander verbunden. Es ist ein Hauptprint Server mit Win 2022 vor Ort installiert. Alle Desktop PCs und Latops arbeiten mit Windows 11 64bit. Alle PC-Arbeitsplätze müssen mit MS Office 365, Standard Drittanbietersoftware, Klinikinformationssystem Orbis, Meditec, div. drucken. Alle Leistungen erfolgen nach Vorgaben des MZG frei Haus. Das Transportrisiko geht zu Lasten des Auftragnehmers. Transport- und Verpackungsmaterial sind auf Anforderung sofort bei Lieferung aus den Räumlichkeiten des Bedarfsträgers zu entfernen und umweltgerecht zu verwerten / entsorgen; eine Zwischenlagerung ist nicht möglich. Der Auftragnehmer übernimmt die Organisation sowie die Kosten der Rücknahme und der Entsorgung. Für die vorgenannten Leistungen wird keine zusätzliche Gebühr berechnet, die entsprechenden Kosten sind in den Angebotspreisen berücksichtigt. Die Rahmenvereinbarung hat eine Laufzeit von 48 Monaten. Eine Vertragsverlängerung ist nicht vorgesehen. Die Abrufe aus der Rahmenvereinbarung werden in schriftlicher Form durch die Auftraggeber in Form einer Bestellung ausgelöst. Die weiteren Details sind der Rahmenvereinbarung (Teil C) zu entnehmen. Da bei der Durchführung der Rahmenvereinbarung personenbezogene Daten im Sinne des Art. 4 Nr. 1 der Datenschutzgrundverordnung (DSGVO) verarbeitet werden, muss sich der Auftragnehmer zur Einhaltung der jeweils einschlägigen datenschutzrechtlichen Bestimmungen der Europäischen Union (insb. der DSGVO), des Bundes (Bundesdatenschutzgesetz - BDSG) sowie des Landes Nordrhein-Westfalen (Datenschutzgesetz Nordrhein-Westfalen - DSG NRW) verpflichten. Zu diesem Zweck schließt er einen Vertrag zur Auftragsverarbeitung nach Art. 28 DSGVO mit den Auftraggebern. Auf Grundlage der Rahmenvereinbarung können die Auftraggeber während deren Laufzeit einzelne Bestellungen über die mietweise Überlassung der Dokumentenverarbeitungsgeräte einschließlich der jeweils zugehörigen Serviceleistungen abrufen (nachfolgend jeweils \"Einzelbestellung\"). Die Auftraggeber sind berechtigt, jede Einzelbestellung einschließlich der zugehörigen Serviceleistungen erstmals zum Ablauf von 24 Monaten ab dem in der jeweiligen Einzelbestellung bestimmten Leistungsbeginn ordentlich zu kündigen. Die Kündigung ist mit einer Frist von drei (3) Monaten zum Monatsende in Textform zulässig. Die Kündigung einer Einzelbestellung beendet ausschließlich die hiervon erfasste Einzelbestellung einschließlich der zugehörigen Serviceleistungen. Die Ausstattung der einzelnen Standorte mit den vertraglich vereinbarten Druck- und Multifunktionssystemen erfolgt im Rahmen eines abgestimmten Roll-out-Prozesses. Der Roll-out-Prozess beginnt unverzüglich nach Zuschlagserteilung. Der Roll-out wird jeweils durch eine schriftliche Einzelbestellung des Auftraggebers ausgelöst. Der Auftragnehmer verpflichtet sich, den durch die jeweilige Bestellung initiierten Roll-out-Prozess spätestens innerhalb von 6 Wochen nach Zugang der vollständigen Bestellung abzuschließen. Als abgeschlossen gilt der Roll-out, sobald die Systeme am jeweiligen Standort angeliefert, installiert, konfiguriert, betriebsbereit übergeben und durch den Auftraggeber abgenommen wurden. Verzögerungen, die ausschließlich auf fehlende oder verspätete Mitwirkungshandlungen des Auftraggebers zurückzuführen sind, verlängern die Frist entsprechend. Die im Preisblatt gem. Vordruck Anlage B.1 zu Teil B ausgewiesenen Mengenangaben basieren auf der statistischen Auswertung der Auftraggeber, die für den Zeitraum der Leistungserbringung repräsentativ sind, aber lediglich als Anhaltspunkt für die tatsächlich anfallenden Mengen dient. Es ist in jedem Fall der komplette Bedarf zu decken. Aus der Angabe des geschätzten Gesamtwerts sowie des dort geschätzten Leistungsumfangs pro Jahr kann keine Verpflichtung der Auftraggeber zur Beauftragung eines bestimmten Leistungsumfangs oder Mindestumfang der Dienstleistungen abgeleitet werden. Der Auftragnehmer kann aus dem Nichtabruf des geschätzten Gesamtwerts und des geschätzten Leistungsumfangs pro Jahr keine Ansprüche auf Schadensersatz oder sonstige Ansprüche ableiten. Die Auftraggeber sind insbesondere berechtigt, im erforderlichen und in einem den Rahmenvereinbarungspartnern zumutbaren Umfang und innerhalb ihrer Leistungsfähigkeit das geschätzte Auftragsvolumen der Rahmenvereinbarung gemäß EU-Bekanntmachung um maximal 50% des ursprünglich geschätzten Auftragsvolumens jeweils positionsspezifisch zu erhöhen, wenn a) dies zur fachgerechten Erbringung der von der Rahmenvereinbarung erfassten Leistungen im Geltungsbereich und während der Laufzeit der Rahmenvereinbarung erforderlich ist oder b) für die Leistungserbringung relevante rechtliche oder regulatorische Vorgaben, einschließlich Feststellungen oder Anordnungen der die Auftraggeber beaufsichtigenden Stellen, eine Änderung des Bedarfs der Auftraggeber nach sich ziehen oder c) grundlegende betriebliche Entscheidungen der Auftraggeber über Erweiterungen der Klinikabschnitte zu einem erhöhten Patientenaufkommen und damit zu einer Anpassung des Beschaffungsbedarfs führen. Wegen der weiteren Einzelheiten wird auf die Vergabeunterlagen, insbesondere die Leistungsbeschreibung (Teil B) und die Vertragsunterlagen (Teil C) verwiesen.",
+      "cpv": "30232100",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-20",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/345949-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Office 365"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "347446-2026",
+      "ref": "347446-2026",
+      "acheteur": "Medizinischer Dienst Baden-Württemberg",
+      "objet": "Allemagne – Logiciels de gestion des installations – Beschaffung und Implementierung einer CAFM-Software",
+      "description": "Für die Facility-Management-Leistungen des Medizinischen Dienstes Baden-Württemberg soll ein CAFM-System eingeführt werden, das die effiziente Verwaltung und Steuerung aller relevanten Prozesse unterstützt. Der Medizinische Dienst Baden-Württemberg betreibt rund 20 Standorte, die überwiegend als Mietobjekte genutzt werden und unterschiedliche Zuständigkeiten in der Bewirtschaftung aufweisen. Die Facility-Management-Leistungen werden zentral in der Hauptverwaltung durch ein Team von etwa zehn Mitarbeitenden erbracht. Zusätzlich sind je Standort verantwortliche Personen definiert, die standortbezogene Aufgaben und Zuständigkeiten innerhalb des Medizinischen Dienstes Baden-Württemberg wahrnehmen. Ziel der Implementierung ist es, durch den Einsatz eines CAFM-Systems Transparenz, Prozesssicherheit und Effizienz in der Bewirtschaftung der Liegenschaften zu erhöhen und eine zukunftsfähige digitale Plattform für das Facility Management bereitzustellen. Mit der Implementierung des CAFM-Systems sollen die derzeit unterschiedlichen Informationsquellen (z. B. unterschiedlichen Excel-Tabellen und Systemen) zusammengeführt und die Informationsqualität sowie -quantität durch definierte Datenmodelle vereinheitlicht werden. Die daraus entstehende konsistente Datenbasis liefert den Entscheidungsträgern künftig rechtssichere, aktuelle, vollständige und korrekte Informationen. Dies geht einher mit der Transformation von analogen zu digitalen Prozessen. Bestehende Prozesse sollen im Rahmen der Implementierung überprüft und weitestgehend an marktübliche Standards angepasst werden, mit dem Ziel einer Effizienzsteigerung.",
+      "cpv": "48421000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-21",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/347446-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Excel"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "350355-2026",
+      "ref": "350355-2026",
+      "acheteur": "gemeente Maasdriel",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Marktconsultatie Applicatie Sociaal Domein",
+      "description": "De gemeente Gemeente Maasdriel bereidt zich voor op de toekomstige vervanging van de huidige applicaties binnen het sociaal domein, aangezien de bestaande overeenkomst met de huidige leverancier eind 2027 afloopt. Tegelijkertijd is het sociaal domein volop in ontwikkeling, zowel inhoudelijk als organisatorisch, met een toenemende behoefte aan integrale samenwerking, gegevensuitwisseling en toekomstbestendige ondersteuning van processen en dienstverlening. Om te komen tot een passende inrichting van het toekomstige applicatielandschap onderzoekt de gemeente verschillende vraagstukken rondom onder andere integraliteit, interoperabiliteit, modulariteit, governance en samenwerking met ketenpartners. Omdat nog geen definitieve keuzes zijn gemaakt over de scope, architectuur en sourcingstrategie van de toekomstige opdracht, wil de gemeente via deze marktconsultatie inzichten ophalen bij marktpartijen. De uitkomsten van de consultatie worden gebruikt om de aanbestedingsstrategie en de uiteindelijke scope zorgvuldig te bepalen.",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-22",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/350355-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "341531-2026",
+      "ref": "341531-2026",
+      "acheteur": "C-smart dv",
+      "objet": "Belgique – Services de fourniture de logiciels – RAAMOVEREENKOMST VOOR DE LEVERING, IMPLEMENTATIE EN ONDERHOUD VAN EEN GEÏNTEGREERDE SOFTWAREOPLOSSING VOOR DE VERWERKING VAN GEMEENTELIJKE ADMINISTRATIEVE SANCTIES (GAS)",
+      "description": "De opdracht heeft tot doel de levering, implementatie en het onderhoud van een geïntegreerde softwareoplossing voor het beheer en de verwerking van gemeentelijke administratieve sancties (GAS). De aanbestedende overheid treedt op als intercommunale en oefent, in opdracht van en voor rekening van meerdere aangesloten lokale besturen, de rol uit van sanctionerend ambtenaar zoals bedoeld in de toepasselijke GAS-regelgeving. De softwareoplossing moet de aanbestedende overheid in staat stellen om, op een efficiënte, uniforme en rechtszekere manier, de volledige administratieve afhandeling van GAS-dossiers te ondersteunen, met inbegrip van onder meer: • de registratie en verwerking van vaststellingen; • de opvolging van procedures en wettelijke termijnen; • de voorbereiding en afhandeling van sanctiebeslissingen; • de communicatie met overtreders en betrokken instanties; • de opvolging van betalingen, beroepen en eventuele invordering; • de rapportering ten behoeve van de aangesloten lokale besturen. De oplossing moet multi-tenant of multi-organisatie inzetbaar zijn, zodat dossiers van verschillende lokale besturen gescheiden maar beheersbaar binnen één platform kunnen worden verwerkt, met respect voor rolverdeling, toegangsrechten en gegevensbescherming. De opdracht omvat naast de terbeschikkingstelling van de software eveneens de implementatie, configuratie, opleiding, technische ondersteuning en het onderhoud van de oplossing gedurende de volledige looptijd van de overeenkomst.",
+      "cpv": "72268000",
+      "pays": "BEL",
+      "deadline": "2026-05-28",
+      "montant": 0,
+      "publication": "2026-05-19",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/341531-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 62,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "343216-2026",
       "ref": "343216-2026",
       "acheteur": "Land Saarland",
@@ -127,6 +469,37 @@
         "delay": 3
       },
       "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "352250-2026",
+      "ref": "352250-2026",
+      "acheteur": "Invest International B.V.",
+      "objet": "Pays-Bas – Services aux entreprises: droit, marketing, conseil, recrutement, impression et sécurité – DAS for Temporary Deployment of External Professionals",
+      "description": "The interim manager is a professional operating at a strategic and/or tactical management level and is responsible for leading teams, departments, programmes or organisational units and operates with decision making authority within the scope of the assignment. The role involves responsibility for achieving agreed objectives and accountability for results, rather than merely providing advice or support. • Interim Management is typically deployed to address temporary capacity gaps, including but not limited to: o Replacement during the absence of permanent management; o Organisational change, restructuring or transformation; o Crisis or turnaround situations; o Start up, scaling or transition phases; o Implementation of strategic programmes or complex projects. 3.500.000 Euro based on a period of 4 years / The professional provides substantive legal advice, analysis, drafting and support within one or more areas of law. • The services may include, but are not limited to: o Corporate Law, Commercial Law or corporate governance matters; o Administrative Law o Public Law (including the Wet open overheid); o Procurement and Tender law; o Labour law; o Privacy and Data Protection Law; o State Aid Law; o Tax Law; o Complaints or Litigation; o M&A advisory, including advice on private equity or venture capital transactions, investments, partnerships, and transaction and corporate structures; o Review and amendment of financing arrangements, security interests and guarantees, including (LMA-style) loan documentation; o FR&R related legal matters (including insolvency law or enforcement of security). • Legal services are typically deployed to: o Support complex transactions, programmes or projects; o Advise on regulatory or compliance matters; o Draft, review or negotiate legal documents; o Provide legal input during tender procedures, disputes or organisational changes. 3.500.000 Euro based on a period of 4 years. / The professional provides financial support, analysis and advisory services in support of operations, compliance obligations, reporting requirements and decision making processes. Assignments within this category may include, but are not limited to: • Administrative and operational financial support; • Accounting and financial reporting services; • Tax related matters; • Treasury support activities; • Financial Restructuring & Recovery (FR&R) activities; • Financial control, risk and/or compliance support; • Audit related support services (excluding statutory audit functions). 1.800.000 Euro based on a period of 4 years. / The professional provides specialist, operational and/or advisory services within one or more business domains that support the effective functioning, development and transformation. • This category may include, but is not limited to, expertise in the following areas: o Human Resources Management (HRM); o Marketing and Communication; o Operations and Process Management; o Risk Management and Internal Control; o Information Technology (IT); o Change Management and Organisational Development. • Services are typically deployed to: o Support operational capacity and continuity; o Improve processes, systems or governance structures; o Support organisational change, transformation or implementation initiatives; o Provide specialist input in projects or programmes. 1.800.000 Euro based on a period of 4 years. / The services focus on the development, improvement or assessment of individual or group competencies, behaviour, skills and/or knowledge. • This category may include, but is not limited to: o Professional and personal development training; o Leadership, career or performance coaching; o Team development and collaboration programmes; o Assessments, such as competency assessments, development assessments or selection assessments; o Safety related training, awareness programmes and behavioural safety initiatives. • Services are typically delivered in the form of: o Training sessions, workshops or learning programmes; o Individual or group coaching trajectories; o Assessment tools, interviews, tests or reports. 600.000 Euro based on a period of 4 years. / The professional provides substantive technical advice, studies, analyses and design related support within specialised technical domains. • This category may include, but is not limited to, expertise in the following fields: o Agri-food (Agriculture and Sustainable Value Chains) o Energy (Renewable Energy, Green Hydrogen, Electrification) o Manufacturing (Sustainable & Circular Manufacturing, Critical Raw Materials (CRM)) o Water & Infrastructure (Water solutions, climate adaptation, green architecture, infrastructure); o Healthcare (Improving people’s health) • Technical consultancy services are typically deployed to: o Conduct feasibility studies, technical assessments or analyses; o Develop or review technical concepts, designs or specifications; o Provide independent technical advice, second opinions or reviews; o Support project preparation, appraisal, implementation or monitoring. 1.800.000 Euro based on a period of 4 years. / The project manager performs project related roles within a clearly defined project scope, timeline and set of deliverables. • This category may include, but is not limited to, the following roles: o Project Leaders or Project Managers; o Project Coordinators; o Project Support staff or Project Officers; o Project Control, planning or Reporting Specialists. • Project based professionals are typically deployed to: o Lead or support the preparation, execution or closure of projects; o Coordinate activities, stakeholders and deliverables within projects; o Monitor progress, risks, planning, quality and reporting; o Support programme or portfolio activities without assuming permanent organisational responsibility. 1.000.000 Euro based on a period of 4 years.",
+      "cpv": "79000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-22",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/352250-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "competency assessment"
+      ],
+      "bureautique": false,
+      "score": 45,
+      "score_detail": {
+        "fit": 10,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "no",
       "notes": "",
       "auto": true
     }

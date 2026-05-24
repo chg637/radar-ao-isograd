@@ -1,38 +1,10 @@
 {
-  "generated_at": "2026-05-24T08:27:34.176Z",
-  "source": "MERGE",
-  "sources_summary": {
-    "TED": {
-      "present": true,
-      "fetched": 500,
-      "matched": 25,
-      "go": 0,
-      "generated_at": "2026-05-24T08:23:17.378Z"
-    },
-    "BOAMP": {
-      "present": true,
-      "fetched": 1970,
-      "matched": 2,
-      "go": 0,
-      "generated_at": "2026-05-24T08:27:20.790Z"
-    },
-    "Profil": {
-      "present": true,
-      "fetched": 0,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-05-24T08:27:34.131Z"
-    }
-  },
-  "total_fetched": 2470,
-  "total_matched": 27,
+  "generated_at": "2026-05-24T08:23:17.378Z",
+  "source": "TED",
+  "window_days": 14,
+  "total_fetched": 500,
+  "total_matched": 25,
   "total_go": 0,
-  "total_dedup_collisions": 0,
-  "dedup_breakdown": {
-    "by_id": 0,
-    "fuzzy_signature": 0,
-    "fuzzy_jaccard": 0
-  },
   "notices": [
     {
       "id": "342824-2026",
@@ -66,21 +38,21 @@
       "auto": true
     },
     {
-      "id": "342598-2026",
-      "ref": "342598-2026",
-      "acheteur": "Presidencia de la Autoridad Portuaria de la Bahía de Algeciras",
-      "objet": "Espagne – Logiciels de bureautique – Suministro de licencias Office 365 2026-2029",
-      "description": "Suministro de licencias Office 365 2026-2029",
-      "cpv": "48920000",
-      "pays": "ESP",
-      "deadline": "2026-06-18",
-      "montant": 1119,
-      "publication": "2026-05-19",
+      "id": "319777-2026",
+      "ref": "319777-2026",
+      "acheteur": "Vlaamse Overheid",
+      "objet": "Belgique – Services de conseil en gestion financière – Enkelvoudige raamovereenkomst in het kader van ondersteuning omgevingsmanagement",
+      "description": "Het bieden van deskundige ondersteuning in het omgevingsmanagement van een aantal strategische infrastructuurprojecten van het departement Mobiliteit en Openbare werken. Omgevingsmanagement is een gestructureerde en proactieve werkwijze die zich richt op het afstemmen van verschillende belangen, het minimaliseren van hinder en het creëren van draagvlak bij de realisatie van complexe projecten. Hierbij vormen communicatie, het betrekken van stakeholders en risicobeheersing de kern. Door tijdig in te spelen op ontwikkelingen en open te staan voor dialoog met iedereen die ‘geraakt’ wordt door het project, verhoogt omgevingsmanagement de kans op een succesvolle uitvoering van het project. In eerste instantie wordt er omgevingsmanagement verwacht voor de complexe project Nieuwe Sluis Zeebrugge en Extra Containerbehandelingscapaciteit Antwerpen, met daaraan verbonden de aanpassing van de E34 ter hoogte van de Waaslandhaven en de R2. De scope van de opdracht omvat stakeholdermanagement, risico- en kansenanalyse, participatieprocessen, inspraakrondes, en andere verwante taken.",
+      "cpv": "79412000",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 1200,
+      "publication": "2026-05-11",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/342598-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/319777-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Office 365"
+        "Word"
       ],
       "bureautique": true,
       "score": 72,
@@ -97,18 +69,18 @@
       "auto": true
     },
     {
-      "id": "342854-2026",
-      "ref": "342854-2026",
-      "acheteur": "Gemeente Zaanstad",
-      "objet": "Pays-Bas – Services de développement de logiciels de gestion d'internet et d'intranet – Sociaal intranet",
-      "description": "Gemeente Zaanstad heeft al 10 jaar een sociaal intranet. Het is de spil van de interne communicatie middelenmix. Medewerkers weten niet beter dan dat ze op het intranet zelf berichten kunnen plaatsen, vragen stellen en organisatie nieuws en organisatie informatie kunnen vinden. Zie aanbestedingsdocumenten. Hiervoor geldt een plafondbedrag van € 80.000, - excl. BTW per jaar. Indien dit bedrag in de inschrijving wordt overschreden wordt de inschrijving terzijde gelegd en niet meegenomen voor de verdere beoordeling.",
-      "cpv": "72212220",
+      "id": "319880-2026",
+      "ref": "319880-2026",
+      "acheteur": "SURF B.V.",
+      "objet": "Pays-Bas – Logiciels et systèmes d'information – Aankondiging van vrijwillige transparantie vooraf: Enterprise Linux producten en diensten",
+      "description": "SURF wenst met distributeurs voor Red Hat, SUSE en Canonical (Ubuntu) raamovereenkomsten te sluiten voor de levering van Enterprise Linux softwarelicenties en subscripties, inclusief onderhoud en support, ten behoeve van de deelnemende instellingen. SURF doet een beroep op artikel 2.32 lid 1, onder b, sub 2 en sub 3 Aanbestedingswet 2012, omdat mededinging om technische redenen ontbreekt en uitsluitende rechten, met inbegrip van intellectuele-eigendomsrechten, moeten worden beschermd en er geen redelijk alternatief of substituut bestaat. Een nadere toelichting hierop vindt u in de bijlage.",
+      "cpv": "48000000",
       "pays": "NLD",
-      "deadline": "2026-08-20",
-      "montant": 800,
-      "publication": "2026-05-19",
+      "deadline": "",
+      "montant": 10400,
+      "publication": "2026-05-11",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/342854-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/319880-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -117,11 +89,11 @@
       "score": 72,
       "score_detail": {
         "fit": 30,
-        "size": 13,
+        "size": 15,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -190,21 +162,21 @@
       "auto": true
     },
     {
-      "id": "319777-2026",
-      "ref": "319777-2026",
-      "acheteur": "Vlaamse Overheid",
-      "objet": "Belgique – Services de conseil en gestion financière – Enkelvoudige raamovereenkomst in het kader van ondersteuning omgevingsmanagement",
-      "description": "Het bieden van deskundige ondersteuning in het omgevingsmanagement van een aantal strategische infrastructuurprojecten van het departement Mobiliteit en Openbare werken. Omgevingsmanagement is een gestructureerde en proactieve werkwijze die zich richt op het afstemmen van verschillende belangen, het minimaliseren van hinder en het creëren van draagvlak bij de realisatie van complexe projecten. Hierbij vormen communicatie, het betrekken van stakeholders en risicobeheersing de kern. Door tijdig in te spelen op ontwikkelingen en open te staan voor dialoog met iedereen die ‘geraakt’ wordt door het project, verhoogt omgevingsmanagement de kans op een succesvolle uitvoering van het project. In eerste instantie wordt er omgevingsmanagement verwacht voor de complexe project Nieuwe Sluis Zeebrugge en Extra Containerbehandelingscapaciteit Antwerpen, met daaraan verbonden de aanpassing van de E34 ter hoogte van de Waaslandhaven en de R2. De scope van de opdracht omvat stakeholdermanagement, risico- en kansenanalyse, participatieprocessen, inspraakrondes, en andere verwante taken.",
-      "cpv": "79412000",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 1200,
-      "publication": "2026-05-11",
+      "id": "342598-2026",
+      "ref": "342598-2026",
+      "acheteur": "Presidencia de la Autoridad Portuaria de la Bahía de Algeciras",
+      "objet": "Espagne – Logiciels de bureautique – Suministro de licencias Office 365 2026-2029",
+      "description": "Suministro de licencias Office 365 2026-2029",
+      "cpv": "48920000",
+      "pays": "ESP",
+      "deadline": "2026-06-18",
+      "montant": 1119,
+      "publication": "2026-05-19",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/319777-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/342598-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Word"
+        "Office 365"
       ],
       "bureautique": true,
       "score": 72,
@@ -221,18 +193,18 @@
       "auto": true
     },
     {
-      "id": "319880-2026",
-      "ref": "319880-2026",
-      "acheteur": "SURF B.V.",
-      "objet": "Pays-Bas – Logiciels et systèmes d'information – Aankondiging van vrijwillige transparantie vooraf: Enterprise Linux producten en diensten",
-      "description": "SURF wenst met distributeurs voor Red Hat, SUSE en Canonical (Ubuntu) raamovereenkomsten te sluiten voor de levering van Enterprise Linux softwarelicenties en subscripties, inclusief onderhoud en support, ten behoeve van de deelnemende instellingen. SURF doet een beroep op artikel 2.32 lid 1, onder b, sub 2 en sub 3 Aanbestedingswet 2012, omdat mededinging om technische redenen ontbreekt en uitsluitende rechten, met inbegrip van intellectuele-eigendomsrechten, moeten worden beschermd en er geen redelijk alternatief of substituut bestaat. Een nadere toelichting hierop vindt u in de bijlage.",
-      "cpv": "48000000",
+      "id": "342854-2026",
+      "ref": "342854-2026",
+      "acheteur": "Gemeente Zaanstad",
+      "objet": "Pays-Bas – Services de développement de logiciels de gestion d'internet et d'intranet – Sociaal intranet",
+      "description": "Gemeente Zaanstad heeft al 10 jaar een sociaal intranet. Het is de spil van de interne communicatie middelenmix. Medewerkers weten niet beter dan dat ze op het intranet zelf berichten kunnen plaatsen, vragen stellen en organisatie nieuws en organisatie informatie kunnen vinden. Zie aanbestedingsdocumenten. Hiervoor geldt een plafondbedrag van € 80.000, - excl. BTW per jaar. Indien dit bedrag in de inschrijving wordt overschreden wordt de inschrijving terzijde gelegd en niet meegenomen voor de verdere beoordeling.",
+      "cpv": "72212220",
       "pays": "NLD",
-      "deadline": "",
-      "montant": 10400,
-      "publication": "2026-05-11",
+      "deadline": "2026-08-20",
+      "montant": 800,
+      "publication": "2026-05-19",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/319880-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/342854-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -241,7 +213,69 @@
       "score": 72,
       "score_detail": {
         "fit": 30,
-        "size": 15,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "319787-2026",
+      "ref": "319787-2026",
+      "acheteur": "Gooise Scholen Federatie",
+      "objet": "Pays-Bas – Services de formation dans le domaine des premiers secours – Europese aanbesteding BHV-opleidingen",
+      "description": "De scope van de aanbesteding bestaat uit het verzorgen van minimaal de volgende BHV-opleidingen: • BHV-basisopleiding; • BHV-basisopleiding herhaling; • BHV-coördinator; • BHV-coördinator herhaling; • BHV Ploegleider; • BHV Ploegleider herhaling; • Hoofd BHV’er strategisch; • Hoofd BHV’er operationeel; • Hoofd BHV’er operationeel herhaling. Optioneel worden onderstaande BHV-opleidingen verzorgd: • Basis EHBO docenten lichamelijke opvoeding; • Herhalingsopleiding EHBO docenten lichamelijke opvoeding; • Jaarlijkse opfriscursus levensreddend handelen; • Inzet instructeur op afroep; • Inzet lotus (per dagdeel 4 uur). Deze opdracht is niet onderverdeeld in percelen. Inschrijven op een gedeelte van de opdracht is niet toegestaan en leidt tot uitsluiting van verdere deelname aan de aanbestedingsprocedure. De onderhavige opdracht in deze aanbesteding vertegenwoordigt een op basis van historie, geschatte en indicatieve opdrachtwaarde van € 35.000,00 exclusief btw per jaar en derhalve € 280.000,00 exclusief btw op basis van de maximale looptijd van acht (8) jaar. Let op: Aanbestedende dienst is voor de raamovereenkomst verplicht een maximale opdrachtwaarde of maximale hoeveelheid op te nemen. Er is echter een onzekerheidsmarge ten aanzien van de afnames, die vooraf niet te kwantificeren is. De Aanbestedende dienst wenst derhalve onderscheid te maken tussen de geraamde opdrachtwaarde (de verwachting) die hierboven is vermeld en de maximale opdrachtwaarde /maximale hoeveelheid van de beoogde raamovereenkomst. De geraamde opdrachtwaarde is indicatief, bedraagt € 280.000 exclusief btw en is gebaseerd op een looptijd van acht (8) jaar. De maximale opdrachtwaarde bedraagt € 560.000,00 exclusief btw en is ook gebaseerd op een looptijd van acht (8) jaar. Bij het bepalen van de maximale opdrachtwaarde is rekening gehouden met de eventuele omstandigheid dat de omvang van de leveringen en/of diensten (substantieel) hoger uitvallen dan blijkens de geraamde opdrachtwaarde wordt verwacht. Bij overschrijding van de maximale opdrachtwaarde/hoeveelheid eindigt de Overeenkomst en wordt deze opnieuw aanbesteed. Aan bovenstaande bedragen kunnen geen rechten worden ontleend, hetgeen betekent dat niet met zekerheid kan worden gesteld dat de geraamde en/of maximale opdrachtwaarde daadwerkelijk wordt afgenomen gedurende de looptijd van de Overeenkomst.",
+      "cpv": "80562000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 560,
+      "publication": "2026-05-11",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/319787-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "335228-2026",
+      "ref": "335228-2026",
+      "acheteur": "Naturalis Biodiversity Center",
+      "objet": "Pays-Bas – Services de relations publiques – Europese aanbesteding Strategisch advies en operationele ondersteuning t.b.v. public engagement en maatschappelijke impact Naturalis",
+      "description": "Naturalis heeft de ambitie om de stem van de biodiversiteit te zijn en de verschuiving naar een biodiversiteitspositieve samenleving te stimuleren en versnellen. Om deze maatschappelijke rol als ‘change agent’ te versterken, wil Naturalis haar bereik verbreden, publieke betrokkenheid vergroten en beleid effectief beïnvloeden. Deze aanbesteding voorziet in de strategische expertise en uitvoerende capaciteit die Naturalis de komende jaren mogelijk nodig heeft om haar doelstellingen uit de ‘Strategische Ambitie 2’ te realiseren: “We inspireren mensen om zich in te zetten voor een biodiversiteitspositieve samenleving; Naturalis is de stem van de biodiversiteit. Wij moedigen zoveel mogelijk verschillende mensen en organisaties aan om zich in te zetten voor het behoud van biodiversiteit, zodat de verschuiving naar een biodiversiteitspositieve samenleving mogelijk wordt.” De geschatte waarde van de overeenkomst bedraagt € 950.000 exclusief BTW over de maximale looptijd van de raamovereenkomst van vier jaar. Deze schatting is niet bindend en er kunnen geen rechten aan worden ontleend.",
+      "cpv": "79416000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 950,
+      "publication": "2026-05-18",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/335228-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -314,155 +348,31 @@
       "auto": true
     },
     {
-      "id": "335228-2026",
-      "ref": "335228-2026",
-      "acheteur": "Naturalis Biodiversity Center",
-      "objet": "Pays-Bas – Services de relations publiques – Europese aanbesteding Strategisch advies en operationele ondersteuning t.b.v. public engagement en maatschappelijke impact Naturalis",
-      "description": "Naturalis heeft de ambitie om de stem van de biodiversiteit te zijn en de verschuiving naar een biodiversiteitspositieve samenleving te stimuleren en versnellen. Om deze maatschappelijke rol als ‘change agent’ te versterken, wil Naturalis haar bereik verbreden, publieke betrokkenheid vergroten en beleid effectief beïnvloeden. Deze aanbesteding voorziet in de strategische expertise en uitvoerende capaciteit die Naturalis de komende jaren mogelijk nodig heeft om haar doelstellingen uit de ‘Strategische Ambitie 2’ te realiseren: “We inspireren mensen om zich in te zetten voor een biodiversiteitspositieve samenleving; Naturalis is de stem van de biodiversiteit. Wij moedigen zoveel mogelijk verschillende mensen en organisaties aan om zich in te zetten voor het behoud van biodiversiteit, zodat de verschuiving naar een biodiversiteitspositieve samenleving mogelijk wordt.” De geschatte waarde van de overeenkomst bedraagt € 950.000 exclusief BTW over de maximale looptijd van de raamovereenkomst van vier jaar. Deze schatting is niet bindend en er kunnen geen rechten aan worden ontleend.",
-      "cpv": "79416000",
+      "id": "322831-2026",
+      "ref": "322831-2026",
+      "acheteur": "Gemeente Coevorden",
+      "objet": "Pays-Bas – Logiciels et systèmes d'information – Europees openbare aanbesteding VTH-applicatie",
+      "description": "De gemeente Coevorden is op zoek naar een leverancier voor een nieuwe vergunningen- toezicht- en handhavingsapplicatie (VTH-applicatie). De opdracht omvat het leveren, implementeren en onderhouden van de softwareapplicatie, waarin ook ruimte is voor toekomstige wijzigingen in wet- en regelgeving. De applicatie dient volledig geïmplementeerd en geaccepteerd te zijn voor 1 juli 2027. Deze opdracht heeft een maximale geraamde waarde van € 825.000, -. Dit bedrag is all-in. Dat betekent alle kosten, inclusief implementatie, migratie, opleidingen en ingebruikname. Het beschikbare budget is gemaximeerd op dit bedrag en vormt het plafondbedrag voor de uitvoering van de gehele opdracht, inclusief alle mogelijke verlengingen. Het budget dat beschikbaar is voor de opdracht kan niet overschreden worden. Er kunnen geen rechten worden ontleend aan deze raming.",
+      "cpv": "48000000",
       "pays": "NLD",
-      "deadline": "",
-      "montant": 950,
-      "publication": "2026-05-18",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/335228-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "319787-2026",
-      "ref": "319787-2026",
-      "acheteur": "Gooise Scholen Federatie",
-      "objet": "Pays-Bas – Services de formation dans le domaine des premiers secours – Europese aanbesteding BHV-opleidingen",
-      "description": "De scope van de aanbesteding bestaat uit het verzorgen van minimaal de volgende BHV-opleidingen: • BHV-basisopleiding; • BHV-basisopleiding herhaling; • BHV-coördinator; • BHV-coördinator herhaling; • BHV Ploegleider; • BHV Ploegleider herhaling; • Hoofd BHV’er strategisch; • Hoofd BHV’er operationeel; • Hoofd BHV’er operationeel herhaling. Optioneel worden onderstaande BHV-opleidingen verzorgd: • Basis EHBO docenten lichamelijke opvoeding; • Herhalingsopleiding EHBO docenten lichamelijke opvoeding; • Jaarlijkse opfriscursus levensreddend handelen; • Inzet instructeur op afroep; • Inzet lotus (per dagdeel 4 uur). Deze opdracht is niet onderverdeeld in percelen. Inschrijven op een gedeelte van de opdracht is niet toegestaan en leidt tot uitsluiting van verdere deelname aan de aanbestedingsprocedure. De onderhavige opdracht in deze aanbesteding vertegenwoordigt een op basis van historie, geschatte en indicatieve opdrachtwaarde van € 35.000,00 exclusief btw per jaar en derhalve € 280.000,00 exclusief btw op basis van de maximale looptijd van acht (8) jaar. Let op: Aanbestedende dienst is voor de raamovereenkomst verplicht een maximale opdrachtwaarde of maximale hoeveelheid op te nemen. Er is echter een onzekerheidsmarge ten aanzien van de afnames, die vooraf niet te kwantificeren is. De Aanbestedende dienst wenst derhalve onderscheid te maken tussen de geraamde opdrachtwaarde (de verwachting) die hierboven is vermeld en de maximale opdrachtwaarde /maximale hoeveelheid van de beoogde raamovereenkomst. De geraamde opdrachtwaarde is indicatief, bedraagt € 280.000 exclusief btw en is gebaseerd op een looptijd van acht (8) jaar. De maximale opdrachtwaarde bedraagt € 560.000,00 exclusief btw en is ook gebaseerd op een looptijd van acht (8) jaar. Bij het bepalen van de maximale opdrachtwaarde is rekening gehouden met de eventuele omstandigheid dat de omvang van de leveringen en/of diensten (substantieel) hoger uitvallen dan blijkens de geraamde opdrachtwaarde wordt verwacht. Bij overschrijding van de maximale opdrachtwaarde/hoeveelheid eindigt de Overeenkomst en wordt deze opnieuw aanbesteed. Aan bovenstaande bedragen kunnen geen rechten worden ontleend, hetgeen betekent dat niet met zekerheid kan worden gesteld dat de geraamde en/of maximale opdrachtwaarde daadwerkelijk wordt afgenomen gedurende de looptijd van de Overeenkomst.",
-      "cpv": "80562000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 560,
+      "deadline": "2026-05-19",
+      "montant": 825,
       "publication": "2026-05-11",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/319787-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/322831-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
       "bureautique": true,
-      "score": 70,
+      "score": 67,
       "score_detail": {
         "fit": 30,
         "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "334836-2026",
-      "ref": "334836-2026",
-      "acheteur": "Kansspelautoriteit",
-      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Applicatiebeheer Exact omgeving",
-      "description": "De Kansspelautoriteit zoekt een opdrachtnemer die Ksa kan voorzien in dienstverlening rondom haar Exact omgeving. De Exact omgeving (met onder andere Exact Financials Enterprise en Exact Synergy Enterprise) vormt een geheel aan centrale applicaties waarin kritische bedrijfsprocessen worden ondersteund. Exact is op dit moment ingericht als onderdeel van de bedrijfsvoering van de Ksa en bevat onder meer bestaande administratieve processen, stamdata, autorisaties, rapportages, koppelingen, specifieke inrichting een aanpassingen aan werkprocessen, workflows, controles en historische gegevens. Momenteel maken 10 gebruikers gebruik van Exact Financials Enterprise. Momenteel maken 230 (professional licenties) gebruikers gebruik van Exact Synergy Enterprise van de ingerichte workflows en selfservice. En er zijn 50 zware gebruikers die gebruik maken van Exact Synergy Enterprise.",
-      "cpv": "72200000",
-      "pays": "NLD",
-      "deadline": "2026-06-30",
-      "montant": 0,
-      "publication": "2026-05-18",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/334836-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 67,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "334296-2026",
-      "ref": "334296-2026",
-      "acheteur": "CCI MARNE ARDENNES",
-      "objet": "France – Services de conseil en gestion de projet – Mission d'appui opérationnel pour la mise en œuvre du Pôle d'Excellence Territorial (PET) Cyber Marne Ardennes",
-      "description": "La Région Grand-Est a adopté en 2023 un Plan régional cybersécurité pour répondre à la menace croissante des cyberattaques qui touchent à la fois les collectivités et les entreprises. Dans ce cadre, le Pôle d’Excellence Territorial (PET) Cyber Marne Ardennes a été créé pour fédérer les acteurs régionaux autour de la thématique de la cybersécurité. Les ambitions du PET Cyber se déclinent en quatre axes stratégiques : • Opération : Mobiliser les experts de la cybersécurité pour renforcer les compétences et actions sur le territoire • Formation : Créer et proposer des formations adaptées aux étudiants, entreprises et institutions du territoire • Mobilisation : Impliquer l’ensemble de la chaîne de valeur et créer des synergies au sein de l’écosystème • Innovation : Favoriser la Recherche et Développement ainsi que le transfert de technologie. Le PET Cyber vise structurer une filière régionale dédiée à la cybersécurité et la cyberdéfense, tout en développant un écosystème fonctionnel et en initiant des dynamiques de groupe.",
-      "cpv": "72224000",
-      "pays": "FRA",
-      "deadline": "",
-      "montant": 204,
-      "publication": "2026-05-15",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/334296-2026",
-      "segment": "Consulaire",
-      "keyword_hits": [
-        "Excel"
-      ],
-      "bureautique": true,
-      "score": 67,
-      "score_detail": {
-        "fit": 30,
-        "size": 10,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "328501-2026",
-      "ref": "328501-2026",
-      "acheteur": "Région Hauts-de-France",
-      "objet": "France – Services de formation du personnel – Conception et réalisation de formations en Santé, Sécurité et Prévention des risques professionnels",
-      "description": "HABILITATIONS ELECTRIQUES - DEPT 02/60/80&amp;lt;br/&amp;gt; / HABILITATIONS ELECTRIQUES - DEPT 59/62&amp;lt;br/&amp;gt; / HDF - ACES - DEPT 02/60/80&amp;lt;br/&amp;gt; / HDF - ACES - DEPT 59/62&amp;lt;br/&amp;gt; / HDF - PERMIS MER&amp;lt;br/&amp;gt; / HDF - PERMIS TERRE&amp;lt;br/&amp;gt; / SECURITE INCENDIE - DEPT 02/60/80&amp;lt;br/&amp;gt; / SECURITE INCENDIE - DEPT 59/62&amp;lt;br/&amp;gt; / HDF - MONTAGE DEMONTAGE ECHAFAUDAGE &amp;lt;br/&amp;gt; / HDF - PRAP &amp;lt;br/&amp;gt; / HDF - A.I.P.R.&amp;lt;br/&amp;gt; / CACES (R482, R486, R489) - DEPT 59/62&amp;lt;br/&amp;gt; / CACES (R482, R486, R489) - DEPT 02/60/80&amp;lt;br/&amp;gt; / HDF - SURETE - SECURITE INCENDIE&amp;lt;br/&amp;gt; / HDF - CACES (R484 - Ponts roulants et portiques)&amp;lt;br/&amp;gt; / CACES (R485) - DEPT 59/62&amp;lt;br/&amp;gt; / CACES (R485) - DEPT 02/60/80&amp;lt;br/&amp;gt; / CACES (R490 - Grue auxiliaire ou de chargement) - DEPT 59 et 62&amp;lt;br/&amp;gt; / HDF - INGENERIE A L'AMIANTE &amp;lt;br/&amp;gt; / HDF - Manipuler les outils tranchants d'espaces verts en toute sécurité&amp;lt;br/&amp;gt; / HDF - SSIAP&amp;lt;br/&amp;gt;",
-      "cpv": "80511000",
-      "pays": "FRA",
-      "deadline": "2026-06-19",
-      "montant": 2516,
-      "publication": "2026-05-13",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/328501-2026",
-      "segment": "Collectivités",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "bureautique": false,
-      "score": 67,
-      "score_detail": {
-        "fit": 25,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
+        "delay": 0
       },
       "score_status": "cond",
       "notes": "",
@@ -500,18 +410,80 @@
       "auto": true
     },
     {
-      "id": "322831-2026",
-      "ref": "322831-2026",
-      "acheteur": "Gemeente Coevorden",
-      "objet": "Pays-Bas – Logiciels et systèmes d'information – Europees openbare aanbesteding VTH-applicatie",
-      "description": "De gemeente Coevorden is op zoek naar een leverancier voor een nieuwe vergunningen- toezicht- en handhavingsapplicatie (VTH-applicatie). De opdracht omvat het leveren, implementeren en onderhouden van de softwareapplicatie, waarin ook ruimte is voor toekomstige wijzigingen in wet- en regelgeving. De applicatie dient volledig geïmplementeerd en geaccepteerd te zijn voor 1 juli 2027. Deze opdracht heeft een maximale geraamde waarde van € 825.000, -. Dit bedrag is all-in. Dat betekent alle kosten, inclusief implementatie, migratie, opleidingen en ingebruikname. Het beschikbare budget is gemaximeerd op dit bedrag en vormt het plafondbedrag voor de uitvoering van de gehele opdracht, inclusief alle mogelijke verlengingen. Het budget dat beschikbaar is voor de opdracht kan niet overschreden worden. Er kunnen geen rechten worden ontleend aan deze raming.",
-      "cpv": "48000000",
-      "pays": "NLD",
-      "deadline": "2026-05-19",
-      "montant": 825,
-      "publication": "2026-05-11",
+      "id": "328501-2026",
+      "ref": "328501-2026",
+      "acheteur": "Région Hauts-de-France",
+      "objet": "France – Services de formation du personnel – Conception et réalisation de formations en Santé, Sécurité et Prévention des risques professionnels",
+      "description": "HABILITATIONS ELECTRIQUES - DEPT 02/60/80&amp;lt;br/&amp;gt; / HABILITATIONS ELECTRIQUES - DEPT 59/62&amp;lt;br/&amp;gt; / HDF - ACES - DEPT 02/60/80&amp;lt;br/&amp;gt; / HDF - ACES - DEPT 59/62&amp;lt;br/&amp;gt; / HDF - PERMIS MER&amp;lt;br/&amp;gt; / HDF - PERMIS TERRE&amp;lt;br/&amp;gt; / SECURITE INCENDIE - DEPT 02/60/80&amp;lt;br/&amp;gt; / SECURITE INCENDIE - DEPT 59/62&amp;lt;br/&amp;gt; / HDF - MONTAGE DEMONTAGE ECHAFAUDAGE &amp;lt;br/&amp;gt; / HDF - PRAP &amp;lt;br/&amp;gt; / HDF - A.I.P.R.&amp;lt;br/&amp;gt; / CACES (R482, R486, R489) - DEPT 59/62&amp;lt;br/&amp;gt; / CACES (R482, R486, R489) - DEPT 02/60/80&amp;lt;br/&amp;gt; / HDF - SURETE - SECURITE INCENDIE&amp;lt;br/&amp;gt; / HDF - CACES (R484 - Ponts roulants et portiques)&amp;lt;br/&amp;gt; / CACES (R485) - DEPT 59/62&amp;lt;br/&amp;gt; / CACES (R485) - DEPT 02/60/80&amp;lt;br/&amp;gt; / CACES (R490 - Grue auxiliaire ou de chargement) - DEPT 59 et 62&amp;lt;br/&amp;gt; / HDF - INGENERIE A L'AMIANTE &amp;lt;br/&amp;gt; / HDF - Manipuler les outils tranchants d'espaces verts en toute sécurité&amp;lt;br/&amp;gt; / HDF - SSIAP&amp;lt;br/&amp;gt;",
+      "cpv": "80511000",
+      "pays": "FRA",
+      "deadline": "2026-06-19",
+      "montant": 2516,
+      "publication": "2026-05-13",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/322831-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/328501-2026",
+      "segment": "Collectivités",
+      "keyword_hits": [
+        "habilitation"
+      ],
+      "bureautique": false,
+      "score": 67,
+      "score_detail": {
+        "fit": 25,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "334296-2026",
+      "ref": "334296-2026",
+      "acheteur": "CCI MARNE ARDENNES",
+      "objet": "France – Services de conseil en gestion de projet – Mission d'appui opérationnel pour la mise en œuvre du Pôle d'Excellence Territorial (PET) Cyber Marne Ardennes",
+      "description": "La Région Grand-Est a adopté en 2023 un Plan régional cybersécurité pour répondre à la menace croissante des cyberattaques qui touchent à la fois les collectivités et les entreprises. Dans ce cadre, le Pôle d’Excellence Territorial (PET) Cyber Marne Ardennes a été créé pour fédérer les acteurs régionaux autour de la thématique de la cybersécurité. Les ambitions du PET Cyber se déclinent en quatre axes stratégiques : • Opération : Mobiliser les experts de la cybersécurité pour renforcer les compétences et actions sur le territoire • Formation : Créer et proposer des formations adaptées aux étudiants, entreprises et institutions du territoire • Mobilisation : Impliquer l’ensemble de la chaîne de valeur et créer des synergies au sein de l’écosystème • Innovation : Favoriser la Recherche et Développement ainsi que le transfert de technologie. Le PET Cyber vise structurer une filière régionale dédiée à la cybersécurité et la cyberdéfense, tout en développant un écosystème fonctionnel et en initiant des dynamiques de groupe.",
+      "cpv": "72224000",
+      "pays": "FRA",
+      "deadline": "",
+      "montant": 204,
+      "publication": "2026-05-15",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/334296-2026",
+      "segment": "Consulaire",
+      "keyword_hits": [
+        "Excel"
+      ],
+      "bureautique": true,
+      "score": 67,
+      "score_detail": {
+        "fit": 30,
+        "size": 10,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "334836-2026",
+      "ref": "334836-2026",
+      "acheteur": "Kansspelautoriteit",
+      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Applicatiebeheer Exact omgeving",
+      "description": "De Kansspelautoriteit zoekt een opdrachtnemer die Ksa kan voorzien in dienstverlening rondom haar Exact omgeving. De Exact omgeving (met onder andere Exact Financials Enterprise en Exact Synergy Enterprise) vormt een geheel aan centrale applicaties waarin kritische bedrijfsprocessen worden ondersteund. Exact is op dit moment ingericht als onderdeel van de bedrijfsvoering van de Ksa en bevat onder meer bestaande administratieve processen, stamdata, autorisaties, rapportages, koppelingen, specifieke inrichting een aanpassingen aan werkprocessen, workflows, controles en historische gegevens. Momenteel maken 10 gebruikers gebruik van Exact Financials Enterprise. Momenteel maken 230 (professional licenties) gebruikers gebruik van Exact Synergy Enterprise van de ingerichte workflows en selfservice. En er zijn 50 zware gebruikers die gebruik maken van Exact Synergy Enterprise.",
+      "cpv": "72200000",
+      "pays": "NLD",
+      "deadline": "2026-06-30",
+      "montant": 0,
+      "publication": "2026-05-18",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/334836-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -520,43 +492,11 @@
       "score": 67,
       "score_detail": {
         "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "341636-2026",
-      "ref": "341636-2026",
-      "acheteur": "Medizinische Universität Lausitz - Carl Thiem KdöR",
-      "objet": "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Beschaffung von Entwicklungsleistungen für die Digitalisierung der akademischen Verwaltung auf Basis des koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint",
-      "description": "5.1. Art und Umfang der zu erbringenden Leistungen Die MUL-CT strebt beim Aufbau der digitalen Universität an, akademische Verwaltungsprozesse zukünftig im koellisch-toolkit/koellisch-core-framework auf Office365/Sharepoint umzusetzen. Dabei wird die Entwicklung einer performanten Informationstechnologie & Aufbau digitaler Plattformen für die akademische Verwaltung definiert, um durch Digitalisierung und Automatisierung schlanke und digitale Verwaltungsprozesse direkt von Beginn an zu entwickeln. Die durch den Auftragnehmer zu erbringende Leistungen beinhaltet die Entwicklung von akademischen Verwaltungsprozessen auf Basis von dem koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint. 5.1.1. zu erbringende Dienstleistungen Folgende Aufgaben sind durch das Projektteam des Auftragnehmers in den zu beauftragenden Projekten zu erbringen: - Architektur & Konzeption: Entwicklung, Implementierung und Weiterentwicklung von digitalen Verwaltungslösungen für die Universität auf Basis des koellisch-Toolkit/Core Framework in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Workflow-Entwicklung: Konzeption und Umsetzung komplexer Workflows inkl. Fristen- und Mandatsverwaltung, Abstimmungs- und Dokumentationsprozessen sowie digitale Akten mit rechtssicherer Dokumentation - Schnittstellen & Integration: Design und Realisierung von Anbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Fehleranalyse & Wartung: Analyse und Behebung von Lösungsfehlern im Ticketsystem inkl. Eskalationsmanagement - Testing & Qualitätsmanagement: Steuerung von Test- und Rollout-Phasen, Qualitätssicherung und Erstellung technischer Dokumentationen - IT-Projektleitung: Übernahme von (Teil-)Projektleitungen im Rahmen der Digitalisierungsprojekte der MUL-CT Tätigkeiten, die während der Digitalisierungsvorhaben der MUL-CT zu erwarten und von jeweiligen Entwickler:in köllisch-toolkit/köllisch-core-framework zu übernehmen sind: - Konzeption, Implementierung und Weiterentwicklung von Lösungen auf Basis des köllisch-Toolkit/Core Frameworks in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Realisierung von Workflows und digitalen Akten inkl. Fristen- und Mandatsverwaltung, rechtssicherer Dokumentation, Abstimmungs- und Sitzungsorganisation - Analyse und Behebung von Lösungsfehlern im Rahmen des Ticketsystems, inkl. Eskalationsmanagement und Support bei Fehlertickets - Mitwirkung bei Schnittstellenanbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Übernahme von (Teil-)Projektleitungen in Digitalisierungsprojekten inkl. Steuerung von Test- und Rollout-Phasen - Planung, Durchführung und Dokumentation von Test- und Qualitätssicherungsmaßnahmen (funktionales Testing, Abnahmetests, Regressionstests) - Durchführung von Schulungen und Workshops für unterschiedliche Zielgruppen (Key-User, Gremienmitglieder, Verwaltung, interne IT) - Coaching und Training interner IT-Mitarbeitender zur Förderung des nachhaltigen Kompetenzaufbaus",
-      "cpv": "72000000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-05-19",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/341636-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Microsoft Office",
-        "Office 365"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 3
+        "delay": 5
       },
       "score_status": "cond",
       "notes": "",
@@ -625,61 +565,53 @@
       "auto": true
     },
     {
-      "id": "26-50411",
-      "ref": "26-50411",
-      "acheteur": "Comité national des actions sociales",
-      "objet": "MARCHÉ DE COMMISSAIRE AUX COMPTES (CAC), CERTIFICATION LÉGALE ET SERVICES ASSOCIÉS (SACC) POUR LES EXERCICES 2026-2031.",
-      "description": "MARCHÉ DE COMMISSAIRE AUX COMPTES (CAC), CERTIFICATION LÉGALE ET SERVICES ASSOCIÉS (SACC) POUR LES EXERCICES 2026-2031.",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-07-06",
+      "id": "341636-2026",
+      "ref": "341636-2026",
+      "acheteur": "Medizinische Universität Lausitz - Carl Thiem KdöR",
+      "objet": "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Beschaffung von Entwicklungsleistungen für die Digitalisierung der akademischen Verwaltung auf Basis des koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint",
+      "description": "5.1. Art und Umfang der zu erbringenden Leistungen Die MUL-CT strebt beim Aufbau der digitalen Universität an, akademische Verwaltungsprozesse zukünftig im koellisch-toolkit/koellisch-core-framework auf Office365/Sharepoint umzusetzen. Dabei wird die Entwicklung einer performanten Informationstechnologie & Aufbau digitaler Plattformen für die akademische Verwaltung definiert, um durch Digitalisierung und Automatisierung schlanke und digitale Verwaltungsprozesse direkt von Beginn an zu entwickeln. Die durch den Auftragnehmer zu erbringende Leistungen beinhaltet die Entwicklung von akademischen Verwaltungsprozessen auf Basis von dem koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint. 5.1.1. zu erbringende Dienstleistungen Folgende Aufgaben sind durch das Projektteam des Auftragnehmers in den zu beauftragenden Projekten zu erbringen: - Architektur & Konzeption: Entwicklung, Implementierung und Weiterentwicklung von digitalen Verwaltungslösungen für die Universität auf Basis des koellisch-Toolkit/Core Framework in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Workflow-Entwicklung: Konzeption und Umsetzung komplexer Workflows inkl. Fristen- und Mandatsverwaltung, Abstimmungs- und Dokumentationsprozessen sowie digitale Akten mit rechtssicherer Dokumentation - Schnittstellen & Integration: Design und Realisierung von Anbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Fehleranalyse & Wartung: Analyse und Behebung von Lösungsfehlern im Ticketsystem inkl. Eskalationsmanagement - Testing & Qualitätsmanagement: Steuerung von Test- und Rollout-Phasen, Qualitätssicherung und Erstellung technischer Dokumentationen - IT-Projektleitung: Übernahme von (Teil-)Projektleitungen im Rahmen der Digitalisierungsprojekte der MUL-CT Tätigkeiten, die während der Digitalisierungsvorhaben der MUL-CT zu erwarten und von jeweiligen Entwickler:in köllisch-toolkit/köllisch-core-framework zu übernehmen sind: - Konzeption, Implementierung und Weiterentwicklung von Lösungen auf Basis des köllisch-Toolkit/Core Frameworks in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Realisierung von Workflows und digitalen Akten inkl. Fristen- und Mandatsverwaltung, rechtssicherer Dokumentation, Abstimmungs- und Sitzungsorganisation - Analyse und Behebung von Lösungsfehlern im Rahmen des Ticketsystems, inkl. Eskalationsmanagement und Support bei Fehlertickets - Mitwirkung bei Schnittstellenanbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Übernahme von (Teil-)Projektleitungen in Digitalisierungsprojekten inkl. Steuerung von Test- und Rollout-Phasen - Planung, Durchführung und Dokumentation von Test- und Qualitätssicherungsmaßnahmen (funktionales Testing, Abnahmetests, Regressionstests) - Durchführung von Schulungen und Workshops für unterschiedliche Zielgruppen (Key-User, Gremienmitglieder, Verwaltung, interne IT) - Coaching und Training interner IT-Mitarbeitender zur Förderung des nachhaltigen Kompetenzaufbaus",
+      "cpv": "72000000",
+      "pays": "DEU",
+      "deadline": "",
       "montant": 0,
-      "publication": "2026-05-23",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-50411",
-      "_boamp": {
-        "famille": "Marchés européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Audit",
-          "Expertise comptable"
-        ],
-        "departement": "78"
-      },
+      "publication": "2026-05-19",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/341636-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "certification services"
+        "Microsoft Office",
+        "Office 365"
       ],
-      "score": 62,
+      "bureautique": true,
+      "score": 65,
       "score_detail": {
-        "fit": 25,
+        "fit": 30,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
       "auto": true
     },
     {
-      "id": "341531-2026",
-      "ref": "341531-2026",
-      "acheteur": "C-smart dv",
-      "objet": "Belgique – Services de fourniture de logiciels – RAAMOVEREENKOMST VOOR DE LEVERING, IMPLEMENTATIE EN ONDERHOUD VAN EEN GEÏNTEGREERDE SOFTWAREOPLOSSING VOOR DE VERWERKING VAN GEMEENTELIJKE ADMINISTRATIEVE SANCTIES (GAS)",
-      "description": "De opdracht heeft tot doel de levering, implementatie en het onderhoud van een geïntegreerde softwareoplossing voor het beheer en de verwerking van gemeentelijke administratieve sancties (GAS). De aanbestedende overheid treedt op als intercommunale en oefent, in opdracht van en voor rekening van meerdere aangesloten lokale besturen, de rol uit van sanctionerend ambtenaar zoals bedoeld in de toepasselijke GAS-regelgeving. De softwareoplossing moet de aanbestedende overheid in staat stellen om, op een efficiënte, uniforme en rechtszekere manier, de volledige administratieve afhandeling van GAS-dossiers te ondersteunen, met inbegrip van onder meer: • de registratie en verwerking van vaststellingen; • de opvolging van procedures en wettelijke termijnen; • de voorbereiding en afhandeling van sanctiebeslissingen; • de communicatie met overtreders en betrokken instanties; • de opvolging van betalingen, beroepen en eventuele invordering; • de rapportering ten behoeve van de aangesloten lokale besturen. De oplossing moet multi-tenant of multi-organisatie inzetbaar zijn, zodat dossiers van verschillende lokale besturen gescheiden maar beheersbaar binnen één platform kunnen worden verwerkt, met respect voor rolverdeling, toegangsrechten en gegevensbescherming. De opdracht omvat naast de terbeschikkingstelling van de software eveneens de implementatie, configuratie, opleiding, technische ondersteuning en het onderhoud van de oplossing gedurende de volledige looptijd van de overeenkomst.",
-      "cpv": "72268000",
-      "pays": "BEL",
-      "deadline": "2026-05-28",
+      "id": "320559-2026",
+      "ref": "320559-2026",
+      "acheteur": "Bundesministerium für Verkehr, Servicestelle Vergabe",
+      "objet": "Allemagne – Services de programmation de logiciels d'application – 6#0027/Z33 Neuentwicklung OPUS - Implementierung einer Software als Web-Anwendung auf Basis einer PostgreSQL-Datenbank",
+      "description": "Ziel des Projektes ist die Neuentwicklung der bestehenden Anwendung OPUS gemäß den im Lastenheft beschriebenen funktionalen und nichtfunktionalen Anforderungen. Um den vollen Funktionsumfang zu gewährleisten, müssen die vorhandenen Daten aus der bestehenden Datenbank sowie aus Excel-Tabellen migriert werden. Nach Produktivsetzung ist ein bis zu 5-jähriger Systemservice durch den AN vorgesehen. Bei Bedarf sollen zusätzliche (Programmier-) Leistungen gesondert beauftragt werden können. Damit ergeben sich im Rahmen des Projektes \"Neuentwicklung OPUS\" vier Arbeitspakete: AP 1: Entwicklung AP 2: Datenmigration AP 3: Systemservice AP 4: Zusätzliche Leistungen nach Produktivsetzung (Bedarfsposition)",
+      "cpv": "72212000",
+      "pays": "DEU",
+      "deadline": "2026-06-04",
       "montant": 0,
-      "publication": "2026-05-19",
+      "publication": "2026-05-11",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/341531-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/320559-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Word"
+        "Excel"
       ],
       "bureautique": true,
       "score": 62,
@@ -758,21 +690,21 @@
       "auto": true
     },
     {
-      "id": "320559-2026",
-      "ref": "320559-2026",
-      "acheteur": "Bundesministerium für Verkehr, Servicestelle Vergabe",
-      "objet": "Allemagne – Services de programmation de logiciels d'application – 6#0027/Z33 Neuentwicklung OPUS - Implementierung einer Software als Web-Anwendung auf Basis einer PostgreSQL-Datenbank",
-      "description": "Ziel des Projektes ist die Neuentwicklung der bestehenden Anwendung OPUS gemäß den im Lastenheft beschriebenen funktionalen und nichtfunktionalen Anforderungen. Um den vollen Funktionsumfang zu gewährleisten, müssen die vorhandenen Daten aus der bestehenden Datenbank sowie aus Excel-Tabellen migriert werden. Nach Produktivsetzung ist ein bis zu 5-jähriger Systemservice durch den AN vorgesehen. Bei Bedarf sollen zusätzliche (Programmier-) Leistungen gesondert beauftragt werden können. Damit ergeben sich im Rahmen des Projektes \"Neuentwicklung OPUS\" vier Arbeitspakete: AP 1: Entwicklung AP 2: Datenmigration AP 3: Systemservice AP 4: Zusätzliche Leistungen nach Produktivsetzung (Bedarfsposition)",
-      "cpv": "72212000",
-      "pays": "DEU",
-      "deadline": "2026-06-04",
+      "id": "341531-2026",
+      "ref": "341531-2026",
+      "acheteur": "C-smart dv",
+      "objet": "Belgique – Services de fourniture de logiciels – RAAMOVEREENKOMST VOOR DE LEVERING, IMPLEMENTATIE EN ONDERHOUD VAN EEN GEÏNTEGREERDE SOFTWAREOPLOSSING VOOR DE VERWERKING VAN GEMEENTELIJKE ADMINISTRATIEVE SANCTIES (GAS)",
+      "description": "De opdracht heeft tot doel de levering, implementatie en het onderhoud van een geïntegreerde softwareoplossing voor het beheer en de verwerking van gemeentelijke administratieve sancties (GAS). De aanbestedende overheid treedt op als intercommunale en oefent, in opdracht van en voor rekening van meerdere aangesloten lokale besturen, de rol uit van sanctionerend ambtenaar zoals bedoeld in de toepasselijke GAS-regelgeving. De softwareoplossing moet de aanbestedende overheid in staat stellen om, op een efficiënte, uniforme en rechtszekere manier, de volledige administratieve afhandeling van GAS-dossiers te ondersteunen, met inbegrip van onder meer: • de registratie en verwerking van vaststellingen; • de opvolging van procedures en wettelijke termijnen; • de voorbereiding en afhandeling van sanctiebeslissingen; • de communicatie met overtreders en betrokken instanties; • de opvolging van betalingen, beroepen en eventuele invordering; • de rapportering ten behoeve van de aangesloten lokale besturen. De oplossing moet multi-tenant of multi-organisatie inzetbaar zijn, zodat dossiers van verschillende lokale besturen gescheiden maar beheersbaar binnen één platform kunnen worden verwerkt, met respect voor rolverdeling, toegangsrechten en gegevensbescherming. De opdracht omvat naast de terbeschikkingstelling van de software eveneens de implementatie, configuratie, opleiding, technische ondersteuning en het onderhoud van de oplossing gedurende de volledige looptijd van de overeenkomst.",
+      "cpv": "72268000",
+      "pays": "BEL",
+      "deadline": "2026-05-28",
       "montant": 0,
-      "publication": "2026-05-11",
+      "publication": "2026-05-19",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/320559-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/341531-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Excel"
+        "Word"
       ],
       "bureautique": true,
       "score": 62,
@@ -810,46 +742,6 @@
       "score_detail": {
         "fit": 25,
         "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "26-48746",
-      "ref": "26-48746",
-      "acheteur": "CFDC de l'AP-HP",
-      "objet": "Prestations de suivi et de renouvellement combinées des certification ISO 9001 et des certification QUALIOPI® des structures du CFDC",
-      "description": "Prestations de suivi et de renouvellement combinées des certification ISO 9001 et des certification QUALIOPI® des structures du CFDC",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-06-15",
-      "montant": 50,
-      "publication": "2026-05-18",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-48746",
-      "_boamp": {
-        "famille": "Marchés <90 k€ (MAPA)",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Adaptée",
-        "descripteurs": [
-          "Audit"
-        ],
-        "departement": "75,77,78,91,92,93,94,95"
-      },
-      "segment": "Autre",
-      "keyword_hits": [
-        "Qualiopi",
-        "renouvellement de certification"
-      ],
-      "score": 57,
-      "score_detail": {
-        "fit": 25,
-        "size": 5,
         "tech": 12,
         "com": 5,
         "admin": 7,

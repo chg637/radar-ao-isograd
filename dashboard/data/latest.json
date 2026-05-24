@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T17:02:26.532Z",
+  "generated_at": "2026-05-24T08:27:34.176Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
@@ -7,25 +7,25 @@
       "fetched": 500,
       "matched": 25,
       "go": 0,
-      "generated_at": "2026-05-23T16:58:00.979Z"
+      "generated_at": "2026-05-24T08:23:17.378Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 1973,
-      "matched": 1,
+      "fetched": 1970,
+      "matched": 2,
       "go": 0,
-      "generated_at": "2026-05-23T17:02:08.448Z"
+      "generated_at": "2026-05-24T08:27:20.790Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-05-23T17:02:26.486Z"
+      "generated_at": "2026-05-24T08:27:34.131Z"
     }
   },
-  "total_fetched": 2473,
-  "total_matched": 26,
+  "total_fetched": 2470,
+  "total_matched": 27,
   "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -619,6 +619,46 @@
         "com": 5,
         "admin": 7,
         "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "26-50411",
+      "ref": "26-50411",
+      "acheteur": "Comité national des actions sociales",
+      "objet": "MARCHÉ DE COMMISSAIRE AUX COMPTES (CAC), CERTIFICATION LÉGALE ET SERVICES ASSOCIÉS (SACC) POUR LES EXERCICES 2026-2031.",
+      "description": "MARCHÉ DE COMMISSAIRE AUX COMPTES (CAC), CERTIFICATION LÉGALE ET SERVICES ASSOCIÉS (SACC) POUR LES EXERCICES 2026-2031.",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-07-06",
+      "montant": 0,
+      "publication": "2026-05-23",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-50411",
+      "_boamp": {
+        "famille": "Marchés européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Audit",
+          "Expertise comptable"
+        ],
+        "departement": "78"
+      },
+      "segment": "Autre",
+      "keyword_hits": [
+        "certification services"
+      ],
+      "score": 62,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
       },
       "score_status": "cond",
       "notes": "",

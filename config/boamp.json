@@ -15,9 +15,9 @@
     "Périodique"
   ],
 
-  "window_days": 14,
+  "window_days": 30,
   "page_size": 100,
-  "max_pages": 20,
+  "max_pages": 30,
 
   "descripteurs_blacklist": [
     "Alarme",

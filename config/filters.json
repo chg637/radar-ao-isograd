@@ -243,6 +243,6 @@
     }
   },
 
-  "_doc_publication_window": "Élargi à 14 jours pour doubler le volume capturé sans perdre en qualité (le filtrage métier reste strict).",
-  "publication_window_days": 14
+  "_doc_publication_window": "Élargi à 30 jours (v4.1) — quadrupler le volume TED vs v3=7j. Le filtrage métier Python côté veille-hub reste strict, donc pas de risque de noyade.",
+  "publication_window_days": 30
 }

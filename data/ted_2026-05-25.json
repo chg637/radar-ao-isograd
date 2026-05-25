@@ -1,38 +1,10 @@
 {
-  "generated_at": "2026-05-25T10:03:11.679Z",
-  "source": "MERGE",
-  "sources_summary": {
-    "TED": {
-      "present": true,
-      "fetched": 500,
-      "matched": 26,
-      "go": 0,
-      "generated_at": "2026-05-25T09:56:47.622Z"
-    },
-    "BOAMP": {
-      "present": true,
-      "fetched": 3000,
-      "matched": 2,
-      "go": 0,
-      "generated_at": "2026-05-25T10:02:54.582Z"
-    },
-    "Profil": {
-      "present": true,
-      "fetched": 0,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-05-25T10:03:11.624Z"
-    }
-  },
-  "total_fetched": 3500,
-  "total_matched": 28,
+  "generated_at": "2026-05-25T09:56:47.622Z",
+  "source": "TED",
+  "window_days": 30,
+  "total_fetched": 500,
+  "total_matched": 26,
   "total_go": 0,
-  "total_dedup_collisions": 0,
-  "dedup_breakdown": {
-    "by_id": 0,
-    "fuzzy_signature": 0,
-    "fuzzy_jaccard": 0
-  },
   "notices": [
     {
       "id": "307262-2026",
@@ -97,50 +69,18 @@
       "auto": true
     },
     {
-      "id": "307239-2026",
-      "ref": "307239-2026",
-      "acheteur": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
-      "objet": "Allemagne – Services de conseil en gestion générale – 81318558 - Multimediale Kommunikationsunterstützung und Webpflege für die bilateralen Klima- und Energiepartnerschaften",
-      "description": "Seit Juni 2024 ist die GIZ federführend übergreifend für die Kommunikation der bilateralen Klima- und Energiepartnerschaften (KEP) zuständig. Durch gezielte Maßnahmen in der Presse- und Öffentlichkeitsarbeit wird darauf abgezielt, die Glaubwürdigkeit und das Vertrauen in die KEP als Regierungsinstrument zu stärken, die erzielten Erfolge sichtbar zu machen und die Aufmerksamkeit relevanter Stakeholder nachhaltig zu sichern. Die Aufgabe des Auftragnehmers wird die Unterstützung der GIZ bei der Neuausrichtung und Konzeption der Kommunikationsaktivitäten der KEP sein. Unter Einbeziehung der zahlreichen Akteure der KEP sollen einerseits die Ländersekretariate vor Ort bei ihrer Kommunikationsarbeit unterstützt und andererseits die Erweiterung der Kommunikationsaktivitäten auf Zielgruppen in Deutschland durch die GIZ vorangetrieben werden. Der Auftragnehmer übernimmt dabei Aufgaben im Bereich des Social-Media Content Managements. Hierzu zählen die regelmäßige Pflege eines Redaktionsplans in enger Abstimmung mit den Ländersekretariaten und den jeweiligen Durchführungsorganisationen, die Beratung zu Social-Media-Inhalten sowie die fortlaufende Betreuung des Social-Media-Kanals, inklusive Monitoring und Community Management. Ziel ist es, durch gezielte Inhalte Reichweite und Sichtbarkeit der KEP-Aktivitäten zu steigern. Im digitalen Bereich ist der Auftragnehmer für das Hosting, den technischen Support sowie die Wartung der bestehenden Länderwebseiten (derzeit über 20) und der thematischen Webseiten www.womenenergizewomen.org sowie der Webseite der Climate and Energy Partnerships verantwortlich. Dies schließt das Monitoring und die Behebung technischer Fehler ebenso ein wie die kontinuierliche Suchmaschinenoptimierung (SEO), das Einspielen notwendiger Updates zur Gewährleistung der Sicherheit und Funktionsfähigkeit der Systeme - insbesondere des Content-Management-Systems (CMS) - sowie die Unterstützung bei technischen Fragestellungen durch die KEP. Zusätzlich erstellt der Auftragnehmer bei Bedarf neue Länderwebseiten nach den geltenden Corporate-Design-Vorgaben und bindet Social-Media-Kanäle funktional auf der übergeordneten Dach-Webseite ein. Auch die inhaltliche Betreuung durch Einbindung neuer Unterseiten gehört zum Leistungsumfang. Ein weiterer zentraler Aufgabenbereich umfasst die Beratung zum Corporate Design der KEP. Der Auftragnehmer unterstützt bedarfsweise bei der korrekten Anwendung des aktuellen Corporate-Design-Manuals - insbesondere bei Veröffentlichungen, Veranstaltungen oder Kooperationen mit weiteren Partnern. Hierzu zählt auch die Überprüfung der CD-konformen Gestaltung sowie bei Bedarf die redaktionelle Unterstützung, etwa bei Lektoraten für Newsletter oder ähnliche Veröffentlichungen. Falls notwendig, wird das bestehende CD-Manual in Abstimmung mit dem Auftraggeber aktualisiert. Zur visuellen Unterstützung der Kommunikationsarbeit aktualisiert und erweitert der Auftragnehmer bestehende grafische Materialien. Dazu gehören unter anderem die Anpassung oder Neuerstellung von Grafiken, Illustrationen sowie Word- und PowerPoint-Vorlagen. Diese Maßnahmen erfolgen im Einklang mit dem Corporate Design und beinhalten z.?B. die Aktualisierung von Logos, das Ersetzen von Schmuckfarben oder die Ergänzung neuer Bildelemente in bereits bestehenden Templates und Dokumenten. Abschließend unterstützt der Auftragnehmer die GIZ bei der Erstellung des Jahresberichts der KEP, der voraussichtlich im ersten Quartal 2026 erscheint. Die Unterstützung umfasst dabei insbesondere die Beratung zu Layout und Format sowie die formale Überführung und Aufbereitung der bereitgestellten Inhalte. Weitere Einzelheiten sind der Leistungsbeschreibung zu entnehmen.",
-      "cpv": "79411000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 254,
-      "publication": "2026-05-05",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/307239-2026",
-      "segment": "État",
-      "keyword_hits": [
-        "Word",
-        "PowerPoint"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "307305-2026",
-      "ref": "307305-2026",
-      "acheteur": "Regio Gooi en Vechtstreek",
-      "objet": "Pays-Bas – Logiciels et systèmes d'information – Inkoop E-HRM",
-      "description": "Het voorwerp van de aanbestedingsprocedure is een Opdracht in de vorm van een Overheidsopdracht voor het leveren van een E-HRM oplossing De Opdracht voor een E-HRM oplossing zal worden verleend voor een maximale duur van negen (9) jaar en acht (8) maanden. De opbouw van de Overeenkomst bestaat uit een initiële opdracht van vier (4) jaar en acht (8) maanden, waarbij de eerste acht (8) maanden als de implementatieperiode geldt, gevolgd door vier (4) contractjaren en hierna de optie van vijf (5) x één (1) jaar verlenging, tezamen maximaal negen (9) jaar en acht (8) maanden. De Overeenkomst gaat naar verwachting in op 1 mei 2026 (implementatie) waarna de officiële livegang is gepland op 1 januari 2027. De geraamde waarde betreft de waarde over de looptijd inclusief verlengingen.",
-      "cpv": "48000000",
+      "id": "299656-2026",
+      "ref": "299656-2026",
+      "acheteur": "Samenwerking A2-Gemeenten",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – BOR-applicatie voor de Samenwerking A2-gemeenten",
+      "description": "De Samenwerking A2-gemeenten bestaat uit de gemeenten Valkenswaard, Heeze-Leende en Cranendonck Het doel van de aanbesteding is het optimaliseren en harmoniseren van processen binnen het beheer van de openbare ruimte, door gezamenlijk over te gaan op een modern BOR-systeem dat aansluit op de huidige behoefte van de A2 gemeenten. Voor het beheer van de openbare ruimte gebruiken de gemeenten Valkenswaard en Heeze-Leende op dit moment Geovisia van Progresity, de gemeente Cranendonck gebruikt Obsurv van SWECO. Voor specifieke onderdelen zijn ook losse applicaties in gebruik. De mate waarin de applicaties gevuld zijn verschilt. Medio 2026 wordt gezien als een ‘natuurlijk moment’ voor een overgang omdat GeoVisia-gebruikers eind 2026 moeten overstappen naar versie 7. De GRSA2 wil voor de 3 gemeenten gezamenlijk aanbesteden en dit project gebruiken om werkwijzen te uniformeren en processen te versterken, ook met het oog op informatie-uitwisseling en het onderling overnemen van werkzaamheden. De huidige contractpartijen leveren de software aan als SaaS-oplossing. In de gewenste situatie gebruiken de 3 gemeenten 1 BOR-applicatie. Hierbij zal gedurende de voorbereiding van de aanbesteding nagegaan worden in hoeverre er sprake kan zijn van een geheel of gedeeltelijk geïntegreerd systeem, al dan niet met gescheiden dataverzamelingen. Gedurende het project zal getracht worden de processen voor het beheer van de openbare ruimte te optimaliseren en te harmoniseren. Tijdens de uitwerking van deze optimalisatie zal onderzocht worden in hoeverre de verschillende beheerprocessen over de drie gemeenten gestandaardiseerd kunnen worden. Iedere gemeente kan echter wanneer zij dit wenst haar eigen “couleur locale” behouden. Binnen het kennisdomein van de openbare ruimte wordt er momenteel gekeken naar 18 verschillende disciplines.",
+      "cpv": "72000000",
       "pays": "NLD",
       "deadline": "",
-      "montant": 552,
-      "publication": "2026-05-05",
+      "montant": 600,
+      "publication": "2026-04-30",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/307305-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/299656-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -222,18 +162,50 @@
       "auto": true
     },
     {
-      "id": "299656-2026",
-      "ref": "299656-2026",
-      "acheteur": "Samenwerking A2-Gemeenten",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – BOR-applicatie voor de Samenwerking A2-gemeenten",
-      "description": "De Samenwerking A2-gemeenten bestaat uit de gemeenten Valkenswaard, Heeze-Leende en Cranendonck Het doel van de aanbesteding is het optimaliseren en harmoniseren van processen binnen het beheer van de openbare ruimte, door gezamenlijk over te gaan op een modern BOR-systeem dat aansluit op de huidige behoefte van de A2 gemeenten. Voor het beheer van de openbare ruimte gebruiken de gemeenten Valkenswaard en Heeze-Leende op dit moment Geovisia van Progresity, de gemeente Cranendonck gebruikt Obsurv van SWECO. Voor specifieke onderdelen zijn ook losse applicaties in gebruik. De mate waarin de applicaties gevuld zijn verschilt. Medio 2026 wordt gezien als een ‘natuurlijk moment’ voor een overgang omdat GeoVisia-gebruikers eind 2026 moeten overstappen naar versie 7. De GRSA2 wil voor de 3 gemeenten gezamenlijk aanbesteden en dit project gebruiken om werkwijzen te uniformeren en processen te versterken, ook met het oog op informatie-uitwisseling en het onderling overnemen van werkzaamheden. De huidige contractpartijen leveren de software aan als SaaS-oplossing. In de gewenste situatie gebruiken de 3 gemeenten 1 BOR-applicatie. Hierbij zal gedurende de voorbereiding van de aanbesteding nagegaan worden in hoeverre er sprake kan zijn van een geheel of gedeeltelijk geïntegreerd systeem, al dan niet met gescheiden dataverzamelingen. Gedurende het project zal getracht worden de processen voor het beheer van de openbare ruimte te optimaliseren en te harmoniseren. Tijdens de uitwerking van deze optimalisatie zal onderzocht worden in hoeverre de verschillende beheerprocessen over de drie gemeenten gestandaardiseerd kunnen worden. Iedere gemeente kan echter wanneer zij dit wenst haar eigen “couleur locale” behouden. Binnen het kennisdomein van de openbare ruimte wordt er momenteel gekeken naar 18 verschillende disciplines.",
-      "cpv": "72000000",
+      "id": "307239-2026",
+      "ref": "307239-2026",
+      "acheteur": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+      "objet": "Allemagne – Services de conseil en gestion générale – 81318558 - Multimediale Kommunikationsunterstützung und Webpflege für die bilateralen Klima- und Energiepartnerschaften",
+      "description": "Seit Juni 2024 ist die GIZ federführend übergreifend für die Kommunikation der bilateralen Klima- und Energiepartnerschaften (KEP) zuständig. Durch gezielte Maßnahmen in der Presse- und Öffentlichkeitsarbeit wird darauf abgezielt, die Glaubwürdigkeit und das Vertrauen in die KEP als Regierungsinstrument zu stärken, die erzielten Erfolge sichtbar zu machen und die Aufmerksamkeit relevanter Stakeholder nachhaltig zu sichern. Die Aufgabe des Auftragnehmers wird die Unterstützung der GIZ bei der Neuausrichtung und Konzeption der Kommunikationsaktivitäten der KEP sein. Unter Einbeziehung der zahlreichen Akteure der KEP sollen einerseits die Ländersekretariate vor Ort bei ihrer Kommunikationsarbeit unterstützt und andererseits die Erweiterung der Kommunikationsaktivitäten auf Zielgruppen in Deutschland durch die GIZ vorangetrieben werden. Der Auftragnehmer übernimmt dabei Aufgaben im Bereich des Social-Media Content Managements. Hierzu zählen die regelmäßige Pflege eines Redaktionsplans in enger Abstimmung mit den Ländersekretariaten und den jeweiligen Durchführungsorganisationen, die Beratung zu Social-Media-Inhalten sowie die fortlaufende Betreuung des Social-Media-Kanals, inklusive Monitoring und Community Management. Ziel ist es, durch gezielte Inhalte Reichweite und Sichtbarkeit der KEP-Aktivitäten zu steigern. Im digitalen Bereich ist der Auftragnehmer für das Hosting, den technischen Support sowie die Wartung der bestehenden Länderwebseiten (derzeit über 20) und der thematischen Webseiten www.womenenergizewomen.org sowie der Webseite der Climate and Energy Partnerships verantwortlich. Dies schließt das Monitoring und die Behebung technischer Fehler ebenso ein wie die kontinuierliche Suchmaschinenoptimierung (SEO), das Einspielen notwendiger Updates zur Gewährleistung der Sicherheit und Funktionsfähigkeit der Systeme - insbesondere des Content-Management-Systems (CMS) - sowie die Unterstützung bei technischen Fragestellungen durch die KEP. Zusätzlich erstellt der Auftragnehmer bei Bedarf neue Länderwebseiten nach den geltenden Corporate-Design-Vorgaben und bindet Social-Media-Kanäle funktional auf der übergeordneten Dach-Webseite ein. Auch die inhaltliche Betreuung durch Einbindung neuer Unterseiten gehört zum Leistungsumfang. Ein weiterer zentraler Aufgabenbereich umfasst die Beratung zum Corporate Design der KEP. Der Auftragnehmer unterstützt bedarfsweise bei der korrekten Anwendung des aktuellen Corporate-Design-Manuals - insbesondere bei Veröffentlichungen, Veranstaltungen oder Kooperationen mit weiteren Partnern. Hierzu zählt auch die Überprüfung der CD-konformen Gestaltung sowie bei Bedarf die redaktionelle Unterstützung, etwa bei Lektoraten für Newsletter oder ähnliche Veröffentlichungen. Falls notwendig, wird das bestehende CD-Manual in Abstimmung mit dem Auftraggeber aktualisiert. Zur visuellen Unterstützung der Kommunikationsarbeit aktualisiert und erweitert der Auftragnehmer bestehende grafische Materialien. Dazu gehören unter anderem die Anpassung oder Neuerstellung von Grafiken, Illustrationen sowie Word- und PowerPoint-Vorlagen. Diese Maßnahmen erfolgen im Einklang mit dem Corporate Design und beinhalten z.?B. die Aktualisierung von Logos, das Ersetzen von Schmuckfarben oder die Ergänzung neuer Bildelemente in bereits bestehenden Templates und Dokumenten. Abschließend unterstützt der Auftragnehmer die GIZ bei der Erstellung des Jahresberichts der KEP, der voraussichtlich im ersten Quartal 2026 erscheint. Die Unterstützung umfasst dabei insbesondere die Beratung zu Layout und Format sowie die formale Überführung und Aufbereitung der bereitgestellten Inhalte. Weitere Einzelheiten sind der Leistungsbeschreibung zu entnehmen.",
+      "cpv": "79411000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 254,
+      "publication": "2026-05-05",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/307239-2026",
+      "segment": "État",
+      "keyword_hits": [
+        "Word",
+        "PowerPoint"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "307305-2026",
+      "ref": "307305-2026",
+      "acheteur": "Regio Gooi en Vechtstreek",
+      "objet": "Pays-Bas – Logiciels et systèmes d'information – Inkoop E-HRM",
+      "description": "Het voorwerp van de aanbestedingsprocedure is een Opdracht in de vorm van een Overheidsopdracht voor het leveren van een E-HRM oplossing De Opdracht voor een E-HRM oplossing zal worden verleend voor een maximale duur van negen (9) jaar en acht (8) maanden. De opbouw van de Overeenkomst bestaat uit een initiële opdracht van vier (4) jaar en acht (8) maanden, waarbij de eerste acht (8) maanden als de implementatieperiode geldt, gevolgd door vier (4) contractjaren en hierna de optie van vijf (5) x één (1) jaar verlenging, tezamen maximaal negen (9) jaar en acht (8) maanden. De Overeenkomst gaat naar verwachting in op 1 mei 2026 (implementatie) waarna de officiële livegang is gepland op 1 januari 2027. De geraamde waarde betreft de waarde over de looptijd inclusief verlengingen.",
+      "cpv": "48000000",
       "pays": "NLD",
       "deadline": "",
-      "montant": 600,
-      "publication": "2026-04-30",
+      "montant": 552,
+      "publication": "2026-05-05",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/299656-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/307305-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -315,18 +287,18 @@
       "auto": true
     },
     {
-      "id": "305114-2026",
-      "ref": "305114-2026",
-      "acheteur": "Openbaar Lichaam Sociale werkvoorziening Drechtsteden - Drechtwerk",
-      "objet": "Pays-Bas – Services de fourniture de logiciels – Vervanging ERP en FIN pakket bij Drechtwerk",
-      "description": "Vervanging ERP en FIN pakket bij Drechtwerk De geraamde opdrachtwaarde voor het vervangen van het ERP-systeem en het leveren en implementeren van een Financieel systeem voor Drechtwerk bedraagt ca. Implementatie ERP €150.000,- ex btw Implementatie FIN €80.000 ex btw Licentiekosten €60.000 ex btw per jaar Aan de opgegeven bedragen kunnen op geen enkele manier rechten worden ontleend.",
-      "cpv": "72268000",
+      "id": "285460-2026",
+      "ref": "285460-2026",
+      "acheteur": "Stichting Flores onderwijs",
+      "objet": "Pays-Bas – Travaux de construction de bâtiments scolaires – Integraal Bouwteam Flores",
+      "description": "Gezocht: integraal bouwteam voor de renovatie van drie basisscholen; De Binnenstad, De Sterrenkring en Heijenoordschool, gelegen in Arnhem, Het betreft een geclusterde opdracht waarbij een integraal bouwteam met ontwerp- en uitvoerende partijen verantwoordelijk wordt voor zowel de ontwerp als realisatie van deze drie projecten. in totaal gaat het om drie school gebouwen: 1 renovatie en deels nieuwbouw 2 twee renovatie projecten",
+      "cpv": "45214200",
       "pays": "NLD",
       "deadline": "",
       "montant": 0,
-      "publication": "2026-05-05",
+      "publication": "2026-04-27",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/305114-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/285460-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -346,21 +318,21 @@
       "auto": true
     },
     {
-      "id": "306144-2026",
-      "ref": "306144-2026",
-      "acheteur": "Provincie Oost-Vlaanderen",
-      "objet": "Belgique – Logiciels et systèmes d'information – Raamovereenkomst voor FME-licenties, geven van opleidingen voor FME, het aanbieden van consultancy voor de infrastructuur met FME en het aanbieden van consultancy voor het schrijven van scripts in een FME-infrastructuur",
-      "description": "DataWISE staat voor 'Datagedreven Werken Is Samen Efficiënter' en heeft als doel steden en gemeenten te helpen om slimmer en efficiënter met data te werken door gegevens beter te bundelen en toegankelijk te maken. Doelstellingen: Het opzetten van een gedeelde infrastructuur die het mogelijk maakt om gegevens te verzamelen, controleren, hergebruiken en beschikbaar te stellen op basis van bewezen ETL-technologie (Extract, Transform, Load). Het project omvat het uitwerken en implementeren van tien generieke gebruikstoepassingen binnen deze gedeelde infrastructuur. Drie werden reeds bepaald, zeven worden vastgelegd via een participatietraject. Het delen van kennis via een lerend netwerk, coaching en opleidingen. Er is ervoor gekozen om in te zetten op de gekende FME-software als ETL-tool om de gebruikstoepassingen te implementeren. De opdracht is opgezet als een raamovereenkomst en valt uiteen in een aantal grote onderdelen. In een eerste onderdeel worden er verschillende FME-licenties aangeschaft, wat op verschillende manieren kan. Dit kan zowel door de aankoop van de licenties als de huur van de licenties. Een tweede onderdeel bevat de consultancy om de FME-infrastructuur op te zetten. Indien er verschillende FME-licenties worden ingezet, moet hiervoor ook een infrastructuur worden opgezet met bijvoorbeeld servers en integraties met andere software. Voor DataWISE zal de infrastructuur in staat moeten zijn om de ontwikkelde processen gedeeld te kunnen aanbieden tussen verschillende steden en gemeenten, hetzij als sjabloon, hetzij om bepaalde processen te implementeren. Om met FME te kunnen omgaan worden er verschillende opleidingen aangeboden, wat een derde onderdeel is van de opdracht. Ten slotte is er ook consultancy voorzien voor het uitwerken van verschillende scripts, dit om gebruikstoepassingen te kunnen implementeren. Het geheel zal opgezet worden als een aankoopcentrale. Een aankoopcentrale is nodig om het DataWISE-verhaal op te zetten, om DataWISE verder te verankeren na het aflopen van het EFRO-project en om te kunnen opschalen. Er kan al tijdens het project gebruik gemaakt worden van de aankoopcentrale door andere besturen (buiten het DataWISE-project), dit onder andere om de kennis en expertise opgedaan in het project te kunnen delen. Er kan gebruik gemaakt worden van de aankoopcentrale door alle lokale instanties op het grondgebied van het Vlaamse gewest. In de selectie- en gunningsleidraad is een lijst opgenomen om welke instanties het gaat. Binnen de raamovereenkomst zullen afnames gebeuren door middel van een cascadesysteem voor bestellingen onder de 30 000 EUR en met mini-competities voor afnames boven de 30 000 EUR. In de gunningsleidraad staat beschrijven hoe die afnames gaan gebeuren. De Provincie Oost-Vlaanderen zal een kostendekkende vergoeding vragen voor elke afname die zal plaatsvinden binnen deze raamovereenkomst.",
-      "cpv": "48000000",
-      "pays": "BEL",
+      "id": "285796-2026",
+      "ref": "285796-2026",
+      "acheteur": "Freistaat Sachsen, vertreten durch die Leitstelle für Informationstechnologie der sächsischen Justiz (LIT)",
+      "objet": "Allemagne – Services de programmation et de conseil en logiciels – Beschaffung von Betriebsdienstleistungen sowie Beratungs- und Unterstützungsleistungen",
+      "description": "Es sind Unterstützungsleistungen für den Rechenzentrumsbetrieb der sächsischen Justiz in den folgenden Bereichen zu erbringen: • Server-, Storage- und SAN-Technik (Produktivumgebung, Test-, Integrations-, Schulungs- und Referenzumgebung) • Speicher- und Datensicherungssysteme • Containertechnologien • anwendungsnahe Systeme (u.a. Monitoring, Automatisierung) / Es sind Unterstützungsleistungen für die in der Infrastruktur der sächsischen Justiz eingesetzte Citrix Plattform samt zugehöriger Systeme und Tools in den folgenden Bereichen zu erbringen: • Zugangssysteme/ Zugangsmanagement • Virtualisierungsumgebungen • VDI-Lösungen für virtuelle Single-Session und Multi-Session Umgebungen (Terminalserver) / Es sind Unterstützungsleistungen für in der Infrastruktur der sächsischen Justiz eingesetzte Microsoft Arbeitsplatzumgebung in den folgenden Bereichen zu erbringen: • Windows Server • Verzeichnisdienst, Nutzer- und Rechteverwaltung • Group Policy Objects • Clientverwaltung/ Softwareverteilung • Sicherheitssysteme / Es sind Unterstützungsleistungen für den Anwendungsbetrieb und die Anwendungsentwicklung in den folgenden Bereichen zu erbringen: • Microsoft Office • pdf Reader- und Bearbeitungsprogramme • sonstige Standard-Bürosoftware • VBA-basierte Eigenentwicklungen in Microsoft Access/ auf Microsoft SQL Server • PowerShell-basierte Skripte und Programmierungen • Crystal Reports-basierte Auswertungen und Berichte • Formularprogrammierung • digitale Anwenderhilfen und eLearning-Formate / Es sind Vorort an den Gerichten und Justizbehörden zu erbringende Unterstützungsleistungen abzudecken: • Rollout-Dienstleistungen o Aufbau und Abbau von Technik o Erfassung von Technik-Komponenten in Bestandsverzeichnissen und Management-systemen o Funktionstests o Nutzereinweisungen o Transport/ Logistik • Durchführung von Inventuren o Hardware-Inventuren o Netzwerk-Inventuren • Anwender- und Standortbetreuung o Ermittlung und Kommunikation von Technikbedarfen o Aufbau und Inbetriebnahme, Rückführung von Technik o Analyse und Behebung von Störungen o Unterstützung und Einweisung von Anwendern o Unterstützung von Vorort-Personal der Gerichte und Justizbehörden",
+      "cpv": "72200000",
+      "pays": "DEU",
       "deadline": "",
       "montant": 0,
-      "publication": "2026-05-05",
+      "publication": "2026-04-27",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/306144-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/285796-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Word"
+        "Microsoft Office"
       ],
       "bureautique": true,
       "score": 65,
@@ -377,49 +349,18 @@
       "auto": true
     },
     {
-      "id": "302265-2026",
-      "ref": "302265-2026",
-      "acheteur": "AZ Sint-Jan Brugge AV",
-      "objet": "Belgique – Services de gestion des salaires – Aanstellen van een sociaal secretariaat - loonmotor",
-      "description": "De opdracht betreft het leveren van diensten voor HR en loon- en weddeadministratie door een erkend sociaal secretariaat volgens het Belgisch socialezekerheidsrecht. De overeenkomst wordt gesloten voor een periode van 4 jaar met 6 mogelijke verlengingen van 1 jaar.",
-      "cpv": "79211110",
-      "pays": "BEL",
+      "id": "295543-2026",
+      "ref": "295543-2026",
+      "acheteur": "Kreis Recklinghausen, Der Landrat",
+      "objet": "Allemagne – Services d'enseignement et de formation – AMDL Neue Wege",
+      "description": "Dabei liegt der Fokus auf der Stärkung der Mitwirkung in der Fallsteuerung, Förderung der lebenspraktischen Kompetenzen, der Stabilisierung der Rahmenbedingungen & Leistungsfähigkeit. Ziel der Maßnahme ist die Wiederherstellung des Kontaktes zum Kunden, die Stärkung der Zusammenarbeit zwischen Kunden und Fallmanagement, die Anbindung an weiterführende bzw. flankierende Unterstützungsangebote (Wohnungslosenhilfe, Schuldnerberatung, Suchtberatung, sozialpsychiatrischer Dienst, Soziotherapie, Berufsberatung (Reha)), die Stabilisierung der Rahmenbedingungen, Schaffung von Tagesstruktur, Vermittlung lebenspraktischer Kompetenzen und Annäherung an den Ausbildungs- bzw. Arbeitsmarkt. Die Maßnahme wird in zwei Module (Basis- und Aktivierungsmodul) unterteilt. Die Teilnehmer können einem oder nacheinander beiden Modulen zugewiesen werden. Die Zuweisung zum Aktivierungsmodul kann nach dem erfolgreichen Abschluss des Basismoduls erfolgen. Das Aktivierungsmodul kann auch ohne das Basismodul gewählt werden. Das Maßnahmeziel des Basismoduls ist erreicht, wenn die Aufarbeitung der individuellen Problembereiche in mindestens 8 Sitzungen innerhalb von 3 Monaten mit dem Teilnehmenden erfolgt ist, Lösungsschritte erarbeitet wurden und ein Kooperationsplan infolge eines Dreierge-spräches zwischen dem Teilnehmenden, dem sozialpädagogischen Personal des Auftrag-nehmers und dem Auftraggeber erfolgt ist. Zum Ende der Maßnahme muss der Träger zu je-dem Teilnehmenden individuell einen Bericht fertigen. Der Bericht muss Empfehlungen zu weiteren Integrationsfortschritten enthalten (z.B. Teilnahme an dem Aktivierungsmodul, Teil-nahme an einer AGH, Teilnahme an einer Qualifizierungsmaßnahme). Das Maßnahmeziel des Aktivierungsmoduls ist erreicht, wenn nach 6 Monaten die Teilneh-menden derart stabilisiert wurden, dass sie eine Tagestruktur erlangt haben, die die Teilnahme an einem niederschwelligen Maßnahmeangebot z.B. AGH ermöglicht. Sollten be-reits realisti-sche, berufliche Perspektiven entwickelt worden sein, kann ggf. sogar, in enger Abstimmung mit dem Auftraggeber, eine Qualifizierungsmaßnahme angestrebt werden. (Die Gesamtkonzeption (Inhalt, Durchführung und Methodik) wird nicht durch die beauftragen-de Behörde vorgegeben und ist im Angebotskonzept darzulegen. Auf die Voraussetzungen in den Vertragsbestimmungen und den weiteren Regelungen dieser Leistungsbeschreibung ins-besondere unter B.2.1 wird ausdrücklich verwiesen.) Einzelheiten sind der beiliegenden Leistungsbeschreibung u entnehmen.",
+      "cpv": "80000000",
+      "pays": "DEU",
       "deadline": "",
       "montant": 0,
-      "publication": "2026-05-04",
+      "publication": "2026-04-29",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/302265-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "303924-2026",
-      "ref": "303924-2026",
-      "acheteur": "Stad Halle",
-      "objet": "Belgique – Services de développement de logiciels d'infogérance et services de développement de suites logicielles – Software voor facilitaire opvolging",
-      "description": "Om de werking van de dienst Facilitair Beheer en van stad en OCMW Halle te optimaliseren wordt een overheidsopdracht uitgeschreven voor de aankoop en implementatie van software die de processen van facilitair beheer moet stroomlijnen. Stad en OCMW Halle werken op dit moment op verschillende manieren voor gebouwenbeheer, asset management, contractbeheer, voorraadbeheer, onderhoudsplanning, meldingenbeheer, werkorders en werkplanning, alsook voor de opmaak van aankoopdossiers overheidsopdrachten voor zowel leveringen, diensten als werken, die vaak een gevolg zijn van technische werken die dienen te gebeuren. Om dit facilitaire luik te uniformiseren en te optimaliseren wenst de organisatie hiervoor een softwarepakket aan te kopen. Stad en OCMW Halle wensen een reeds beschikbare software aan te kopen die over verschillende modules beschikt en waar een zekere vorm van flexibiliteit aanwezig is, maar waarbij maatwerk en bijkomende kosten voor dat maatwerk vermeden worden. De aanbestedende overheid ziet er op toe dat deze opdracht wordt uitgevoerd met inachtname van de anti-discriminatiewetgeving.",
-      "cpv": "72212420",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-05-04",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/303924-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/295543-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -533,18 +474,18 @@
       "auto": true
     },
     {
-      "id": "295543-2026",
-      "ref": "295543-2026",
-      "acheteur": "Kreis Recklinghausen, Der Landrat",
-      "objet": "Allemagne – Services d'enseignement et de formation – AMDL Neue Wege",
-      "description": "Dabei liegt der Fokus auf der Stärkung der Mitwirkung in der Fallsteuerung, Förderung der lebenspraktischen Kompetenzen, der Stabilisierung der Rahmenbedingungen & Leistungsfähigkeit. Ziel der Maßnahme ist die Wiederherstellung des Kontaktes zum Kunden, die Stärkung der Zusammenarbeit zwischen Kunden und Fallmanagement, die Anbindung an weiterführende bzw. flankierende Unterstützungsangebote (Wohnungslosenhilfe, Schuldnerberatung, Suchtberatung, sozialpsychiatrischer Dienst, Soziotherapie, Berufsberatung (Reha)), die Stabilisierung der Rahmenbedingungen, Schaffung von Tagesstruktur, Vermittlung lebenspraktischer Kompetenzen und Annäherung an den Ausbildungs- bzw. Arbeitsmarkt. Die Maßnahme wird in zwei Module (Basis- und Aktivierungsmodul) unterteilt. Die Teilnehmer können einem oder nacheinander beiden Modulen zugewiesen werden. Die Zuweisung zum Aktivierungsmodul kann nach dem erfolgreichen Abschluss des Basismoduls erfolgen. Das Aktivierungsmodul kann auch ohne das Basismodul gewählt werden. Das Maßnahmeziel des Basismoduls ist erreicht, wenn die Aufarbeitung der individuellen Problembereiche in mindestens 8 Sitzungen innerhalb von 3 Monaten mit dem Teilnehmenden erfolgt ist, Lösungsschritte erarbeitet wurden und ein Kooperationsplan infolge eines Dreierge-spräches zwischen dem Teilnehmenden, dem sozialpädagogischen Personal des Auftrag-nehmers und dem Auftraggeber erfolgt ist. Zum Ende der Maßnahme muss der Träger zu je-dem Teilnehmenden individuell einen Bericht fertigen. Der Bericht muss Empfehlungen zu weiteren Integrationsfortschritten enthalten (z.B. Teilnahme an dem Aktivierungsmodul, Teil-nahme an einer AGH, Teilnahme an einer Qualifizierungsmaßnahme). Das Maßnahmeziel des Aktivierungsmoduls ist erreicht, wenn nach 6 Monaten die Teilneh-menden derart stabilisiert wurden, dass sie eine Tagestruktur erlangt haben, die die Teilnahme an einem niederschwelligen Maßnahmeangebot z.B. AGH ermöglicht. Sollten be-reits realisti-sche, berufliche Perspektiven entwickelt worden sein, kann ggf. sogar, in enger Abstimmung mit dem Auftraggeber, eine Qualifizierungsmaßnahme angestrebt werden. (Die Gesamtkonzeption (Inhalt, Durchführung und Methodik) wird nicht durch die beauftragen-de Behörde vorgegeben und ist im Angebotskonzept darzulegen. Auf die Voraussetzungen in den Vertragsbestimmungen und den weiteren Regelungen dieser Leistungsbeschreibung ins-besondere unter B.2.1 wird ausdrücklich verwiesen.) Einzelheiten sind der beiliegenden Leistungsbeschreibung u entnehmen.",
-      "cpv": "80000000",
-      "pays": "DEU",
+      "id": "302265-2026",
+      "ref": "302265-2026",
+      "acheteur": "AZ Sint-Jan Brugge AV",
+      "objet": "Belgique – Services de gestion des salaires – Aanstellen van een sociaal secretariaat - loonmotor",
+      "description": "De opdracht betreft het leveren van diensten voor HR en loon- en weddeadministratie door een erkend sociaal secretariaat volgens het Belgisch socialezekerheidsrecht. De overeenkomst wordt gesloten voor een periode van 4 jaar met 6 mogelijke verlengingen van 1 jaar.",
+      "cpv": "79211110",
+      "pays": "BEL",
       "deadline": "",
       "montant": 0,
-      "publication": "2026-04-29",
+      "publication": "2026-05-04",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/295543-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/302265-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -564,18 +505,49 @@
       "auto": true
     },
     {
-      "id": "285460-2026",
-      "ref": "285460-2026",
-      "acheteur": "Stichting Flores onderwijs",
-      "objet": "Pays-Bas – Travaux de construction de bâtiments scolaires – Integraal Bouwteam Flores",
-      "description": "Gezocht: integraal bouwteam voor de renovatie van drie basisscholen; De Binnenstad, De Sterrenkring en Heijenoordschool, gelegen in Arnhem, Het betreft een geclusterde opdracht waarbij een integraal bouwteam met ontwerp- en uitvoerende partijen verantwoordelijk wordt voor zowel de ontwerp als realisatie van deze drie projecten. in totaal gaat het om drie school gebouwen: 1 renovatie en deels nieuwbouw 2 twee renovatie projecten",
-      "cpv": "45214200",
+      "id": "303924-2026",
+      "ref": "303924-2026",
+      "acheteur": "Stad Halle",
+      "objet": "Belgique – Services de développement de logiciels d'infogérance et services de développement de suites logicielles – Software voor facilitaire opvolging",
+      "description": "Om de werking van de dienst Facilitair Beheer en van stad en OCMW Halle te optimaliseren wordt een overheidsopdracht uitgeschreven voor de aankoop en implementatie van software die de processen van facilitair beheer moet stroomlijnen. Stad en OCMW Halle werken op dit moment op verschillende manieren voor gebouwenbeheer, asset management, contractbeheer, voorraadbeheer, onderhoudsplanning, meldingenbeheer, werkorders en werkplanning, alsook voor de opmaak van aankoopdossiers overheidsopdrachten voor zowel leveringen, diensten als werken, die vaak een gevolg zijn van technische werken die dienen te gebeuren. Om dit facilitaire luik te uniformiseren en te optimaliseren wenst de organisatie hiervoor een softwarepakket aan te kopen. Stad en OCMW Halle wensen een reeds beschikbare software aan te kopen die over verschillende modules beschikt en waar een zekere vorm van flexibiliteit aanwezig is, maar waarbij maatwerk en bijkomende kosten voor dat maatwerk vermeden worden. De aanbestedende overheid ziet er op toe dat deze opdracht wordt uitgevoerd met inachtname van de anti-discriminatiewetgeving.",
+      "cpv": "72212420",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-04",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/303924-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "305114-2026",
+      "ref": "305114-2026",
+      "acheteur": "Openbaar Lichaam Sociale werkvoorziening Drechtsteden - Drechtwerk",
+      "objet": "Pays-Bas – Services de fourniture de logiciels – Vervanging ERP en FIN pakket bij Drechtwerk",
+      "description": "Vervanging ERP en FIN pakket bij Drechtwerk De geraamde opdrachtwaarde voor het vervangen van het ERP-systeem en het leveren en implementeren van een Financieel systeem voor Drechtwerk bedraagt ca. Implementatie ERP €150.000,- ex btw Implementatie FIN €80.000 ex btw Licentiekosten €60.000 ex btw per jaar Aan de opgegeven bedragen kunnen op geen enkele manier rechten worden ontleend.",
+      "cpv": "72268000",
       "pays": "NLD",
       "deadline": "",
       "montant": 0,
-      "publication": "2026-04-27",
+      "publication": "2026-05-05",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/285460-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/305114-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -595,21 +567,21 @@
       "auto": true
     },
     {
-      "id": "285796-2026",
-      "ref": "285796-2026",
-      "acheteur": "Freistaat Sachsen, vertreten durch die Leitstelle für Informationstechnologie der sächsischen Justiz (LIT)",
-      "objet": "Allemagne – Services de programmation et de conseil en logiciels – Beschaffung von Betriebsdienstleistungen sowie Beratungs- und Unterstützungsleistungen",
-      "description": "Es sind Unterstützungsleistungen für den Rechenzentrumsbetrieb der sächsischen Justiz in den folgenden Bereichen zu erbringen: • Server-, Storage- und SAN-Technik (Produktivumgebung, Test-, Integrations-, Schulungs- und Referenzumgebung) • Speicher- und Datensicherungssysteme • Containertechnologien • anwendungsnahe Systeme (u.a. Monitoring, Automatisierung) / Es sind Unterstützungsleistungen für die in der Infrastruktur der sächsischen Justiz eingesetzte Citrix Plattform samt zugehöriger Systeme und Tools in den folgenden Bereichen zu erbringen: • Zugangssysteme/ Zugangsmanagement • Virtualisierungsumgebungen • VDI-Lösungen für virtuelle Single-Session und Multi-Session Umgebungen (Terminalserver) / Es sind Unterstützungsleistungen für in der Infrastruktur der sächsischen Justiz eingesetzte Microsoft Arbeitsplatzumgebung in den folgenden Bereichen zu erbringen: • Windows Server • Verzeichnisdienst, Nutzer- und Rechteverwaltung • Group Policy Objects • Clientverwaltung/ Softwareverteilung • Sicherheitssysteme / Es sind Unterstützungsleistungen für den Anwendungsbetrieb und die Anwendungsentwicklung in den folgenden Bereichen zu erbringen: • Microsoft Office • pdf Reader- und Bearbeitungsprogramme • sonstige Standard-Bürosoftware • VBA-basierte Eigenentwicklungen in Microsoft Access/ auf Microsoft SQL Server • PowerShell-basierte Skripte und Programmierungen • Crystal Reports-basierte Auswertungen und Berichte • Formularprogrammierung • digitale Anwenderhilfen und eLearning-Formate / Es sind Vorort an den Gerichten und Justizbehörden zu erbringende Unterstützungsleistungen abzudecken: • Rollout-Dienstleistungen o Aufbau und Abbau von Technik o Erfassung von Technik-Komponenten in Bestandsverzeichnissen und Management-systemen o Funktionstests o Nutzereinweisungen o Transport/ Logistik • Durchführung von Inventuren o Hardware-Inventuren o Netzwerk-Inventuren • Anwender- und Standortbetreuung o Ermittlung und Kommunikation von Technikbedarfen o Aufbau und Inbetriebnahme, Rückführung von Technik o Analyse und Behebung von Störungen o Unterstützung und Einweisung von Anwendern o Unterstützung von Vorort-Personal der Gerichte und Justizbehörden",
-      "cpv": "72200000",
-      "pays": "DEU",
+      "id": "306144-2026",
+      "ref": "306144-2026",
+      "acheteur": "Provincie Oost-Vlaanderen",
+      "objet": "Belgique – Logiciels et systèmes d'information – Raamovereenkomst voor FME-licenties, geven van opleidingen voor FME, het aanbieden van consultancy voor de infrastructuur met FME en het aanbieden van consultancy voor het schrijven van scripts in een FME-infrastructuur",
+      "description": "DataWISE staat voor 'Datagedreven Werken Is Samen Efficiënter' en heeft als doel steden en gemeenten te helpen om slimmer en efficiënter met data te werken door gegevens beter te bundelen en toegankelijk te maken. Doelstellingen: Het opzetten van een gedeelde infrastructuur die het mogelijk maakt om gegevens te verzamelen, controleren, hergebruiken en beschikbaar te stellen op basis van bewezen ETL-technologie (Extract, Transform, Load). Het project omvat het uitwerken en implementeren van tien generieke gebruikstoepassingen binnen deze gedeelde infrastructuur. Drie werden reeds bepaald, zeven worden vastgelegd via een participatietraject. Het delen van kennis via een lerend netwerk, coaching en opleidingen. Er is ervoor gekozen om in te zetten op de gekende FME-software als ETL-tool om de gebruikstoepassingen te implementeren. De opdracht is opgezet als een raamovereenkomst en valt uiteen in een aantal grote onderdelen. In een eerste onderdeel worden er verschillende FME-licenties aangeschaft, wat op verschillende manieren kan. Dit kan zowel door de aankoop van de licenties als de huur van de licenties. Een tweede onderdeel bevat de consultancy om de FME-infrastructuur op te zetten. Indien er verschillende FME-licenties worden ingezet, moet hiervoor ook een infrastructuur worden opgezet met bijvoorbeeld servers en integraties met andere software. Voor DataWISE zal de infrastructuur in staat moeten zijn om de ontwikkelde processen gedeeld te kunnen aanbieden tussen verschillende steden en gemeenten, hetzij als sjabloon, hetzij om bepaalde processen te implementeren. Om met FME te kunnen omgaan worden er verschillende opleidingen aangeboden, wat een derde onderdeel is van de opdracht. Ten slotte is er ook consultancy voorzien voor het uitwerken van verschillende scripts, dit om gebruikstoepassingen te kunnen implementeren. Het geheel zal opgezet worden als een aankoopcentrale. Een aankoopcentrale is nodig om het DataWISE-verhaal op te zetten, om DataWISE verder te verankeren na het aflopen van het EFRO-project en om te kunnen opschalen. Er kan al tijdens het project gebruik gemaakt worden van de aankoopcentrale door andere besturen (buiten het DataWISE-project), dit onder andere om de kennis en expertise opgedaan in het project te kunnen delen. Er kan gebruik gemaakt worden van de aankoopcentrale door alle lokale instanties op het grondgebied van het Vlaamse gewest. In de selectie- en gunningsleidraad is een lijst opgenomen om welke instanties het gaat. Binnen de raamovereenkomst zullen afnames gebeuren door middel van een cascadesysteem voor bestellingen onder de 30 000 EUR en met mini-competities voor afnames boven de 30 000 EUR. In de gunningsleidraad staat beschrijven hoe die afnames gaan gebeuren. De Provincie Oost-Vlaanderen zal een kostendekkende vergoeding vragen voor elke afname die zal plaatsvinden binnen deze raamovereenkomst.",
+      "cpv": "48000000",
+      "pays": "BEL",
       "deadline": "",
       "montant": 0,
-      "publication": "2026-04-27",
+      "publication": "2026-05-05",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/285796-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/306144-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Microsoft Office"
+        "Word"
       ],
       "bureautique": true,
       "score": 65,
@@ -688,58 +660,18 @@
       "auto": true
     },
     {
-      "id": "26-50411",
-      "ref": "26-50411",
-      "acheteur": "Comité national des actions sociales",
-      "objet": "MARCHÉ DE COMMISSAIRE AUX COMPTES (CAC), CERTIFICATION LÉGALE ET SERVICES ASSOCIÉS (SACC) POUR LES EXERCICES 2026-2031.",
-      "description": "MARCHÉ DE COMMISSAIRE AUX COMPTES (CAC), CERTIFICATION LÉGALE ET SERVICES ASSOCIÉS (SACC) POUR LES EXERCICES 2026-2031.",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-07-06",
+      "id": "285283-2026",
+      "ref": "285283-2026",
+      "acheteur": "Eindhoven Airport N.V.",
+      "objet": "Pays-Bas – Système de contrôle des accès – Toegangscontrolesysteem Eindhoven Airport",
+      "description": "Dit Perceel omvat het volledige technische beveiligingsplatform bestaande uit drie geïntegreerde componenten: Toegangscontrole (TGC) • Hardware: circa 300 Kaartlezers, Controllers, biometrische terminals en Anti-tailgating sys-temen • Software: toegangscontrolesysteem inclusief lokale autorisatiedatabase, monitoring en eventbeheer • Bekabeling: data- en voedingskabels, netwerkinfrastructuur, UPS-voorzieningen • Credential management: vervanging van alle toegangspassen (circa 4.000 stuks) Video Management Systeem (VMS) • Software en hardware voor videomanagement en -opslag • Integratie met toegangscontrolegebeurtenissen voor visuele verificatie • Basis video content analyse (VCA) functionaliteit • Centrale weergave en beheer van alle camerabeelden Security Management Systeem (SMS/PSIM) • Centrale software voor securitymanagement en integratie van alle beveiligingssubsys-temen • Unified operator interface voor monitoring, alarmafhandeling en rapportage • Koppeling met bestaande systemen (inbraakdetectie, intercom) Eindhoven Airport zoekt nadrukkelijk een unified security platform waarbij TGC, VMS en SMS/PSIM als geïntegreerd geheel functioneren: één centraal beheerplatform, gedeelde gebruikersinterface en native koppeling tussen de drie componenten. Door deze componenten in één Perceel onder te brengen, legt Eindhoven Airport de volledige verantwoordelijkheid voor de onderlinge integratie en de werking van het totaalsysteem bij één partij. Een Inschrijver die een oplossing aanbiedt op basis van meerdere deelsystemen die hij zelf integreert, wordt niet uitgesloten, mits hij aantoont dat het resultaat functioneel gelijkwaardig is aan een native unified platform en hij de volledige verantwoordelijkheid voor de integratie en werking op zich neemt. Divers. / Dit Perceel richt zich op de business-logica van toegangsbeheer: • Identity lifecycle management: aanmaken, wijzigen en verwijderen van identiteiten • Centrale autorisatiedatabase en workflows: aanvraag-, goedkeurings- en toekenningsprocessen voor toegangsrechten • Koppeling met bronsystemen: Active Directory, Azure AD, HR-systemen • Contractor- en bezoekersmanagement: registratie, screening en tijdelijke toegang • Self-service portaal: aanvragen en statusoverzicht voor eindgebruikers • Rapportage en compliance: audit trails en toegangsoverzichten.",
+      "cpv": "42961100",
+      "pays": "NLD",
+      "deadline": "2026-05-15",
       "montant": 0,
-      "publication": "2026-05-23",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-50411",
-      "_boamp": {
-        "famille": "Marchés européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Audit",
-          "Expertise comptable"
-        ],
-        "departement": "78"
-      },
-      "segment": "Autre",
-      "keyword_hits": [
-        "certification services"
-      ],
-      "score": 62,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "300917-2026",
-      "ref": "300917-2026",
-      "acheteur": "Staatsbetrieb Sächsische Informatik Dienste",
-      "objet": "Allemagne – Services relatifs aux logiciels – Rahmenvereinbarung Customizing One Identity",
-      "description": "Im Ergebnis der Ausschreibung soll eine EVB-IT Rahmenvereinbarung mit einem Dienstleister zur Erbringung von Unterstützungsleistungen zur Anpassung von OneIdentity im Rahmen seiner Verwendung als IAM-System zur Identitäts- und Zugriffsverwaltung abgeschlossen werden. Die Unterstützungsleistungen umfassen folgende Aufgaben: Installation, Anbindung Quell-Zielsystem, Migration auf höhere (aktuelle) Versionen von OneIM (incl. WebPortal), Umsetzung des Identity Lifecycle, Umsetzung Organisationsmanagement, Umsetzung der Projekt- und Ablagenverwaltung, IT-Shop Portal/Password Reset Portal und Reporting. Die notwendigen Beratungs- und Unterstützungsleistungen werden über die gesamte Vertragslaufzeit (inkl. Verlängerungsoption) nach derzeitiger Schätzung einen Umfang von etwa 300 Personentagen haben. Eine Abnahmeverpflichtung oder eine Mindestabnahmemenge besteht nicht. Abrufberechtigt ist ausschließlich der Staatsbetrieb Sächsische Informatik Dienste.",
-      "cpv": "72260000",
-      "pays": "DEU",
-      "deadline": "2026-05-18",
-      "montant": 0,
-      "publication": "2026-05-04",
+      "publication": "2026-04-27",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/300917-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/285283-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -790,18 +722,18 @@
       "auto": true
     },
     {
-      "id": "285283-2026",
-      "ref": "285283-2026",
-      "acheteur": "Eindhoven Airport N.V.",
-      "objet": "Pays-Bas – Système de contrôle des accès – Toegangscontrolesysteem Eindhoven Airport",
-      "description": "Dit Perceel omvat het volledige technische beveiligingsplatform bestaande uit drie geïntegreerde componenten: Toegangscontrole (TGC) • Hardware: circa 300 Kaartlezers, Controllers, biometrische terminals en Anti-tailgating sys-temen • Software: toegangscontrolesysteem inclusief lokale autorisatiedatabase, monitoring en eventbeheer • Bekabeling: data- en voedingskabels, netwerkinfrastructuur, UPS-voorzieningen • Credential management: vervanging van alle toegangspassen (circa 4.000 stuks) Video Management Systeem (VMS) • Software en hardware voor videomanagement en -opslag • Integratie met toegangscontrolegebeurtenissen voor visuele verificatie • Basis video content analyse (VCA) functionaliteit • Centrale weergave en beheer van alle camerabeelden Security Management Systeem (SMS/PSIM) • Centrale software voor securitymanagement en integratie van alle beveiligingssubsys-temen • Unified operator interface voor monitoring, alarmafhandeling en rapportage • Koppeling met bestaande systemen (inbraakdetectie, intercom) Eindhoven Airport zoekt nadrukkelijk een unified security platform waarbij TGC, VMS en SMS/PSIM als geïntegreerd geheel functioneren: één centraal beheerplatform, gedeelde gebruikersinterface en native koppeling tussen de drie componenten. Door deze componenten in één Perceel onder te brengen, legt Eindhoven Airport de volledige verantwoordelijkheid voor de onderlinge integratie en de werking van het totaalsysteem bij één partij. Een Inschrijver die een oplossing aanbiedt op basis van meerdere deelsystemen die hij zelf integreert, wordt niet uitgesloten, mits hij aantoont dat het resultaat functioneel gelijkwaardig is aan een native unified platform en hij de volledige verantwoordelijkheid voor de integratie en werking op zich neemt. Divers. / Dit Perceel richt zich op de business-logica van toegangsbeheer: • Identity lifecycle management: aanmaken, wijzigen en verwijderen van identiteiten • Centrale autorisatiedatabase en workflows: aanvraag-, goedkeurings- en toekenningsprocessen voor toegangsrechten • Koppeling met bronsystemen: Active Directory, Azure AD, HR-systemen • Contractor- en bezoekersmanagement: registratie, screening en tijdelijke toegang • Self-service portaal: aanvragen en statusoverzicht voor eindgebruikers • Rapportage en compliance: audit trails en toegangsoverzichten.",
-      "cpv": "42961100",
-      "pays": "NLD",
-      "deadline": "2026-05-15",
+      "id": "300917-2026",
+      "ref": "300917-2026",
+      "acheteur": "Staatsbetrieb Sächsische Informatik Dienste",
+      "objet": "Allemagne – Services relatifs aux logiciels – Rahmenvereinbarung Customizing One Identity",
+      "description": "Im Ergebnis der Ausschreibung soll eine EVB-IT Rahmenvereinbarung mit einem Dienstleister zur Erbringung von Unterstützungsleistungen zur Anpassung von OneIdentity im Rahmen seiner Verwendung als IAM-System zur Identitäts- und Zugriffsverwaltung abgeschlossen werden. Die Unterstützungsleistungen umfassen folgende Aufgaben: Installation, Anbindung Quell-Zielsystem, Migration auf höhere (aktuelle) Versionen von OneIM (incl. WebPortal), Umsetzung des Identity Lifecycle, Umsetzung Organisationsmanagement, Umsetzung der Projekt- und Ablagenverwaltung, IT-Shop Portal/Password Reset Portal und Reporting. Die notwendigen Beratungs- und Unterstützungsleistungen werden über die gesamte Vertragslaufzeit (inkl. Verlängerungsoption) nach derzeitiger Schätzung einen Umfang von etwa 300 Personentagen haben. Eine Abnahmeverpflichtung oder eine Mindestabnahmemenge besteht nicht. Abrufberechtigt ist ausschließlich der Staatsbetrieb Sächsische Informatik Dienste.",
+      "cpv": "72260000",
+      "pays": "DEU",
+      "deadline": "2026-05-18",
       "montant": 0,
-      "publication": "2026-04-27",
+      "publication": "2026-05-04",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/285283-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/300917-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -815,46 +747,6 @@
         "com": 5,
         "admin": 7,
         "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "26-48746",
-      "ref": "26-48746",
-      "acheteur": "CFDC de l'AP-HP",
-      "objet": "Prestations de suivi et de renouvellement combinées des certification ISO 9001 et des certification QUALIOPI® des structures du CFDC",
-      "description": "Prestations de suivi et de renouvellement combinées des certification ISO 9001 et des certification QUALIOPI® des structures du CFDC",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-06-15",
-      "montant": 50,
-      "publication": "2026-05-18",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-48746",
-      "_boamp": {
-        "famille": "Marchés <90 k€ (MAPA)",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Adaptée",
-        "descripteurs": [
-          "Audit"
-        ],
-        "departement": "75,77,78,91,92,93,94,95"
-      },
-      "segment": "Autre",
-      "keyword_hits": [
-        "Qualiopi",
-        "renouvellement de certification"
-      ],
-      "score": 57,
-      "score_detail": {
-        "fit": 25,
-        "size": 5,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
       },
       "score_status": "cond",
       "notes": "",

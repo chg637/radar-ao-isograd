@@ -1,0 +1,90 @@
+{
+  "generated_at": "2026-05-28T10:00:06.562Z",
+  "source": "BOAMP",
+  "window_days": 30,
+  "total_fetched": 3000,
+  "total_matched": 2,
+  "total_go": 0,
+  "notices": [
+    {
+      "id": "26-50411",
+      "ref": "26-50411",
+      "acheteur": "Comité national des actions sociales",
+      "objet": "MARCHÉ DE COMMISSAIRE AUX COMPTES (CAC), CERTIFICATION LÉGALE ET SERVICES ASSOCIÉS (SACC) POUR LES EXERCICES 2026-2031.",
+      "description": "MARCHÉ DE COMMISSAIRE AUX COMPTES (CAC), CERTIFICATION LÉGALE ET SERVICES ASSOCIÉS (SACC) POUR LES EXERCICES 2026-2031.",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-07-06",
+      "montant": 0,
+      "publication": "2026-05-23",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-50411",
+      "_boamp": {
+        "famille": "Marchés européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Audit",
+          "Expertise comptable"
+        ],
+        "departement": "78"
+      },
+      "segment": "Autre",
+      "keyword_hits": [
+        "certification services"
+      ],
+      "score": 62,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "26-48746",
+      "ref": "26-48746",
+      "acheteur": "CFDC de l'AP-HP",
+      "objet": "Prestations de suivi et de renouvellement combinées des certification ISO 9001 et des certification QUALIOPI® des structures du CFDC",
+      "description": "Prestations de suivi et de renouvellement combinées des certification ISO 9001 et des certification QUALIOPI® des structures du CFDC",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-06-15",
+      "montant": 50,
+      "publication": "2026-05-18",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-48746",
+      "_boamp": {
+        "famille": "Marchés <90 k€ (MAPA)",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Adaptée",
+        "descripteurs": [
+          "Audit"
+        ],
+        "departement": "75,77,78,91,92,93,94,95"
+      },
+      "segment": "Autre",
+      "keyword_hits": [
+        "Qualiopi",
+        "renouvellement de certification"
+      ],
+      "score": 55,
+      "score_detail": {
+        "fit": 25,
+        "size": 5,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 1
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    }
+  ]
+}

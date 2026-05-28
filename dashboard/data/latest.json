@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-05-27T09:44:39.135Z",
+  "generated_at": "2026-05-28T10:03:21.038Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 27,
+      "matched": 28,
       "go": 0,
-      "generated_at": "2026-05-27T09:37:21.514Z"
+      "generated_at": "2026-05-28T09:53:51.190Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 2,
       "go": 0,
-      "generated_at": "2026-05-27T09:43:24.967Z"
+      "generated_at": "2026-05-28T10:00:06.562Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-05-27T09:44:39.079Z"
+      "generated_at": "2026-05-28T10:03:20.987Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 29,
+  "total_matched": 30,
   "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -66,6 +66,37 @@
       "auto": true
     },
     {
+      "id": "308454-2026",
+      "ref": "308454-2026",
+      "acheteur": "Consorzio per la Tutela dei Vini Valpolicella",
+      "objet": "Italie – Services de relations publiques – Selezione soggetto esecutore progetto NORSE",
+      "description": "CONSORZIO TUTELA VINI VALPOLICELLA (the “Proposing Organisation”), with registered office at Via Valpolicella, 37029 San Pietro in Cariano (VR), VAT No. 02202330235, Tel. +39 045 7703194, e-mail: amministrazione@consorziovalpolicella.it , certified e-mail (PEC): info@pec.consorziovalpolicella.it , acting as proposing organisation and coordinator of a partnership including CONSORZIO DEL FORMAGGIO PARMIGIANO REGGIANO, in the framework of the Call for Proposals for EU grants for information provision and promotion measures concerning European agricultural products implemented in the internal market and/or in third countries – AGRIP-SIMPLE-2026, intends to submit a three-year information and promotion programme entitled “NORSE – Noble Origins, Regional Roots, Sustainability, European Excellence” (the “Programme”) and hereby ANNOUNCES pursuant to the relevant provisions of Regulation (EU) No 1144/2014, Commission Delegated Regulation (EU) No 1829/2015, and Commission Implementing Regulation (EU) No 1831/2015, an open competitive tender procedure for the selection of an implementing body (the “Implementing Body”) entrusted with the execution of the actions/activities/initiatives aimed at achieving the objectives set out under the Programme. The Programme will be submitted under Regulation (EU) No 1144/2014 of the European Parliament and of the Council – Call for Proposals 2026 and, if approved, will be implemented in the following target countries: DENMARK, SWEDEN and FINLAND, and will concern the following EU quality products: Amarone della Valpolicella DOCG – wine – CN code 22042168; Valpolicella Classico DOC – wine – CN code 22042168; Valpolicella Ripasso DOC – wine – CN code 22042168; Recioto della Valpolicella DOCG – wine – CN code 22042168; Parmigiano Reggiano PDO – cheese – CN code 0406 90 61. Economic operators meeting the requirements set out in the above-mentioned EU Regulations, as further specified in the following sections, are invited to submit a technical and financial offer in strict compliance with the instructions contained in this tender specifications document (the “Tender Specifications”). It is hereby expressly stated that, as this call for tenders is aimed at the implementation of a promotional programme which is subject to the prior submission and approval of a grant application under the above-mentioned EU funds, should the Proposing Organisation not be selected by the European Research Executive Agency (“REA”) under the above-mentioned Call for Proposals 2026, the award of the services covered by these Tender Specifications shall be deemed null and void and without effect. In such case, no obligation shall arise on the part of the Proposing Organisation, and no claim for reimbursement or compensation may be brought by the tenderers. Should the Programme be approved, the successful Implementing Body shall be responsible for the execution of the activities provided for therein. The activities to be carried out by the Implementing Body shall include, by way of example and without limitation: public relations activities, traditional and digital media campaigns, events and trade fairs, tasting sessions, and the production of information and promotional materials, as detailed in these Tender Specifications. The relationship between the Implementing Body and the Proposing Organisation shall be governed by a specific service contract (the “Contract”). In general, in addition to implementing the agreed activities, the Implementing Body shall be required to prepare financial and operational reports and to make available to the Proposing Organisation proof of payment relating to the expenses incurred, as well as all documentation and information connected with the activities carried out (e.g. geolocated photographs, data on results achieved, participants’ lists, any video recordings, descriptions of activities performed, and any other documentation to be further specified in the service contract).",
+      "cpv": "79416000",
+      "pays": "ITA",
+      "deadline": "",
+      "montant": 2152,
+      "publication": "2026-05-06",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/308454-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Excel"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "293665-2026",
       "ref": "293665-2026",
       "acheteur": "SURF B.V.",
@@ -87,6 +118,68 @@
       "score_detail": {
         "fit": 30,
         "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "311125-2026",
+      "ref": "311125-2026",
+      "acheteur": "Gemeente Hilversum",
+      "objet": "Pays-Bas – Services relatifs aux logiciels – Enterprise Service Bus applicatie (2026)",
+      "description": "De gemeente Hilversum is op zoek naar een integratieplatform/-partner om de integratie-uitdagingen binnen de gemeente Hilversum op een moderne manier op te lossen. Het integratieplatform waarin deze aanbesteding over gesproken wordt bevat minimaal de volgende componenten: • Routeren van services/Integraties; • Transleren en transformeren van services/Integraties; • Loggen van services/Integraties. De gemeente Hilversum wenst hiervoor een open source-oplossing te verwerven. De opdracht omvat: • Het hosten van de aan te bieden Oplossing; • Het bouwen/beschikbaar stellen van alle benodigde services/Integraties; • Het onderhouden/aanpassen van alle benodigde services/Integraties; • Het leveren van service en ondersteuning op de Oplossing. Zie aanbestedingsdocumenten",
+      "cpv": "72260000",
+      "pays": "NLD",
+      "deadline": "2026-06-19",
+      "montant": 790,
+      "publication": "2026-05-06",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/311125-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "311340-2026",
+      "ref": "311340-2026",
+      "acheteur": "Stichting Routerings Instituut (Inter)Nationale Informatiestromen (Stichting Rinis)",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – ICT Managed Workplace",
+      "description": "De opdracht betreft het uitbesteden van een Managed Workplace voor Stichting RINIS. De opdracht omvat de levering, het beheer en de ondersteuning van de werkplekhardware en de kantoorautomatiseringsomgeving. De dienstverlening bestaat onder meer uit het beheer en de levering van Apple-werkplekken, Mobile Device Management, Microsoft 365-beheer, servicedeskdiensten, applicatiebeheer, licenties en bijbehorende ondersteuning en training. RINIS beoogt met één leverancier een overeenkomst te sluiten voor een volledig beheerde werkplekvoorziening, waarbij RINIS de regierol behoudt en de leverancier verantwoordelijk is voor de operationele uitvoering. De opdracht betreft een Managed Workplace-dienst. RINIS beschikt momenteel over circa 75 werkplekken/medewerkers. Gedurende de looptijd van de overeenkomst wordt een groei verwacht naar circa 100 werkplekken/medewerkers. In een bijzonder en uitzonderlijk scenario kan gedurende de totale looptijd van de overeenkomst, inclusief eventuele verlengingen, sprake zijn van een verdere schaalvergroting tot circa 200 werkplekken. Alle genoemde aantallen zijn indicatief. Aan deze aantallen kunnen geen rechten worden ontleend en er gelden geen minimale of maximale afnameverplichtingen.",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 781,
+      "publication": "2026-05-06",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/311340-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -284,27 +377,27 @@
       "auto": true
     },
     {
-      "id": "285905-2026",
-      "ref": "285905-2026",
-      "acheteur": "EPSM Lille Métropole",
-      "objet": "France – Services de formation de personnel – Prestation de formation à destination du personnel du Groupement Hospitalier Territorial de Psychiatrie du Nord Pas de Calais",
-      "description": "Réhabilitation psychosociale / Prise en charge de la douleur / Familles et aidants ; Partenaires de soins / EDUCATION THERAPEUTIQUE DU PATIENT (E.T.P) / Prendre en charge et prévenir le suicide chez l'adolescent / déceler un psycho-trauma et prise en charge / Informer les patients sur les dommages liés aux soins / Périnatalité, relation mère enfant et problématique de l'attachement / Génogramme / bientraitance en psychiatrie / Prévention des risques psychosociaux et épuisement professionnel / Sensibilisation à l'approche systémique en thérapies familiales / Evaluation des pratiques professionnelles et prise en charge des pathologies / Formations bureautiques / ANIMER DES ACTIVITÉS PHYSIQUES ET SPORTIVES THÉRAPEUTIQUES / Approche psychomotrice des troubles et du spectre autistique et des troubles envahissants du développement / Comment gérer les patients difficiles aux personnalités complexes / Les états limites - Personnalité Borderline / Ethique et décision dans le soin / ETHNOPSYCHIATRIE : SENSIBILISATION POUR LES PSYCHOLOGUES / Hypnose thérapeutique module 1 / Optimiser la prise en charge des patients présentant une psychose émergente / Précarité et rupture des parcours dans le soin / Repérage et prise en charge clinique du burn out / Projet thérapeutique personnalisé en psychiatrie / PSYCHIATRIE POUR NON SOIGNANTS / THERAPIE COMPORTEMENTALE DIALECTIQUE / TRAVAILLER AVEC UN INTERPRETE - TRAVAILLER EN TANT QU'INTERPRETE / TRAVAILLER EN EQUIPE MOBILE DE PSYCHIATRIE / Prise en charge des T.N.D en CMP / Développement psycho affectif de l'enfant et de l'adolescent / FORMATION ET CERTIFICATION A LA COTATION ADI-R / FORMATION ET CERTIFICATION A LA COTATION ADOS-2 / Le trouble de déficit de l'attention avec ou sans hyperactivité (TDA/H) / Les bases de la thérapie narrative / Les troubles du neurodéveloppment (TND) / PASSATION ET INTERPRETATION DES TESTS RORSCHACH / Profil psycho-éducatif PEP 3 / DEVELOPPEMENT DES CONNAISSANCES PROFESSIONNELLES EN PSYCHIATRIE / habilités sociales / HARCELEMENT SCOLAIRE, LES REFUS SCOLAIRES ANXIEUX / Les soins à médiation en santé mentale / Les thérapies brèves et outils / REMEDIATION COGNITIVE : INITIATION / Analyses de pratiques professionnelles / Programme d'entraînement aux habiletés parentales (PEHP) / Thérapie brève orientée solutions / Réactualiser ses connaissances en psychiatrie / prise en charge du psychotraumatisme en psychomotricité / PRISE EN CHARGE DES TROUBLES DU COMPORTEMENT ALIMENTAIRE EN PSYCHOMOTRICITE / Makaton / Troubles des conduites alimentaires chez l'enfant et l'adolescent / Autisme, troubles sensoriels et troubles du comportement",
-      "cpv": "79632000",
-      "pays": "FRA",
+      "id": "310357-2026",
+      "ref": "310357-2026",
+      "acheteur": "Thuiswest",
+      "objet": "Belgique – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – ICT dienstverlening",
+      "description": "Thuiswest werd op 01/07/2023 opgericht als woonmaatschappij en is een samensmelting van 4 sociale huurmaatschappijen: De Mandel, SVK Roeselare, SVK Izegem, IZI Wonen. Het werkingsgebied van de woonmaatschappij behelst momenteel 14 gemeenten en zal evolueren naar 11. Thuiswest telt ca 100 werknemers, die tewerkgesteld worden op 1 locatie in Roeselare, Groenestraat 224. Externe ICT ondersteuning on-site moet mogelijk zijn.",
+      "cpv": "72000000",
+      "pays": "BEL",
       "deadline": "",
-      "montant": 1215,
-      "publication": "2026-04-27",
+      "montant": 0,
+      "publication": "2026-05-06",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/285905-2026",
-      "segment": "Collectivités",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/310357-2026",
+      "segment": "Autre",
       "keyword_hits": [
-        "habilitation"
+        "Word"
       ],
-      "bureautique": false,
-      "score": 67,
+      "bureautique": true,
+      "score": 65,
       "score_detail": {
-        "fit": 25,
-        "size": 15,
+        "fit": 30,
+        "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -595,93 +688,31 @@
       "auto": true
     },
     {
-      "id": "285460-2026",
-      "ref": "285460-2026",
-      "acheteur": "Stichting Flores onderwijs",
-      "objet": "Pays-Bas – Travaux de construction de bâtiments scolaires – Integraal Bouwteam Flores",
-      "description": "Gezocht: integraal bouwteam voor de renovatie van drie basisscholen; De Binnenstad, De Sterrenkring en Heijenoordschool, gelegen in Arnhem, Het betreft een geclusterde opdracht waarbij een integraal bouwteam met ontwerp- en uitvoerende partijen verantwoordelijk wordt voor zowel de ontwerp als realisatie van deze drie projecten. in totaal gaat het om drie school gebouwen: 1 renovatie en deels nieuwbouw 2 twee renovatie projecten",
-      "cpv": "45214200",
-      "pays": "NLD",
-      "deadline": "",
+      "id": "310417-2026",
+      "ref": "310417-2026",
+      "acheteur": "Provincie Oost-Vlaanderen",
+      "objet": "Belgique – Services de formation dans le domaine de la sécurité – Het organiseren van opleidingen reddingen in snelstromend en overstromingswater",
+      "description": "Voorwerp van de opdracht: Deze opdracht betreft een dienstenopdracht voor het organiseren van opleidingen inzake redding in snelstromend en overstromingswater, ten behoeve van PAULO Brandweer en de deelnemende brandweerzones. De opdracht betreft een sociale en andere specifieke dienst zoals opgesomd in bijlage III van de wet van 17 juni 2016. PAULO Brandweer leidt cursisten op in redding in snelstromend en overstromingswater en beschikt hiervoor over een poule van instructeurs in opleiding. Voor de organisatie van deze opleidingen werkt PAULO samen met een opdrachtnemer die de volledige cursus kan aanbieden (per groep van 12 deelnemers), inclusief optionele componenten zoals hotel, restauratie, theorielokaal, logistiek, materiaal en certificering. Het aantal instructeurs dat de opdrachtnemer moet voorzien, wordt per opleidingstraject door PAULO vastgesteld, afhankelijk van: • het aantal beschikbare PAULO-instructeurs, en • het competentieniveau dat deze instructeurs op dat moment hebben bereikt. De opdrachtnemer biedt een structuur die toelaat dat PAULO-instructeurs: • actief meedraaien in de opleiding, • praktijkervaring opdoen onder supervisie van een volledig gekwalificeerde instructeur, • en gradueel doorgroeien naar autonome inzetbaarheid[MP6.1][MP6.2][ME6.3]. Looptijd overeenkomst: De uitvoeringstermijn van deze opdracht bedraagt 2 jaar, te rekenen vanaf de datum van de kennisgeving van de gunning. Na afloop van deze vaste termijn kan de opdracht stilzwijgend worden verlengd met 2 periodes van telkens 12 maanden, onder dezelfde contractuele voorwaarden.[MP7.1][ME7.2] Deze verlengingen dienen uitsluitend om PAULO toe te laten de kwaliteit, werking en resultaten van de opleidingen te evalueren en eventueel een nieuwe procedure op te starten indien de opdracht na twee jaar niet langer voldoet aan de verwachtingen. Indien de opleidingen postief worden geëvalueerd, kan zij tot 4 jaar van deze dienstverlening genieten, mede gelet op de investeringen en kosten die met dergelijke specialistische opleiding gepaard gaan.",
+      "cpv": "80550000",
+      "pays": "BEL",
+      "deadline": "2026-06-16",
       "montant": 0,
-      "publication": "2026-04-27",
+      "publication": "2026-05-06",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/285460-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/310417-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
       "bureautique": true,
-      "score": 65,
+      "score": 63,
       "score_detail": {
         "fit": 30,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "285796-2026",
-      "ref": "285796-2026",
-      "acheteur": "Freistaat Sachsen, vertreten durch die Leitstelle für Informationstechnologie der sächsischen Justiz (LIT)",
-      "objet": "Allemagne – Services de programmation et de conseil en logiciels – Beschaffung von Betriebsdienstleistungen sowie Beratungs- und Unterstützungsleistungen",
-      "description": "Es sind Unterstützungsleistungen für den Rechenzentrumsbetrieb der sächsischen Justiz in den folgenden Bereichen zu erbringen: • Server-, Storage- und SAN-Technik (Produktivumgebung, Test-, Integrations-, Schulungs- und Referenzumgebung) • Speicher- und Datensicherungssysteme • Containertechnologien • anwendungsnahe Systeme (u.a. Monitoring, Automatisierung) / Es sind Unterstützungsleistungen für die in der Infrastruktur der sächsischen Justiz eingesetzte Citrix Plattform samt zugehöriger Systeme und Tools in den folgenden Bereichen zu erbringen: • Zugangssysteme/ Zugangsmanagement • Virtualisierungsumgebungen • VDI-Lösungen für virtuelle Single-Session und Multi-Session Umgebungen (Terminalserver) / Es sind Unterstützungsleistungen für in der Infrastruktur der sächsischen Justiz eingesetzte Microsoft Arbeitsplatzumgebung in den folgenden Bereichen zu erbringen: • Windows Server • Verzeichnisdienst, Nutzer- und Rechteverwaltung • Group Policy Objects • Clientverwaltung/ Softwareverteilung • Sicherheitssysteme / Es sind Unterstützungsleistungen für den Anwendungsbetrieb und die Anwendungsentwicklung in den folgenden Bereichen zu erbringen: • Microsoft Office • pdf Reader- und Bearbeitungsprogramme • sonstige Standard-Bürosoftware • VBA-basierte Eigenentwicklungen in Microsoft Access/ auf Microsoft SQL Server • PowerShell-basierte Skripte und Programmierungen • Crystal Reports-basierte Auswertungen und Berichte • Formularprogrammierung • digitale Anwenderhilfen und eLearning-Formate / Es sind Vorort an den Gerichten und Justizbehörden zu erbringende Unterstützungsleistungen abzudecken: • Rollout-Dienstleistungen o Aufbau und Abbau von Technik o Erfassung von Technik-Komponenten in Bestandsverzeichnissen und Management-systemen o Funktionstests o Nutzereinweisungen o Transport/ Logistik • Durchführung von Inventuren o Hardware-Inventuren o Netzwerk-Inventuren • Anwender- und Standortbetreuung o Ermittlung und Kommunikation von Technikbedarfen o Aufbau und Inbetriebnahme, Rückführung von Technik o Analyse und Behebung von Störungen o Unterstützung und Einweisung von Anwendern o Unterstützung von Vorort-Personal der Gerichte und Justizbehörden",
-      "cpv": "72200000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-04-27",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/285796-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Microsoft Office"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "284382-2026",
-      "ref": "284382-2026",
-      "acheteur": "Tisséo Voyageurs",
-      "objet": "France – Services de formation du personnel – Formation professionnelle 4 lots - Lot 1 Habilitations Gaz - Lot 2 Habilitations Électriques Basse Tension et Haute Tension - Lot 3 Habilitations Électriques Travail Sous Tension - batteries stationnaires - Lot 4 Habilitations Electriques Travail Sous Tension - véhicules (B2TL)",
-      "description": "Habilitations Gaz &amp;lt;br/&amp;gt; / Habilitations Electriques Basse Tension et Haute Tension&amp;lt;br/&amp;gt; / Habilitations Electriques Travail Sous Tension - batteries stationnaires&amp;lt;br/&amp;gt; / Habilitations Electriques Travail Sous Tension - véhicules (B2Tl)&amp;lt;br/&amp;gt;",
-      "cpv": "80511000",
-      "pays": "FRA",
-      "deadline": "2026-05-26",
-      "montant": 1900,
-      "publication": "2026-04-27",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/284382-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "bureautique": false,
-      "score": 64,
-      "score_detail": {
-        "fit": 25,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
+        "delay": 1
       },
       "score_status": "cond",
       "notes": "",
@@ -821,37 +852,6 @@
       "auto": true
     },
     {
-      "id": "285283-2026",
-      "ref": "285283-2026",
-      "acheteur": "Eindhoven Airport N.V.",
-      "objet": "Pays-Bas – Système de contrôle des accès – Toegangscontrolesysteem Eindhoven Airport",
-      "description": "Dit Perceel omvat het volledige technische beveiligingsplatform bestaande uit drie geïntegreerde componenten: Toegangscontrole (TGC) • Hardware: circa 300 Kaartlezers, Controllers, biometrische terminals en Anti-tailgating sys-temen • Software: toegangscontrolesysteem inclusief lokale autorisatiedatabase, monitoring en eventbeheer • Bekabeling: data- en voedingskabels, netwerkinfrastructuur, UPS-voorzieningen • Credential management: vervanging van alle toegangspassen (circa 4.000 stuks) Video Management Systeem (VMS) • Software en hardware voor videomanagement en -opslag • Integratie met toegangscontrolegebeurtenissen voor visuele verificatie • Basis video content analyse (VCA) functionaliteit • Centrale weergave en beheer van alle camerabeelden Security Management Systeem (SMS/PSIM) • Centrale software voor securitymanagement en integratie van alle beveiligingssubsys-temen • Unified operator interface voor monitoring, alarmafhandeling en rapportage • Koppeling met bestaande systemen (inbraakdetectie, intercom) Eindhoven Airport zoekt nadrukkelijk een unified security platform waarbij TGC, VMS en SMS/PSIM als geïntegreerd geheel functioneren: één centraal beheerplatform, gedeelde gebruikersinterface en native koppeling tussen de drie componenten. Door deze componenten in één Perceel onder te brengen, legt Eindhoven Airport de volledige verantwoordelijkheid voor de onderlinge integratie en de werking van het totaalsysteem bij één partij. Een Inschrijver die een oplossing aanbiedt op basis van meerdere deelsystemen die hij zelf integreert, wordt niet uitgesloten, mits hij aantoont dat het resultaat functioneel gelijkwaardig is aan een native unified platform en hij de volledige verantwoordelijkheid voor de integratie en werking op zich neemt. Divers. / Dit Perceel richt zich op de business-logica van toegangsbeheer: • Identity lifecycle management: aanmaken, wijzigen en verwijderen van identiteiten • Centrale autorisatiedatabase en workflows: aanvraag-, goedkeurings- en toekenningsprocessen voor toegangsrechten • Koppeling met bronsystemen: Active Directory, Azure AD, HR-systemen • Contractor- en bezoekersmanagement: registratie, screening en tijdelijke toegang • Self-service portaal: aanvragen en statusoverzicht voor eindgebruikers • Rapportage en compliance: audit trails en toegangsoverzichten.",
-      "cpv": "42961100",
-      "pays": "NLD",
-      "deadline": "2026-05-15",
-      "montant": 0,
-      "publication": "2026-04-27",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/285283-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "290912-2026",
       "ref": "290912-2026",
       "acheteur": "CCI France",
@@ -921,6 +921,37 @@
         "delay": 1
       },
       "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "310071-2026",
+      "ref": "310071-2026",
+      "acheteur": "European Commission, DG JRC - Joint Research Centre",
+      "objet": "Belgique – Services de laboratoire – Provision of analytical measurements",
+      "description": "This call for tender includes provision of analytical measurements for the characterization of (i) nuclear materials; i.e. the metals uranium, plutonium, and thorium, in any form, according to the IAEA (ii) materials containing environmental radioactivity, i.e. levels and types of radioactivity encountered in the environment and in non-nuclear industry. The activities encountered here are below the Belgian exemption limits The call is divided in 9 lots covering the following analytical techniques: This lot concerns: Thermal Ionization Mass Spectrometry (Total Evaporation) and Isotope Dilution mass Spectrometry. / This call for tender includes provision of analytical measurements for the characterization of (i) nuclear materials; i.e. the metals uranium, plutonium, and thorium, in any form, according to the IAEA (ii) materials containing environmental radioactivity, i.e. levels and types of radioactivity encountered in the environment and in non-nuclear industry. The activities encountered here are below the Belgian exemption limits The call is divided in 9 lots covering the following analytical techniques: This lot concerns: Alpha-particle Spectrometry of nuclear samples / This call for tender includes provision of analytical measurements for the characterization of (i) nuclear materials; i.e. the metals uranium, plutonium, and thorium, in any form, according to the IAEA (ii) materials containing environmental radioactivity, i.e. levels and types of radioactivity encountered in the environment and in non-nuclear industry. The activities encountered here are below the Belgian exemption limits The call is divided in 9 lots covering the following analytical techniques: This lot concerns: Inductively Coupled Plasma – Mass Spectrometry of nuclear samples / This call for tender includes provision of analytical measurements for the characterization of (i) nuclear materials; i.e. the metals uranium, plutonium, and thorium, in any form, according to the IAEA (ii) materials containing environmental radioactivity, i.e. levels and types of radioactivity encountered in the environment and in non-nuclear industry. The activities encountered here are below the Belgian exemption limits The call is divided in 9 lots covering the following analytical techniques: This lot concerns: Inductively Coupled Plasma – Mass Spectrometry measurements of environmental samples / This call for tender includes provision of analytical measurements for the characterization of (i) nuclear materials; i.e. the metals uranium, plutonium, and thorium, in any form, according to the IAEA (ii) materials containing environmental radioactivity, i.e. levels and types of radioactivity encountered in the environment and in non-nuclear industry. The activities encountered here are below the Belgian exemption limits The call is divided in 9 lots covering the following analytical techniques: This lot concerns: X-Ray Fluorescence analysis of environmental samples / This call for tender includes provision of analytical measurements for the characterization of (i) nuclear materials; i.e. the metals uranium, plutonium, and thorium, in any form, according to the IAEA (ii) materials containing environmental radioactivity, i.e. levels and types of radioactivity encountered in the environment and in non-nuclear industry. The activities encountered here are below the Belgian exemption limits The call is divided in 9 lots covering the following analytical techniques: This lot concerns: X-Ray Fluorescence analysis of metallic samples",
+      "cpv": "71900000",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 177,
+      "publication": "2026-05-06",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/310071-2026",
+      "segment": "UE",
+      "keyword_hits": [
+        "VAP"
+      ],
+      "bureautique": false,
+      "score": 47,
+      "score_detail": {
+        "fit": 10,
+        "size": 10,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "no",
       "notes": "",
       "auto": true
     },

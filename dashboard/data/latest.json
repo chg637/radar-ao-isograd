@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-05-28T10:03:21.038Z",
+  "generated_at": "2026-05-29T09:50:43.340Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 28,
+      "matched": 31,
       "go": 0,
-      "generated_at": "2026-05-28T09:53:51.190Z"
+      "generated_at": "2026-05-29T09:43:59.729Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 2,
       "go": 0,
-      "generated_at": "2026-05-28T10:00:06.562Z"
+      "generated_at": "2026-05-29T09:50:12.728Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-05-28T10:03:20.987Z"
+      "generated_at": "2026-05-29T09:50:43.286Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 30,
+  "total_matched": 33,
   "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -60,6 +60,68 @@
         "com": 5,
         "admin": 7,
         "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "313316-2026",
+      "ref": "313316-2026",
+      "acheteur": "Gemeente Purmerend",
+      "objet": "Pays-Bas – Système d'information des passagers en temps réel – Vervanging, beheer en onderhoud DRIS-displays in Purmerend",
+      "description": "Levering levering, installatie en onderhoud/beheer van circa 80 stuks DRIS-displays ten behoeve van de gemeente Purmerend. Tot de opdracht behoort ook de demontage en het afvoeren van bestaande DRIS-displays. Dit voor zowel de DRIS-displays die worden vervangen, maar ook voor DRIS-displays die worden verwijderd, maar waar geen nieuwe DRIS-display voor terugkomt. Levering, installatie en beheer en onderhoud van circa 80 stuks DRIS-displays ten behoeve van de gemeente Purmerend. (DRIS: Dynamisch reis informatiesysteem).",
+      "cpv": "48813200",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 3778,
+      "publication": "2026-05-07",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/313316-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "313626-2026",
+      "ref": "313626-2026",
+      "acheteur": "Gemeente Halderberge",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Softwarebroker",
+      "description": "Gemeente Halderberge heeft het voornemen een raamovereenkomst te sluiten met één softwarebroker. Deze softwarebroker fungeert als intermediair en strategisch partner en treedt op als deskundige en belangenbehartiger richting de softwaremarkt. De softwarebroker ondersteunt de gemeente bij het realiseren van een toekomstbestendig, transparant en beheersbaar applicatielandschap dat aansluit bij de omvang, behoeften en strategische koers van de organisatie. Gemeente Halderberge maakt op dit moment gebruik van verschillende standaardapplicaties. Deze zijn opgenomen in bijlage 3 van de aanbestedingsdocumenten. De softwarebroker moet in staat zijn al deze programmatuur, mits geautoriseerd door de betreffende producent, te leveren. De geschatte opdrachtwaarde bedraagt circa € 1.500.000,00 excl. BTW per jaar. Dit is echter wel een indicatie. Hier kunnen dan ook geen rechten aan ontleend worden.",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 15000,
+      "publication": "2026-05-07",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/313626-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -371,6 +433,37 @@
         "com": 5,
         "admin": 7,
         "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "314423-2026",
+      "ref": "314423-2026",
+      "acheteur": "stad Kortrijk",
+      "objet": "Belgique – Services de fourniture de logiciels – Software burgerzaken voor de stad Kortrijk",
+      "description": "Voorwerp van deze diensten: Levering, implementatie en onderhoud van een beheerstoepassing Burgerzaken. Stad Kortrijk wenst met deze opdracht een nieuwe beheerstoepassing aan te kopen die beter kan beantwoorden aan de noden van alle belanghebbenden. Het gaat hierbij om het bestuur en haar vertegenwoordigers, medewerkers, de lokale politiezone, … maar vooral haar externe klanten: Burgers. De belanghebbende verwachten steeds efficiëntere en effectieve dienstverlening en daarop wensen we met een nieuwe toepassing beter te voldoen. Voor medewerkers oriënteert deze verwachting zich in één laagdrempelige toepassing of uniforme interface om zo een maximale inzetbaarheid mogelijk te maken. Voor burgers sluit de verwachting aan bij de digitale dienstverleningsstrategie van de Vlaamse Overheid en wenst Stad Kortrijk sterk in te zetten op het gebruik van de Vlaamse bouwstenen die worden aangeleverd door Digitaal Vlaanderen. De aangeboden oplossing moet te allen tijde voldoen aan de algemene onderrichtingen die werden bepaald door de Federale Overheidsdiensten in het domein Burgerzaken. Ze kan zich vlot integreren in de bestaande architectuur en met huidige toepassingen door uit te gaan van een open-data en API-filosofie met voldoende interoperabiliteit.",
+      "cpv": "72268000",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-07",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/314423-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -759,6 +852,38 @@
       "auto": true
     },
     {
+      "id": "314658-2026",
+      "ref": "314658-2026",
+      "acheteur": "Conseil Départemental de l'Essonne",
+      "objet": "France – Services de développement de logiciels divers et systèmes informatiques – Mise en place d'outils informatiques de développement des ressources humaines",
+      "description": "Le présent accord-cadre a pour objet l'acquisition, la mise en place, les formations nécessaires correspondantes, l'évolution, l'hébergement, la maintenance et l'assistance d'une solution logicielle de Système d'Information Ressources Humaines (SIRH) ainsi que les modules associés à cette solution, pour le Département de l'Essonne. L'outil doit inclure un logiciel gérant la gestion des RH de l'embauche de l'agent, du suivi de son dossier jusqu'à son départ en inactivité, le suivi de la formation, des entretiens, et intégrer un service d'aide à la gestion des ressources humaines (en incluant les obligations réglementaires). Trois modules distincts : Module de Gestion Prévisionnelle des Emplois et des Compétences (GPEC), Module de gestion des formations professionnelles, Module de gestion des entretiens professionnels",
+      "cpv": "72212900",
+      "pays": "FRA",
+      "deadline": "2026-06-01",
+      "montant": 630,
+      "publication": "2026-05-07",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/314658-2026",
+      "segment": "Collectivités",
+      "keyword_hits": [
+        "GPEC",
+        "gestion prévisionnelle des emplois"
+      ],
+      "bureautique": false,
+      "score": 62,
+      "score_detail": {
+        "fit": 25,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "306953-2026",
       "ref": "306953-2026",
       "acheteur": "Familiehulp vzw",
@@ -821,64 +946,31 @@
       "auto": true
     },
     {
-      "id": "288469-2026",
-      "ref": "288469-2026",
-      "acheteur": "Bundesministerium für Verkehr, Servicestelle Vergabe",
-      "objet": "Allemagne – Services de programmation de logiciels d'application – 6#0027/Z33 Neuentwicklung OPUS - Implementierung einer Software als Web-Anwendung auf Basis einer PostgreSQL-Datenbank",
-      "description": "Ziel des Projektes ist die Neuentwicklung der bestehenden Anwendung OPUS gemäß den im Lastenheft beschriebenen funktionalen und nichtfunktionalen Anforderungen. Um den vollen Funktionsumfang zu gewährleisten, müssen die vorhandenen Daten aus der bestehenden Datenbank sowie aus Excel-Tabellen migriert werden. Nach Produktivsetzung ist ein bis zu 5-jähriger Systemservice durch den AN vorgesehen. Bei Bedarf sollen zusätzliche (Programmier-) Leistungen gesondert beauftragt werden können. Damit ergeben sich im Rahmen des Projektes \"Neuentwicklung OPUS\" vier Arbeitspakete: AP 1: Entwicklung AP 2: Datenmigration AP 3: Systemservice AP 4: Zusätzliche Leistungen nach Produktivsetzung (Bedarfsposition)",
-      "cpv": "72212000",
-      "pays": "DEU",
-      "deadline": "2026-05-28",
+      "id": "312507-2026",
+      "ref": "312507-2026",
+      "acheteur": "CAISSE CENTRALE MSA",
+      "objet": "France – Services de santé – Programme ambulatoire d'éducation thérapeutique de la MSA ciblant les maladies cardio neurovasculaires et leurs facteurs de risque associés",
+      "description": "La prestation du Lot 1, réalisée par le titulaire, devra s’articuler avec le prestataire du Lot 2 pour les outils pédagogiques et respecter la méthodologie d’élaboration du programme décrite ci-dessous. À ce titre, le candidat devra apporter dans son offre des éléments méthodologiques et descriptifs pour chacune des étapes détaillées ci-dessous. Ces éléments devront démontrer la qualité, la pertinence et l’adaptabilité de la démarche proposée, en particulier pour la population ciblée : les patients cardio-neurovasculaires et/ou présentant des facteurs de risque associés, avec une approche reposant sur : • Des thématiques socles, à destination de l’ensemble de la population cible, portant au moins sur : l’alimentation et activité physique, la santé mentale et les conduites addictives ; • Des fiches pédagogiques par pathologie, mobilisables par les équipes éducatives en fonction des besoins, centrées sur l’auto-soins. • Des sessions d’ETP adaptés à toutes les populations, notamment les plus vulnérables et répondant aux besoins de ces populations (ex. santé cardiovasculaire des femmes). / Les outils pédagogiques sont destinés à accompagner la mise en œuvre des sessions d’ETP. Ils visent à uniformiser les contenus éducatifs et les messages, tout en fournissant aux patients des supports complémentaires tels que des aides à la décision, des aide-mémoires ou d’autres documents enrichissant la séance. Des différents types d’outils pédagogiques de programme d’ETP ont été recensés, notamment : • Supports d’information : affiches, brochures, synthèses, etc… • Supports d’animation : classeurs imagiers, bandes audio ou vidéo, cédéroms, brochures, représentations d’objets du quotidien, matériel de soins, jeux pédagogiques, etc… / Le présent lot constitue un marché national. Chaque prestataire pourra être retenu en fonction de son périmètre d’intervention, tel que précisé dans son offre. Ainsi, plusieurs titulaires pourront être sélectionnés pour ce lot, en fonction de leur zone géographique de couverture. La formation visera à former de nouvelles équipes éducatives issues de structures d’exercice coordonné dans la mise en œuvre du nouveau programme d’ETP ambulatoire MSA, ainsi que des équipes déjà formées à l’ETP 40 heures, qui bénéficieront d’une actualisation de leurs compétences selon ce même programme. Elle sera organisée en présentiel et distanciel et devra s’inscrire dans le cadre du DPC et validera la formation ETP 40 heures. / Le prestataire devra réaliser l’évaluation quadriennale du programme d’ET3P et du nouveau programme d’ETP ambulatoire MSA. Les données à analyser comprendront l’analyse des données d’évaluation des sessions d’ETP : • Le traitement des données recueillies par tableaux Excel du programme ET3P MSA • Le recueil et traitement de données qualitatives à recueillir par le prestataire • Le traitement des données produites dans le cadre du nouveau programme ETP ambulatoire MSA et des données qualitatives à recueillir par le prestataire (Lot 1).",
+      "cpv": "85100000",
+      "pays": "FRA",
+      "deadline": "",
       "montant": 0,
-      "publication": "2026-04-28",
+      "publication": "2026-05-07",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/288469-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/312507-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Excel"
       ],
       "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "290912-2026",
-      "ref": "290912-2026",
-      "acheteur": "CCI France",
-      "objet": "France – Services relatifs aux programmes de formation – Prestations de rédaction partielle d’un dossier de création ou de renouvellement de certification pour le réseau de formation de CCI France",
-      "description": "Lot 1 : Rédaction de dossiers de certification (Répertoire National de Certifications Professionnelles (RNCP)/Répertoire spécifique RS)) – certifications métiers et compétences transversales, / Lot 2 : Assistance à la structuration et au contrôle de dossiers de certification en langues (CLOE)",
-      "cpv": "80521000",
-      "pays": "FRA",
-      "deadline": "2026-05-29",
-      "montant": 0,
-      "publication": "2026-04-28",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/290912-2026",
-      "segment": "Consulaire",
-      "keyword_hits": [
-        "RNCP",
-        "Répertoire spécifique",
-        "renouvellement de certification"
-      ],
-      "bureautique": false,
-      "score": 57,
+      "score": 60,
       "score_detail": {
         "fit": 25,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 0
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",

@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-05-29T09:50:43.340Z",
+  "generated_at": "2026-05-30T08:28:49.058Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 31,
+      "matched": 30,
       "go": 0,
-      "generated_at": "2026-05-29T09:43:59.729Z"
+      "generated_at": "2026-05-30T08:22:31.715Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 2,
       "go": 0,
-      "generated_at": "2026-05-29T09:50:12.728Z"
+      "generated_at": "2026-05-30T08:28:32.260Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-05-29T09:50:43.286Z"
+      "generated_at": "2026-05-30T08:28:49.003Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 33,
+  "total_matched": 32,
   "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -143,37 +143,6 @@
       "segment": "Autre",
       "keyword_hits": [
         "Excel"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "293665-2026",
-      "ref": "293665-2026",
-      "acheteur": "SURF B.V.",
-      "objet": "Pays-Bas – Logiciels et systèmes d'information – Aankondiging van vrijwillige transparantie vooraf: Enterprise Linux producten en diensten",
-      "description": "SURF wenst met distributeurs voor Red Hat, SUSE en Canonical (Ubuntu) raamovereenkomsten te sluiten voor de levering van Enterprise Linux softwarelicenties en subscripties, inclusief onderhoud en support, ten behoeve van de deelnemende instellingen. SURF doet een beroep op artikel 2.32 lid 1, onder b, sub 2 en sub 3 Aanbestedingswet 2012, omdat mededinging om technische redenen ontbreekt en uitsluitende rechten, met inbegrip van intellectuele-eigendomsrechten, moeten worden beschermd en er geen redelijk alternatief of substituut bestaat. Een nadere toelichting hierop vindt u in de bijlage.",
-      "cpv": "48000000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 10000,
-      "publication": "2026-04-29",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/293665-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
       ],
       "bureautique": true,
       "score": 72,
@@ -470,6 +439,37 @@
       "auto": true
     },
     {
+      "id": "314736-2026",
+      "ref": "314736-2026",
+      "acheteur": "Thuispunt Gent bv",
+      "objet": "Belgique – Services d'aide aux utilisateurs et services d'assistance – Exploitatie van een Multikanaal helpdesk",
+      "description": "Deze opdracht heeft betrekking op de exploitatie van een Multikanaal Helpdesk voor Thuispunt Gent 24 uur op 24 uur – 7 dagen op 7. De opdracht omvat de exploitatie van een telefonische en digitale helpdesk, waarbij opgeleide onthaalmedewerkers op een klantvriendelijke, inhoudelijke, kwalitatieve en efficiënte manier worden ingezet voor de behandeling van inkomende en uitgaande contacten via diverse kanalen. Daarnaast omvat de opdracht de rekrutering, opleiding, supervisie, monitoring en coaching van de onthaalmedewerkers en het aanleveren van gegevens over deze activiteiten. Thuispunt Gent is een erkende woonmaatschappij met werkingsgebied Gent en beheert ruim 10.500 wooneenheden. Thuispunt Gent biedt diverse vormen van dienstverlening en zet daarbij meerdere kanalen in om zijn centrale communicatie- en informatierol te vervullen. Kandidaat-huurders, huurders en ex-huurders nemen zowel telefonisch als digitaal contact op met Thuispunt Gent met uiteenlopende vragen. Deze hebben onder meer betrekking op technische meldingen aan de woning, het huurcontract (zoals inschrijving en plaats op de wachtlijst) en betalingen van huur, huurlasten of herstellingsfacturen. Daarnaast richt de dienstverlening zich ook tot andere doelgroepen, zoals kandidaat-eigenaars, eigenaars (in het kader van het inhuren van woningen), leveranciers en buurtbewoners. Via deze kanalen wordt volgende informatie verstrekt: • Eerstelijnsinformatie: Basisinformatie over dienstverlening, met antwoorden op veel gestelde vragen. • Statusinformatie over dossiers: voor bepaalde thema’s wordt de stand van zaken van dossiers meegedeeld, zonder dat er wijzigingen in deze dossiers worden aangebracht. • Informatie op maat en begeleiding: Voor specifieke vragen wordt gerichte ondersteuning geboden, zoals: - het maken, wijzigen of verplaatsen van afspraken; - het registreren en aanmaken van meldingen van herstellingsaanvragen of defecten aan de woning of gemeenschappelijke delen via de facilitymanagementsoftware Planon. Er wordt hierbij een onderscheid gemaakt in bereikbaarheid - enerzijds de bereikbaarheid op weekdagen tussen 8u en 20u, waarin het merendeel van de contactopnames wordt behandeld; - anderzijds een permanentieregeling tussen 20u en 8u (’s nachts), evenals tijdens weekenddagen en officiële Belgische feestdagen. Tijdens deze permanentieregeling is de opdrachtgever uitsluitend telefonisch bereikbaar voor technische noodgevallen en staat opdrachtnemer in voor het opvangen en doorverwijzen van deze dringende technische noodgevallen. Deze opdracht is een opdracht van diensten in de zin van art. 2, 21° van de wet overheidsopdrachten.",
+      "cpv": "72253000",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-07",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/314736-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "310357-2026",
       "ref": "310357-2026",
       "acheteur": "Thuiswest",
@@ -731,37 +731,6 @@
       "publication": "2026-04-30",
       "source": "TED",
       "url": "https://ted.europa.eu/fr/notice/-/detail/298925-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "295543-2026",
-      "ref": "295543-2026",
-      "acheteur": "Kreis Recklinghausen, Der Landrat",
-      "objet": "Allemagne – Services d'enseignement et de formation – AMDL Neue Wege",
-      "description": "Dabei liegt der Fokus auf der Stärkung der Mitwirkung in der Fallsteuerung, Förderung der lebenspraktischen Kompetenzen, der Stabilisierung der Rahmenbedingungen & Leistungsfähigkeit. Ziel der Maßnahme ist die Wiederherstellung des Kontaktes zum Kunden, die Stärkung der Zusammenarbeit zwischen Kunden und Fallmanagement, die Anbindung an weiterführende bzw. flankierende Unterstützungsangebote (Wohnungslosenhilfe, Schuldnerberatung, Suchtberatung, sozialpsychiatrischer Dienst, Soziotherapie, Berufsberatung (Reha)), die Stabilisierung der Rahmenbedingungen, Schaffung von Tagesstruktur, Vermittlung lebenspraktischer Kompetenzen und Annäherung an den Ausbildungs- bzw. Arbeitsmarkt. Die Maßnahme wird in zwei Module (Basis- und Aktivierungsmodul) unterteilt. Die Teilnehmer können einem oder nacheinander beiden Modulen zugewiesen werden. Die Zuweisung zum Aktivierungsmodul kann nach dem erfolgreichen Abschluss des Basismoduls erfolgen. Das Aktivierungsmodul kann auch ohne das Basismodul gewählt werden. Das Maßnahmeziel des Basismoduls ist erreicht, wenn die Aufarbeitung der individuellen Problembereiche in mindestens 8 Sitzungen innerhalb von 3 Monaten mit dem Teilnehmenden erfolgt ist, Lösungsschritte erarbeitet wurden und ein Kooperationsplan infolge eines Dreierge-spräches zwischen dem Teilnehmenden, dem sozialpädagogischen Personal des Auftrag-nehmers und dem Auftraggeber erfolgt ist. Zum Ende der Maßnahme muss der Träger zu je-dem Teilnehmenden individuell einen Bericht fertigen. Der Bericht muss Empfehlungen zu weiteren Integrationsfortschritten enthalten (z.B. Teilnahme an dem Aktivierungsmodul, Teil-nahme an einer AGH, Teilnahme an einer Qualifizierungsmaßnahme). Das Maßnahmeziel des Aktivierungsmoduls ist erreicht, wenn nach 6 Monaten die Teilneh-menden derart stabilisiert wurden, dass sie eine Tagestruktur erlangt haben, die die Teilnahme an einem niederschwelligen Maßnahmeangebot z.B. AGH ermöglicht. Sollten be-reits realisti-sche, berufliche Perspektiven entwickelt worden sein, kann ggf. sogar, in enger Abstimmung mit dem Auftraggeber, eine Qualifizierungsmaßnahme angestrebt werden. (Die Gesamtkonzeption (Inhalt, Durchführung und Methodik) wird nicht durch die beauftragen-de Behörde vorgegeben und ist im Angebotskonzept darzulegen. Auf die Voraussetzungen in den Vertragsbestimmungen und den weiteren Regelungen dieser Leistungsbeschreibung ins-besondere unter B.2.1 wird ausdrücklich verwiesen.) Einzelheiten sind der beiliegenden Leistungsbeschreibung u entnehmen.",
-      "cpv": "80000000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-04-29",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/295543-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"

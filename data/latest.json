@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T08:45:14.341Z",
+  "generated_at": "2026-06-01T11:29:04.522Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
@@ -7,21 +7,21 @@
       "fetched": 500,
       "matched": 33,
       "go": 0,
-      "generated_at": "2026-05-31T08:38:55.744Z"
+      "generated_at": "2026-06-01T11:22:43.047Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 2,
       "go": 0,
-      "generated_at": "2026-05-31T08:45:00.780Z"
+      "generated_at": "2026-06-01T11:28:51.702Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-05-31T08:45:14.287Z"
+      "generated_at": "2026-06-01T11:29:04.465Z"
     }
   },
   "total_fetched": 3500,
@@ -1033,16 +1033,16 @@
         "Qualiopi",
         "renouvellement de certification"
       ],
-      "score": 55,
+      "score": 54,
       "score_detail": {
         "fit": 25,
         "size": 5,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 1
+        "delay": 0
       },
-      "score_status": "cond",
+      "score_status": "no",
       "notes": "",
       "auto": true
     },

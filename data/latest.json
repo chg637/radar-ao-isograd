@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-06-02T10:20:00.294Z",
+  "generated_at": "2026-06-03T10:56:42.093Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 33,
+      "matched": 32,
       "go": 0,
-      "generated_at": "2026-06-02T10:13:36.500Z"
+      "generated_at": "2026-06-03T10:50:24.148Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 2,
       "go": 0,
-      "generated_at": "2026-06-02T10:19:43.119Z"
+      "generated_at": "2026-06-03T10:56:25.136Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-02T10:20:00.237Z"
+      "generated_at": "2026-06-03T10:56:42.037Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 34,
+  "total_matched": 33,
   "total_go": 0,
   "total_dedup_collisions": 1,
   "dedup_breakdown": {
@@ -377,37 +377,6 @@
       "auto": true
     },
     {
-      "id": "301732-2026",
-      "ref": "301732-2026",
-      "acheteur": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
-      "objet": "Pays-Bas – Services d'études de marchés – Kinderrechten Impact Assessments",
-      "description": "Het KIA dient organisaties te helpen bij het verantwoord ontwerpen en inzetten van online diensten voor kinderen, in overeenstemming met onder andere de rechten op privacy, een gezonde mentale ontwikkeling, het niet in aanraking komen met schadelijke content en het verbod op economische exploitatie. Het KIA moet bijdragen aan meer transparantie, uitlegbaarheid en een beter verantwoorde keuze voor het ontwerp van een online dienst. Het doel van de Opdracht is het uitvoeren van impact assessments met behulp van het inmiddels ontwikkelde Kinderrechten Impact Assessment (Bijlagen E en F). Dit instrument bestaat uit een invullijst en een handleiding. Het is belangrijk dat de uitvoering van de assessments ertoe leidt dat er een gedegen overzicht ontstaat van alle kansen en risico’s van de diensten waarop de assessments zijn toegepast. Zie voor verdere beschrijving van de opdracht het Beschrijvend document. Mede gebaseerd op ervaringscijfers van de afgelopen jaren en de verwachte toekomstige behoefte, is de omvang van de Opdracht geraamd. De geraamde waarde van de Opdracht bedraagt gemiddeld € 125.000,- exclusief btw per jaar, derhalve € 500.000,- exclusief btw over een looptijd van 4 jaar. Om te voorkomen dat de contractuele maximumwaarde tussentijds wordt overschreden en de raamovereenkomst voor het beoogde einde van de looptijd haar effect zou verliezen, sluiten we de raamovereenkomst af met een maximale opdrachtwaarde van € 500.000,- exclusief btw. Factoren die van invloed kunnen zijn op de daadwerkelijke omvang zijn onder meer natuurlijke fluctuaties in de behoefte, politiek bestuurlijke ontwikkelingen en ontwikkelingen in het maatschappelijk debat over specifieke onderwerpen. Vanwege bijvoorbeeld politieke, budgettaire, bestuurlijke of organisatorische ontwikkelingen binnen de Aanbestedende dienst is het mogelijk dat de (omvang van de) Opdracht wijzigt. Let op: de gegevens die de omvang van de Opdracht aangeven zijn een indicatie. Aan deze gegevens kunt u geen rechten ontlenen. Zie voor verdere beschrijving het Beschrijvend document.",
-      "cpv": "79310000",
-      "pays": "NLD",
-      "deadline": "2026-06-22",
-      "montant": 500,
-      "publication": "2026-05-04",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/301732-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "303849-2026",
       "ref": "303849-2026",
       "acheteur": "Rijkswaterstaat Water, Verkeer en Leefomgeving",
@@ -482,6 +451,37 @@
       "publication": "2026-05-06",
       "source": "TED",
       "url": "https://ted.europa.eu/fr/notice/-/detail/311125-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 68,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 1
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "301732-2026",
+      "ref": "301732-2026",
+      "acheteur": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
+      "objet": "Pays-Bas – Services d'études de marchés – Kinderrechten Impact Assessments",
+      "description": "Het KIA dient organisaties te helpen bij het verantwoord ontwerpen en inzetten van online diensten voor kinderen, in overeenstemming met onder andere de rechten op privacy, een gezonde mentale ontwikkeling, het niet in aanraking komen met schadelijke content en het verbod op economische exploitatie. Het KIA moet bijdragen aan meer transparantie, uitlegbaarheid en een beter verantwoorde keuze voor het ontwerp van een online dienst. Het doel van de Opdracht is het uitvoeren van impact assessments met behulp van het inmiddels ontwikkelde Kinderrechten Impact Assessment (Bijlagen E en F). Dit instrument bestaat uit een invullijst en een handleiding. Het is belangrijk dat de uitvoering van de assessments ertoe leidt dat er een gedegen overzicht ontstaat van alle kansen en risico’s van de diensten waarop de assessments zijn toegepast. Zie voor verdere beschrijving van de opdracht het Beschrijvend document. Mede gebaseerd op ervaringscijfers van de afgelopen jaren en de verwachte toekomstige behoefte, is de omvang van de Opdracht geraamd. De geraamde waarde van de Opdracht bedraagt gemiddeld € 125.000,- exclusief btw per jaar, derhalve € 500.000,- exclusief btw over een looptijd van 4 jaar. Om te voorkomen dat de contractuele maximumwaarde tussentijds wordt overschreden en de raamovereenkomst voor het beoogde einde van de looptijd haar effect zou verliezen, sluiten we de raamovereenkomst af met een maximale opdrachtwaarde van € 500.000,- exclusief btw. Factoren die van invloed kunnen zijn op de daadwerkelijke omvang zijn onder meer natuurlijke fluctuaties in de behoefte, politiek bestuurlijke ontwikkelingen en ontwikkelingen in het maatschappelijk debat over specifieke onderwerpen. Vanwege bijvoorbeeld politieke, budgettaire, bestuurlijke of organisatorische ontwikkelingen binnen de Aanbestedende dienst is het mogelijk dat de (omvang van de) Opdracht wijzigt. Let op: de gegevens die de omvang van de Opdracht aangeven zijn een indicatie. Aan deze gegevens kunt u geen rechten ontlenen. Zie voor verdere beschrijving het Beschrijvend document.",
+      "cpv": "79310000",
+      "pays": "NLD",
+      "deadline": "2026-06-22",
+      "montant": 500,
+      "publication": "2026-05-04",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/301732-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -718,68 +718,6 @@
       "auto": true
     },
     {
-      "id": "303924-2026",
-      "ref": "303924-2026",
-      "acheteur": "Stad Halle",
-      "objet": "Belgique – Services de développement de logiciels d'infogérance et services de développement de suites logicielles – Software voor facilitaire opvolging",
-      "description": "Om de werking van de dienst Facilitair Beheer en van stad en OCMW Halle te optimaliseren wordt een overheidsopdracht uitgeschreven voor de aankoop en implementatie van software die de processen van facilitair beheer moet stroomlijnen. Stad en OCMW Halle werken op dit moment op verschillende manieren voor gebouwenbeheer, asset management, contractbeheer, voorraadbeheer, onderhoudsplanning, meldingenbeheer, werkorders en werkplanning, alsook voor de opmaak van aankoopdossiers overheidsopdrachten voor zowel leveringen, diensten als werken, die vaak een gevolg zijn van technische werken die dienen te gebeuren. Om dit facilitaire luik te uniformiseren en te optimaliseren wenst de organisatie hiervoor een softwarepakket aan te kopen. Stad en OCMW Halle wensen een reeds beschikbare software aan te kopen die over verschillende modules beschikt en waar een zekere vorm van flexibiliteit aanwezig is, maar waarbij maatwerk en bijkomende kosten voor dat maatwerk vermeden worden. De aanbestedende overheid ziet er op toe dat deze opdracht wordt uitgevoerd met inachtname van de anti-discriminatiewetgeving.",
-      "cpv": "72212420",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-05-04",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/303924-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "318383-2026",
-      "ref": "318383-2026",
-      "acheteur": "Gemeente Groningen",
-      "objet": "Pays-Bas – Services relatifs aux logiciels – Standaard Software Reseller 2026",
-      "description": "De opdracht betreft het verwerven van (conform Gemma/gemeentelijke) standaardsoftware (licenties) welke on premise en/of als SaaS/IaaS/PaaS (Xaas) oplossingen afgenomen kunnen worden inclusief advies, vernieuwing, beheer en onderhoud. Opdrachtnemer is bereid en in staat alle op de markt verkrijgbare standaard gebruiksrechten (licenties) en onderhoud op gebruiksrechten (licenties en/of software assurance) te leveren van de eindfabrikanten of softwareleveranciers. Van de opdrachtnemer wordt geëist dat deze standaardsoftware rechtstreeks inkoopt bij fabrikant of een door de fabrikant aangewezen distributiekanaal. Het betreft nadrukkelijk géén maatwerksoftware, maar standaardsoftware, oftewel software waarvoor geen doorontwikkeling bij aanschaf voor een specifieke klant nodig is. Zie de aanbestedingsdocumenten",
-      "cpv": "72260000",
-      "pays": "NLD",
-      "deadline": "2026-06-17",
-      "montant": 0,
-      "publication": "2026-05-08",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/318383-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 63,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 1
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "26-50411",
       "ref": "26-50411",
       "acheteur": "Comité national des actions sociales",
@@ -835,6 +773,37 @@
       "segment": "Autre",
       "keyword_hits": [
         "Excel"
+      ],
+      "bureautique": true,
+      "score": 62,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "318383-2026",
+      "ref": "318383-2026",
+      "acheteur": "Gemeente Groningen",
+      "objet": "Pays-Bas – Services relatifs aux logiciels – Standaard Software Reseller 2026",
+      "description": "De opdracht betreft het verwerven van (conform Gemma/gemeentelijke) standaardsoftware (licenties) welke on premise en/of als SaaS/IaaS/PaaS (Xaas) oplossingen afgenomen kunnen worden inclusief advies, vernieuwing, beheer en onderhoud. Opdrachtnemer is bereid en in staat alle op de markt verkrijgbare standaard gebruiksrechten (licenties) en onderhoud op gebruiksrechten (licenties en/of software assurance) te leveren van de eindfabrikanten of softwareleveranciers. Van de opdrachtnemer wordt geëist dat deze standaardsoftware rechtstreeks inkoopt bij fabrikant of een door de fabrikant aangewezen distributiekanaal. Het betreft nadrukkelijk géén maatwerksoftware, maar standaardsoftware, oftewel software waarvoor geen doorontwikkeling bij aanschaf voor een specifieke klant nodig is. Zie de aanbestedingsdocumenten",
+      "cpv": "72260000",
+      "pays": "NLD",
+      "deadline": "2026-06-17",
+      "montant": 0,
+      "publication": "2026-05-08",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/318383-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
       ],
       "bureautique": true,
       "score": 62,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T10:56:42.093Z",
+  "generated_at": "2026-06-04T09:50:27.977Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
@@ -7,31 +7,31 @@
       "fetched": 500,
       "matched": 32,
       "go": 0,
-      "generated_at": "2026-06-03T10:50:24.148Z"
+      "generated_at": "2026-06-04T09:49:27.099Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 3000,
-      "matched": 2,
+      "fetched": 0,
+      "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-03T10:56:25.136Z"
+      "generated_at": "2026-06-04T09:49:37.690Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-03T10:56:42.037Z"
+      "generated_at": "2026-06-04T09:50:27.932Z"
     }
   },
-  "total_fetched": 3500,
-  "total_matched": 33,
+  "total_fetched": 500,
+  "total_matched": 32,
   "total_go": 0,
-  "total_dedup_collisions": 1,
+  "total_dedup_collisions": 0,
   "dedup_breakdown": {
     "by_id": 0,
     "fuzzy_signature": 0,
-    "fuzzy_jaccard": 1
+    "fuzzy_jaccard": 0
   },
   "notices": [
     {
@@ -221,6 +221,37 @@
       "auto": true
     },
     {
+      "id": "325741-2026",
+      "ref": "325741-2026",
+      "acheteur": "Gemeente Rijswijk",
+      "objet": "Pays-Bas – Services de réparation et d'entretien de matériel audiovisuel et d'optique – Ondersteuning, beheer en onderhoud AV-middelen raadzaal en forumzaal",
+      "description": "De ondersteuning tijdens de Raads- en Forumvergaderingen, presentaties aan de raad en andersoortige bijeenkomsten worden momenteel uitgevoerd door JP Audiovisueel.",
+      "cpv": "50340000",
+      "pays": "NLD",
+      "deadline": "2026-06-29",
+      "montant": 250,
+      "publication": "2026-05-12",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/325741-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "319787-2026",
       "ref": "319787-2026",
       "acheteur": "Gooise Scholen Federatie",
@@ -377,37 +408,6 @@
       "auto": true
     },
     {
-      "id": "303849-2026",
-      "ref": "303849-2026",
-      "acheteur": "Rijkswaterstaat Water, Verkeer en Leefomgeving",
-      "objet": "Pays-Bas – Services d'analyse stratégique et de planification de systèmes ou de technologies de l'information – Monitoringsdata Geluid en Luchtkwaliteit",
-      "description": "De afdeling Geluid, Lucht en Natuur (BNGLN) van de directie Bereikbaarheid en Netwerkkwaliteit heeft de taak jaarlijks monitoringsgegevens op te stellen en op te leveren ten behoeve van: 1. het Nalevingsverslag geluidproductieplafonds rijkswegen; 2. de monitoring van de luchtkwaliteit. Deze monitoringsgegevens bevatten grotendeels dezelfde soort gegevens: verkeerscijfers, wegkenmerken. Er zijn wel verschillen in uitgangspunten tussen de 2 belangrijke projecten. De belangrijkste gemene deler is dat de 2 projecten / processen uitgaan van dezelfde verkeerscijfers en snelheden en zo veel als mogelijk van bronbestanden die voor beide thema’s worden geprojecteerd op een verkeersnetwerk gebaseerd op het NWB. De gegevens die worden geleverd voor luchtkwaliteit zijn daarnaast input voor stikstofdepositie/AERIUS. 3 jaar + 1 x 2 jaar optie tot verlenging",
-      "cpv": "72222000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 383,
-      "publication": "2026-05-04",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/303849-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "306536-2026",
       "ref": "306536-2026",
       "acheteur": "Gemeente Dordrecht | Bedrijfsvoering Drechtsteden",
@@ -470,31 +470,93 @@
       "auto": true
     },
     {
-      "id": "301732-2026",
-      "ref": "301732-2026",
-      "acheteur": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
-      "objet": "Pays-Bas – Services d'études de marchés – Kinderrechten Impact Assessments",
-      "description": "Het KIA dient organisaties te helpen bij het verantwoord ontwerpen en inzetten van online diensten voor kinderen, in overeenstemming met onder andere de rechten op privacy, een gezonde mentale ontwikkeling, het niet in aanraking komen met schadelijke content en het verbod op economische exploitatie. Het KIA moet bijdragen aan meer transparantie, uitlegbaarheid en een beter verantwoorde keuze voor het ontwerp van een online dienst. Het doel van de Opdracht is het uitvoeren van impact assessments met behulp van het inmiddels ontwikkelde Kinderrechten Impact Assessment (Bijlagen E en F). Dit instrument bestaat uit een invullijst en een handleiding. Het is belangrijk dat de uitvoering van de assessments ertoe leidt dat er een gedegen overzicht ontstaat van alle kansen en risico’s van de diensten waarop de assessments zijn toegepast. Zie voor verdere beschrijving van de opdracht het Beschrijvend document. Mede gebaseerd op ervaringscijfers van de afgelopen jaren en de verwachte toekomstige behoefte, is de omvang van de Opdracht geraamd. De geraamde waarde van de Opdracht bedraagt gemiddeld € 125.000,- exclusief btw per jaar, derhalve € 500.000,- exclusief btw over een looptijd van 4 jaar. Om te voorkomen dat de contractuele maximumwaarde tussentijds wordt overschreden en de raamovereenkomst voor het beoogde einde van de looptijd haar effect zou verliezen, sluiten we de raamovereenkomst af met een maximale opdrachtwaarde van € 500.000,- exclusief btw. Factoren die van invloed kunnen zijn op de daadwerkelijke omvang zijn onder meer natuurlijke fluctuaties in de behoefte, politiek bestuurlijke ontwikkelingen en ontwikkelingen in het maatschappelijk debat over specifieke onderwerpen. Vanwege bijvoorbeeld politieke, budgettaire, bestuurlijke of organisatorische ontwikkelingen binnen de Aanbestedende dienst is het mogelijk dat de (omvang van de) Opdracht wijzigt. Let op: de gegevens die de omvang van de Opdracht aangeven zijn een indicatie. Aan deze gegevens kunt u geen rechten ontlenen. Zie voor verdere beschrijving het Beschrijvend document.",
-      "cpv": "79310000",
+      "id": "322831-2026",
+      "ref": "322831-2026",
+      "acheteur": "Gemeente Coevorden",
+      "objet": "Pays-Bas – Logiciels et systèmes d'information – Europees openbare aanbesteding VTH-applicatie",
+      "description": "De gemeente Coevorden is op zoek naar een leverancier voor een nieuwe vergunningen- toezicht- en handhavingsapplicatie (VTH-applicatie). De opdracht omvat het leveren, implementeren en onderhouden van de softwareapplicatie, waarin ook ruimte is voor toekomstige wijzigingen in wet- en regelgeving. De applicatie dient volledig geïmplementeerd en geaccepteerd te zijn voor 1 juli 2027. Deze opdracht heeft een maximale geraamde waarde van € 825.000, -. Dit bedrag is all-in. Dat betekent alle kosten, inclusief implementatie, migratie, opleidingen en ingebruikname. Het beschikbare budget is gemaximeerd op dit bedrag en vormt het plafondbedrag voor de uitvoering van de gehele opdracht, inclusief alle mogelijke verlengingen. Het budget dat beschikbaar is voor de opdracht kan niet overschreden worden. Er kunnen geen rechten worden ontleend aan deze raming.",
+      "cpv": "48000000",
       "pays": "NLD",
-      "deadline": "2026-06-22",
-      "montant": 500,
-      "publication": "2026-05-04",
+      "deadline": "2026-05-19",
+      "montant": 825,
+      "publication": "2026-05-11",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/301732-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/322831-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
       "bureautique": true,
-      "score": 68,
+      "score": 67,
       "score_detail": {
         "fit": 30,
         "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 1
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "326027-2026",
+      "ref": "326027-2026",
+      "acheteur": "Regisseur Studenten Reisrecht B.V.",
+      "objet": "Pays-Bas – Services de développement de logiciels de communication – Europese aanbesteding AI-chatbot",
+      "description": "De scope van de opdracht ziet op het leveren, implementeren, beheren, onderhouden en doorontwikkelen van een AI-chatbotoplossing ter vervanging van de huidige chatbot. De AI-chatbotoplossing dient studenten op een toegankelijke, betrouwbare en efficiënte wijze te ondersteunen en Sessies adequaat af te handelen. Onder de opdracht valt niet alleen de beschikbaarstelling van de oplossing zelf, maar ook de bijbehorende dienstverlening die nodig is om de AI-chatbot gedurende de looptijd goed, veilig en toekomstbestendig te laten functioneren. Deze opdracht is niet onderverdeeld in percelen. Inschrijven op een gedeelte van de opdracht is niet toegestaan en leidt tot uitsluiting van verdere deelname aan de aanbestedingsprocedure. De onderhavige opdracht in deze aanbesteding vertegenwoordigt een geschatte opdrachtwaarde van € 96.000,00 exclusief btw per jaar voor het leveren, onderhouden en beheren van de AI-chatbot en inclusief verwerken van 100.000 Sessies. Let op: Deze jaarlijkse opdrachtwaarde is tevens een prijsplafond. Een Inschrijver met een Inschrijving met een prijsindiening in Annex III Prijzenblad waarvan de jaarlijkse kosten hoger zijn dan € 96.000,00 exclusief btw wordt uitgesloten van verdere deelname aan deze aanbesteding.",
+      "cpv": "72212510",
+      "pays": "NLD",
+      "deadline": "2026-07-03",
+      "montant": 0,
+      "publication": "2026-05-12",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/326027-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "318562-2026",
+      "ref": "318562-2026",
+      "acheteur": "Rijkswaterstaat Water, Verkeer en Leefomgeving",
+      "objet": "Pays-Bas – Services d'analyse stratégique de systèmes ou de technologies de l'information – Redactie Verkeer in Nederland",
+      "description": "Dit project betreft de redactie van het boekje ‘Verkeer in Nederland’. Het gaat daarbij om het verzamelen en bestuderen van het bronmateriaal en het schrijven, controleren en aanpassen van teksten. De onderwerpen worden in overleg met de opdrachtgever vastgesteld, maar in ieder geval gaat het om het beschrijven van actuele thema’s, pilots op het gebied van verkeersmanagement en smart mobility, interessante wetenschappelijke inzichten en een overzicht van programma’s en samenwerkingsverbanden. 48 maanden",
+      "cpv": "72222100",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-08",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/318562-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -687,77 +749,6 @@
       "auto": true
     },
     {
-      "id": "302265-2026",
-      "ref": "302265-2026",
-      "acheteur": "AZ Sint-Jan Brugge AV",
-      "objet": "Belgique – Services de gestion des salaires – Aanstellen van een sociaal secretariaat - loonmotor",
-      "description": "De opdracht betreft het leveren van diensten voor HR en loon- en weddeadministratie door een erkend sociaal secretariaat volgens het Belgisch socialezekerheidsrecht. De overeenkomst wordt gesloten voor een periode van 4 jaar met 6 mogelijke verlengingen van 1 jaar.",
-      "cpv": "79211110",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-05-04",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/302265-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "26-50411",
-      "ref": "26-50411",
-      "acheteur": "Comité national des actions sociales",
-      "objet": "MARCHÉ DE COMMISSAIRE AUX COMPTES (CAC), CERTIFICATION LÉGALE ET SERVICES ASSOCIÉS (SACC) POUR LES EXERCICES 2026-2031.",
-      "description": "MARCHÉ DE COMMISSAIRE AUX COMPTES (CAC), CERTIFICATION LÉGALE ET SERVICES ASSOCIÉS (SACC) POUR LES EXERCICES 2026-2031.",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-07-06",
-      "montant": 0,
-      "publication": "2026-05-23",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-50411",
-      "_boamp": {
-        "famille": "Marchés européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Audit",
-          "Expertise comptable"
-        ],
-        "departement": "78"
-      },
-      "segment": "Autre",
-      "keyword_hits": [
-        "certification services"
-      ],
-      "score": 62,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "320559-2026",
       "ref": "320559-2026",
       "acheteur": "Bundesministerium für Verkehr, Servicestelle Vergabe",
@@ -914,37 +905,6 @@
       "auto": true
     },
     {
-      "id": "300917-2026",
-      "ref": "300917-2026",
-      "acheteur": "Staatsbetrieb Sächsische Informatik Dienste",
-      "objet": "Allemagne – Services relatifs aux logiciels – Rahmenvereinbarung Customizing One Identity",
-      "description": "Im Ergebnis der Ausschreibung soll eine EVB-IT Rahmenvereinbarung mit einem Dienstleister zur Erbringung von Unterstützungsleistungen zur Anpassung von OneIdentity im Rahmen seiner Verwendung als IAM-System zur Identitäts- und Zugriffsverwaltung abgeschlossen werden. Die Unterstützungsleistungen umfassen folgende Aufgaben: Installation, Anbindung Quell-Zielsystem, Migration auf höhere (aktuelle) Versionen von OneIM (incl. WebPortal), Umsetzung des Identity Lifecycle, Umsetzung Organisationsmanagement, Umsetzung der Projekt- und Ablagenverwaltung, IT-Shop Portal/Password Reset Portal und Reporting. Die notwendigen Beratungs- und Unterstützungsleistungen werden über die gesamte Vertragslaufzeit (inkl. Verlängerungsoption) nach derzeitiger Schätzung einen Umfang von etwa 300 Personentagen haben. Eine Abnahmeverpflichtung oder eine Mindestabnahmemenge besteht nicht. Abrufberechtigt ist ausschließlich der Staatsbetrieb Sächsische Informatik Dienste.",
-      "cpv": "72260000",
-      "pays": "DEU",
-      "deadline": "2026-05-18",
-      "montant": 0,
-      "publication": "2026-05-04",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/300917-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "312507-2026",
       "ref": "312507-2026",
       "acheteur": "CAISSE CENTRALE MSA",
@@ -972,46 +932,6 @@
         "delay": 3
       },
       "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "26-48746",
-      "ref": "26-48746",
-      "acheteur": "CFDC de l'AP-HP",
-      "objet": "Prestations de suivi et de renouvellement combinées des certification ISO 9001 et des certification QUALIOPI® des structures du CFDC",
-      "description": "Prestations de suivi et de renouvellement combinées des certification ISO 9001 et des certification QUALIOPI® des structures du CFDC",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-06-15",
-      "montant": 50,
-      "publication": "2026-05-18",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-48746",
-      "_boamp": {
-        "famille": "Marchés <90 k€ (MAPA)",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Adaptée",
-        "descripteurs": [
-          "Audit"
-        ],
-        "departement": "75,77,78,91,92,93,94,95"
-      },
-      "segment": "Autre",
-      "keyword_hits": [
-        "Qualiopi",
-        "renouvellement de certification"
-      ],
-      "score": 54,
-      "score_detail": {
-        "fit": 25,
-        "size": 5,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "no",
       "notes": "",
       "auto": true
     },
@@ -1068,6 +988,37 @@
       "score_detail": {
         "fit": 10,
         "size": 10,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "322988-2026",
+      "ref": "322988-2026",
+      "acheteur": "Invest International B.V.",
+      "objet": "Pays-Bas – Services aux entreprises: droit, marketing, conseil, recrutement, impression et sécurité – DAS for Temporary Deployment of External Professionals",
+      "description": "The interim manager is a professional operating at a strategic and/or tactical management level and is responsible for leading teams, departments, programmes or organisational units and operates with decision making authority within the scope of the assignment. The role involves responsibility for achieving agreed objectives and accountability for results, rather than merely providing advice or support. • Interim Management is typically deployed to address temporary capacity gaps, including but not limited to: o Replacement during the absence of permanent management; o Organisational change, restructuring or transformation; o Crisis or turnaround situations; o Start up, scaling or transition phases; o Implementation of strategic programmes or complex projects. 3.500.000 Euro based on a period of 4 years / The professional provides substantive legal advice, analysis, drafting and support within one or more areas of law. • The services may include, but are not limited to: o Corporate Law, Commercial Law or corporate governance matters; o Administrative Law o Public Law (including the Wet open overheid); o Procurement and Tender law; o Labour law; o Privacy and Data Protection Law; o State Aid Law; o Tax Law; o Complaints or Litigation; o M&A advisory, including advice on private equity or venture capital transactions, investments, partnerships, and transaction and corporate structures; o Review and amendment of financing arrangements, security interests and guarantees, including (LMA-style) loan documentation; o FR&R related legal matters (including insolvency law or enforcement of security). • Legal services are typically deployed to: o Support complex transactions, programmes or projects; o Advise on regulatory or compliance matters; o Draft, review or negotiate legal documents; o Provide legal input during tender procedures, disputes or organisational changes. 3.500.000 Euro based on a period of 4 years. / The professional provides financial support, analysis and advisory services in support of operations, compliance obligations, reporting requirements and decision making processes. Assignments within this category may include, but are not limited to: • Administrative and operational financial support; • Accounting and financial reporting services; • Tax related matters; • Treasury support activities; • Financial Restructuring & Recovery (FR&R) activities; • Financial control, risk and/or compliance support; • Audit related support services (excluding statutory audit functions). 1.800.000 Euro based on a period of 4 years. / The professional provides specialist, operational and/or advisory services within one or more business domains that support the effective functioning, development and transformation. • This category may include, but is not limited to, expertise in the following areas: o Human Resources Management (HRM); o Marketing and Communication; o Operations and Process Management; o Risk Management and Internal Control; o Information Technology (IT); o Change Management and Organisational Development. • Services are typically deployed to: o Support operational capacity and continuity; o Improve processes, systems or governance structures; o Support organisational change, transformation or implementation initiatives; o Provide specialist input in projects or programmes. 1.800.000 Euro based on a period of 4 years. / The services focus on the development, improvement or assessment of individual or group competencies, behaviour, skills and/or knowledge. • This category may include, but is not limited to: o Professional and personal development training; o Leadership, career or performance coaching; o Team development and collaboration programmes; o Assessments, such as competency assessments, development assessments or selection assessments; o Safety related training, awareness programmes and behavioural safety initiatives. • Services are typically delivered in the form of: o Training sessions, workshops or learning programmes; o Individual or group coaching trajectories; o Assessment tools, interviews, tests or reports. 600.000 Euro based on a period of 4 years. / The professional provides substantive technical advice, studies, analyses and design related support within specialised technical domains. • This category may include, but is not limited to, expertise in the following fields: o Agri-food (Agriculture and Sustainable Value Chains) o Energy (Renewable Energy, Green Hydrogen, Electrification) o Manufacturing (Sustainable & Circular Manufacturing, Critical Raw Materials (CRM)) o Water & Infrastructure (Water solutions, climate adaptation, green architecture, infrastructure); o Healthcare (Improving people’s health) • Technical consultancy services are typically deployed to: o Conduct feasibility studies, technical assessments or analyses; o Develop or review technical concepts, designs or specifications; o Provide independent technical advice, second opinions or reviews; o Support project preparation, appraisal, implementation or monitoring. 1.800.000 Euro based on a period of 4 years. / The project manager performs project related roles within a clearly defined project scope, timeline and set of deliverables. • This category may include, but is not limited to, the following roles: o Project Leaders or Project Managers; o Project Coordinators; o Project Support staff or Project Officers; o Project Control, planning or Reporting Specialists. • Project based professionals are typically deployed to: o Lead or support the preparation, execution or closure of projects; o Coordinate activities, stakeholders and deliverables within projects; o Monitor progress, risks, planning, quality and reporting; o Support programme or portfolio activities without assuming permanent organisational responsibility. 1.000.000 Euro based on a period of 4 years.",
+      "cpv": "79000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-12",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/322988-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "competency assessment"
+      ],
+      "bureautique": false,
+      "score": 45,
+      "score_detail": {
+        "fit": 10,
+        "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,

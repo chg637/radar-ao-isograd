@@ -1,70 +1,11 @@
 {
-  "generated_at": "2026-06-07T08:55:46.962Z",
-  "source": "MERGE",
-  "sources_summary": {
-    "TED": {
-      "present": true,
-      "fetched": 500,
-      "matched": 21,
-      "go": 0,
-      "generated_at": "2026-06-07T08:49:18.927Z"
-    },
-    "BOAMP": {
-      "present": true,
-      "fetched": 3000,
-      "matched": 1,
-      "go": 0,
-      "generated_at": "2026-06-07T08:55:28.889Z"
-    },
-    "Profil": {
-      "present": true,
-      "fetched": 0,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-06-07T08:55:46.912Z"
-    }
-  },
-  "total_fetched": 3500,
-  "total_matched": 22,
+  "generated_at": "2026-06-07T08:49:18.927Z",
+  "source": "TED",
+  "window_days": 30,
+  "total_fetched": 500,
+  "total_matched": 21,
   "total_go": 0,
-  "total_dedup_collisions": 0,
-  "dedup_breakdown": {
-    "by_id": 0,
-    "fuzzy_signature": 0,
-    "fuzzy_jaccard": 0
-  },
   "notices": [
-    {
-      "id": "326531-2026",
-      "ref": "326531-2026",
-      "acheteur": "APNI",
-      "objet": "France – Conseil en affaires et en gestion et services connexes – Accord-Cadre de prestations de services d'appui à la mise en oeuvre et à la gestion des actions de formation à destination des salariés du secteur des particuliers employeurs et de l'emploi à domicile",
-      "description": "L'objectif poursuivi par cet accompagnement est de garantir une égale qualité des dispenses de formation sur tout le territoire français, DROM inclus. Il vise à accompagner les organismes de formation dispensateur de formation du catalogue de la branche vers l'excellence pédagogique. / L'objectif est de garantir une chaîne indemnitaire fluide, sécurisée et traçable, assurant un paiement rapide, exact et conforme aux exigences de la branche.",
-      "cpv": "79400000",
-      "pays": "FRA",
-      "deadline": "",
-      "montant": 2671,
-      "publication": "2026-05-12",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/326531-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Excel"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
     {
       "id": "319777-2026",
       "ref": "319777-2026",
@@ -118,6 +59,161 @@
       "score_detail": {
         "fit": 30,
         "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "326531-2026",
+      "ref": "326531-2026",
+      "acheteur": "APNI",
+      "objet": "France – Conseil en affaires et en gestion et services connexes – Accord-Cadre de prestations de services d'appui à la mise en oeuvre et à la gestion des actions de formation à destination des salariés du secteur des particuliers employeurs et de l'emploi à domicile",
+      "description": "L'objectif poursuivi par cet accompagnement est de garantir une égale qualité des dispenses de formation sur tout le territoire français, DROM inclus. Il vise à accompagner les organismes de formation dispensateur de formation du catalogue de la branche vers l'excellence pédagogique. / L'objectif est de garantir une chaîne indemnitaire fluide, sécurisée et traçable, assurant un paiement rapide, exact et conforme aux exigences de la branche.",
+      "cpv": "79400000",
+      "pays": "FRA",
+      "deadline": "",
+      "montant": 2671,
+      "publication": "2026-05-12",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/326531-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Excel"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "318293-2026",
+      "ref": "318293-2026",
+      "acheteur": "Gemeente Breda",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Europese aanbesteding robotic process automation dienstverlening gemeente Breda",
+      "description": "Procedure Aanbesteding middels de Europees openbare procedure conform de (gewijzigde) aanbestedingswet 2012. Opdrachtgever De opdrachtgever bij deze aanbesteding is de Gemeente Breda.  Voor meer informatie over de Gemeente Breda verwijzen wij u naar de website van de gemeente: www.breda.nl. Breda is een grotere gemeente in Nederland met een rijke historie en een mooie toekomst. Alle medewerkers van de gemeente Breda werken elke dag hard om die mooie toekomst vorm te geven. Dat gebeurt onder meer door op het gebied van automatisering state-of-the-art oplossingen te bieden waar alle inwoners en bezoekers van profiteren. Daarom gebruikt Breda Robotic Process Automation (RPA) om bepaalde processen efficiënter te laten verlopen. RPA is in Breda ingebed in het Automation team dat naast RPA ook AI als aandachtsgebied heeft. Gemeente Breda is sinds 2020 gestart met RPA en heeft inmiddels 9 robots operationeel. De gemeente wil graag verder groeien in automatisering en digitale innovaties. Bijvoorbeeld door hyperautomation in te zetten waarbij AI & RPA gecombineerd wordt met als doel dat interne processen nog efficiënter worden door repeterende administratieve werkzaamheden te automatiseren. De RPA-robots zijn inmiddels zo belangrijk geworden dat het belangrijk is dat continuïteit is geborgd. Hier loopt de gemeente inmiddels een risico, dat via een aanbesteding moet worden opgelost. Opdracht Het doel van de gemeente Breda is om een partij te vinden die zelfstandig het onderhoud en beheer uitvoert op de verschillende robots die ingebed zijn in het Bredase systeemlandschap. De robots zijn ontwikkeld m.b.v. UIPath.   Wanneer Breda zelf niet in staat is om problemen te verhelpen, moet de gemeente kunnen terugvallen op de gekozen partij. Daarnaast zal de partij in voorkomend geval gevraagd worden om nieuwe robots te ontwikkelen n.a.v. een door Breda aangeleverd ontwerp.   Percelen Deze opdracht is niet verdeeld in percelen. Doel Het doel van deze aanbesteding is om voor de levering van deze diensten een raamovereenkomst te sluiten met een looptijd van twee jaar. De opdrachtgever heeft eenzijdig het recht deze tweemaal met één jaar te verlengen. De besluitvorming ten aanzien van deze verlenging(en) geschiedt op basis van evaluatie van de geleverde prestatie. Maximale contractwaarde  De maximale opdrachtwaarde in het kader van deze raamovereenkomst wordt gesteld op EUR 660.000,- bezien over de looptijd van de overeenkomst, inclusief verlengingsopties en herzieningsclausule. Aan het genoemde bedrag kunnen geen rechten worden ontleend. Voor opdrachtgever geldt geen afnameverplichting. Mocht gedurende de looptijd van de raamovereenkomst de maximale opdrachtwaarde worden overschreden dan kan de raamovereenkomst (eerder) worden beëindigd. Mercell Deze aanbesteding zal uitsluitend en geheel digitaal online worden afgehandeld via het Mercell platform (www.mercell.com). Een uitgebreide instructie met betrekking tot digitaal aanbesteden treft u aan in de Vragenlijsten.",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 660,
+      "publication": "2026-05-08",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/318293-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "319787-2026",
+      "ref": "319787-2026",
+      "acheteur": "Gooise Scholen Federatie",
+      "objet": "Pays-Bas – Services de formation dans le domaine des premiers secours – Europese aanbesteding BHV-opleidingen",
+      "description": "De scope van de aanbesteding bestaat uit het verzorgen van minimaal de volgende BHV-opleidingen: • BHV-basisopleiding; • BHV-basisopleiding herhaling; • BHV-coördinator; • BHV-coördinator herhaling; • BHV Ploegleider; • BHV Ploegleider herhaling; • Hoofd BHV’er strategisch; • Hoofd BHV’er operationeel; • Hoofd BHV’er operationeel herhaling. Optioneel worden onderstaande BHV-opleidingen verzorgd: • Basis EHBO docenten lichamelijke opvoeding; • Herhalingsopleiding EHBO docenten lichamelijke opvoeding; • Jaarlijkse opfriscursus levensreddend handelen; • Inzet instructeur op afroep; • Inzet lotus (per dagdeel 4 uur). Deze opdracht is niet onderverdeeld in percelen. Inschrijven op een gedeelte van de opdracht is niet toegestaan en leidt tot uitsluiting van verdere deelname aan de aanbestedingsprocedure. De onderhavige opdracht in deze aanbesteding vertegenwoordigt een op basis van historie, geschatte en indicatieve opdrachtwaarde van € 35.000,00 exclusief btw per jaar en derhalve € 280.000,00 exclusief btw op basis van de maximale looptijd van acht (8) jaar. Let op: Aanbestedende dienst is voor de raamovereenkomst verplicht een maximale opdrachtwaarde of maximale hoeveelheid op te nemen. Er is echter een onzekerheidsmarge ten aanzien van de afnames, die vooraf niet te kwantificeren is. De Aanbestedende dienst wenst derhalve onderscheid te maken tussen de geraamde opdrachtwaarde (de verwachting) die hierboven is vermeld en de maximale opdrachtwaarde /maximale hoeveelheid van de beoogde raamovereenkomst. De geraamde opdrachtwaarde is indicatief, bedraagt € 280.000 exclusief btw en is gebaseerd op een looptijd van acht (8) jaar. De maximale opdrachtwaarde bedraagt € 560.000,00 exclusief btw en is ook gebaseerd op een looptijd van acht (8) jaar. Bij het bepalen van de maximale opdrachtwaarde is rekening gehouden met de eventuele omstandigheid dat de omvang van de leveringen en/of diensten (substantieel) hoger uitvallen dan blijkens de geraamde opdrachtwaarde wordt verwacht. Bij overschrijding van de maximale opdrachtwaarde/hoeveelheid eindigt de Overeenkomst en wordt deze opnieuw aanbesteed. Aan bovenstaande bedragen kunnen geen rechten worden ontleend, hetgeen betekent dat niet met zekerheid kan worden gesteld dat de geraamde en/of maximale opdrachtwaarde daadwerkelijk wordt afgenomen gedurende de looptijd van de Overeenkomst.",
+      "cpv": "80562000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 560,
+      "publication": "2026-05-11",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/319787-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "325741-2026",
+      "ref": "325741-2026",
+      "acheteur": "Gemeente Rijswijk",
+      "objet": "Pays-Bas – Services de réparation et d'entretien de matériel audiovisuel et d'optique – Ondersteuning, beheer en onderhoud AV-middelen raadzaal en forumzaal",
+      "description": "De ondersteuning tijdens de Raads- en Forumvergaderingen, presentaties aan de raad en andersoortige bijeenkomsten worden momenteel uitgevoerd door JP Audiovisueel.",
+      "cpv": "50340000",
+      "pays": "NLD",
+      "deadline": "2026-06-29",
+      "montant": 250,
+      "publication": "2026-05-12",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/325741-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "335228-2026",
+      "ref": "335228-2026",
+      "acheteur": "Naturalis Biodiversity Center",
+      "objet": "Pays-Bas – Services de relations publiques – Europese aanbesteding Strategisch advies en operationele ondersteuning t.b.v. public engagement en maatschappelijke impact Naturalis",
+      "description": "Naturalis heeft de ambitie om de stem van de biodiversiteit te zijn en de verschuiving naar een biodiversiteitspositieve samenleving te stimuleren en versnellen. Om deze maatschappelijke rol als ‘change agent’ te versterken, wil Naturalis haar bereik verbreden, publieke betrokkenheid vergroten en beleid effectief beïnvloeden. Deze aanbesteding voorziet in de strategische expertise en uitvoerende capaciteit die Naturalis de komende jaren mogelijk nodig heeft om haar doelstellingen uit de ‘Strategische Ambitie 2’ te realiseren: “We inspireren mensen om zich in te zetten voor een biodiversiteitspositieve samenleving; Naturalis is de stem van de biodiversiteit. Wij moedigen zoveel mogelijk verschillende mensen en organisaties aan om zich in te zetten voor het behoud van biodiversiteit, zodat de verschuiving naar een biodiversiteitspositieve samenleving mogelijk wordt.” De geschatte waarde van de overeenkomst bedraagt € 950.000 exclusief BTW over de maximale looptijd van de raamovereenkomst van vier jaar. Deze schatting is niet bindend en er kunnen geen rechten aan worden ontleend.",
+      "cpv": "79416000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 950,
+      "publication": "2026-05-18",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/335228-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -190,124 +286,31 @@
       "auto": true
     },
     {
-      "id": "335228-2026",
-      "ref": "335228-2026",
-      "acheteur": "Naturalis Biodiversity Center",
-      "objet": "Pays-Bas – Services de relations publiques – Europese aanbesteding Strategisch advies en operationele ondersteuning t.b.v. public engagement en maatschappelijke impact Naturalis",
-      "description": "Naturalis heeft de ambitie om de stem van de biodiversiteit te zijn en de verschuiving naar een biodiversiteitspositieve samenleving te stimuleren en versnellen. Om deze maatschappelijke rol als ‘change agent’ te versterken, wil Naturalis haar bereik verbreden, publieke betrokkenheid vergroten en beleid effectief beïnvloeden. Deze aanbesteding voorziet in de strategische expertise en uitvoerende capaciteit die Naturalis de komende jaren mogelijk nodig heeft om haar doelstellingen uit de ‘Strategische Ambitie 2’ te realiseren: “We inspireren mensen om zich in te zetten voor een biodiversiteitspositieve samenleving; Naturalis is de stem van de biodiversiteit. Wij moedigen zoveel mogelijk verschillende mensen en organisaties aan om zich in te zetten voor het behoud van biodiversiteit, zodat de verschuiving naar een biodiversiteitspositieve samenleving mogelijk wordt.” De geschatte waarde van de overeenkomst bedraagt € 950.000 exclusief BTW over de maximale looptijd van de raamovereenkomst van vier jaar. Deze schatting is niet bindend en er kunnen geen rechten aan worden ontleend.",
-      "cpv": "79416000",
+      "id": "322831-2026",
+      "ref": "322831-2026",
+      "acheteur": "Gemeente Coevorden",
+      "objet": "Pays-Bas – Logiciels et systèmes d'information – Europees openbare aanbesteding VTH-applicatie",
+      "description": "De gemeente Coevorden is op zoek naar een leverancier voor een nieuwe vergunningen- toezicht- en handhavingsapplicatie (VTH-applicatie). De opdracht omvat het leveren, implementeren en onderhouden van de softwareapplicatie, waarin ook ruimte is voor toekomstige wijzigingen in wet- en regelgeving. De applicatie dient volledig geïmplementeerd en geaccepteerd te zijn voor 1 juli 2027. Deze opdracht heeft een maximale geraamde waarde van € 825.000, -. Dit bedrag is all-in. Dat betekent alle kosten, inclusief implementatie, migratie, opleidingen en ingebruikname. Het beschikbare budget is gemaximeerd op dit bedrag en vormt het plafondbedrag voor de uitvoering van de gehele opdracht, inclusief alle mogelijke verlengingen. Het budget dat beschikbaar is voor de opdracht kan niet overschreden worden. Er kunnen geen rechten worden ontleend aan deze raming.",
+      "cpv": "48000000",
       "pays": "NLD",
-      "deadline": "",
-      "montant": 950,
-      "publication": "2026-05-18",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/335228-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "325741-2026",
-      "ref": "325741-2026",
-      "acheteur": "Gemeente Rijswijk",
-      "objet": "Pays-Bas – Services de réparation et d'entretien de matériel audiovisuel et d'optique – Ondersteuning, beheer en onderhoud AV-middelen raadzaal en forumzaal",
-      "description": "De ondersteuning tijdens de Raads- en Forumvergaderingen, presentaties aan de raad en andersoortige bijeenkomsten worden momenteel uitgevoerd door JP Audiovisueel.",
-      "cpv": "50340000",
-      "pays": "NLD",
-      "deadline": "2026-06-29",
-      "montant": 250,
-      "publication": "2026-05-12",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/325741-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "319787-2026",
-      "ref": "319787-2026",
-      "acheteur": "Gooise Scholen Federatie",
-      "objet": "Pays-Bas – Services de formation dans le domaine des premiers secours – Europese aanbesteding BHV-opleidingen",
-      "description": "De scope van de aanbesteding bestaat uit het verzorgen van minimaal de volgende BHV-opleidingen: • BHV-basisopleiding; • BHV-basisopleiding herhaling; • BHV-coördinator; • BHV-coördinator herhaling; • BHV Ploegleider; • BHV Ploegleider herhaling; • Hoofd BHV’er strategisch; • Hoofd BHV’er operationeel; • Hoofd BHV’er operationeel herhaling. Optioneel worden onderstaande BHV-opleidingen verzorgd: • Basis EHBO docenten lichamelijke opvoeding; • Herhalingsopleiding EHBO docenten lichamelijke opvoeding; • Jaarlijkse opfriscursus levensreddend handelen; • Inzet instructeur op afroep; • Inzet lotus (per dagdeel 4 uur). Deze opdracht is niet onderverdeeld in percelen. Inschrijven op een gedeelte van de opdracht is niet toegestaan en leidt tot uitsluiting van verdere deelname aan de aanbestedingsprocedure. De onderhavige opdracht in deze aanbesteding vertegenwoordigt een op basis van historie, geschatte en indicatieve opdrachtwaarde van € 35.000,00 exclusief btw per jaar en derhalve € 280.000,00 exclusief btw op basis van de maximale looptijd van acht (8) jaar. Let op: Aanbestedende dienst is voor de raamovereenkomst verplicht een maximale opdrachtwaarde of maximale hoeveelheid op te nemen. Er is echter een onzekerheidsmarge ten aanzien van de afnames, die vooraf niet te kwantificeren is. De Aanbestedende dienst wenst derhalve onderscheid te maken tussen de geraamde opdrachtwaarde (de verwachting) die hierboven is vermeld en de maximale opdrachtwaarde /maximale hoeveelheid van de beoogde raamovereenkomst. De geraamde opdrachtwaarde is indicatief, bedraagt € 280.000 exclusief btw en is gebaseerd op een looptijd van acht (8) jaar. De maximale opdrachtwaarde bedraagt € 560.000,00 exclusief btw en is ook gebaseerd op een looptijd van acht (8) jaar. Bij het bepalen van de maximale opdrachtwaarde is rekening gehouden met de eventuele omstandigheid dat de omvang van de leveringen en/of diensten (substantieel) hoger uitvallen dan blijkens de geraamde opdrachtwaarde wordt verwacht. Bij overschrijding van de maximale opdrachtwaarde/hoeveelheid eindigt de Overeenkomst en wordt deze opnieuw aanbesteed. Aan bovenstaande bedragen kunnen geen rechten worden ontleend, hetgeen betekent dat niet met zekerheid kan worden gesteld dat de geraamde en/of maximale opdrachtwaarde daadwerkelijk wordt afgenomen gedurende de looptijd van de Overeenkomst.",
-      "cpv": "80562000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 560,
+      "deadline": "2026-05-19",
+      "montant": 825,
       "publication": "2026-05-11",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/319787-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/322831-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
       "bureautique": true,
-      "score": 70,
+      "score": 67,
       "score_detail": {
         "fit": 30,
         "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "318293-2026",
-      "ref": "318293-2026",
-      "acheteur": "Gemeente Breda",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Europese aanbesteding robotic process automation dienstverlening gemeente Breda",
-      "description": "Procedure Aanbesteding middels de Europees openbare procedure conform de (gewijzigde) aanbestedingswet 2012. Opdrachtgever De opdrachtgever bij deze aanbesteding is de Gemeente Breda.  Voor meer informatie over de Gemeente Breda verwijzen wij u naar de website van de gemeente: www.breda.nl. Breda is een grotere gemeente in Nederland met een rijke historie en een mooie toekomst. Alle medewerkers van de gemeente Breda werken elke dag hard om die mooie toekomst vorm te geven. Dat gebeurt onder meer door op het gebied van automatisering state-of-the-art oplossingen te bieden waar alle inwoners en bezoekers van profiteren. Daarom gebruikt Breda Robotic Process Automation (RPA) om bepaalde processen efficiënter te laten verlopen. RPA is in Breda ingebed in het Automation team dat naast RPA ook AI als aandachtsgebied heeft. Gemeente Breda is sinds 2020 gestart met RPA en heeft inmiddels 9 robots operationeel. De gemeente wil graag verder groeien in automatisering en digitale innovaties. Bijvoorbeeld door hyperautomation in te zetten waarbij AI & RPA gecombineerd wordt met als doel dat interne processen nog efficiënter worden door repeterende administratieve werkzaamheden te automatiseren. De RPA-robots zijn inmiddels zo belangrijk geworden dat het belangrijk is dat continuïteit is geborgd. Hier loopt de gemeente inmiddels een risico, dat via een aanbesteding moet worden opgelost. Opdracht Het doel van de gemeente Breda is om een partij te vinden die zelfstandig het onderhoud en beheer uitvoert op de verschillende robots die ingebed zijn in het Bredase systeemlandschap. De robots zijn ontwikkeld m.b.v. UIPath.   Wanneer Breda zelf niet in staat is om problemen te verhelpen, moet de gemeente kunnen terugvallen op de gekozen partij. Daarnaast zal de partij in voorkomend geval gevraagd worden om nieuwe robots te ontwikkelen n.a.v. een door Breda aangeleverd ontwerp.   Percelen Deze opdracht is niet verdeeld in percelen. Doel Het doel van deze aanbesteding is om voor de levering van deze diensten een raamovereenkomst te sluiten met een looptijd van twee jaar. De opdrachtgever heeft eenzijdig het recht deze tweemaal met één jaar te verlengen. De besluitvorming ten aanzien van deze verlenging(en) geschiedt op basis van evaluatie van de geleverde prestatie. Maximale contractwaarde  De maximale opdrachtwaarde in het kader van deze raamovereenkomst wordt gesteld op EUR 660.000,- bezien over de looptijd van de overeenkomst, inclusief verlengingsopties en herzieningsclausule. Aan het genoemde bedrag kunnen geen rechten worden ontleend. Voor opdrachtgever geldt geen afnameverplichting. Mocht gedurende de looptijd van de raamovereenkomst de maximale opdrachtwaarde worden overschreden dan kan de raamovereenkomst (eerder) worden beëindigd. Mercell Deze aanbesteding zal uitsluitend en geheel digitaal online worden afgehandeld via het Mercell platform (www.mercell.com). Een uitgebreide instructie met betrekking tot digitaal aanbesteden treft u aan in de Vragenlijsten.",
-      "cpv": "72000000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 660,
-      "publication": "2026-05-08",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/318293-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
+        "delay": 0
       },
       "score_status": "cond",
       "notes": "",
@@ -345,49 +348,18 @@
       "auto": true
     },
     {
-      "id": "322831-2026",
-      "ref": "322831-2026",
-      "acheteur": "Gemeente Coevorden",
-      "objet": "Pays-Bas – Logiciels et systèmes d'information – Europees openbare aanbesteding VTH-applicatie",
-      "description": "De gemeente Coevorden is op zoek naar een leverancier voor een nieuwe vergunningen- toezicht- en handhavingsapplicatie (VTH-applicatie). De opdracht omvat het leveren, implementeren en onderhouden van de softwareapplicatie, waarin ook ruimte is voor toekomstige wijzigingen in wet- en regelgeving. De applicatie dient volledig geïmplementeerd en geaccepteerd te zijn voor 1 juli 2027. Deze opdracht heeft een maximale geraamde waarde van € 825.000, -. Dit bedrag is all-in. Dat betekent alle kosten, inclusief implementatie, migratie, opleidingen en ingebruikname. Het beschikbare budget is gemaximeerd op dit bedrag en vormt het plafondbedrag voor de uitvoering van de gehele opdracht, inclusief alle mogelijke verlengingen. Het budget dat beschikbaar is voor de opdracht kan niet overschreden worden. Er kunnen geen rechten worden ontleend aan deze raming.",
-      "cpv": "48000000",
+      "id": "318562-2026",
+      "ref": "318562-2026",
+      "acheteur": "Rijkswaterstaat Water, Verkeer en Leefomgeving",
+      "objet": "Pays-Bas – Services d'analyse stratégique de systèmes ou de technologies de l'information – Redactie Verkeer in Nederland",
+      "description": "Dit project betreft de redactie van het boekje ‘Verkeer in Nederland’. Het gaat daarbij om het verzamelen en bestuderen van het bronmateriaal en het schrijven, controleren en aanpassen van teksten. De onderwerpen worden in overleg met de opdrachtgever vastgesteld, maar in ieder geval gaat het om het beschrijven van actuele thema’s, pilots op het gebied van verkeersmanagement en smart mobility, interessante wetenschappelijke inzichten en een overzicht van programma’s en samenwerkingsverbanden. 48 maanden",
+      "cpv": "72222100",
       "pays": "NLD",
-      "deadline": "2026-05-19",
-      "montant": 825,
-      "publication": "2026-05-11",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/322831-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 67,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "334836-2026",
-      "ref": "334836-2026",
-      "acheteur": "Kansspelautoriteit",
-      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Applicatiebeheer Exact omgeving",
-      "description": "De Kansspelautoriteit zoekt een opdrachtnemer die Ksa kan voorzien in dienstverlening rondom haar Exact omgeving. De Exact omgeving (met onder andere Exact Financials Enterprise en Exact Synergy Enterprise) vormt een geheel aan centrale applicaties waarin kritische bedrijfsprocessen worden ondersteund. Exact is op dit moment ingericht als onderdeel van de bedrijfsvoering van de Ksa en bevat onder meer bestaande administratieve processen, stamdata, autorisaties, rapportages, koppelingen, specifieke inrichting een aanpassingen aan werkprocessen, workflows, controles en historische gegevens. Momenteel maken 10 gebruikers gebruik van Exact Financials Enterprise. Momenteel maken 230 (professional licenties) gebruikers gebruik van Exact Synergy Enterprise van de ingerichte workflows en selfservice. En er zijn 50 zware gebruikers die gebruik maken van Exact Synergy Enterprise.",
-      "cpv": "72200000",
-      "pays": "NLD",
-      "deadline": "2026-06-30",
+      "deadline": "",
       "montant": 0,
-      "publication": "2026-05-18",
+      "publication": "2026-05-08",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/334836-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/318562-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -438,18 +410,18 @@
       "auto": true
     },
     {
-      "id": "318562-2026",
-      "ref": "318562-2026",
-      "acheteur": "Rijkswaterstaat Water, Verkeer en Leefomgeving",
-      "objet": "Pays-Bas – Services d'analyse stratégique de systèmes ou de technologies de l'information – Redactie Verkeer in Nederland",
-      "description": "Dit project betreft de redactie van het boekje ‘Verkeer in Nederland’. Het gaat daarbij om het verzamelen en bestuderen van het bronmateriaal en het schrijven, controleren en aanpassen van teksten. De onderwerpen worden in overleg met de opdrachtgever vastgesteld, maar in ieder geval gaat het om het beschrijven van actuele thema’s, pilots op het gebied van verkeersmanagement en smart mobility, interessante wetenschappelijke inzichten en een overzicht van programma’s en samenwerkingsverbanden. 48 maanden",
-      "cpv": "72222100",
+      "id": "334836-2026",
+      "ref": "334836-2026",
+      "acheteur": "Kansspelautoriteit",
+      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Applicatiebeheer Exact omgeving",
+      "description": "De Kansspelautoriteit zoekt een opdrachtnemer die Ksa kan voorzien in dienstverlening rondom haar Exact omgeving. De Exact omgeving (met onder andere Exact Financials Enterprise en Exact Synergy Enterprise) vormt een geheel aan centrale applicaties waarin kritische bedrijfsprocessen worden ondersteund. Exact is op dit moment ingericht als onderdeel van de bedrijfsvoering van de Ksa en bevat onder meer bestaande administratieve processen, stamdata, autorisaties, rapportages, koppelingen, specifieke inrichting een aanpassingen aan werkprocessen, workflows, controles en historische gegevens. Momenteel maken 10 gebruikers gebruik van Exact Financials Enterprise. Momenteel maken 230 (professional licenties) gebruikers gebruik van Exact Synergy Enterprise van de ingerichte workflows en selfservice. En er zijn 50 zware gebruikers die gebruik maken van Exact Synergy Enterprise.",
+      "cpv": "72200000",
       "pays": "NLD",
-      "deadline": "",
+      "deadline": "2026-06-30",
       "montant": 0,
-      "publication": "2026-05-08",
+      "publication": "2026-05-18",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/318562-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/334836-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -500,18 +472,18 @@
       "auto": true
     },
     {
-      "id": "335552-2026",
-      "ref": "335552-2026",
-      "acheteur": "Gemeente Nijkerk",
-      "objet": "Pays-Bas – Services relatifs aux logiciels – Financieel Systeem",
-      "description": "De gemeente Nijkerk is voornemens om een overeenkomst af te sluiten met een samenwerkingspartner voor de levering en implementatie van een financieel systeem. Op het moment maakt de gemeente gebruik van ons huidige financiële systeem van leverancier Centric, maar deze overeenkomst loopt binnenkort af. We zijn op zoek naar een samenwerkingspartner die begrijpt waar onze behoeften liggen en die samen met ons ervoor zorgt dat we worden ondersteund bij het betrouwbaar, transparant en efficiënt uitvoeren van onze financiële taken. 1",
+      "id": "318383-2026",
+      "ref": "318383-2026",
+      "acheteur": "Gemeente Groningen",
+      "objet": "Pays-Bas – Services relatifs aux logiciels – Standaard Software Reseller 2026",
+      "description": "De opdracht betreft het verwerven van (conform Gemma/gemeentelijke) standaardsoftware (licenties) welke on premise en/of als SaaS/IaaS/PaaS (Xaas) oplossingen afgenomen kunnen worden inclusief advies, vernieuwing, beheer en onderhoud. Opdrachtnemer is bereid en in staat alle op de markt verkrijgbare standaard gebruiksrechten (licenties) en onderhoud op gebruiksrechten (licenties en/of software assurance) te leveren van de eindfabrikanten of softwareleveranciers. Van de opdrachtnemer wordt geëist dat deze standaardsoftware rechtstreeks inkoopt bij fabrikant of een door de fabrikant aangewezen distributiekanaal. Het betreft nadrukkelijk géén maatwerksoftware, maar standaardsoftware, oftewel software waarvoor geen doorontwikkeling bij aanschaf voor een specifieke klant nodig is. Zie de aanbestedingsdocumenten",
       "cpv": "72260000",
       "pays": "NLD",
-      "deadline": "2026-06-15",
+      "deadline": "2026-06-17",
       "montant": 0,
-      "publication": "2026-05-18",
+      "publication": "2026-05-08",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/335552-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/318383-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -593,18 +565,18 @@
       "auto": true
     },
     {
-      "id": "318383-2026",
-      "ref": "318383-2026",
-      "acheteur": "Gemeente Groningen",
-      "objet": "Pays-Bas – Services relatifs aux logiciels – Standaard Software Reseller 2026",
-      "description": "De opdracht betreft het verwerven van (conform Gemma/gemeentelijke) standaardsoftware (licenties) welke on premise en/of als SaaS/IaaS/PaaS (Xaas) oplossingen afgenomen kunnen worden inclusief advies, vernieuwing, beheer en onderhoud. Opdrachtnemer is bereid en in staat alle op de markt verkrijgbare standaard gebruiksrechten (licenties) en onderhoud op gebruiksrechten (licenties en/of software assurance) te leveren van de eindfabrikanten of softwareleveranciers. Van de opdrachtnemer wordt geëist dat deze standaardsoftware rechtstreeks inkoopt bij fabrikant of een door de fabrikant aangewezen distributiekanaal. Het betreft nadrukkelijk géén maatwerksoftware, maar standaardsoftware, oftewel software waarvoor geen doorontwikkeling bij aanschaf voor een specifieke klant nodig is. Zie de aanbestedingsdocumenten",
+      "id": "335552-2026",
+      "ref": "335552-2026",
+      "acheteur": "Gemeente Nijkerk",
+      "objet": "Pays-Bas – Services relatifs aux logiciels – Financieel Systeem",
+      "description": "De gemeente Nijkerk is voornemens om een overeenkomst af te sluiten met een samenwerkingspartner voor de levering en implementatie van een financieel systeem. Op het moment maakt de gemeente gebruik van ons huidige financiële systeem van leverancier Centric, maar deze overeenkomst loopt binnenkort af. We zijn op zoek naar een samenwerkingspartner die begrijpt waar onze behoeften liggen en die samen met ons ervoor zorgt dat we worden ondersteund bij het betrouwbaar, transparant en efficiënt uitvoeren van onze financiële taken. 1",
       "cpv": "72260000",
       "pays": "NLD",
-      "deadline": "2026-06-17",
+      "deadline": "2026-06-15",
       "montant": 0,
-      "publication": "2026-05-08",
+      "publication": "2026-05-18",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/318383-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/335552-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -618,46 +590,6 @@
         "com": 5,
         "admin": 7,
         "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "26-50411",
-      "ref": "26-50411",
-      "acheteur": "Comité national des actions sociales",
-      "objet": "MARCHÉ DE COMMISSAIRE AUX COMPTES (CAC), CERTIFICATION LÉGALE ET SERVICES ASSOCIÉS (SACC) POUR LES EXERCICES 2026-2031.",
-      "description": "MARCHÉ DE COMMISSAIRE AUX COMPTES (CAC), CERTIFICATION LÉGALE ET SERVICES ASSOCIÉS (SACC) POUR LES EXERCICES 2026-2031.",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-07-06",
-      "montant": 0,
-      "publication": "2026-05-23",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-50411",
-      "_boamp": {
-        "famille": "Marchés européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Audit",
-          "Expertise comptable"
-        ],
-        "departement": "78"
-      },
-      "segment": "Autre",
-      "keyword_hits": [
-        "certification services"
-      ],
-      "score": 60,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
       },
       "score_status": "cond",
       "notes": "",

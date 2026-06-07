@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-06-06T08:34:31.002Z",
+  "generated_at": "2026-06-07T08:55:46.962Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 25,
+      "matched": 21,
       "go": 0,
-      "generated_at": "2026-06-06T08:28:06.503Z"
+      "generated_at": "2026-06-07T08:49:18.927Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 1,
       "go": 0,
-      "generated_at": "2026-06-06T08:34:18.109Z"
+      "generated_at": "2026-06-07T08:55:28.889Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-06T08:34:30.950Z"
+      "generated_at": "2026-06-07T08:55:46.912Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 26,
+  "total_matched": 22,
   "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -128,27 +128,27 @@
       "auto": true
     },
     {
-      "id": "313316-2026",
-      "ref": "313316-2026",
-      "acheteur": "Gemeente Purmerend",
-      "objet": "Pays-Bas – Système d'information des passagers en temps réel – Vervanging, beheer en onderhoud DRIS-displays in Purmerend",
-      "description": "Levering levering, installatie en onderhoud/beheer van circa 80 stuks DRIS-displays ten behoeve van de gemeente Purmerend. Tot de opdracht behoort ook de demontage en het afvoeren van bestaande DRIS-displays. Dit voor zowel de DRIS-displays die worden vervangen, maar ook voor DRIS-displays die worden verwijderd, maar waar geen nieuwe DRIS-display voor terugkomt. Levering, installatie en beheer en onderhoud van circa 80 stuks DRIS-displays ten behoeve van de gemeente Purmerend. (DRIS: Dynamisch reis informatiesysteem).",
-      "cpv": "48813200",
+      "id": "340160-2026",
+      "ref": "340160-2026",
+      "acheteur": "Afeer",
+      "objet": "Pays-Bas – Services de gestion et d'assistance relatifs aux réseaux de données – Netwerkbeheer Afeer",
+      "description": "Afeer beschikt over een bestaand netwerk met producten uit het Aruba Portfolio. Alle apparatuur is opgenomen in het management platform van Aruba, genaamd Aruba Central, wat een omgeving creëert, die met één cloud applicatie te beheren en te monitoren is, ook wel SD-BRANCH genaamd. Wij zijn op zoek naar een gespecialiseerde leverancier die verantwoordelijk wordt voor het beheer, onderhoud, monitoring en beveiliging van onze netwerkoplossing, maar ook een leverancier die qua omvang en cultuur bij ons past. De leverancier draagt zorg voor een proactieve bewaking van de omgeving, een snelle en deskundige reactie bij incidenten, en draagt bij aan het up-to-date en veilig houden van de netwerkinfrastructuur. Deze opdracht is een overheidsopdracht met een geraamde waarde van € 450.000 exclusief BTW per jaar. Er kunnen geen rechten ontleend worden aan deze raming.",
+      "cpv": "72315000",
       "pays": "NLD",
       "deadline": "",
-      "montant": 3778,
-      "publication": "2026-05-07",
+      "montant": 494,
+      "publication": "2026-05-19",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/313316-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/340160-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
       "bureautique": true,
-      "score": 72,
+      "score": 70,
       "score_detail": {
         "fit": 30,
-        "size": 15,
+        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -159,27 +159,27 @@
       "auto": true
     },
     {
-      "id": "313626-2026",
-      "ref": "313626-2026",
-      "acheteur": "Gemeente Halderberge",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Softwarebroker",
-      "description": "Gemeente Halderberge heeft het voornemen een raamovereenkomst te sluiten met één softwarebroker. Deze softwarebroker fungeert als intermediair en strategisch partner en treedt op als deskundige en belangenbehartiger richting de softwaremarkt. De softwarebroker ondersteunt de gemeente bij het realiseren van een toekomstbestendig, transparant en beheersbaar applicatielandschap dat aansluit bij de omvang, behoeften en strategische koers van de organisatie. Gemeente Halderberge maakt op dit moment gebruik van verschillende standaardapplicaties. Deze zijn opgenomen in bijlage 3 van de aanbestedingsdocumenten. De softwarebroker moet in staat zijn al deze programmatuur, mits geautoriseerd door de betreffende producent, te leveren. De geschatte opdrachtwaarde bedraagt circa € 1.500.000,00 excl. BTW per jaar. Dit is echter wel een indicatie. Hier kunnen dan ook geen rechten aan ontleend worden.",
-      "cpv": "72000000",
+      "id": "340167-2026",
+      "ref": "340167-2026",
+      "acheteur": "Koninklijke Bibliotheek",
+      "objet": "Pays-Bas – Services d'audit informatique et services d'essai informatique – Digitale toegankelijkheid audits, consultancy & trainingen",
+      "description": "De KB is binnen onderhavige Aanbesteding op zoek naar één Opdrachtnemer voor de uitvoering van Digitale toegankelijkheid audits, consultancy & trainingen. Opdrachtnemer dient de Opdracht uit te voeren in overeenstemming met het Programma van Eisen, zie Bijlage 1. Rekening houdend met indexeringen en een eventuele toename van de behoefte van de KB wordt de maximale omvang van de Raamovereenkomst (voor de gehele looptijd van 4 jaar) geraamd op € 300.000 exclusief btw.",
+      "cpv": "72800000",
       "pays": "NLD",
       "deadline": "",
-      "montant": 15000,
-      "publication": "2026-05-07",
+      "montant": 300,
+      "publication": "2026-05-19",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/313626-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/340167-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
       "bureautique": true,
-      "score": 72,
+      "score": 70,
       "score_detail": {
         "fit": 30,
-        "size": 15,
+        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -469,68 +469,6 @@
       "auto": true
     },
     {
-      "id": "314423-2026",
-      "ref": "314423-2026",
-      "acheteur": "stad Kortrijk",
-      "objet": "Belgique – Services de fourniture de logiciels – Software burgerzaken voor de stad Kortrijk",
-      "description": "Voorwerp van deze diensten: Levering, implementatie en onderhoud van een beheerstoepassing Burgerzaken. Stad Kortrijk wenst met deze opdracht een nieuwe beheerstoepassing aan te kopen die beter kan beantwoorden aan de noden van alle belanghebbenden. Het gaat hierbij om het bestuur en haar vertegenwoordigers, medewerkers, de lokale politiezone, … maar vooral haar externe klanten: Burgers. De belanghebbende verwachten steeds efficiëntere en effectieve dienstverlening en daarop wensen we met een nieuwe toepassing beter te voldoen. Voor medewerkers oriënteert deze verwachting zich in één laagdrempelige toepassing of uniforme interface om zo een maximale inzetbaarheid mogelijk te maken. Voor burgers sluit de verwachting aan bij de digitale dienstverleningsstrategie van de Vlaamse Overheid en wenst Stad Kortrijk sterk in te zetten op het gebruik van de Vlaamse bouwstenen die worden aangeleverd door Digitaal Vlaanderen. De aangeboden oplossing moet te allen tijde voldoen aan de algemene onderrichtingen die werden bepaald door de Federale Overheidsdiensten in het domein Burgerzaken. Ze kan zich vlot integreren in de bestaande architectuur en met huidige toepassingen door uit te gaan van een open-data en API-filosofie met voldoende interoperabiliteit.",
-      "cpv": "72268000",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-05-07",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/314423-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "314736-2026",
-      "ref": "314736-2026",
-      "acheteur": "Thuispunt Gent bv",
-      "objet": "Belgique – Services d'aide aux utilisateurs et services d'assistance – Exploitatie van een Multikanaal helpdesk",
-      "description": "Deze opdracht heeft betrekking op de exploitatie van een Multikanaal Helpdesk voor Thuispunt Gent 24 uur op 24 uur – 7 dagen op 7. De opdracht omvat de exploitatie van een telefonische en digitale helpdesk, waarbij opgeleide onthaalmedewerkers op een klantvriendelijke, inhoudelijke, kwalitatieve en efficiënte manier worden ingezet voor de behandeling van inkomende en uitgaande contacten via diverse kanalen. Daarnaast omvat de opdracht de rekrutering, opleiding, supervisie, monitoring en coaching van de onthaalmedewerkers en het aanleveren van gegevens over deze activiteiten. Thuispunt Gent is een erkende woonmaatschappij met werkingsgebied Gent en beheert ruim 10.500 wooneenheden. Thuispunt Gent biedt diverse vormen van dienstverlening en zet daarbij meerdere kanalen in om zijn centrale communicatie- en informatierol te vervullen. Kandidaat-huurders, huurders en ex-huurders nemen zowel telefonisch als digitaal contact op met Thuispunt Gent met uiteenlopende vragen. Deze hebben onder meer betrekking op technische meldingen aan de woning, het huurcontract (zoals inschrijving en plaats op de wachtlijst) en betalingen van huur, huurlasten of herstellingsfacturen. Daarnaast richt de dienstverlening zich ook tot andere doelgroepen, zoals kandidaat-eigenaars, eigenaars (in het kader van het inhuren van woningen), leveranciers en buurtbewoners. Via deze kanalen wordt volgende informatie verstrekt: • Eerstelijnsinformatie: Basisinformatie over dienstverlening, met antwoorden op veel gestelde vragen. • Statusinformatie over dossiers: voor bepaalde thema’s wordt de stand van zaken van dossiers meegedeeld, zonder dat er wijzigingen in deze dossiers worden aangebracht. • Informatie op maat en begeleiding: Voor specifieke vragen wordt gerichte ondersteuning geboden, zoals: - het maken, wijzigen of verplaatsen van afspraken; - het registreren en aanmaken van meldingen van herstellingsaanvragen of defecten aan de woning of gemeenschappelijke delen via de facilitymanagementsoftware Planon. Er wordt hierbij een onderscheid gemaakt in bereikbaarheid - enerzijds de bereikbaarheid op weekdagen tussen 8u en 20u, waarin het merendeel van de contactopnames wordt behandeld; - anderzijds een permanentieregeling tussen 20u en 8u (’s nachts), evenals tijdens weekenddagen en officiële Belgische feestdagen. Tijdens deze permanentieregeling is de opdrachtgever uitsluitend telefonisch bereikbaar voor technische noodgevallen en staat opdrachtnemer in voor het opvangen en doorverwijzen van deze dringende technische noodgevallen. Deze opdracht is een opdracht van diensten in de zin van art. 2, 21° van de wet overheidsopdrachten.",
-      "cpv": "72253000",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-05-07",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/314736-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "328501-2026",
       "ref": "328501-2026",
       "acheteur": "Région Hauts-de-France",
@@ -686,38 +624,6 @@
       "auto": true
     },
     {
-      "id": "314658-2026",
-      "ref": "314658-2026",
-      "acheteur": "Conseil Départemental de l'Essonne",
-      "objet": "France – Services de développement de logiciels divers et systèmes informatiques – Mise en place d'outils informatiques de développement des ressources humaines",
-      "description": "Le présent accord-cadre a pour objet l'acquisition, la mise en place, les formations nécessaires correspondantes, l'évolution, l'hébergement, la maintenance et l'assistance d'une solution logicielle de Système d'Information Ressources Humaines (SIRH) ainsi que les modules associés à cette solution, pour le Département de l'Essonne. L'outil doit inclure un logiciel gérant la gestion des RH de l'embauche de l'agent, du suivi de son dossier jusqu'à son départ en inactivité, le suivi de la formation, des entretiens, et intégrer un service d'aide à la gestion des ressources humaines (en incluant les obligations réglementaires). Trois modules distincts : Module de Gestion Prévisionnelle des Emplois et des Compétences (GPEC), Module de gestion des formations professionnelles, Module de gestion des entretiens professionnels",
-      "cpv": "72212900",
-      "pays": "FRA",
-      "deadline": "2026-06-01",
-      "montant": 630,
-      "publication": "2026-05-07",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/314658-2026",
-      "segment": "Collectivités",
-      "keyword_hits": [
-        "GPEC",
-        "gestion prévisionnelle des emplois"
-      ],
-      "bureautique": false,
-      "score": 62,
-      "score_detail": {
-        "fit": 25,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "26-50411",
       "ref": "26-50411",
       "acheteur": "Comité national des actions sociales",
@@ -744,37 +650,6 @@
       "keyword_hits": [
         "certification services"
       ],
-      "score": 60,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "312507-2026",
-      "ref": "312507-2026",
-      "acheteur": "CAISSE CENTRALE MSA",
-      "objet": "France – Services de santé – Programme ambulatoire d'éducation thérapeutique de la MSA ciblant les maladies cardio neurovasculaires et leurs facteurs de risque associés",
-      "description": "La prestation du Lot 1, réalisée par le titulaire, devra s’articuler avec le prestataire du Lot 2 pour les outils pédagogiques et respecter la méthodologie d’élaboration du programme décrite ci-dessous. À ce titre, le candidat devra apporter dans son offre des éléments méthodologiques et descriptifs pour chacune des étapes détaillées ci-dessous. Ces éléments devront démontrer la qualité, la pertinence et l’adaptabilité de la démarche proposée, en particulier pour la population ciblée : les patients cardio-neurovasculaires et/ou présentant des facteurs de risque associés, avec une approche reposant sur : • Des thématiques socles, à destination de l’ensemble de la population cible, portant au moins sur : l’alimentation et activité physique, la santé mentale et les conduites addictives ; • Des fiches pédagogiques par pathologie, mobilisables par les équipes éducatives en fonction des besoins, centrées sur l’auto-soins. • Des sessions d’ETP adaptés à toutes les populations, notamment les plus vulnérables et répondant aux besoins de ces populations (ex. santé cardiovasculaire des femmes). / Les outils pédagogiques sont destinés à accompagner la mise en œuvre des sessions d’ETP. Ils visent à uniformiser les contenus éducatifs et les messages, tout en fournissant aux patients des supports complémentaires tels que des aides à la décision, des aide-mémoires ou d’autres documents enrichissant la séance. Des différents types d’outils pédagogiques de programme d’ETP ont été recensés, notamment : • Supports d’information : affiches, brochures, synthèses, etc… • Supports d’animation : classeurs imagiers, bandes audio ou vidéo, cédéroms, brochures, représentations d’objets du quotidien, matériel de soins, jeux pédagogiques, etc… / Le présent lot constitue un marché national. Chaque prestataire pourra être retenu en fonction de son périmètre d’intervention, tel que précisé dans son offre. Ainsi, plusieurs titulaires pourront être sélectionnés pour ce lot, en fonction de leur zone géographique de couverture. La formation visera à former de nouvelles équipes éducatives issues de structures d’exercice coordonné dans la mise en œuvre du nouveau programme d’ETP ambulatoire MSA, ainsi que des équipes déjà formées à l’ETP 40 heures, qui bénéficieront d’une actualisation de leurs compétences selon ce même programme. Elle sera organisée en présentiel et distanciel et devra s’inscrire dans le cadre du DPC et validera la formation ETP 40 heures. / Le prestataire devra réaliser l’évaluation quadriennale du programme d’ET3P et du nouveau programme d’ETP ambulatoire MSA. Les données à analyser comprendront l’analyse des données d’évaluation des sessions d’ETP : • Le traitement des données recueillies par tableaux Excel du programme ET3P MSA • Le recueil et traitement de données qualitatives à recueillir par le prestataire • Le traitement des données produites dans le cadre du nouveau programme ETP ambulatoire MSA et des données qualitatives à recueillir par le prestataire (Lot 1).",
-      "cpv": "85100000",
-      "pays": "FRA",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-05-07",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/312507-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Excel"
-      ],
-      "bureautique": true,
       "score": 60,
       "score_detail": {
         "fit": 25,

@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-06-07T08:55:46.962Z",
+  "generated_at": "2026-06-08T10:33:54.684Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 21,
+      "matched": 23,
       "go": 0,
-      "generated_at": "2026-06-07T08:49:18.927Z"
+      "generated_at": "2026-06-08T10:27:27.566Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 1,
       "go": 0,
-      "generated_at": "2026-06-07T08:55:28.889Z"
+      "generated_at": "2026-06-08T10:33:33.715Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-07T08:55:46.912Z"
+      "generated_at": "2026-06-08T10:33:54.630Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 22,
+  "total_matched": 24,
   "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -34,6 +34,68 @@
     "fuzzy_jaccard": 0
   },
   "notices": [
+    {
+      "id": "342824-2026",
+      "ref": "342824-2026",
+      "acheteur": "Ministerie van Defensie",
+      "objet": "Pays-Bas – Services de formation dans le domaine de la sécurité – Computer Assisted eXercise (CAX) Cybernet",
+      "description": "De opdracht betreft het opzetten, begeleiden en evalueren van een CAX oefening in een virtuele omgeving, waarin door middel van scenario’s defensieve en offensieve cyber-skills worden getraind. Samenvattend: het verzorgen van de jaarlijkse Computer Assisted eXercise (CAX) Cybernet oefening. Deze aanbesteding is het gevolg van het aflopen van de huidige Raamovereenkomst. Deze Europese openbare aanbesteding heeft tot doel het sluiten van één raamovereenkomst met één Opdrachtnemer voor het uitvoeren van diensten. Voor een uitvoerige beschrijving van de opdracht wordt verwezen naar het Programma van eisen als opgenomen in de Bijlage 3 van deze Aanbestedingsleidraad.",
+      "cpv": "80550000",
+      "pays": "NLD",
+      "deadline": "2026-07-06",
+      "montant": 1800,
+      "publication": "2026-05-19",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/342824-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "342854-2026",
+      "ref": "342854-2026",
+      "acheteur": "Gemeente Zaanstad",
+      "objet": "Pays-Bas – Services de développement de logiciels de gestion d'internet et d'intranet – Sociaal intranet",
+      "description": "Gemeente Zaanstad heeft al 10 jaar een sociaal intranet. Het is de spil van de interne communicatie middelenmix. Medewerkers weten niet beter dan dat ze op het intranet zelf berichten kunnen plaatsen, vragen stellen en organisatie nieuws en organisatie informatie kunnen vinden. Zie aanbestedingsdocumenten. Hiervoor geldt een plafondbedrag van € 80.000, - excl. BTW per jaar. Indien dit bedrag in de inschrijving wordt overschreden wordt de inschrijving terzijde gelegd en niet meegenomen voor de verdere beoordeling.",
+      "cpv": "72212220",
+      "pays": "NLD",
+      "deadline": "2026-08-20",
+      "montant": 800,
+      "publication": "2026-05-19",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/342854-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
     {
       "id": "326531-2026",
       "ref": "326531-2026",
@@ -283,31 +345,31 @@
       "auto": true
     },
     {
-      "id": "318293-2026",
-      "ref": "318293-2026",
-      "acheteur": "Gemeente Breda",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Europese aanbesteding robotic process automation dienstverlening gemeente Breda",
-      "description": "Procedure Aanbesteding middels de Europees openbare procedure conform de (gewijzigde) aanbestedingswet 2012. Opdrachtgever De opdrachtgever bij deze aanbesteding is de Gemeente Breda.  Voor meer informatie over de Gemeente Breda verwijzen wij u naar de website van de gemeente: www.breda.nl. Breda is een grotere gemeente in Nederland met een rijke historie en een mooie toekomst. Alle medewerkers van de gemeente Breda werken elke dag hard om die mooie toekomst vorm te geven. Dat gebeurt onder meer door op het gebied van automatisering state-of-the-art oplossingen te bieden waar alle inwoners en bezoekers van profiteren. Daarom gebruikt Breda Robotic Process Automation (RPA) om bepaalde processen efficiënter te laten verlopen. RPA is in Breda ingebed in het Automation team dat naast RPA ook AI als aandachtsgebied heeft. Gemeente Breda is sinds 2020 gestart met RPA en heeft inmiddels 9 robots operationeel. De gemeente wil graag verder groeien in automatisering en digitale innovaties. Bijvoorbeeld door hyperautomation in te zetten waarbij AI & RPA gecombineerd wordt met als doel dat interne processen nog efficiënter worden door repeterende administratieve werkzaamheden te automatiseren. De RPA-robots zijn inmiddels zo belangrijk geworden dat het belangrijk is dat continuïteit is geborgd. Hier loopt de gemeente inmiddels een risico, dat via een aanbesteding moet worden opgelost. Opdracht Het doel van de gemeente Breda is om een partij te vinden die zelfstandig het onderhoud en beheer uitvoert op de verschillende robots die ingebed zijn in het Bredase systeemlandschap. De robots zijn ontwikkeld m.b.v. UIPath.   Wanneer Breda zelf niet in staat is om problemen te verhelpen, moet de gemeente kunnen terugvallen op de gekozen partij. Daarnaast zal de partij in voorkomend geval gevraagd worden om nieuwe robots te ontwikkelen n.a.v. een door Breda aangeleverd ontwerp.   Percelen Deze opdracht is niet verdeeld in percelen. Doel Het doel van deze aanbesteding is om voor de levering van deze diensten een raamovereenkomst te sluiten met een looptijd van twee jaar. De opdrachtgever heeft eenzijdig het recht deze tweemaal met één jaar te verlengen. De besluitvorming ten aanzien van deze verlenging(en) geschiedt op basis van evaluatie van de geleverde prestatie. Maximale contractwaarde  De maximale opdrachtwaarde in het kader van deze raamovereenkomst wordt gesteld op EUR 660.000,- bezien over de looptijd van de overeenkomst, inclusief verlengingsopties en herzieningsclausule. Aan het genoemde bedrag kunnen geen rechten worden ontleend. Voor opdrachtgever geldt geen afnameverplichting. Mocht gedurende de looptijd van de raamovereenkomst de maximale opdrachtwaarde worden overschreden dan kan de raamovereenkomst (eerder) worden beëindigd. Mercell Deze aanbesteding zal uitsluitend en geheel digitaal online worden afgehandeld via het Mercell platform (www.mercell.com). Een uitgebreide instructie met betrekking tot digitaal aanbesteden treft u aan in de Vragenlijsten.",
-      "cpv": "72000000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 660,
-      "publication": "2026-05-08",
+      "id": "342598-2026",
+      "ref": "342598-2026",
+      "acheteur": "Presidencia de la Autoridad Portuaria de la Bahía de Algeciras",
+      "objet": "Espagne – Logiciels de bureautique – Suministro de licencias Office 365 2026-2029",
+      "description": "Suministro de licencias Office 365 2026-2029",
+      "cpv": "48920000",
+      "pays": "ESP",
+      "deadline": "2026-06-18",
+      "montant": 1119,
+      "publication": "2026-05-19",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/318293-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/342598-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Word"
+        "Office 365"
       ],
       "bureautique": true,
-      "score": 70,
+      "score": 69,
       "score_detail": {
         "fit": 30,
-        "size": 13,
+        "size": 15,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 3
+        "delay": 0
       },
       "score_status": "cond",
       "notes": "",
@@ -376,6 +438,69 @@
       "auto": true
     },
     {
+      "id": "345949-2026",
+      "ref": "345949-2026",
+      "acheteur": "Medizinisches Zentrum für Gesundheit Bad Lippspringe gGmbH (MZG) / Karl-Hansen-Klinik GmbH",
+      "objet": "Allemagne – Imprimantes et traceurs – Outputmanagement / KDF-Systeme",
+      "description": "Der Auftragnehmer ist ein IT-Dienstleister mit weitgehender Erfahrung im Bereich der Bereitstellung von Dokumentenverarbeitungsgeräten und der Erbringung von Full-Service-Dienstleistungen. Der Auftragnehmer übernimmt die Gesamtverantwortung für die Funktionalität und die volle Integrationsfähigkeit der Dokumentenverarbeitungsgeräte in die vorhandene und geplante EDV-Landschaft der Auftraggeber. Ebenso sichert er die Betriebssicherheit der Dokumentenverarbeitungsgeräte zu und garantiert deren Einsatzbereitschaft im vorgegebenen Zeitrahmen. Erfüllungsort für alle Leistungen sind die Standorte der Auftraggeber, die beim jeweiligen Abruf aus der Rahmenvereinbarung benannt werden. Alle Hauptstandorte der Auftraggeber sind per Glasfasernetz untereinander verbunden. Es ist ein Hauptprint Server mit Win 2022 vor Ort installiert. Alle Desktop PCs und Latops arbeiten mit Windows 11 64bit. Alle PC-Arbeitsplätze müssen mit MS Office 365, Standard Drittanbietersoftware, Klinikinformationssystem Orbis, Meditec, div. drucken. Alle Leistungen erfolgen nach Vorgaben des MZG frei Haus. Das Transportrisiko geht zu Lasten des Auftragnehmers. Transport- und Verpackungsmaterial sind auf Anforderung sofort bei Lieferung aus den Räumlichkeiten des Bedarfsträgers zu entfernen und umweltgerecht zu verwerten / entsorgen; eine Zwischenlagerung ist nicht möglich. Der Auftragnehmer übernimmt die Organisation sowie die Kosten der Rücknahme und der Entsorgung. Für die vorgenannten Leistungen wird keine zusätzliche Gebühr berechnet, die entsprechenden Kosten sind in den Angebotspreisen berücksichtigt. Die Rahmenvereinbarung hat eine Laufzeit von 48 Monaten. Eine Vertragsverlängerung ist nicht vorgesehen. Die Abrufe aus der Rahmenvereinbarung werden in schriftlicher Form durch die Auftraggeber in Form einer Bestellung ausgelöst. Die weiteren Details sind der Rahmenvereinbarung (Teil C) zu entnehmen. Da bei der Durchführung der Rahmenvereinbarung personenbezogene Daten im Sinne des Art. 4 Nr. 1 der Datenschutzgrundverordnung (DSGVO) verarbeitet werden, muss sich der Auftragnehmer zur Einhaltung der jeweils einschlägigen datenschutzrechtlichen Bestimmungen der Europäischen Union (insb. der DSGVO), des Bundes (Bundesdatenschutzgesetz - BDSG) sowie des Landes Nordrhein-Westfalen (Datenschutzgesetz Nordrhein-Westfalen - DSG NRW) verpflichten. Zu diesem Zweck schließt er einen Vertrag zur Auftragsverarbeitung nach Art. 28 DSGVO mit den Auftraggebern. Auf Grundlage der Rahmenvereinbarung können die Auftraggeber während deren Laufzeit einzelne Bestellungen über die mietweise Überlassung der Dokumentenverarbeitungsgeräte einschließlich der jeweils zugehörigen Serviceleistungen abrufen (nachfolgend jeweils \"Einzelbestellung\"). Die Auftraggeber sind berechtigt, jede Einzelbestellung einschließlich der zugehörigen Serviceleistungen erstmals zum Ablauf von 24 Monaten ab dem in der jeweiligen Einzelbestellung bestimmten Leistungsbeginn ordentlich zu kündigen. Die Kündigung ist mit einer Frist von drei (3) Monaten zum Monatsende in Textform zulässig. Die Kündigung einer Einzelbestellung beendet ausschließlich die hiervon erfasste Einzelbestellung einschließlich der zugehörigen Serviceleistungen. Die Ausstattung der einzelnen Standorte mit den vertraglich vereinbarten Druck- und Multifunktionssystemen erfolgt im Rahmen eines abgestimmten Roll-out-Prozesses. Der Roll-out-Prozess beginnt unverzüglich nach Zuschlagserteilung. Der Roll-out wird jeweils durch eine schriftliche Einzelbestellung des Auftraggebers ausgelöst. Der Auftragnehmer verpflichtet sich, den durch die jeweilige Bestellung initiierten Roll-out-Prozess spätestens innerhalb von 6 Wochen nach Zugang der vollständigen Bestellung abzuschließen. Als abgeschlossen gilt der Roll-out, sobald die Systeme am jeweiligen Standort angeliefert, installiert, konfiguriert, betriebsbereit übergeben und durch den Auftraggeber abgenommen wurden. Verzögerungen, die ausschließlich auf fehlende oder verspätete Mitwirkungshandlungen des Auftraggebers zurückzuführen sind, verlängern die Frist entsprechend. Die im Preisblatt gem. Vordruck Anlage B.1 zu Teil B ausgewiesenen Mengenangaben basieren auf der statistischen Auswertung der Auftraggeber, die für den Zeitraum der Leistungserbringung repräsentativ sind, aber lediglich als Anhaltspunkt für die tatsächlich anfallenden Mengen dient. Es ist in jedem Fall der komplette Bedarf zu decken. Aus der Angabe des geschätzten Gesamtwerts sowie des dort geschätzten Leistungsumfangs pro Jahr kann keine Verpflichtung der Auftraggeber zur Beauftragung eines bestimmten Leistungsumfangs oder Mindestumfang der Dienstleistungen abgeleitet werden. Der Auftragnehmer kann aus dem Nichtabruf des geschätzten Gesamtwerts und des geschätzten Leistungsumfangs pro Jahr keine Ansprüche auf Schadensersatz oder sonstige Ansprüche ableiten. Die Auftraggeber sind insbesondere berechtigt, im erforderlichen und in einem den Rahmenvereinbarungspartnern zumutbaren Umfang und innerhalb ihrer Leistungsfähigkeit das geschätzte Auftragsvolumen der Rahmenvereinbarung gemäß EU-Bekanntmachung um maximal 50% des ursprünglich geschätzten Auftragsvolumens jeweils positionsspezifisch zu erhöhen, wenn a) dies zur fachgerechten Erbringung der von der Rahmenvereinbarung erfassten Leistungen im Geltungsbereich und während der Laufzeit der Rahmenvereinbarung erforderlich ist oder b) für die Leistungserbringung relevante rechtliche oder regulatorische Vorgaben, einschließlich Feststellungen oder Anordnungen der die Auftraggeber beaufsichtigenden Stellen, eine Änderung des Bedarfs der Auftraggeber nach sich ziehen oder c) grundlegende betriebliche Entscheidungen der Auftraggeber über Erweiterungen der Klinikabschnitte zu einem erhöhten Patientenaufkommen und damit zu einer Anpassung des Beschaffungsbedarfs führen. Wegen der weiteren Einzelheiten wird auf die Vergabeunterlagen, insbesondere die Leistungsbeschreibung (Teil B) und die Vertragsunterlagen (Teil C) verwiesen.",
+      "cpv": "30232100",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-20",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/345949-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Office 365"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "341636-2026",
+      "ref": "341636-2026",
+      "acheteur": "Medizinische Universität Lausitz - Carl Thiem KdöR",
+      "objet": "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Beschaffung von Entwicklungsleistungen für die Digitalisierung der akademischen Verwaltung auf Basis des koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint",
+      "description": "5.1. Art und Umfang der zu erbringenden Leistungen Die MUL-CT strebt beim Aufbau der digitalen Universität an, akademische Verwaltungsprozesse zukünftig im koellisch-toolkit/koellisch-core-framework auf Office365/Sharepoint umzusetzen. Dabei wird die Entwicklung einer performanten Informationstechnologie & Aufbau digitaler Plattformen für die akademische Verwaltung definiert, um durch Digitalisierung und Automatisierung schlanke und digitale Verwaltungsprozesse direkt von Beginn an zu entwickeln. Die durch den Auftragnehmer zu erbringende Leistungen beinhaltet die Entwicklung von akademischen Verwaltungsprozessen auf Basis von dem koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint. 5.1.1. zu erbringende Dienstleistungen Folgende Aufgaben sind durch das Projektteam des Auftragnehmers in den zu beauftragenden Projekten zu erbringen: - Architektur & Konzeption: Entwicklung, Implementierung und Weiterentwicklung von digitalen Verwaltungslösungen für die Universität auf Basis des koellisch-Toolkit/Core Framework in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Workflow-Entwicklung: Konzeption und Umsetzung komplexer Workflows inkl. Fristen- und Mandatsverwaltung, Abstimmungs- und Dokumentationsprozessen sowie digitale Akten mit rechtssicherer Dokumentation - Schnittstellen & Integration: Design und Realisierung von Anbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Fehleranalyse & Wartung: Analyse und Behebung von Lösungsfehlern im Ticketsystem inkl. Eskalationsmanagement - Testing & Qualitätsmanagement: Steuerung von Test- und Rollout-Phasen, Qualitätssicherung und Erstellung technischer Dokumentationen - IT-Projektleitung: Übernahme von (Teil-)Projektleitungen im Rahmen der Digitalisierungsprojekte der MUL-CT Tätigkeiten, die während der Digitalisierungsvorhaben der MUL-CT zu erwarten und von jeweiligen Entwickler:in köllisch-toolkit/köllisch-core-framework zu übernehmen sind: - Konzeption, Implementierung und Weiterentwicklung von Lösungen auf Basis des köllisch-Toolkit/Core Frameworks in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Realisierung von Workflows und digitalen Akten inkl. Fristen- und Mandatsverwaltung, rechtssicherer Dokumentation, Abstimmungs- und Sitzungsorganisation - Analyse und Behebung von Lösungsfehlern im Rahmen des Ticketsystems, inkl. Eskalationsmanagement und Support bei Fehlertickets - Mitwirkung bei Schnittstellenanbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Übernahme von (Teil-)Projektleitungen in Digitalisierungsprojekten inkl. Steuerung von Test- und Rollout-Phasen - Planung, Durchführung und Dokumentation von Test- und Qualitätssicherungsmaßnahmen (funktionales Testing, Abnahmetests, Regressionstests) - Durchführung von Schulungen und Workshops für unterschiedliche Zielgruppen (Key-User, Gremienmitglieder, Verwaltung, interne IT) - Coaching und Training interner IT-Mitarbeitender zur Förderung des nachhaltigen Kompetenzaufbaus",
+      "cpv": "72000000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-19",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/341636-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Microsoft Office",
+        "Office 365"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "334836-2026",
       "ref": "334836-2026",
       "acheteur": "Kansspelautoriteit",
@@ -419,37 +544,6 @@
       "publication": "2026-05-12",
       "source": "TED",
       "url": "https://ted.europa.eu/fr/notice/-/detail/326027-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "318562-2026",
-      "ref": "318562-2026",
-      "acheteur": "Rijkswaterstaat Water, Verkeer en Leefomgeving",
-      "objet": "Pays-Bas – Services d'analyse stratégique de systèmes ou de technologies de l'information – Redactie Verkeer in Nederland",
-      "description": "Dit project betreft de redactie van het boekje ‘Verkeer in Nederland’. Het gaat daarbij om het verzamelen en bestuderen van het bronmateriaal en het schrijven, controleren en aanpassen van teksten. De onderwerpen worden in overleg met de opdrachtgever vastgesteld, maar in ieder geval gaat het om het beschrijven van actuele thema’s, pilots op het gebied van verkeersmanagement en smart mobility, interessante wetenschappelijke inzichten en een overzicht van programma’s en samenwerkingsverbanden. 48 maanden",
-      "cpv": "72222100",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-05-08",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/318562-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -593,37 +687,6 @@
       "auto": true
     },
     {
-      "id": "318383-2026",
-      "ref": "318383-2026",
-      "acheteur": "Gemeente Groningen",
-      "objet": "Pays-Bas – Services relatifs aux logiciels – Standaard Software Reseller 2026",
-      "description": "De opdracht betreft het verwerven van (conform Gemma/gemeentelijke) standaardsoftware (licenties) welke on premise en/of als SaaS/IaaS/PaaS (Xaas) oplossingen afgenomen kunnen worden inclusief advies, vernieuwing, beheer en onderhoud. Opdrachtnemer is bereid en in staat alle op de markt verkrijgbare standaard gebruiksrechten (licenties) en onderhoud op gebruiksrechten (licenties en/of software assurance) te leveren van de eindfabrikanten of softwareleveranciers. Van de opdrachtnemer wordt geëist dat deze standaardsoftware rechtstreeks inkoopt bij fabrikant of een door de fabrikant aangewezen distributiekanaal. Het betreft nadrukkelijk géén maatwerksoftware, maar standaardsoftware, oftewel software waarvoor geen doorontwikkeling bij aanschaf voor een specifieke klant nodig is. Zie de aanbestedingsdocumenten",
-      "cpv": "72260000",
-      "pays": "NLD",
-      "deadline": "2026-06-17",
-      "montant": 0,
-      "publication": "2026-05-08",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/318383-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "26-50411",
       "ref": "26-50411",
       "acheteur": "Comité national des actions sociales",
@@ -664,33 +727,33 @@
       "auto": true
     },
     {
-      "id": "317822-2026",
-      "ref": "317822-2026",
-      "acheteur": "InnovaPuglia S.p.A.",
-      "objet": "Italie – Services de programmation et de conseil en logiciels – Procedura aperta per l'acquisizione del SIA",
-      "description": "SERVIZI DI CONFIGURAZIONE, GESTIONE, ASSISTENZA E MANUTENZIONE DELL’ECOSISTEMA INFORMATIVO AZIENDALE E DI ASSISTENZA IN MATERIA CONTABILE, FISCALE, TRIBUTARIA, PREVIDENZIALE, DI GESTIONE AMMINISTRATIVA DEL PERSONALE E DI ELABORAZIONE DELLE BUSTE PAGA",
-      "cpv": "72200000",
-      "pays": "ITA",
-      "deadline": "2026-06-08",
-      "montant": 753,
-      "publication": "2026-05-08",
+      "id": "343216-2026",
+      "ref": "343216-2026",
+      "acheteur": "Land Saarland",
+      "objet": "Allemagne – Services de certification de signature électronique – Signaturkarten_Saarland_2026",
+      "description": "Bei den saarländischen Gerichten und Staatsanwaltschaften ist der elektronische Rechtsverkehr nahezu flächendeckend eröffnet. In fast allen Arbeitseinheiten ist die elektronische Aktenführung ausgerollt. Darüber hinaus sind auch die weiteren Behörden des Geschäftsbereichs der saarländischen Justiz zur Teilnahme am Elektronischen Rechtsverkehr. befähigt. Im Rahmen dessen fallen – kraft bundesgesetzlicher Vorgaben – Signiervorgänge an. Erwägungen zur Einführung einer elektronischen Gefangenenpersonalakte im Justizvollzug werden möglicherweise zur Einbeziehung einer weiteren Personengruppe in den Nutzerkreis von Signaturkarten führen. Eine weitere Erhöhung könnte sich ergeben, falls es vom Auftraggeber als notwendig erachtet wird, dass bestimmte Bedienstete eine Zweitsignaturkarte erhalten. Mit diesem Rahmenvertrag sollen Signaturkarten mit integrierten qualifizierten Zertifikaten zur Erstellung einer qualifizierten elektronischen Signatur für das Ministerium der Justiz (Auftraggeber) und seinen Geschäftsbereich, umfassend insbesondere die Gerichte, Staatsanwaltschaften, Justizvollzugsanstalten und sonstigen Einrichtungen der Justiz, (Bedarfsstellen) beschafft werden. Die Signaturkarten werden im Rahmen von qualifizierten elektronischen Signaturerstellungseinheiten nach Art. 3 Nr. 23 eIDAS-Verordnung (EU) Nr. 910/2014 zum Einsatz kommen und dem schriftformersetzenden Signieren von elektronischen Dokumenten dienen. Die Feststellung der Identität des Kartenantragstellers erfolgt beim Auftraggeber über das sogenannte Behörden-Ident-Verfahren, bei welchem die Identität der Kartenantragsteller gerichts- und behördenintern von den jeweiligen Bedarfsstellen bestätigt wird. Mit Ablauf des 19.09.2026 endet der bisherige Rahmenvertrag mit dem aktuellen Zertifizierungsanbieter und mit ihm die Gültigkeit der vorhandenen Signaturkarten. Durch den jetzt ausgeschriebenen Rahmenvertrag wird die Bereitstellung von Signaturkaten inklusive qualifizierter Zertifikate für den Anschlusszeitraum beschafft. Dementsprechend muss der Auftragnehmer für die vorhandenen Inhaber von Signaturkarten rechtzeitig vor Ablauf des 19.09.2026 (spätestens zum 19. Juni 2026) neue Signaturkarten inklusive qualifizierter Zertifikaten bereitstellen, sodass ein Signieren über das Ende der Laufzeit des aktuellen Rahmenvertrags hinaus unterbrechungsfrei möglich ist. Derzeit sind in der saarländischen Justiz rund 900 Signaturkarten im Einsatz. Während der Laufzeit des Vertrages sind bedarfsabhängig ferner bereitzustellen: - neue Signaturkarten inklusive qualifizierter Zertifikate für neu hinzukommende Nutzer, - Folgesignaturkarten inklusive qualifizierter Zertifikate für vorhandene Nutzer nach Ablauf der Gültigkeit der Signaturkarten und - Ersatzsignaturkarten inklusive qualifizierter Zertifikate für vorhandene Signaturkarten, die aus nicht vom Auftragnehmer zu vertretenden Umständen (z.B. Verlust, Beschädigung) vorzeitig ungültig geworden sind. Alle weiteren relevanten Informationen sind den beigefügten Vergabeunterlagen, insbesondere Anlage 2.1, zu entnehmen. Um Beachtung wird gebeten.",
+      "cpv": "79132100",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-20",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/317822-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/343216-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "VAP"
+        "Word"
       ],
-      "bureautique": false,
-      "score": 47,
+      "bureautique": true,
+      "score": 60,
       "score_detail": {
-        "fit": 10,
-        "size": 13,
+        "fit": 25,
+        "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 0
+        "delay": 3
       },
-      "score_status": "no",
+      "score_status": "cond",
       "notes": "",
       "auto": true
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T09:40:09.004Z",
+  "generated_at": "2026-06-10T09:55:41.293Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
@@ -7,21 +7,21 @@
       "fetched": 500,
       "matched": 23,
       "go": 0,
-      "generated_at": "2026-06-09T09:32:47.333Z"
+      "generated_at": "2026-06-10T09:49:11.941Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 1,
       "go": 0,
-      "generated_at": "2026-06-09T09:39:00.258Z"
+      "generated_at": "2026-06-10T09:55:16.069Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-09T09:40:08.957Z"
+      "generated_at": "2026-06-10T09:55:41.232Z"
     }
   },
   "total_fetched": 3500,
@@ -283,37 +283,6 @@
       "auto": true
     },
     {
-      "id": "325741-2026",
-      "ref": "325741-2026",
-      "acheteur": "Gemeente Rijswijk",
-      "objet": "Pays-Bas – Services de réparation et d'entretien de matériel audiovisuel et d'optique – Ondersteuning, beheer en onderhoud AV-middelen raadzaal en forumzaal",
-      "description": "De ondersteuning tijdens de Raads- en Forumvergaderingen, presentaties aan de raad en andersoortige bijeenkomsten worden momenteel uitgevoerd door JP Audiovisueel.",
-      "cpv": "50340000",
-      "pays": "NLD",
-      "deadline": "2026-06-29",
-      "montant": 250,
-      "publication": "2026-05-12",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/325741-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "319787-2026",
       "ref": "319787-2026",
       "acheteur": "Gooise Scholen Federatie",
@@ -370,6 +339,37 @@
         "com": 5,
         "admin": 7,
         "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "325741-2026",
+      "ref": "325741-2026",
+      "acheteur": "Gemeente Rijswijk",
+      "objet": "Pays-Bas – Services de réparation et d'entretien de matériel audiovisuel et d'optique – Ondersteuning, beheer en onderhoud AV-middelen raadzaal en forumzaal",
+      "description": "De ondersteuning tijdens de Raads- en Forumvergaderingen, presentaties aan de raad en andersoortige bijeenkomsten worden momenteel uitgevoerd door JP Audiovisueel.",
+      "cpv": "50340000",
+      "pays": "NLD",
+      "deadline": "2026-06-29",
+      "montant": 250,
+      "publication": "2026-05-12",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/325741-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 68,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 1
       },
       "score_status": "cond",
       "notes": "",

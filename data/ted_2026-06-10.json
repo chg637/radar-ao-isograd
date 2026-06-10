@@ -1,132 +1,11 @@
 {
-  "generated_at": "2026-06-10T09:55:41.293Z",
-  "source": "MERGE",
-  "sources_summary": {
-    "TED": {
-      "present": true,
-      "fetched": 500,
-      "matched": 23,
-      "go": 0,
-      "generated_at": "2026-06-10T09:49:11.941Z"
-    },
-    "BOAMP": {
-      "present": true,
-      "fetched": 3000,
-      "matched": 1,
-      "go": 0,
-      "generated_at": "2026-06-10T09:55:16.069Z"
-    },
-    "Profil": {
-      "present": true,
-      "fetched": 0,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-06-10T09:55:41.232Z"
-    }
-  },
-  "total_fetched": 3500,
-  "total_matched": 24,
+  "generated_at": "2026-06-10T09:49:11.941Z",
+  "source": "TED",
+  "window_days": 30,
+  "total_fetched": 500,
+  "total_matched": 23,
   "total_go": 0,
-  "total_dedup_collisions": 0,
-  "dedup_breakdown": {
-    "by_id": 0,
-    "fuzzy_signature": 0,
-    "fuzzy_jaccard": 0
-  },
   "notices": [
-    {
-      "id": "342824-2026",
-      "ref": "342824-2026",
-      "acheteur": "Ministerie van Defensie",
-      "objet": "Pays-Bas – Services de formation dans le domaine de la sécurité – Computer Assisted eXercise (CAX) Cybernet",
-      "description": "De opdracht betreft het opzetten, begeleiden en evalueren van een CAX oefening in een virtuele omgeving, waarin door middel van scenario’s defensieve en offensieve cyber-skills worden getraind. Samenvattend: het verzorgen van de jaarlijkse Computer Assisted eXercise (CAX) Cybernet oefening. Deze aanbesteding is het gevolg van het aflopen van de huidige Raamovereenkomst. Deze Europese openbare aanbesteding heeft tot doel het sluiten van één raamovereenkomst met één Opdrachtnemer voor het uitvoeren van diensten. Voor een uitvoerige beschrijving van de opdracht wordt verwezen naar het Programma van eisen als opgenomen in de Bijlage 3 van deze Aanbestedingsleidraad.",
-      "cpv": "80550000",
-      "pays": "NLD",
-      "deadline": "2026-07-06",
-      "montant": 1800,
-      "publication": "2026-05-19",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/342824-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "342854-2026",
-      "ref": "342854-2026",
-      "acheteur": "Gemeente Zaanstad",
-      "objet": "Pays-Bas – Services de développement de logiciels de gestion d'internet et d'intranet – Sociaal intranet",
-      "description": "Gemeente Zaanstad heeft al 10 jaar een sociaal intranet. Het is de spil van de interne communicatie middelenmix. Medewerkers weten niet beter dan dat ze op het intranet zelf berichten kunnen plaatsen, vragen stellen en organisatie nieuws en organisatie informatie kunnen vinden. Zie aanbestedingsdocumenten. Hiervoor geldt een plafondbedrag van € 80.000, - excl. BTW per jaar. Indien dit bedrag in de inschrijving wordt overschreden wordt de inschrijving terzijde gelegd en niet meegenomen voor de verdere beoordeling.",
-      "cpv": "72212220",
-      "pays": "NLD",
-      "deadline": "2026-08-20",
-      "montant": 800,
-      "publication": "2026-05-19",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/342854-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "326531-2026",
-      "ref": "326531-2026",
-      "acheteur": "APNI",
-      "objet": "France – Conseil en affaires et en gestion et services connexes – Accord-Cadre de prestations de services d'appui à la mise en oeuvre et à la gestion des actions de formation à destination des salariés du secteur des particuliers employeurs et de l'emploi à domicile",
-      "description": "L'objectif poursuivi par cet accompagnement est de garantir une égale qualité des dispenses de formation sur tout le territoire français, DROM inclus. Il vise à accompagner les organismes de formation dispensateur de formation du catalogue de la branche vers l'excellence pédagogique. / L'objectif est de garantir une chaîne indemnitaire fluide, sécurisée et traçable, assurant un paiement rapide, exact et conforme aux exigences de la branche.",
-      "cpv": "79400000",
-      "pays": "FRA",
-      "deadline": "",
-      "montant": 2671,
-      "publication": "2026-05-12",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/326531-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Excel"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
     {
       "id": "319777-2026",
       "ref": "319777-2026",
@@ -190,27 +69,27 @@
       "auto": true
     },
     {
-      "id": "340160-2026",
-      "ref": "340160-2026",
-      "acheteur": "Afeer",
-      "objet": "Pays-Bas – Services de gestion et d'assistance relatifs aux réseaux de données – Netwerkbeheer Afeer",
-      "description": "Afeer beschikt over een bestaand netwerk met producten uit het Aruba Portfolio. Alle apparatuur is opgenomen in het management platform van Aruba, genaamd Aruba Central, wat een omgeving creëert, die met één cloud applicatie te beheren en te monitoren is, ook wel SD-BRANCH genaamd. Wij zijn op zoek naar een gespecialiseerde leverancier die verantwoordelijk wordt voor het beheer, onderhoud, monitoring en beveiliging van onze netwerkoplossing, maar ook een leverancier die qua omvang en cultuur bij ons past. De leverancier draagt zorg voor een proactieve bewaking van de omgeving, een snelle en deskundige reactie bij incidenten, en draagt bij aan het up-to-date en veilig houden van de netwerkinfrastructuur. Deze opdracht is een overheidsopdracht met een geraamde waarde van € 450.000 exclusief BTW per jaar. Er kunnen geen rechten ontleend worden aan deze raming.",
-      "cpv": "72315000",
-      "pays": "NLD",
+      "id": "326531-2026",
+      "ref": "326531-2026",
+      "acheteur": "APNI",
+      "objet": "France – Conseil en affaires et en gestion et services connexes – Accord-Cadre de prestations de services d'appui à la mise en oeuvre et à la gestion des actions de formation à destination des salariés du secteur des particuliers employeurs et de l'emploi à domicile",
+      "description": "L'objectif poursuivi par cet accompagnement est de garantir une égale qualité des dispenses de formation sur tout le territoire français, DROM inclus. Il vise à accompagner les organismes de formation dispensateur de formation du catalogue de la branche vers l'excellence pédagogique. / L'objectif est de garantir une chaîne indemnitaire fluide, sécurisée et traçable, assurant un paiement rapide, exact et conforme aux exigences de la branche.",
+      "cpv": "79400000",
+      "pays": "FRA",
       "deadline": "",
-      "montant": 494,
-      "publication": "2026-05-19",
+      "montant": 2671,
+      "publication": "2026-05-12",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/340160-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/326531-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Word"
+        "Excel"
       ],
       "bureautique": true,
-      "score": 70,
+      "score": 72,
       "score_detail": {
         "fit": 30,
-        "size": 13,
+        "size": 15,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -221,18 +100,80 @@
       "auto": true
     },
     {
-      "id": "340167-2026",
-      "ref": "340167-2026",
-      "acheteur": "Koninklijke Bibliotheek",
-      "objet": "Pays-Bas – Services d'audit informatique et services d'essai informatique – Digitale toegankelijkheid audits, consultancy & trainingen",
-      "description": "De KB is binnen onderhavige Aanbesteding op zoek naar één Opdrachtnemer voor de uitvoering van Digitale toegankelijkheid audits, consultancy & trainingen. Opdrachtnemer dient de Opdracht uit te voeren in overeenstemming met het Programma van Eisen, zie Bijlage 1. Rekening houdend met indexeringen en een eventuele toename van de behoefte van de KB wordt de maximale omvang van de Raamovereenkomst (voor de gehele looptijd van 4 jaar) geraamd op € 300.000 exclusief btw.",
-      "cpv": "72800000",
+      "id": "342824-2026",
+      "ref": "342824-2026",
+      "acheteur": "Ministerie van Defensie",
+      "objet": "Pays-Bas – Services de formation dans le domaine de la sécurité – Computer Assisted eXercise (CAX) Cybernet",
+      "description": "De opdracht betreft het opzetten, begeleiden en evalueren van een CAX oefening in een virtuele omgeving, waarin door middel van scenario’s defensieve en offensieve cyber-skills worden getraind. Samenvattend: het verzorgen van de jaarlijkse Computer Assisted eXercise (CAX) Cybernet oefening. Deze aanbesteding is het gevolg van het aflopen van de huidige Raamovereenkomst. Deze Europese openbare aanbesteding heeft tot doel het sluiten van één raamovereenkomst met één Opdrachtnemer voor het uitvoeren van diensten. Voor een uitvoerige beschrijving van de opdracht wordt verwezen naar het Programma van eisen als opgenomen in de Bijlage 3 van deze Aanbestedingsleidraad.",
+      "cpv": "80550000",
       "pays": "NLD",
-      "deadline": "",
-      "montant": 300,
+      "deadline": "2026-07-06",
+      "montant": 1800,
       "publication": "2026-05-19",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/340167-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/342824-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "342854-2026",
+      "ref": "342854-2026",
+      "acheteur": "Gemeente Zaanstad",
+      "objet": "Pays-Bas – Services de développement de logiciels de gestion d'internet et d'intranet – Sociaal intranet",
+      "description": "Gemeente Zaanstad heeft al 10 jaar een sociaal intranet. Het is de spil van de interne communicatie middelenmix. Medewerkers weten niet beter dan dat ze op het intranet zelf berichten kunnen plaatsen, vragen stellen en organisatie nieuws en organisatie informatie kunnen vinden. Zie aanbestedingsdocumenten. Hiervoor geldt een plafondbedrag van € 80.000, - excl. BTW per jaar. Indien dit bedrag in de inschrijving wordt overschreden wordt de inschrijving terzijde gelegd en niet meegenomen voor de verdere beoordeling.",
+      "cpv": "72212220",
+      "pays": "NLD",
+      "deadline": "2026-08-20",
+      "montant": 800,
+      "publication": "2026-05-19",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/342854-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "319787-2026",
+      "ref": "319787-2026",
+      "acheteur": "Gooise Scholen Federatie",
+      "objet": "Pays-Bas – Services de formation dans le domaine des premiers secours – Europese aanbesteding BHV-opleidingen",
+      "description": "De scope van de aanbesteding bestaat uit het verzorgen van minimaal de volgende BHV-opleidingen: • BHV-basisopleiding; • BHV-basisopleiding herhaling; • BHV-coördinator; • BHV-coördinator herhaling; • BHV Ploegleider; • BHV Ploegleider herhaling; • Hoofd BHV’er strategisch; • Hoofd BHV’er operationeel; • Hoofd BHV’er operationeel herhaling. Optioneel worden onderstaande BHV-opleidingen verzorgd: • Basis EHBO docenten lichamelijke opvoeding; • Herhalingsopleiding EHBO docenten lichamelijke opvoeding; • Jaarlijkse opfriscursus levensreddend handelen; • Inzet instructeur op afroep; • Inzet lotus (per dagdeel 4 uur). Deze opdracht is niet onderverdeeld in percelen. Inschrijven op een gedeelte van de opdracht is niet toegestaan en leidt tot uitsluiting van verdere deelname aan de aanbestedingsprocedure. De onderhavige opdracht in deze aanbesteding vertegenwoordigt een op basis van historie, geschatte en indicatieve opdrachtwaarde van € 35.000,00 exclusief btw per jaar en derhalve € 280.000,00 exclusief btw op basis van de maximale looptijd van acht (8) jaar. Let op: Aanbestedende dienst is voor de raamovereenkomst verplicht een maximale opdrachtwaarde of maximale hoeveelheid op te nemen. Er is echter een onzekerheidsmarge ten aanzien van de afnames, die vooraf niet te kwantificeren is. De Aanbestedende dienst wenst derhalve onderscheid te maken tussen de geraamde opdrachtwaarde (de verwachting) die hierboven is vermeld en de maximale opdrachtwaarde /maximale hoeveelheid van de beoogde raamovereenkomst. De geraamde opdrachtwaarde is indicatief, bedraagt € 280.000 exclusief btw en is gebaseerd op een looptijd van acht (8) jaar. De maximale opdrachtwaarde bedraagt € 560.000,00 exclusief btw en is ook gebaseerd op een looptijd van acht (8) jaar. Bij het bepalen van de maximale opdrachtwaarde is rekening gehouden met de eventuele omstandigheid dat de omvang van de leveringen en/of diensten (substantieel) hoger uitvallen dan blijkens de geraamde opdrachtwaarde wordt verwacht. Bij overschrijding van de maximale opdrachtwaarde/hoeveelheid eindigt de Overeenkomst en wordt deze opnieuw aanbesteed. Aan bovenstaande bedragen kunnen geen rechten worden ontleend, hetgeen betekent dat niet met zekerheid kan worden gesteld dat de geraamde en/of maximale opdrachtwaarde daadwerkelijk wordt afgenomen gedurende de looptijd van de Overeenkomst.",
+      "cpv": "80562000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 560,
+      "publication": "2026-05-11",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/319787-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -283,18 +224,49 @@
       "auto": true
     },
     {
-      "id": "319787-2026",
-      "ref": "319787-2026",
-      "acheteur": "Gooise Scholen Federatie",
-      "objet": "Pays-Bas – Services de formation dans le domaine des premiers secours – Europese aanbesteding BHV-opleidingen",
-      "description": "De scope van de aanbesteding bestaat uit het verzorgen van minimaal de volgende BHV-opleidingen: • BHV-basisopleiding; • BHV-basisopleiding herhaling; • BHV-coördinator; • BHV-coördinator herhaling; • BHV Ploegleider; • BHV Ploegleider herhaling; • Hoofd BHV’er strategisch; • Hoofd BHV’er operationeel; • Hoofd BHV’er operationeel herhaling. Optioneel worden onderstaande BHV-opleidingen verzorgd: • Basis EHBO docenten lichamelijke opvoeding; • Herhalingsopleiding EHBO docenten lichamelijke opvoeding; • Jaarlijkse opfriscursus levensreddend handelen; • Inzet instructeur op afroep; • Inzet lotus (per dagdeel 4 uur). Deze opdracht is niet onderverdeeld in percelen. Inschrijven op een gedeelte van de opdracht is niet toegestaan en leidt tot uitsluiting van verdere deelname aan de aanbestedingsprocedure. De onderhavige opdracht in deze aanbesteding vertegenwoordigt een op basis van historie, geschatte en indicatieve opdrachtwaarde van € 35.000,00 exclusief btw per jaar en derhalve € 280.000,00 exclusief btw op basis van de maximale looptijd van acht (8) jaar. Let op: Aanbestedende dienst is voor de raamovereenkomst verplicht een maximale opdrachtwaarde of maximale hoeveelheid op te nemen. Er is echter een onzekerheidsmarge ten aanzien van de afnames, die vooraf niet te kwantificeren is. De Aanbestedende dienst wenst derhalve onderscheid te maken tussen de geraamde opdrachtwaarde (de verwachting) die hierboven is vermeld en de maximale opdrachtwaarde /maximale hoeveelheid van de beoogde raamovereenkomst. De geraamde opdrachtwaarde is indicatief, bedraagt € 280.000 exclusief btw en is gebaseerd op een looptijd van acht (8) jaar. De maximale opdrachtwaarde bedraagt € 560.000,00 exclusief btw en is ook gebaseerd op een looptijd van acht (8) jaar. Bij het bepalen van de maximale opdrachtwaarde is rekening gehouden met de eventuele omstandigheid dat de omvang van de leveringen en/of diensten (substantieel) hoger uitvallen dan blijkens de geraamde opdrachtwaarde wordt verwacht. Bij overschrijding van de maximale opdrachtwaarde/hoeveelheid eindigt de Overeenkomst en wordt deze opnieuw aanbesteed. Aan bovenstaande bedragen kunnen geen rechten worden ontleend, hetgeen betekent dat niet met zekerheid kan worden gesteld dat de geraamde en/of maximale opdrachtwaarde daadwerkelijk wordt afgenomen gedurende de looptijd van de Overeenkomst.",
-      "cpv": "80562000",
+      "id": "340160-2026",
+      "ref": "340160-2026",
+      "acheteur": "Afeer",
+      "objet": "Pays-Bas – Services de gestion et d'assistance relatifs aux réseaux de données – Netwerkbeheer Afeer",
+      "description": "Afeer beschikt over een bestaand netwerk met producten uit het Aruba Portfolio. Alle apparatuur is opgenomen in het management platform van Aruba, genaamd Aruba Central, wat een omgeving creëert, die met één cloud applicatie te beheren en te monitoren is, ook wel SD-BRANCH genaamd. Wij zijn op zoek naar een gespecialiseerde leverancier die verantwoordelijk wordt voor het beheer, onderhoud, monitoring en beveiliging van onze netwerkoplossing, maar ook een leverancier die qua omvang en cultuur bij ons past. De leverancier draagt zorg voor een proactieve bewaking van de omgeving, een snelle en deskundige reactie bij incidenten, en draagt bij aan het up-to-date en veilig houden van de netwerkinfrastructuur. Deze opdracht is een overheidsopdracht met een geraamde waarde van € 450.000 exclusief BTW per jaar. Er kunnen geen rechten ontleend worden aan deze raming.",
+      "cpv": "72315000",
       "pays": "NLD",
       "deadline": "",
-      "montant": 560,
-      "publication": "2026-05-11",
+      "montant": 494,
+      "publication": "2026-05-19",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/319787-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/340160-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "340167-2026",
+      "ref": "340167-2026",
+      "acheteur": "Koninklijke Bibliotheek",
+      "objet": "Pays-Bas – Services d'audit informatique et services d'essai informatique – Digitale toegankelijkheid audits, consultancy & trainingen",
+      "description": "De KB is binnen onderhavige Aanbesteding op zoek naar één Opdrachtnemer voor de uitvoering van Digitale toegankelijkheid audits, consultancy & trainingen. Opdrachtnemer dient de Opdracht uit te voeren in overeenstemming met het Programma van Eisen, zie Bijlage 1. Rekening houdend met indexeringen en een eventuele toename van de behoefte van de KB wordt de maximale omvang van de Raamovereenkomst (voor de gehele looptijd van 4 jaar) geraamd op € 300.000 exclusief btw.",
+      "cpv": "72800000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 300,
+      "publication": "2026-05-19",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/340167-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -376,37 +348,6 @@
       "auto": true
     },
     {
-      "id": "334296-2026",
-      "ref": "334296-2026",
-      "acheteur": "CCI MARNE ARDENNES",
-      "objet": "France – Services de conseil en gestion de projet – Mission d'appui opérationnel pour la mise en œuvre du Pôle d'Excellence Territorial (PET) Cyber Marne Ardennes",
-      "description": "La Région Grand-Est a adopté en 2023 un Plan régional cybersécurité pour répondre à la menace croissante des cyberattaques qui touchent à la fois les collectivités et les entreprises. Dans ce cadre, le Pôle d’Excellence Territorial (PET) Cyber Marne Ardennes a été créé pour fédérer les acteurs régionaux autour de la thématique de la cybersécurité. Les ambitions du PET Cyber se déclinent en quatre axes stratégiques : • Opération : Mobiliser les experts de la cybersécurité pour renforcer les compétences et actions sur le territoire • Formation : Créer et proposer des formations adaptées aux étudiants, entreprises et institutions du territoire • Mobilisation : Impliquer l’ensemble de la chaîne de valeur et créer des synergies au sein de l’écosystème • Innovation : Favoriser la Recherche et Développement ainsi que le transfert de technologie. Le PET Cyber vise structurer une filière régionale dédiée à la cybersécurité et la cyberdéfense, tout en développant un écosystème fonctionnel et en initiant des dynamiques de groupe.",
-      "cpv": "72224000",
-      "pays": "FRA",
-      "deadline": "",
-      "montant": 204,
-      "publication": "2026-05-15",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/334296-2026",
-      "segment": "Consulaire",
-      "keyword_hits": [
-        "Excel"
-      ],
-      "bureautique": true,
-      "score": 67,
-      "score_detail": {
-        "fit": 30,
-        "size": 10,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "322831-2026",
       "ref": "322831-2026",
       "acheteur": "Gemeente Coevorden",
@@ -438,21 +379,83 @@
       "auto": true
     },
     {
-      "id": "345949-2026",
-      "ref": "345949-2026",
-      "acheteur": "Medizinisches Zentrum für Gesundheit Bad Lippspringe gGmbH (MZG) / Karl-Hansen-Klinik GmbH",
-      "objet": "Allemagne – Imprimantes et traceurs – Outputmanagement / KDF-Systeme",
-      "description": "Der Auftragnehmer ist ein IT-Dienstleister mit weitgehender Erfahrung im Bereich der Bereitstellung von Dokumentenverarbeitungsgeräten und der Erbringung von Full-Service-Dienstleistungen. Der Auftragnehmer übernimmt die Gesamtverantwortung für die Funktionalität und die volle Integrationsfähigkeit der Dokumentenverarbeitungsgeräte in die vorhandene und geplante EDV-Landschaft der Auftraggeber. Ebenso sichert er die Betriebssicherheit der Dokumentenverarbeitungsgeräte zu und garantiert deren Einsatzbereitschaft im vorgegebenen Zeitrahmen. Erfüllungsort für alle Leistungen sind die Standorte der Auftraggeber, die beim jeweiligen Abruf aus der Rahmenvereinbarung benannt werden. Alle Hauptstandorte der Auftraggeber sind per Glasfasernetz untereinander verbunden. Es ist ein Hauptprint Server mit Win 2022 vor Ort installiert. Alle Desktop PCs und Latops arbeiten mit Windows 11 64bit. Alle PC-Arbeitsplätze müssen mit MS Office 365, Standard Drittanbietersoftware, Klinikinformationssystem Orbis, Meditec, div. drucken. Alle Leistungen erfolgen nach Vorgaben des MZG frei Haus. Das Transportrisiko geht zu Lasten des Auftragnehmers. Transport- und Verpackungsmaterial sind auf Anforderung sofort bei Lieferung aus den Räumlichkeiten des Bedarfsträgers zu entfernen und umweltgerecht zu verwerten / entsorgen; eine Zwischenlagerung ist nicht möglich. Der Auftragnehmer übernimmt die Organisation sowie die Kosten der Rücknahme und der Entsorgung. Für die vorgenannten Leistungen wird keine zusätzliche Gebühr berechnet, die entsprechenden Kosten sind in den Angebotspreisen berücksichtigt. Die Rahmenvereinbarung hat eine Laufzeit von 48 Monaten. Eine Vertragsverlängerung ist nicht vorgesehen. Die Abrufe aus der Rahmenvereinbarung werden in schriftlicher Form durch die Auftraggeber in Form einer Bestellung ausgelöst. Die weiteren Details sind der Rahmenvereinbarung (Teil C) zu entnehmen. Da bei der Durchführung der Rahmenvereinbarung personenbezogene Daten im Sinne des Art. 4 Nr. 1 der Datenschutzgrundverordnung (DSGVO) verarbeitet werden, muss sich der Auftragnehmer zur Einhaltung der jeweils einschlägigen datenschutzrechtlichen Bestimmungen der Europäischen Union (insb. der DSGVO), des Bundes (Bundesdatenschutzgesetz - BDSG) sowie des Landes Nordrhein-Westfalen (Datenschutzgesetz Nordrhein-Westfalen - DSG NRW) verpflichten. Zu diesem Zweck schließt er einen Vertrag zur Auftragsverarbeitung nach Art. 28 DSGVO mit den Auftraggebern. Auf Grundlage der Rahmenvereinbarung können die Auftraggeber während deren Laufzeit einzelne Bestellungen über die mietweise Überlassung der Dokumentenverarbeitungsgeräte einschließlich der jeweils zugehörigen Serviceleistungen abrufen (nachfolgend jeweils \"Einzelbestellung\"). Die Auftraggeber sind berechtigt, jede Einzelbestellung einschließlich der zugehörigen Serviceleistungen erstmals zum Ablauf von 24 Monaten ab dem in der jeweiligen Einzelbestellung bestimmten Leistungsbeginn ordentlich zu kündigen. Die Kündigung ist mit einer Frist von drei (3) Monaten zum Monatsende in Textform zulässig. Die Kündigung einer Einzelbestellung beendet ausschließlich die hiervon erfasste Einzelbestellung einschließlich der zugehörigen Serviceleistungen. Die Ausstattung der einzelnen Standorte mit den vertraglich vereinbarten Druck- und Multifunktionssystemen erfolgt im Rahmen eines abgestimmten Roll-out-Prozesses. Der Roll-out-Prozess beginnt unverzüglich nach Zuschlagserteilung. Der Roll-out wird jeweils durch eine schriftliche Einzelbestellung des Auftraggebers ausgelöst. Der Auftragnehmer verpflichtet sich, den durch die jeweilige Bestellung initiierten Roll-out-Prozess spätestens innerhalb von 6 Wochen nach Zugang der vollständigen Bestellung abzuschließen. Als abgeschlossen gilt der Roll-out, sobald die Systeme am jeweiligen Standort angeliefert, installiert, konfiguriert, betriebsbereit übergeben und durch den Auftraggeber abgenommen wurden. Verzögerungen, die ausschließlich auf fehlende oder verspätete Mitwirkungshandlungen des Auftraggebers zurückzuführen sind, verlängern die Frist entsprechend. Die im Preisblatt gem. Vordruck Anlage B.1 zu Teil B ausgewiesenen Mengenangaben basieren auf der statistischen Auswertung der Auftraggeber, die für den Zeitraum der Leistungserbringung repräsentativ sind, aber lediglich als Anhaltspunkt für die tatsächlich anfallenden Mengen dient. Es ist in jedem Fall der komplette Bedarf zu decken. Aus der Angabe des geschätzten Gesamtwerts sowie des dort geschätzten Leistungsumfangs pro Jahr kann keine Verpflichtung der Auftraggeber zur Beauftragung eines bestimmten Leistungsumfangs oder Mindestumfang der Dienstleistungen abgeleitet werden. Der Auftragnehmer kann aus dem Nichtabruf des geschätzten Gesamtwerts und des geschätzten Leistungsumfangs pro Jahr keine Ansprüche auf Schadensersatz oder sonstige Ansprüche ableiten. Die Auftraggeber sind insbesondere berechtigt, im erforderlichen und in einem den Rahmenvereinbarungspartnern zumutbaren Umfang und innerhalb ihrer Leistungsfähigkeit das geschätzte Auftragsvolumen der Rahmenvereinbarung gemäß EU-Bekanntmachung um maximal 50% des ursprünglich geschätzten Auftragsvolumens jeweils positionsspezifisch zu erhöhen, wenn a) dies zur fachgerechten Erbringung der von der Rahmenvereinbarung erfassten Leistungen im Geltungsbereich und während der Laufzeit der Rahmenvereinbarung erforderlich ist oder b) für die Leistungserbringung relevante rechtliche oder regulatorische Vorgaben, einschließlich Feststellungen oder Anordnungen der die Auftraggeber beaufsichtigenden Stellen, eine Änderung des Bedarfs der Auftraggeber nach sich ziehen oder c) grundlegende betriebliche Entscheidungen der Auftraggeber über Erweiterungen der Klinikabschnitte zu einem erhöhten Patientenaufkommen und damit zu einer Anpassung des Beschaffungsbedarfs führen. Wegen der weiteren Einzelheiten wird auf die Vergabeunterlagen, insbesondere die Leistungsbeschreibung (Teil B) und die Vertragsunterlagen (Teil C) verwiesen.",
-      "cpv": "30232100",
-      "pays": "DEU",
+      "id": "334296-2026",
+      "ref": "334296-2026",
+      "acheteur": "CCI MARNE ARDENNES",
+      "objet": "France – Services de conseil en gestion de projet – Mission d'appui opérationnel pour la mise en œuvre du Pôle d'Excellence Territorial (PET) Cyber Marne Ardennes",
+      "description": "La Région Grand-Est a adopté en 2023 un Plan régional cybersécurité pour répondre à la menace croissante des cyberattaques qui touchent à la fois les collectivités et les entreprises. Dans ce cadre, le Pôle d’Excellence Territorial (PET) Cyber Marne Ardennes a été créé pour fédérer les acteurs régionaux autour de la thématique de la cybersécurité. Les ambitions du PET Cyber se déclinent en quatre axes stratégiques : • Opération : Mobiliser les experts de la cybersécurité pour renforcer les compétences et actions sur le territoire • Formation : Créer et proposer des formations adaptées aux étudiants, entreprises et institutions du territoire • Mobilisation : Impliquer l’ensemble de la chaîne de valeur et créer des synergies au sein de l’écosystème • Innovation : Favoriser la Recherche et Développement ainsi que le transfert de technologie. Le PET Cyber vise structurer une filière régionale dédiée à la cybersécurité et la cyberdéfense, tout en développant un écosystème fonctionnel et en initiant des dynamiques de groupe.",
+      "cpv": "72224000",
+      "pays": "FRA",
       "deadline": "",
-      "montant": 0,
-      "publication": "2026-05-20",
+      "montant": 204,
+      "publication": "2026-05-15",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/345949-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/334296-2026",
+      "segment": "Consulaire",
+      "keyword_hits": [
+        "Excel"
+      ],
+      "bureautique": true,
+      "score": 67,
+      "score_detail": {
+        "fit": 30,
+        "size": 10,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "326027-2026",
+      "ref": "326027-2026",
+      "acheteur": "Regisseur Studenten Reisrecht B.V.",
+      "objet": "Pays-Bas – Services de développement de logiciels de communication – Europese aanbesteding AI-chatbot",
+      "description": "De scope van de opdracht ziet op het leveren, implementeren, beheren, onderhouden en doorontwikkelen van een AI-chatbotoplossing ter vervanging van de huidige chatbot. De AI-chatbotoplossing dient studenten op een toegankelijke, betrouwbare en efficiënte wijze te ondersteunen en Sessies adequaat af te handelen. Onder de opdracht valt niet alleen de beschikbaarstelling van de oplossing zelf, maar ook de bijbehorende dienstverlening die nodig is om de AI-chatbot gedurende de looptijd goed, veilig en toekomstbestendig te laten functioneren. Deze opdracht is niet onderverdeeld in percelen. Inschrijven op een gedeelte van de opdracht is niet toegestaan en leidt tot uitsluiting van verdere deelname aan de aanbestedingsprocedure. De onderhavige opdracht in deze aanbesteding vertegenwoordigt een geschatte opdrachtwaarde van € 96.000,00 exclusief btw per jaar voor het leveren, onderhouden en beheren van de AI-chatbot en inclusief verwerken van 100.000 Sessies. Let op: Deze jaarlijkse opdrachtwaarde is tevens een prijsplafond. Een Inschrijver met een Inschrijving met een prijsindiening in Annex III Prijzenblad waarvan de jaarlijkse kosten hoger zijn dan € 96.000,00 exclusief btw wordt uitgesloten van verdere deelname aan deze aanbesteding.",
+      "cpv": "72212510",
+      "pays": "NLD",
+      "deadline": "2026-07-03",
+      "montant": 0,
+      "publication": "2026-05-12",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/326027-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Office 365"
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "334836-2026",
+      "ref": "334836-2026",
+      "acheteur": "Kansspelautoriteit",
+      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Applicatiebeheer Exact omgeving",
+      "description": "De Kansspelautoriteit zoekt een opdrachtnemer die Ksa kan voorzien in dienstverlening rondom haar Exact omgeving. De Exact omgeving (met onder andere Exact Financials Enterprise en Exact Synergy Enterprise) vormt een geheel aan centrale applicaties waarin kritische bedrijfsprocessen worden ondersteund. Exact is op dit moment ingericht als onderdeel van de bedrijfsvoering van de Ksa en bevat onder meer bestaande administratieve processen, stamdata, autorisaties, rapportages, koppelingen, specifieke inrichting een aanpassingen aan werkprocessen, workflows, controles en historische gegevens. Momenteel maken 10 gebruikers gebruik van Exact Financials Enterprise. Momenteel maken 230 (professional licenties) gebruikers gebruik van Exact Synergy Enterprise van de ingerichte workflows en selfservice. En er zijn 50 zware gebruikers die gebruik maken van Exact Synergy Enterprise.",
+      "cpv": "72200000",
+      "pays": "NLD",
+      "deadline": "2026-06-30",
+      "montant": 0,
+      "publication": "2026-05-18",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/334836-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
       ],
       "bureautique": true,
       "score": 65,
@@ -501,52 +504,21 @@
       "auto": true
     },
     {
-      "id": "334836-2026",
-      "ref": "334836-2026",
-      "acheteur": "Kansspelautoriteit",
-      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Applicatiebeheer Exact omgeving",
-      "description": "De Kansspelautoriteit zoekt een opdrachtnemer die Ksa kan voorzien in dienstverlening rondom haar Exact omgeving. De Exact omgeving (met onder andere Exact Financials Enterprise en Exact Synergy Enterprise) vormt een geheel aan centrale applicaties waarin kritische bedrijfsprocessen worden ondersteund. Exact is op dit moment ingericht als onderdeel van de bedrijfsvoering van de Ksa en bevat onder meer bestaande administratieve processen, stamdata, autorisaties, rapportages, koppelingen, specifieke inrichting een aanpassingen aan werkprocessen, workflows, controles en historische gegevens. Momenteel maken 10 gebruikers gebruik van Exact Financials Enterprise. Momenteel maken 230 (professional licenties) gebruikers gebruik van Exact Synergy Enterprise van de ingerichte workflows en selfservice. En er zijn 50 zware gebruikers die gebruik maken van Exact Synergy Enterprise.",
-      "cpv": "72200000",
-      "pays": "NLD",
-      "deadline": "2026-06-30",
+      "id": "345949-2026",
+      "ref": "345949-2026",
+      "acheteur": "Medizinisches Zentrum für Gesundheit Bad Lippspringe gGmbH (MZG) / Karl-Hansen-Klinik GmbH",
+      "objet": "Allemagne – Imprimantes et traceurs – Outputmanagement / KDF-Systeme",
+      "description": "Der Auftragnehmer ist ein IT-Dienstleister mit weitgehender Erfahrung im Bereich der Bereitstellung von Dokumentenverarbeitungsgeräten und der Erbringung von Full-Service-Dienstleistungen. Der Auftragnehmer übernimmt die Gesamtverantwortung für die Funktionalität und die volle Integrationsfähigkeit der Dokumentenverarbeitungsgeräte in die vorhandene und geplante EDV-Landschaft der Auftraggeber. Ebenso sichert er die Betriebssicherheit der Dokumentenverarbeitungsgeräte zu und garantiert deren Einsatzbereitschaft im vorgegebenen Zeitrahmen. Erfüllungsort für alle Leistungen sind die Standorte der Auftraggeber, die beim jeweiligen Abruf aus der Rahmenvereinbarung benannt werden. Alle Hauptstandorte der Auftraggeber sind per Glasfasernetz untereinander verbunden. Es ist ein Hauptprint Server mit Win 2022 vor Ort installiert. Alle Desktop PCs und Latops arbeiten mit Windows 11 64bit. Alle PC-Arbeitsplätze müssen mit MS Office 365, Standard Drittanbietersoftware, Klinikinformationssystem Orbis, Meditec, div. drucken. Alle Leistungen erfolgen nach Vorgaben des MZG frei Haus. Das Transportrisiko geht zu Lasten des Auftragnehmers. Transport- und Verpackungsmaterial sind auf Anforderung sofort bei Lieferung aus den Räumlichkeiten des Bedarfsträgers zu entfernen und umweltgerecht zu verwerten / entsorgen; eine Zwischenlagerung ist nicht möglich. Der Auftragnehmer übernimmt die Organisation sowie die Kosten der Rücknahme und der Entsorgung. Für die vorgenannten Leistungen wird keine zusätzliche Gebühr berechnet, die entsprechenden Kosten sind in den Angebotspreisen berücksichtigt. Die Rahmenvereinbarung hat eine Laufzeit von 48 Monaten. Eine Vertragsverlängerung ist nicht vorgesehen. Die Abrufe aus der Rahmenvereinbarung werden in schriftlicher Form durch die Auftraggeber in Form einer Bestellung ausgelöst. Die weiteren Details sind der Rahmenvereinbarung (Teil C) zu entnehmen. Da bei der Durchführung der Rahmenvereinbarung personenbezogene Daten im Sinne des Art. 4 Nr. 1 der Datenschutzgrundverordnung (DSGVO) verarbeitet werden, muss sich der Auftragnehmer zur Einhaltung der jeweils einschlägigen datenschutzrechtlichen Bestimmungen der Europäischen Union (insb. der DSGVO), des Bundes (Bundesdatenschutzgesetz - BDSG) sowie des Landes Nordrhein-Westfalen (Datenschutzgesetz Nordrhein-Westfalen - DSG NRW) verpflichten. Zu diesem Zweck schließt er einen Vertrag zur Auftragsverarbeitung nach Art. 28 DSGVO mit den Auftraggebern. Auf Grundlage der Rahmenvereinbarung können die Auftraggeber während deren Laufzeit einzelne Bestellungen über die mietweise Überlassung der Dokumentenverarbeitungsgeräte einschließlich der jeweils zugehörigen Serviceleistungen abrufen (nachfolgend jeweils \"Einzelbestellung\"). Die Auftraggeber sind berechtigt, jede Einzelbestellung einschließlich der zugehörigen Serviceleistungen erstmals zum Ablauf von 24 Monaten ab dem in der jeweiligen Einzelbestellung bestimmten Leistungsbeginn ordentlich zu kündigen. Die Kündigung ist mit einer Frist von drei (3) Monaten zum Monatsende in Textform zulässig. Die Kündigung einer Einzelbestellung beendet ausschließlich die hiervon erfasste Einzelbestellung einschließlich der zugehörigen Serviceleistungen. Die Ausstattung der einzelnen Standorte mit den vertraglich vereinbarten Druck- und Multifunktionssystemen erfolgt im Rahmen eines abgestimmten Roll-out-Prozesses. Der Roll-out-Prozess beginnt unverzüglich nach Zuschlagserteilung. Der Roll-out wird jeweils durch eine schriftliche Einzelbestellung des Auftraggebers ausgelöst. Der Auftragnehmer verpflichtet sich, den durch die jeweilige Bestellung initiierten Roll-out-Prozess spätestens innerhalb von 6 Wochen nach Zugang der vollständigen Bestellung abzuschließen. Als abgeschlossen gilt der Roll-out, sobald die Systeme am jeweiligen Standort angeliefert, installiert, konfiguriert, betriebsbereit übergeben und durch den Auftraggeber abgenommen wurden. Verzögerungen, die ausschließlich auf fehlende oder verspätete Mitwirkungshandlungen des Auftraggebers zurückzuführen sind, verlängern die Frist entsprechend. Die im Preisblatt gem. Vordruck Anlage B.1 zu Teil B ausgewiesenen Mengenangaben basieren auf der statistischen Auswertung der Auftraggeber, die für den Zeitraum der Leistungserbringung repräsentativ sind, aber lediglich als Anhaltspunkt für die tatsächlich anfallenden Mengen dient. Es ist in jedem Fall der komplette Bedarf zu decken. Aus der Angabe des geschätzten Gesamtwerts sowie des dort geschätzten Leistungsumfangs pro Jahr kann keine Verpflichtung der Auftraggeber zur Beauftragung eines bestimmten Leistungsumfangs oder Mindestumfang der Dienstleistungen abgeleitet werden. Der Auftragnehmer kann aus dem Nichtabruf des geschätzten Gesamtwerts und des geschätzten Leistungsumfangs pro Jahr keine Ansprüche auf Schadensersatz oder sonstige Ansprüche ableiten. Die Auftraggeber sind insbesondere berechtigt, im erforderlichen und in einem den Rahmenvereinbarungspartnern zumutbaren Umfang und innerhalb ihrer Leistungsfähigkeit das geschätzte Auftragsvolumen der Rahmenvereinbarung gemäß EU-Bekanntmachung um maximal 50% des ursprünglich geschätzten Auftragsvolumens jeweils positionsspezifisch zu erhöhen, wenn a) dies zur fachgerechten Erbringung der von der Rahmenvereinbarung erfassten Leistungen im Geltungsbereich und während der Laufzeit der Rahmenvereinbarung erforderlich ist oder b) für die Leistungserbringung relevante rechtliche oder regulatorische Vorgaben, einschließlich Feststellungen oder Anordnungen der die Auftraggeber beaufsichtigenden Stellen, eine Änderung des Bedarfs der Auftraggeber nach sich ziehen oder c) grundlegende betriebliche Entscheidungen der Auftraggeber über Erweiterungen der Klinikabschnitte zu einem erhöhten Patientenaufkommen und damit zu einer Anpassung des Beschaffungsbedarfs führen. Wegen der weiteren Einzelheiten wird auf die Vergabeunterlagen, insbesondere die Leistungsbeschreibung (Teil B) und die Vertragsunterlagen (Teil C) verwiesen.",
+      "cpv": "30232100",
+      "pays": "DEU",
+      "deadline": "",
       "montant": 0,
-      "publication": "2026-05-18",
+      "publication": "2026-05-20",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/334836-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/345949-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "326027-2026",
-      "ref": "326027-2026",
-      "acheteur": "Regisseur Studenten Reisrecht B.V.",
-      "objet": "Pays-Bas – Services de développement de logiciels de communication – Europese aanbesteding AI-chatbot",
-      "description": "De scope van de opdracht ziet op het leveren, implementeren, beheren, onderhouden en doorontwikkelen van een AI-chatbotoplossing ter vervanging van de huidige chatbot. De AI-chatbotoplossing dient studenten op een toegankelijke, betrouwbare en efficiënte wijze te ondersteunen en Sessies adequaat af te handelen. Onder de opdracht valt niet alleen de beschikbaarstelling van de oplossing zelf, maar ook de bijbehorende dienstverlening die nodig is om de AI-chatbot gedurende de looptijd goed, veilig en toekomstbestendig te laten functioneren. Deze opdracht is niet onderverdeeld in percelen. Inschrijven op een gedeelte van de opdracht is niet toegestaan en leidt tot uitsluiting van verdere deelname aan de aanbestedingsprocedure. De onderhavige opdracht in deze aanbesteding vertegenwoordigt een geschatte opdrachtwaarde van € 96.000,00 exclusief btw per jaar voor het leveren, onderhouden en beheren van de AI-chatbot en inclusief verwerken van 100.000 Sessies. Let op: Deze jaarlijkse opdrachtwaarde is tevens een prijsplafond. Een Inschrijver met een Inschrijving met een prijsindiening in Annex III Prijzenblad waarvan de jaarlijkse kosten hoger zijn dan € 96.000,00 exclusief btw wordt uitgesloten van verdere deelname aan deze aanbesteding.",
-      "cpv": "72212510",
-      "pays": "NLD",
-      "deadline": "2026-07-03",
-      "montant": 0,
-      "publication": "2026-05-12",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/326027-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
+        "Office 365"
       ],
       "bureautique": true,
       "score": 65,
@@ -584,37 +556,6 @@
       "score_detail": {
         "fit": 25,
         "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "335552-2026",
-      "ref": "335552-2026",
-      "acheteur": "Gemeente Nijkerk",
-      "objet": "Pays-Bas – Services relatifs aux logiciels – Financieel Systeem",
-      "description": "De gemeente Nijkerk is voornemens om een overeenkomst af te sluiten met een samenwerkingspartner voor de levering en implementatie van een financieel systeem. Op het moment maakt de gemeente gebruik van ons huidige financiële systeem van leverancier Centric, maar deze overeenkomst loopt binnenkort af. We zijn op zoek naar een samenwerkingspartner die begrijpt waar onze behoeften liggen en die samen met ons ervoor zorgt dat we worden ondersteund bij het betrouwbaar, transparant en efficiënt uitvoeren van onze financiële taken. 1",
-      "cpv": "72260000",
-      "pays": "NLD",
-      "deadline": "2026-06-15",
-      "montant": 0,
-      "publication": "2026-05-18",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/335552-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -687,40 +628,31 @@
       "auto": true
     },
     {
-      "id": "26-50411",
-      "ref": "26-50411",
-      "acheteur": "Comité national des actions sociales",
-      "objet": "MARCHÉ DE COMMISSAIRE AUX COMPTES (CAC), CERTIFICATION LÉGALE ET SERVICES ASSOCIÉS (SACC) POUR LES EXERCICES 2026-2031.",
-      "description": "MARCHÉ DE COMMISSAIRE AUX COMPTES (CAC), CERTIFICATION LÉGALE ET SERVICES ASSOCIÉS (SACC) POUR LES EXERCICES 2026-2031.",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-07-06",
+      "id": "335552-2026",
+      "ref": "335552-2026",
+      "acheteur": "Gemeente Nijkerk",
+      "objet": "Pays-Bas – Services relatifs aux logiciels – Financieel Systeem",
+      "description": "De gemeente Nijkerk is voornemens om een overeenkomst af te sluiten met een samenwerkingspartner voor de levering en implementatie van een financieel systeem. Op het moment maakt de gemeente gebruik van ons huidige financiële systeem van leverancier Centric, maar deze overeenkomst loopt binnenkort af. We zijn op zoek naar een samenwerkingspartner die begrijpt waar onze behoeften liggen en die samen met ons ervoor zorgt dat we worden ondersteund bij het betrouwbaar, transparant en efficiënt uitvoeren van onze financiële taken. 1",
+      "cpv": "72260000",
+      "pays": "NLD",
+      "deadline": "2026-06-15",
       "montant": 0,
-      "publication": "2026-05-23",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-50411",
-      "_boamp": {
-        "famille": "Marchés européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Audit",
-          "Expertise comptable"
-        ],
-        "departement": "78"
-      },
+      "publication": "2026-05-18",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/335552-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "certification services"
+        "Word"
       ],
-      "score": 60,
+      "bureautique": true,
+      "score": 62,
       "score_detail": {
-        "fit": 25,
+        "fit": 30,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 3
+        "delay": 0
       },
       "score_status": "cond",
       "notes": "",

@@ -1,86 +1,27 @@
 {
-  "generated_at": "2026-06-11T10:21:37.048Z",
-  "source": "MERGE",
-  "sources_summary": {
-    "TED": {
-      "present": true,
-      "fetched": 500,
-      "matched": 23,
-      "go": 0,
-      "generated_at": "2026-06-11T10:15:10.161Z"
-    },
-    "BOAMP": {
-      "present": true,
-      "fetched": 3000,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-06-11T10:21:12.162Z"
-    },
-    "Profil": {
-      "present": true,
-      "fetched": 0,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-06-11T10:21:37.001Z"
-    }
-  },
-  "total_fetched": 3500,
+  "generated_at": "2026-06-11T10:15:10.161Z",
+  "source": "TED",
+  "window_days": 30,
+  "total_fetched": 500,
   "total_matched": 23,
   "total_go": 0,
-  "total_dedup_collisions": 0,
-  "dedup_breakdown": {
-    "by_id": 0,
-    "fuzzy_signature": 0,
-    "fuzzy_jaccard": 0
-  },
   "notices": [
     {
-      "id": "347409-2026",
-      "ref": "347409-2026",
-      "acheteur": "Waterschap Rivierenland",
-      "objet": "Pays-Bas – Travaux d'équipement électrique – Raamovereenkomst Elektrotechnische en Procesautomatisering werkzaamheden iWA2.0/ iPA2.0 2026",
-      "description": "De Raamovereenkomst Elektrotechnische en Procesautomatisering werkzaamheden iWA2.0/iPA2.0 2026-2030 is voornamelijk gebaseerd op de programma’s iWA2.0 en iPA2.0. De, niet uitputtende, werkzaamheden zijn onderverdeeld in: • Werkzaamheden aan de objecten stuwen en gemalen, krooshekreiniger, meetpunten en dergelijke objecten in het watersysteem. Deze objecten behoren tot het programma iWA2.0 • Werkzaamheden aan de objecten rioolgemalen en rioolwaterzuiveringsinstallaties (rwzi’s) in de waterketen. Deze objecten behoren tot het programma iPA2.0; • Buiten de programma’s iWA2.0 en iPA2.0 kunnen werkzaamheden op de (de)centrale locaties/kantoren van WSRL deel uitmaken van deze Raamovereenkomst. De werkzaamheden moeten wel in relatie staan met de werkzaamheden zoals in deze Aanbestedingsleidraad benoemd; • Detachering van personeel in geval van capaciteitsbehoefte bij WSRL. Voor deze objecten dienen er voornamelijk elektrotechnische installatiewerkzaamheden uitgevoerd te worden. Meestal worden de engineeringswerkzaamheden door WSRL zelf uitgevoerd. In sommige gevallen kan de engineering door Opdrachtnemer onderdeel uitmaken van de Nadere opdracht. WSRL hanteert voor het gehele programma iWA2.0 en iPA2.0 de volgende doelstellingen: • Het vervangen van de procesautomatisering eens per 12,5 jaar van de objecten waarbij enkel op elektrotechnisch en procesautomatisering vlak vervanging dient plaats te vinden; • Bij het vervangen van de procesautomatisering gelijktijdig het vervangen van de elektrotechnische componenten, welke niet meer voldoen aan de normen of aan vervanging toe zijn, inclusief de benodigde documentatie van de objecten; • Het technisch en functioneel op orde houden van de centrale hoofdposten watersysteem en waterketen.   Het doel van deze aanbesteding is tweeledig: 1. Het sluiten van een Raamovereenkomst(en) met één of meerdere ondernemingen voor Elektrotechnische installaties & Procesautomatisering werkzaamheden iWA2.0/ iPA2.0 2026-2030; 2. Het verstrekken van één Opdracht (een Nadere opdracht vanuit vakgebied B) voor werkzaamheden aan gemaal Middelkoop.",
-      "cpv": "45310000",
-      "pays": "NLD",
-      "deadline": "2026-07-02",
-      "montant": 100000,
-      "publication": "2026-05-21",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/347409-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "348211-2026",
-      "ref": "348211-2026",
-      "acheteur": "Belastingdienst, IUC Belastingdienst",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Beheer, Onderhoud & support Oracle Exadata-omgeving",
-      "description": "De Belastingdienst maakt gebruik van een Exadata-omgeving als onderdeel van haar kritieke dataplatforminfrastructuur. Deze omgeving ondersteunt diverse bedrijfskritische applicaties en processen die essentieel zijn voor de uitvoering van haar taken. Om de continuïteit, prestaties en (Informatie)beveiliging van deze omgeving te waarborgen, wordt een aanbesteding gestart voor het onderhoud en de ondersteuning van de bestaande Exadata-stack (Installed base). De scope van deze aanbesteding omvat primair het Beheer, Onderhoud & Support van de Oracle Exadata-stack (Installed Base) en Technical Accountmanagement (TAM) die een directe relatie hebben met de Oracle Exadata-omgeving Keuze-element: Consultancy Herzieningsclausules: 1. Uitbreiding Programmatuur; 2. Nieuwe Programmatuur; 3. Technology refresh; 4. Logische opvolger; 5. Tijdelijk verlenging Overeenkomst. De opdracht betreft primair het Beheer, Onderhoud & Support op 5 Oracle Exadata X10M Engineered systems (incl Systeemsoftware en databasesoftware). De geraamde waarde van Diensten (Beheer, Onderhoud & Support) is geraamd op een waarde van 400.000 (excl. BTW) per jaar. De omvang is (mede) gebaseerd op ramingen, waar geen rechten aan kunnen worden ontleend. Deze omvang is exclusief Keuze-elementen en Herziengingen.",
-      "cpv": "72000000",
-      "pays": "NLD",
+      "id": "326531-2026",
+      "ref": "326531-2026",
+      "acheteur": "APNI",
+      "objet": "France – Conseil en affaires et en gestion et services connexes – Accord-Cadre de prestations de services d'appui à la mise en oeuvre et à la gestion des actions de formation à destination des salariés du secteur des particuliers employeurs et de l'emploi à domicile",
+      "description": "L'objectif poursuivi par cet accompagnement est de garantir une égale qualité des dispenses de formation sur tout le territoire français, DROM inclus. Il vise à accompagner les organismes de formation dispensateur de formation du catalogue de la branche vers l'excellence pédagogique. / L'objectif est de garantir une chaîne indemnitaire fluide, sécurisée et traçable, assurant un paiement rapide, exact et conforme aux exigences de la branche.",
+      "cpv": "79400000",
+      "pays": "FRA",
       "deadline": "",
-      "montant": 2209,
-      "publication": "2026-05-21",
+      "montant": 2671,
+      "publication": "2026-05-12",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/348211-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/326531-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Word"
+        "Excel"
       ],
       "bureautique": true,
       "score": 72,
@@ -159,27 +100,89 @@
       "auto": true
     },
     {
-      "id": "326531-2026",
-      "ref": "326531-2026",
-      "acheteur": "APNI",
-      "objet": "France – Conseil en affaires et en gestion et services connexes – Accord-Cadre de prestations de services d'appui à la mise en oeuvre et à la gestion des actions de formation à destination des salariés du secteur des particuliers employeurs et de l'emploi à domicile",
-      "description": "L'objectif poursuivi par cet accompagnement est de garantir une égale qualité des dispenses de formation sur tout le territoire français, DROM inclus. Il vise à accompagner les organismes de formation dispensateur de formation du catalogue de la branche vers l'excellence pédagogique. / L'objectif est de garantir une chaîne indemnitaire fluide, sécurisée et traçable, assurant un paiement rapide, exact et conforme aux exigences de la branche.",
-      "cpv": "79400000",
-      "pays": "FRA",
-      "deadline": "",
-      "montant": 2671,
-      "publication": "2026-05-12",
+      "id": "347409-2026",
+      "ref": "347409-2026",
+      "acheteur": "Waterschap Rivierenland",
+      "objet": "Pays-Bas – Travaux d'équipement électrique – Raamovereenkomst Elektrotechnische en Procesautomatisering werkzaamheden iWA2.0/ iPA2.0 2026",
+      "description": "De Raamovereenkomst Elektrotechnische en Procesautomatisering werkzaamheden iWA2.0/iPA2.0 2026-2030 is voornamelijk gebaseerd op de programma’s iWA2.0 en iPA2.0. De, niet uitputtende, werkzaamheden zijn onderverdeeld in: • Werkzaamheden aan de objecten stuwen en gemalen, krooshekreiniger, meetpunten en dergelijke objecten in het watersysteem. Deze objecten behoren tot het programma iWA2.0 • Werkzaamheden aan de objecten rioolgemalen en rioolwaterzuiveringsinstallaties (rwzi’s) in de waterketen. Deze objecten behoren tot het programma iPA2.0; • Buiten de programma’s iWA2.0 en iPA2.0 kunnen werkzaamheden op de (de)centrale locaties/kantoren van WSRL deel uitmaken van deze Raamovereenkomst. De werkzaamheden moeten wel in relatie staan met de werkzaamheden zoals in deze Aanbestedingsleidraad benoemd; • Detachering van personeel in geval van capaciteitsbehoefte bij WSRL. Voor deze objecten dienen er voornamelijk elektrotechnische installatiewerkzaamheden uitgevoerd te worden. Meestal worden de engineeringswerkzaamheden door WSRL zelf uitgevoerd. In sommige gevallen kan de engineering door Opdrachtnemer onderdeel uitmaken van de Nadere opdracht. WSRL hanteert voor het gehele programma iWA2.0 en iPA2.0 de volgende doelstellingen: • Het vervangen van de procesautomatisering eens per 12,5 jaar van de objecten waarbij enkel op elektrotechnisch en procesautomatisering vlak vervanging dient plaats te vinden; • Bij het vervangen van de procesautomatisering gelijktijdig het vervangen van de elektrotechnische componenten, welke niet meer voldoen aan de normen of aan vervanging toe zijn, inclusief de benodigde documentatie van de objecten; • Het technisch en functioneel op orde houden van de centrale hoofdposten watersysteem en waterketen.   Het doel van deze aanbesteding is tweeledig: 1. Het sluiten van een Raamovereenkomst(en) met één of meerdere ondernemingen voor Elektrotechnische installaties & Procesautomatisering werkzaamheden iWA2.0/ iPA2.0 2026-2030; 2. Het verstrekken van één Opdracht (een Nadere opdracht vanuit vakgebied B) voor werkzaamheden aan gemaal Middelkoop.",
+      "cpv": "45310000",
+      "pays": "NLD",
+      "deadline": "2026-07-02",
+      "montant": 100000,
+      "publication": "2026-05-21",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/326531-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/347409-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Excel"
+        "Word"
       ],
       "bureautique": true,
       "score": 72,
       "score_detail": {
         "fit": 30,
         "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "348211-2026",
+      "ref": "348211-2026",
+      "acheteur": "Belastingdienst, IUC Belastingdienst",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Beheer, Onderhoud & support Oracle Exadata-omgeving",
+      "description": "De Belastingdienst maakt gebruik van een Exadata-omgeving als onderdeel van haar kritieke dataplatforminfrastructuur. Deze omgeving ondersteunt diverse bedrijfskritische applicaties en processen die essentieel zijn voor de uitvoering van haar taken. Om de continuïteit, prestaties en (Informatie)beveiliging van deze omgeving te waarborgen, wordt een aanbesteding gestart voor het onderhoud en de ondersteuning van de bestaande Exadata-stack (Installed base). De scope van deze aanbesteding omvat primair het Beheer, Onderhoud & Support van de Oracle Exadata-stack (Installed Base) en Technical Accountmanagement (TAM) die een directe relatie hebben met de Oracle Exadata-omgeving Keuze-element: Consultancy Herzieningsclausules: 1. Uitbreiding Programmatuur; 2. Nieuwe Programmatuur; 3. Technology refresh; 4. Logische opvolger; 5. Tijdelijk verlenging Overeenkomst. De opdracht betreft primair het Beheer, Onderhoud & Support op 5 Oracle Exadata X10M Engineered systems (incl Systeemsoftware en databasesoftware). De geraamde waarde van Diensten (Beheer, Onderhoud & Support) is geraamd op een waarde van 400.000 (excl. BTW) per jaar. De omvang is (mede) gebaseerd op ramingen, waar geen rechten aan kunnen worden ontleend. Deze omvang is exclusief Keuze-elementen en Herziengingen.",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 2209,
+      "publication": "2026-05-21",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/348211-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "335228-2026",
+      "ref": "335228-2026",
+      "acheteur": "Naturalis Biodiversity Center",
+      "objet": "Pays-Bas – Services de relations publiques – Europese aanbesteding Strategisch advies en operationele ondersteuning t.b.v. public engagement en maatschappelijke impact Naturalis",
+      "description": "Naturalis heeft de ambitie om de stem van de biodiversiteit te zijn en de verschuiving naar een biodiversiteitspositieve samenleving te stimuleren en versnellen. Om deze maatschappelijke rol als ‘change agent’ te versterken, wil Naturalis haar bereik verbreden, publieke betrokkenheid vergroten en beleid effectief beïnvloeden. Deze aanbesteding voorziet in de strategische expertise en uitvoerende capaciteit die Naturalis de komende jaren mogelijk nodig heeft om haar doelstellingen uit de ‘Strategische Ambitie 2’ te realiseren: “We inspireren mensen om zich in te zetten voor een biodiversiteitspositieve samenleving; Naturalis is de stem van de biodiversiteit. Wij moedigen zoveel mogelijk verschillende mensen en organisaties aan om zich in te zetten voor het behoud van biodiversiteit, zodat de verschuiving naar een biodiversiteitspositieve samenleving mogelijk wordt.” De geschatte waarde van de overeenkomst bedraagt € 950.000 exclusief BTW over de maximale looptijd van de raamovereenkomst van vier jaar. Deze schatting is niet bindend en er kunnen geen rechten aan worden ontleend.",
+      "cpv": "79416000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 950,
+      "publication": "2026-05-18",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/335228-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -233,37 +236,6 @@
       "publication": "2026-05-19",
       "source": "TED",
       "url": "https://ted.europa.eu/fr/notice/-/detail/340167-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "335228-2026",
-      "ref": "335228-2026",
-      "acheteur": "Naturalis Biodiversity Center",
-      "objet": "Pays-Bas – Services de relations publiques – Europese aanbesteding Strategisch advies en operationele ondersteuning t.b.v. public engagement en maatschappelijke impact Naturalis",
-      "description": "Naturalis heeft de ambitie om de stem van de biodiversiteit te zijn en de verschuiving naar een biodiversiteitspositieve samenleving te stimuleren en versnellen. Om deze maatschappelijke rol als ‘change agent’ te versterken, wil Naturalis haar bereik verbreden, publieke betrokkenheid vergroten en beleid effectief beïnvloeden. Deze aanbesteding voorziet in de strategische expertise en uitvoerende capaciteit die Naturalis de komende jaren mogelijk nodig heeft om haar doelstellingen uit de ‘Strategische Ambitie 2’ te realiseren: “We inspireren mensen om zich in te zetten voor een biodiversiteitspositieve samenleving; Naturalis is de stem van de biodiversiteit. Wij moedigen zoveel mogelijk verschillende mensen en organisaties aan om zich in te zetten voor het behoud van biodiversiteit, zodat de verschuiving naar een biodiversiteitspositieve samenleving mogelijk wordt.” De geschatte waarde van de overeenkomst bedraagt € 950.000 exclusief BTW over de maximale looptijd van de raamovereenkomst van vier jaar. Deze schatting is niet bindend en er kunnen geen rechten aan worden ontleend.",
-      "cpv": "79416000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 950,
-      "publication": "2026-05-18",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/335228-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -376,52 +348,21 @@
       "auto": true
     },
     {
-      "id": "347446-2026",
-      "ref": "347446-2026",
-      "acheteur": "Medizinischer Dienst Baden-Württemberg",
-      "objet": "Allemagne – Logiciels de gestion des installations – Beschaffung und Implementierung einer CAFM-Software",
-      "description": "Für die Facility-Management-Leistungen des Medizinischen Dienstes Baden-Württemberg soll ein CAFM-System eingeführt werden, das die effiziente Verwaltung und Steuerung aller relevanten Prozesse unterstützt. Der Medizinische Dienst Baden-Württemberg betreibt rund 20 Standorte, die überwiegend als Mietobjekte genutzt werden und unterschiedliche Zuständigkeiten in der Bewirtschaftung aufweisen. Die Facility-Management-Leistungen werden zentral in der Hauptverwaltung durch ein Team von etwa zehn Mitarbeitenden erbracht. Zusätzlich sind je Standort verantwortliche Personen definiert, die standortbezogene Aufgaben und Zuständigkeiten innerhalb des Medizinischen Dienstes Baden-Württemberg wahrnehmen. Ziel der Implementierung ist es, durch den Einsatz eines CAFM-Systems Transparenz, Prozesssicherheit und Effizienz in der Bewirtschaftung der Liegenschaften zu erhöhen und eine zukunftsfähige digitale Plattform für das Facility Management bereitzustellen. Mit der Implementierung des CAFM-Systems sollen die derzeit unterschiedlichen Informationsquellen (z. B. unterschiedlichen Excel-Tabellen und Systemen) zusammengeführt und die Informationsqualität sowie -quantität durch definierte Datenmodelle vereinheitlicht werden. Die daraus entstehende konsistente Datenbasis liefert den Entscheidungsträgern künftig rechtssichere, aktuelle, vollständige und korrekte Informationen. Dies geht einher mit der Transformation von analogen zu digitalen Prozessen. Bestehende Prozesse sollen im Rahmen der Implementierung überprüft und weitestgehend an marktübliche Standards angepasst werden, mit dem Ziel einer Effizienzsteigerung.",
-      "cpv": "48421000",
-      "pays": "DEU",
-      "deadline": "",
+      "id": "326027-2026",
+      "ref": "326027-2026",
+      "acheteur": "Regisseur Studenten Reisrecht B.V.",
+      "objet": "Pays-Bas – Services de développement de logiciels de communication – Europese aanbesteding AI-chatbot",
+      "description": "De scope van de opdracht ziet op het leveren, implementeren, beheren, onderhouden en doorontwikkelen van een AI-chatbotoplossing ter vervanging van de huidige chatbot. De AI-chatbotoplossing dient studenten op een toegankelijke, betrouwbare en efficiënte wijze te ondersteunen en Sessies adequaat af te handelen. Onder de opdracht valt niet alleen de beschikbaarstelling van de oplossing zelf, maar ook de bijbehorende dienstverlening die nodig is om de AI-chatbot gedurende de looptijd goed, veilig en toekomstbestendig te laten functioneren. Deze opdracht is niet onderverdeeld in percelen. Inschrijven op een gedeelte van de opdracht is niet toegestaan en leidt tot uitsluiting van verdere deelname aan de aanbestedingsprocedure. De onderhavige opdracht in deze aanbesteding vertegenwoordigt een geschatte opdrachtwaarde van € 96.000,00 exclusief btw per jaar voor het leveren, onderhouden en beheren van de AI-chatbot en inclusief verwerken van 100.000 Sessies. Let op: Deze jaarlijkse opdrachtwaarde is tevens een prijsplafond. Een Inschrijver met een Inschrijving met een prijsindiening in Annex III Prijzenblad waarvan de jaarlijkse kosten hoger zijn dan € 96.000,00 exclusief btw wordt uitgesloten van verdere deelname aan deze aanbesteding.",
+      "cpv": "72212510",
+      "pays": "NLD",
+      "deadline": "2026-07-03",
       "montant": 0,
-      "publication": "2026-05-21",
+      "publication": "2026-05-12",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/347446-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/326027-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Excel"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "345949-2026",
-      "ref": "345949-2026",
-      "acheteur": "Medizinisches Zentrum für Gesundheit Bad Lippspringe gGmbH (MZG) / Karl-Hansen-Klinik GmbH",
-      "objet": "Allemagne – Imprimantes et traceurs – Outputmanagement / KDF-Systeme",
-      "description": "Der Auftragnehmer ist ein IT-Dienstleister mit weitgehender Erfahrung im Bereich der Bereitstellung von Dokumentenverarbeitungsgeräten und der Erbringung von Full-Service-Dienstleistungen. Der Auftragnehmer übernimmt die Gesamtverantwortung für die Funktionalität und die volle Integrationsfähigkeit der Dokumentenverarbeitungsgeräte in die vorhandene und geplante EDV-Landschaft der Auftraggeber. Ebenso sichert er die Betriebssicherheit der Dokumentenverarbeitungsgeräte zu und garantiert deren Einsatzbereitschaft im vorgegebenen Zeitrahmen. Erfüllungsort für alle Leistungen sind die Standorte der Auftraggeber, die beim jeweiligen Abruf aus der Rahmenvereinbarung benannt werden. Alle Hauptstandorte der Auftraggeber sind per Glasfasernetz untereinander verbunden. Es ist ein Hauptprint Server mit Win 2022 vor Ort installiert. Alle Desktop PCs und Latops arbeiten mit Windows 11 64bit. Alle PC-Arbeitsplätze müssen mit MS Office 365, Standard Drittanbietersoftware, Klinikinformationssystem Orbis, Meditec, div. drucken. Alle Leistungen erfolgen nach Vorgaben des MZG frei Haus. Das Transportrisiko geht zu Lasten des Auftragnehmers. Transport- und Verpackungsmaterial sind auf Anforderung sofort bei Lieferung aus den Räumlichkeiten des Bedarfsträgers zu entfernen und umweltgerecht zu verwerten / entsorgen; eine Zwischenlagerung ist nicht möglich. Der Auftragnehmer übernimmt die Organisation sowie die Kosten der Rücknahme und der Entsorgung. Für die vorgenannten Leistungen wird keine zusätzliche Gebühr berechnet, die entsprechenden Kosten sind in den Angebotspreisen berücksichtigt. Die Rahmenvereinbarung hat eine Laufzeit von 48 Monaten. Eine Vertragsverlängerung ist nicht vorgesehen. Die Abrufe aus der Rahmenvereinbarung werden in schriftlicher Form durch die Auftraggeber in Form einer Bestellung ausgelöst. Die weiteren Details sind der Rahmenvereinbarung (Teil C) zu entnehmen. Da bei der Durchführung der Rahmenvereinbarung personenbezogene Daten im Sinne des Art. 4 Nr. 1 der Datenschutzgrundverordnung (DSGVO) verarbeitet werden, muss sich der Auftragnehmer zur Einhaltung der jeweils einschlägigen datenschutzrechtlichen Bestimmungen der Europäischen Union (insb. der DSGVO), des Bundes (Bundesdatenschutzgesetz - BDSG) sowie des Landes Nordrhein-Westfalen (Datenschutzgesetz Nordrhein-Westfalen - DSG NRW) verpflichten. Zu diesem Zweck schließt er einen Vertrag zur Auftragsverarbeitung nach Art. 28 DSGVO mit den Auftraggebern. Auf Grundlage der Rahmenvereinbarung können die Auftraggeber während deren Laufzeit einzelne Bestellungen über die mietweise Überlassung der Dokumentenverarbeitungsgeräte einschließlich der jeweils zugehörigen Serviceleistungen abrufen (nachfolgend jeweils \"Einzelbestellung\"). Die Auftraggeber sind berechtigt, jede Einzelbestellung einschließlich der zugehörigen Serviceleistungen erstmals zum Ablauf von 24 Monaten ab dem in der jeweiligen Einzelbestellung bestimmten Leistungsbeginn ordentlich zu kündigen. Die Kündigung ist mit einer Frist von drei (3) Monaten zum Monatsende in Textform zulässig. Die Kündigung einer Einzelbestellung beendet ausschließlich die hiervon erfasste Einzelbestellung einschließlich der zugehörigen Serviceleistungen. Die Ausstattung der einzelnen Standorte mit den vertraglich vereinbarten Druck- und Multifunktionssystemen erfolgt im Rahmen eines abgestimmten Roll-out-Prozesses. Der Roll-out-Prozess beginnt unverzüglich nach Zuschlagserteilung. Der Roll-out wird jeweils durch eine schriftliche Einzelbestellung des Auftraggebers ausgelöst. Der Auftragnehmer verpflichtet sich, den durch die jeweilige Bestellung initiierten Roll-out-Prozess spätestens innerhalb von 6 Wochen nach Zugang der vollständigen Bestellung abzuschließen. Als abgeschlossen gilt der Roll-out, sobald die Systeme am jeweiligen Standort angeliefert, installiert, konfiguriert, betriebsbereit übergeben und durch den Auftraggeber abgenommen wurden. Verzögerungen, die ausschließlich auf fehlende oder verspätete Mitwirkungshandlungen des Auftraggebers zurückzuführen sind, verlängern die Frist entsprechend. Die im Preisblatt gem. Vordruck Anlage B.1 zu Teil B ausgewiesenen Mengenangaben basieren auf der statistischen Auswertung der Auftraggeber, die für den Zeitraum der Leistungserbringung repräsentativ sind, aber lediglich als Anhaltspunkt für die tatsächlich anfallenden Mengen dient. Es ist in jedem Fall der komplette Bedarf zu decken. Aus der Angabe des geschätzten Gesamtwerts sowie des dort geschätzten Leistungsumfangs pro Jahr kann keine Verpflichtung der Auftraggeber zur Beauftragung eines bestimmten Leistungsumfangs oder Mindestumfang der Dienstleistungen abgeleitet werden. Der Auftragnehmer kann aus dem Nichtabruf des geschätzten Gesamtwerts und des geschätzten Leistungsumfangs pro Jahr keine Ansprüche auf Schadensersatz oder sonstige Ansprüche ableiten. Die Auftraggeber sind insbesondere berechtigt, im erforderlichen und in einem den Rahmenvereinbarungspartnern zumutbaren Umfang und innerhalb ihrer Leistungsfähigkeit das geschätzte Auftragsvolumen der Rahmenvereinbarung gemäß EU-Bekanntmachung um maximal 50% des ursprünglich geschätzten Auftragsvolumens jeweils positionsspezifisch zu erhöhen, wenn a) dies zur fachgerechten Erbringung der von der Rahmenvereinbarung erfassten Leistungen im Geltungsbereich und während der Laufzeit der Rahmenvereinbarung erforderlich ist oder b) für die Leistungserbringung relevante rechtliche oder regulatorische Vorgaben, einschließlich Feststellungen oder Anordnungen der die Auftraggeber beaufsichtigenden Stellen, eine Änderung des Bedarfs der Auftraggeber nach sich ziehen oder c) grundlegende betriebliche Entscheidungen der Auftraggeber über Erweiterungen der Klinikabschnitte zu einem erhöhten Patientenaufkommen und damit zu einer Anpassung des Beschaffungsbedarfs führen. Wegen der weiteren Einzelheiten wird auf die Vergabeunterlagen, insbesondere die Leistungsbeschreibung (Teil B) und die Vertragsunterlagen (Teil C) verwiesen.",
-      "cpv": "30232100",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-05-20",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/345949-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Office 365"
+        "Word"
       ],
       "bureautique": true,
       "score": 65,
@@ -470,21 +411,52 @@
       "auto": true
     },
     {
-      "id": "326027-2026",
-      "ref": "326027-2026",
-      "acheteur": "Regisseur Studenten Reisrecht B.V.",
-      "objet": "Pays-Bas – Services de développement de logiciels de communication – Europese aanbesteding AI-chatbot",
-      "description": "De scope van de opdracht ziet op het leveren, implementeren, beheren, onderhouden en doorontwikkelen van een AI-chatbotoplossing ter vervanging van de huidige chatbot. De AI-chatbotoplossing dient studenten op een toegankelijke, betrouwbare en efficiënte wijze te ondersteunen en Sessies adequaat af te handelen. Onder de opdracht valt niet alleen de beschikbaarstelling van de oplossing zelf, maar ook de bijbehorende dienstverlening die nodig is om de AI-chatbot gedurende de looptijd goed, veilig en toekomstbestendig te laten functioneren. Deze opdracht is niet onderverdeeld in percelen. Inschrijven op een gedeelte van de opdracht is niet toegestaan en leidt tot uitsluiting van verdere deelname aan de aanbestedingsprocedure. De onderhavige opdracht in deze aanbesteding vertegenwoordigt een geschatte opdrachtwaarde van € 96.000,00 exclusief btw per jaar voor het leveren, onderhouden en beheren van de AI-chatbot en inclusief verwerken van 100.000 Sessies. Let op: Deze jaarlijkse opdrachtwaarde is tevens een prijsplafond. Een Inschrijver met een Inschrijving met een prijsindiening in Annex III Prijzenblad waarvan de jaarlijkse kosten hoger zijn dan € 96.000,00 exclusief btw wordt uitgesloten van verdere deelname aan deze aanbesteding.",
-      "cpv": "72212510",
-      "pays": "NLD",
-      "deadline": "2026-07-03",
+      "id": "345949-2026",
+      "ref": "345949-2026",
+      "acheteur": "Medizinisches Zentrum für Gesundheit Bad Lippspringe gGmbH (MZG) / Karl-Hansen-Klinik GmbH",
+      "objet": "Allemagne – Imprimantes et traceurs – Outputmanagement / KDF-Systeme",
+      "description": "Der Auftragnehmer ist ein IT-Dienstleister mit weitgehender Erfahrung im Bereich der Bereitstellung von Dokumentenverarbeitungsgeräten und der Erbringung von Full-Service-Dienstleistungen. Der Auftragnehmer übernimmt die Gesamtverantwortung für die Funktionalität und die volle Integrationsfähigkeit der Dokumentenverarbeitungsgeräte in die vorhandene und geplante EDV-Landschaft der Auftraggeber. Ebenso sichert er die Betriebssicherheit der Dokumentenverarbeitungsgeräte zu und garantiert deren Einsatzbereitschaft im vorgegebenen Zeitrahmen. Erfüllungsort für alle Leistungen sind die Standorte der Auftraggeber, die beim jeweiligen Abruf aus der Rahmenvereinbarung benannt werden. Alle Hauptstandorte der Auftraggeber sind per Glasfasernetz untereinander verbunden. Es ist ein Hauptprint Server mit Win 2022 vor Ort installiert. Alle Desktop PCs und Latops arbeiten mit Windows 11 64bit. Alle PC-Arbeitsplätze müssen mit MS Office 365, Standard Drittanbietersoftware, Klinikinformationssystem Orbis, Meditec, div. drucken. Alle Leistungen erfolgen nach Vorgaben des MZG frei Haus. Das Transportrisiko geht zu Lasten des Auftragnehmers. Transport- und Verpackungsmaterial sind auf Anforderung sofort bei Lieferung aus den Räumlichkeiten des Bedarfsträgers zu entfernen und umweltgerecht zu verwerten / entsorgen; eine Zwischenlagerung ist nicht möglich. Der Auftragnehmer übernimmt die Organisation sowie die Kosten der Rücknahme und der Entsorgung. Für die vorgenannten Leistungen wird keine zusätzliche Gebühr berechnet, die entsprechenden Kosten sind in den Angebotspreisen berücksichtigt. Die Rahmenvereinbarung hat eine Laufzeit von 48 Monaten. Eine Vertragsverlängerung ist nicht vorgesehen. Die Abrufe aus der Rahmenvereinbarung werden in schriftlicher Form durch die Auftraggeber in Form einer Bestellung ausgelöst. Die weiteren Details sind der Rahmenvereinbarung (Teil C) zu entnehmen. Da bei der Durchführung der Rahmenvereinbarung personenbezogene Daten im Sinne des Art. 4 Nr. 1 der Datenschutzgrundverordnung (DSGVO) verarbeitet werden, muss sich der Auftragnehmer zur Einhaltung der jeweils einschlägigen datenschutzrechtlichen Bestimmungen der Europäischen Union (insb. der DSGVO), des Bundes (Bundesdatenschutzgesetz - BDSG) sowie des Landes Nordrhein-Westfalen (Datenschutzgesetz Nordrhein-Westfalen - DSG NRW) verpflichten. Zu diesem Zweck schließt er einen Vertrag zur Auftragsverarbeitung nach Art. 28 DSGVO mit den Auftraggebern. Auf Grundlage der Rahmenvereinbarung können die Auftraggeber während deren Laufzeit einzelne Bestellungen über die mietweise Überlassung der Dokumentenverarbeitungsgeräte einschließlich der jeweils zugehörigen Serviceleistungen abrufen (nachfolgend jeweils \"Einzelbestellung\"). Die Auftraggeber sind berechtigt, jede Einzelbestellung einschließlich der zugehörigen Serviceleistungen erstmals zum Ablauf von 24 Monaten ab dem in der jeweiligen Einzelbestellung bestimmten Leistungsbeginn ordentlich zu kündigen. Die Kündigung ist mit einer Frist von drei (3) Monaten zum Monatsende in Textform zulässig. Die Kündigung einer Einzelbestellung beendet ausschließlich die hiervon erfasste Einzelbestellung einschließlich der zugehörigen Serviceleistungen. Die Ausstattung der einzelnen Standorte mit den vertraglich vereinbarten Druck- und Multifunktionssystemen erfolgt im Rahmen eines abgestimmten Roll-out-Prozesses. Der Roll-out-Prozess beginnt unverzüglich nach Zuschlagserteilung. Der Roll-out wird jeweils durch eine schriftliche Einzelbestellung des Auftraggebers ausgelöst. Der Auftragnehmer verpflichtet sich, den durch die jeweilige Bestellung initiierten Roll-out-Prozess spätestens innerhalb von 6 Wochen nach Zugang der vollständigen Bestellung abzuschließen. Als abgeschlossen gilt der Roll-out, sobald die Systeme am jeweiligen Standort angeliefert, installiert, konfiguriert, betriebsbereit übergeben und durch den Auftraggeber abgenommen wurden. Verzögerungen, die ausschließlich auf fehlende oder verspätete Mitwirkungshandlungen des Auftraggebers zurückzuführen sind, verlängern die Frist entsprechend. Die im Preisblatt gem. Vordruck Anlage B.1 zu Teil B ausgewiesenen Mengenangaben basieren auf der statistischen Auswertung der Auftraggeber, die für den Zeitraum der Leistungserbringung repräsentativ sind, aber lediglich als Anhaltspunkt für die tatsächlich anfallenden Mengen dient. Es ist in jedem Fall der komplette Bedarf zu decken. Aus der Angabe des geschätzten Gesamtwerts sowie des dort geschätzten Leistungsumfangs pro Jahr kann keine Verpflichtung der Auftraggeber zur Beauftragung eines bestimmten Leistungsumfangs oder Mindestumfang der Dienstleistungen abgeleitet werden. Der Auftragnehmer kann aus dem Nichtabruf des geschätzten Gesamtwerts und des geschätzten Leistungsumfangs pro Jahr keine Ansprüche auf Schadensersatz oder sonstige Ansprüche ableiten. Die Auftraggeber sind insbesondere berechtigt, im erforderlichen und in einem den Rahmenvereinbarungspartnern zumutbaren Umfang und innerhalb ihrer Leistungsfähigkeit das geschätzte Auftragsvolumen der Rahmenvereinbarung gemäß EU-Bekanntmachung um maximal 50% des ursprünglich geschätzten Auftragsvolumens jeweils positionsspezifisch zu erhöhen, wenn a) dies zur fachgerechten Erbringung der von der Rahmenvereinbarung erfassten Leistungen im Geltungsbereich und während der Laufzeit der Rahmenvereinbarung erforderlich ist oder b) für die Leistungserbringung relevante rechtliche oder regulatorische Vorgaben, einschließlich Feststellungen oder Anordnungen der die Auftraggeber beaufsichtigenden Stellen, eine Änderung des Bedarfs der Auftraggeber nach sich ziehen oder c) grundlegende betriebliche Entscheidungen der Auftraggeber über Erweiterungen der Klinikabschnitte zu einem erhöhten Patientenaufkommen und damit zu einer Anpassung des Beschaffungsbedarfs führen. Wegen der weiteren Einzelheiten wird auf die Vergabeunterlagen, insbesondere die Leistungsbeschreibung (Teil B) und die Vertragsunterlagen (Teil C) verwiesen.",
+      "cpv": "30232100",
+      "pays": "DEU",
+      "deadline": "",
       "montant": 0,
-      "publication": "2026-05-12",
+      "publication": "2026-05-20",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/326027-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/345949-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Word"
+        "Office 365"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "347446-2026",
+      "ref": "347446-2026",
+      "acheteur": "Medizinischer Dienst Baden-Württemberg",
+      "objet": "Allemagne – Logiciels de gestion des installations – Beschaffung und Implementierung einer CAFM-Software",
+      "description": "Für die Facility-Management-Leistungen des Medizinischen Dienstes Baden-Württemberg soll ein CAFM-System eingeführt werden, das die effiziente Verwaltung und Steuerung aller relevanten Prozesse unterstützt. Der Medizinische Dienst Baden-Württemberg betreibt rund 20 Standorte, die überwiegend als Mietobjekte genutzt werden und unterschiedliche Zuständigkeiten in der Bewirtschaftung aufweisen. Die Facility-Management-Leistungen werden zentral in der Hauptverwaltung durch ein Team von etwa zehn Mitarbeitenden erbracht. Zusätzlich sind je Standort verantwortliche Personen definiert, die standortbezogene Aufgaben und Zuständigkeiten innerhalb des Medizinischen Dienstes Baden-Württemberg wahrnehmen. Ziel der Implementierung ist es, durch den Einsatz eines CAFM-Systems Transparenz, Prozesssicherheit und Effizienz in der Bewirtschaftung der Liegenschaften zu erhöhen und eine zukunftsfähige digitale Plattform für das Facility Management bereitzustellen. Mit der Implementierung des CAFM-Systems sollen die derzeit unterschiedlichen Informationsquellen (z. B. unterschiedlichen Excel-Tabellen und Systemen) zusammengeführt und die Informationsqualität sowie -quantität durch definierte Datenmodelle vereinheitlicht werden. Die daraus entstehende konsistente Datenbasis liefert den Entscheidungsträgern künftig rechtssichere, aktuelle, vollständige und korrekte Informationen. Dies geht einher mit der Transformation von analogen zu digitalen Prozessen. Bestehende Prozesse sollen im Rahmen der Implementierung überprüft und weitestgehend an marktübliche Standards angepasst werden, mit dem Ziel einer Effizienzsteigerung.",
+      "cpv": "48421000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-21",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/347446-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Excel"
       ],
       "bureautique": true,
       "score": 65,
@@ -563,37 +535,6 @@
       "auto": true
     },
     {
-      "id": "335552-2026",
-      "ref": "335552-2026",
-      "acheteur": "Gemeente Nijkerk",
-      "objet": "Pays-Bas – Services relatifs aux logiciels – Financieel Systeem",
-      "description": "De gemeente Nijkerk is voornemens om een overeenkomst af te sluiten met een samenwerkingspartner voor de levering en implementatie van een financieel systeem. Op het moment maakt de gemeente gebruik van ons huidige financiële systeem van leverancier Centric, maar deze overeenkomst loopt binnenkort af. We zijn op zoek naar een samenwerkingspartner die begrijpt waar onze behoeften liggen en die samen met ons ervoor zorgt dat we worden ondersteund bij het betrouwbaar, transparant en efficiënt uitvoeren van onze financiële taken. 1",
-      "cpv": "72260000",
-      "pays": "NLD",
-      "deadline": "2026-06-15",
-      "montant": 0,
-      "publication": "2026-05-18",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/335552-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "331277-2026",
       "ref": "331277-2026",
       "acheteur": "Vitos gemeinnützige GmbH",
@@ -650,6 +591,37 @@
         "com": 5,
         "admin": 7,
         "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "335552-2026",
+      "ref": "335552-2026",
+      "acheteur": "Gemeente Nijkerk",
+      "objet": "Pays-Bas – Services relatifs aux logiciels – Financieel Systeem",
+      "description": "De gemeente Nijkerk is voornemens om een overeenkomst af te sluiten met een samenwerkingspartner voor de levering en implementatie van een financieel systeem. Op het moment maakt de gemeente gebruik van ons huidige financiële systeem van leverancier Centric, maar deze overeenkomst loopt binnenkort af. We zijn op zoek naar een samenwerkingspartner die begrijpt waar onze behoeften liggen en die samen met ons ervoor zorgt dat we worden ondersteund bij het betrouwbaar, transparant en efficiënt uitvoeren van onze financiële taken. 1",
+      "cpv": "72260000",
+      "pays": "NLD",
+      "deadline": "2026-06-15",
+      "montant": 0,
+      "publication": "2026-05-18",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/335552-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 62,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
       },
       "score_status": "cond",
       "notes": "",

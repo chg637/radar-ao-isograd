@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T09:55:41.293Z",
+  "generated_at": "2026-06-11T10:21:37.048Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
@@ -7,25 +7,25 @@
       "fetched": 500,
       "matched": 23,
       "go": 0,
-      "generated_at": "2026-06-10T09:49:11.941Z"
+      "generated_at": "2026-06-11T10:15:10.161Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
-      "matched": 1,
+      "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-10T09:55:16.069Z"
+      "generated_at": "2026-06-11T10:21:12.162Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-10T09:55:41.232Z"
+      "generated_at": "2026-06-11T10:21:37.001Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 24,
+  "total_matched": 23,
   "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -34,6 +34,68 @@
     "fuzzy_jaccard": 0
   },
   "notices": [
+    {
+      "id": "347409-2026",
+      "ref": "347409-2026",
+      "acheteur": "Waterschap Rivierenland",
+      "objet": "Pays-Bas – Travaux d'équipement électrique – Raamovereenkomst Elektrotechnische en Procesautomatisering werkzaamheden iWA2.0/ iPA2.0 2026",
+      "description": "De Raamovereenkomst Elektrotechnische en Procesautomatisering werkzaamheden iWA2.0/iPA2.0 2026-2030 is voornamelijk gebaseerd op de programma’s iWA2.0 en iPA2.0. De, niet uitputtende, werkzaamheden zijn onderverdeeld in: • Werkzaamheden aan de objecten stuwen en gemalen, krooshekreiniger, meetpunten en dergelijke objecten in het watersysteem. Deze objecten behoren tot het programma iWA2.0 • Werkzaamheden aan de objecten rioolgemalen en rioolwaterzuiveringsinstallaties (rwzi’s) in de waterketen. Deze objecten behoren tot het programma iPA2.0; • Buiten de programma’s iWA2.0 en iPA2.0 kunnen werkzaamheden op de (de)centrale locaties/kantoren van WSRL deel uitmaken van deze Raamovereenkomst. De werkzaamheden moeten wel in relatie staan met de werkzaamheden zoals in deze Aanbestedingsleidraad benoemd; • Detachering van personeel in geval van capaciteitsbehoefte bij WSRL. Voor deze objecten dienen er voornamelijk elektrotechnische installatiewerkzaamheden uitgevoerd te worden. Meestal worden de engineeringswerkzaamheden door WSRL zelf uitgevoerd. In sommige gevallen kan de engineering door Opdrachtnemer onderdeel uitmaken van de Nadere opdracht. WSRL hanteert voor het gehele programma iWA2.0 en iPA2.0 de volgende doelstellingen: • Het vervangen van de procesautomatisering eens per 12,5 jaar van de objecten waarbij enkel op elektrotechnisch en procesautomatisering vlak vervanging dient plaats te vinden; • Bij het vervangen van de procesautomatisering gelijktijdig het vervangen van de elektrotechnische componenten, welke niet meer voldoen aan de normen of aan vervanging toe zijn, inclusief de benodigde documentatie van de objecten; • Het technisch en functioneel op orde houden van de centrale hoofdposten watersysteem en waterketen.   Het doel van deze aanbesteding is tweeledig: 1. Het sluiten van een Raamovereenkomst(en) met één of meerdere ondernemingen voor Elektrotechnische installaties & Procesautomatisering werkzaamheden iWA2.0/ iPA2.0 2026-2030; 2. Het verstrekken van één Opdracht (een Nadere opdracht vanuit vakgebied B) voor werkzaamheden aan gemaal Middelkoop.",
+      "cpv": "45310000",
+      "pays": "NLD",
+      "deadline": "2026-07-02",
+      "montant": 100000,
+      "publication": "2026-05-21",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/347409-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "348211-2026",
+      "ref": "348211-2026",
+      "acheteur": "Belastingdienst, IUC Belastingdienst",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Beheer, Onderhoud & support Oracle Exadata-omgeving",
+      "description": "De Belastingdienst maakt gebruik van een Exadata-omgeving als onderdeel van haar kritieke dataplatforminfrastructuur. Deze omgeving ondersteunt diverse bedrijfskritische applicaties en processen die essentieel zijn voor de uitvoering van haar taken. Om de continuïteit, prestaties en (Informatie)beveiliging van deze omgeving te waarborgen, wordt een aanbesteding gestart voor het onderhoud en de ondersteuning van de bestaande Exadata-stack (Installed base). De scope van deze aanbesteding omvat primair het Beheer, Onderhoud & Support van de Oracle Exadata-stack (Installed Base) en Technical Accountmanagement (TAM) die een directe relatie hebben met de Oracle Exadata-omgeving Keuze-element: Consultancy Herzieningsclausules: 1. Uitbreiding Programmatuur; 2. Nieuwe Programmatuur; 3. Technology refresh; 4. Logische opvolger; 5. Tijdelijk verlenging Overeenkomst. De opdracht betreft primair het Beheer, Onderhoud & Support op 5 Oracle Exadata X10M Engineered systems (incl Systeemsoftware en databasesoftware). De geraamde waarde van Diensten (Beheer, Onderhoud & Support) is geraamd op een waarde van 400.000 (excl. BTW) per jaar. De omvang is (mede) gebaseerd op ramingen, waar geen rechten aan kunnen worden ontleend. Deze omvang is exclusief Keuze-elementen en Herziengingen.",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 2209,
+      "publication": "2026-05-21",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/348211-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
     {
       "id": "342824-2026",
       "ref": "342824-2026",
@@ -128,68 +190,6 @@
       "auto": true
     },
     {
-      "id": "319777-2026",
-      "ref": "319777-2026",
-      "acheteur": "Vlaamse Overheid",
-      "objet": "Belgique – Services de conseil en gestion financière – Enkelvoudige raamovereenkomst in het kader van ondersteuning omgevingsmanagement",
-      "description": "Het bieden van deskundige ondersteuning in het omgevingsmanagement van een aantal strategische infrastructuurprojecten van het departement Mobiliteit en Openbare werken. Omgevingsmanagement is een gestructureerde en proactieve werkwijze die zich richt op het afstemmen van verschillende belangen, het minimaliseren van hinder en het creëren van draagvlak bij de realisatie van complexe projecten. Hierbij vormen communicatie, het betrekken van stakeholders en risicobeheersing de kern. Door tijdig in te spelen op ontwikkelingen en open te staan voor dialoog met iedereen die ‘geraakt’ wordt door het project, verhoogt omgevingsmanagement de kans op een succesvolle uitvoering van het project. In eerste instantie wordt er omgevingsmanagement verwacht voor de complexe project Nieuwe Sluis Zeebrugge en Extra Containerbehandelingscapaciteit Antwerpen, met daaraan verbonden de aanpassing van de E34 ter hoogte van de Waaslandhaven en de R2. De scope van de opdracht omvat stakeholdermanagement, risico- en kansenanalyse, participatieprocessen, inspraakrondes, en andere verwante taken.",
-      "cpv": "79412000",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 1200,
-      "publication": "2026-05-11",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/319777-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "319880-2026",
-      "ref": "319880-2026",
-      "acheteur": "SURF B.V.",
-      "objet": "Pays-Bas – Logiciels et systèmes d'information – Aankondiging van vrijwillige transparantie vooraf: Enterprise Linux producten en diensten",
-      "description": "SURF wenst met distributeurs voor Red Hat, SUSE en Canonical (Ubuntu) raamovereenkomsten te sluiten voor de levering van Enterprise Linux softwarelicenties en subscripties, inclusief onderhoud en support, ten behoeve van de deelnemende instellingen. SURF doet een beroep op artikel 2.32 lid 1, onder b, sub 2 en sub 3 Aanbestedingswet 2012, omdat mededinging om technische redenen ontbreekt en uitsluitende rechten, met inbegrip van intellectuele-eigendomsrechten, moeten worden beschermd en er geen redelijk alternatief of substituut bestaat. Een nadere toelichting hierop vindt u in de bijlage.",
-      "cpv": "48000000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 10400,
-      "publication": "2026-05-11",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/319880-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "340160-2026",
       "ref": "340160-2026",
       "acheteur": "Afeer",
@@ -264,37 +264,6 @@
       "publication": "2026-05-18",
       "source": "TED",
       "url": "https://ted.europa.eu/fr/notice/-/detail/335228-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "319787-2026",
-      "ref": "319787-2026",
-      "acheteur": "Gooise Scholen Federatie",
-      "objet": "Pays-Bas – Services de formation dans le domaine des premiers secours – Europese aanbesteding BHV-opleidingen",
-      "description": "De scope van de aanbesteding bestaat uit het verzorgen van minimaal de volgende BHV-opleidingen: • BHV-basisopleiding; • BHV-basisopleiding herhaling; • BHV-coördinator; • BHV-coördinator herhaling; • BHV Ploegleider; • BHV Ploegleider herhaling; • Hoofd BHV’er strategisch; • Hoofd BHV’er operationeel; • Hoofd BHV’er operationeel herhaling. Optioneel worden onderstaande BHV-opleidingen verzorgd: • Basis EHBO docenten lichamelijke opvoeding; • Herhalingsopleiding EHBO docenten lichamelijke opvoeding; • Jaarlijkse opfriscursus levensreddend handelen; • Inzet instructeur op afroep; • Inzet lotus (per dagdeel 4 uur). Deze opdracht is niet onderverdeeld in percelen. Inschrijven op een gedeelte van de opdracht is niet toegestaan en leidt tot uitsluiting van verdere deelname aan de aanbestedingsprocedure. De onderhavige opdracht in deze aanbesteding vertegenwoordigt een op basis van historie, geschatte en indicatieve opdrachtwaarde van € 35.000,00 exclusief btw per jaar en derhalve € 280.000,00 exclusief btw op basis van de maximale looptijd van acht (8) jaar. Let op: Aanbestedende dienst is voor de raamovereenkomst verplicht een maximale opdrachtwaarde of maximale hoeveelheid op te nemen. Er is echter een onzekerheidsmarge ten aanzien van de afnames, die vooraf niet te kwantificeren is. De Aanbestedende dienst wenst derhalve onderscheid te maken tussen de geraamde opdrachtwaarde (de verwachting) die hierboven is vermeld en de maximale opdrachtwaarde /maximale hoeveelheid van de beoogde raamovereenkomst. De geraamde opdrachtwaarde is indicatief, bedraagt € 280.000 exclusief btw en is gebaseerd op een looptijd van acht (8) jaar. De maximale opdrachtwaarde bedraagt € 560.000,00 exclusief btw en is ook gebaseerd op een looptijd van acht (8) jaar. Bij het bepalen van de maximale opdrachtwaarde is rekening gehouden met de eventuele omstandigheid dat de omvang van de leveringen en/of diensten (substantieel) hoger uitvallen dan blijkens de geraamde opdrachtwaarde wordt verwacht. Bij overschrijding van de maximale opdrachtwaarde/hoeveelheid eindigt de Overeenkomst en wordt deze opnieuw aanbesteed. Aan bovenstaande bedragen kunnen geen rechten worden ontleend, hetgeen betekent dat niet met zekerheid kan worden gesteld dat de geraamde en/of maximale opdrachtwaarde daadwerkelijk wordt afgenomen gedurende de looptijd van de Overeenkomst.",
-      "cpv": "80562000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 560,
-      "publication": "2026-05-11",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/319787-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -407,31 +376,31 @@
       "auto": true
     },
     {
-      "id": "322831-2026",
-      "ref": "322831-2026",
-      "acheteur": "Gemeente Coevorden",
-      "objet": "Pays-Bas – Logiciels et systèmes d'information – Europees openbare aanbesteding VTH-applicatie",
-      "description": "De gemeente Coevorden is op zoek naar een leverancier voor een nieuwe vergunningen- toezicht- en handhavingsapplicatie (VTH-applicatie). De opdracht omvat het leveren, implementeren en onderhouden van de softwareapplicatie, waarin ook ruimte is voor toekomstige wijzigingen in wet- en regelgeving. De applicatie dient volledig geïmplementeerd en geaccepteerd te zijn voor 1 juli 2027. Deze opdracht heeft een maximale geraamde waarde van € 825.000, -. Dit bedrag is all-in. Dat betekent alle kosten, inclusief implementatie, migratie, opleidingen en ingebruikname. Het beschikbare budget is gemaximeerd op dit bedrag en vormt het plafondbedrag voor de uitvoering van de gehele opdracht, inclusief alle mogelijke verlengingen. Het budget dat beschikbaar is voor de opdracht kan niet overschreden worden. Er kunnen geen rechten worden ontleend aan deze raming.",
-      "cpv": "48000000",
-      "pays": "NLD",
-      "deadline": "2026-05-19",
-      "montant": 825,
-      "publication": "2026-05-11",
+      "id": "347446-2026",
+      "ref": "347446-2026",
+      "acheteur": "Medizinischer Dienst Baden-Württemberg",
+      "objet": "Allemagne – Logiciels de gestion des installations – Beschaffung und Implementierung einer CAFM-Software",
+      "description": "Für die Facility-Management-Leistungen des Medizinischen Dienstes Baden-Württemberg soll ein CAFM-System eingeführt werden, das die effiziente Verwaltung und Steuerung aller relevanten Prozesse unterstützt. Der Medizinische Dienst Baden-Württemberg betreibt rund 20 Standorte, die überwiegend als Mietobjekte genutzt werden und unterschiedliche Zuständigkeiten in der Bewirtschaftung aufweisen. Die Facility-Management-Leistungen werden zentral in der Hauptverwaltung durch ein Team von etwa zehn Mitarbeitenden erbracht. Zusätzlich sind je Standort verantwortliche Personen definiert, die standortbezogene Aufgaben und Zuständigkeiten innerhalb des Medizinischen Dienstes Baden-Württemberg wahrnehmen. Ziel der Implementierung ist es, durch den Einsatz eines CAFM-Systems Transparenz, Prozesssicherheit und Effizienz in der Bewirtschaftung der Liegenschaften zu erhöhen und eine zukunftsfähige digitale Plattform für das Facility Management bereitzustellen. Mit der Implementierung des CAFM-Systems sollen die derzeit unterschiedlichen Informationsquellen (z. B. unterschiedlichen Excel-Tabellen und Systemen) zusammengeführt und die Informationsqualität sowie -quantität durch definierte Datenmodelle vereinheitlicht werden. Die daraus entstehende konsistente Datenbasis liefert den Entscheidungsträgern künftig rechtssichere, aktuelle, vollständige und korrekte Informationen. Dies geht einher mit der Transformation von analogen zu digitalen Prozessen. Bestehende Prozesse sollen im Rahmen der Implementierung überprüft und weitestgehend an marktübliche Standards angepasst werden, mit dem Ziel einer Effizienzsteigerung.",
+      "cpv": "48421000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-21",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/322831-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/347446-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Word"
+        "Excel"
       ],
       "bureautique": true,
-      "score": 67,
+      "score": 65,
       "score_detail": {
         "fit": 30,
-        "size": 13,
+        "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 0
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -485,37 +454,6 @@
       "keyword_hits": [
         "Microsoft Office",
         "Office 365"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "334836-2026",
-      "ref": "334836-2026",
-      "acheteur": "Kansspelautoriteit",
-      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Applicatiebeheer Exact omgeving",
-      "description": "De Kansspelautoriteit zoekt een opdrachtnemer die Ksa kan voorzien in dienstverlening rondom haar Exact omgeving. De Exact omgeving (met onder andere Exact Financials Enterprise en Exact Synergy Enterprise) vormt een geheel aan centrale applicaties waarin kritische bedrijfsprocessen worden ondersteund. Exact is op dit moment ingericht als onderdeel van de bedrijfsvoering van de Ksa en bevat onder meer bestaande administratieve processen, stamdata, autorisaties, rapportages, koppelingen, specifieke inrichting een aanpassingen aan werkprocessen, workflows, controles en historische gegevens. Momenteel maken 10 gebruikers gebruik van Exact Financials Enterprise. Momenteel maken 230 (professional licenties) gebruikers gebruik van Exact Synergy Enterprise van de ingerichte workflows en selfservice. En er zijn 50 zware gebruikers die gebruik maken van Exact Synergy Enterprise.",
-      "cpv": "72200000",
-      "pays": "NLD",
-      "deadline": "2026-06-30",
-      "montant": 0,
-      "publication": "2026-05-18",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/334836-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
       ],
       "bureautique": true,
       "score": 65,
@@ -588,6 +526,37 @@
         "com": 5,
         "admin": 7,
         "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "334836-2026",
+      "ref": "334836-2026",
+      "acheteur": "Kansspelautoriteit",
+      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Applicatiebeheer Exact omgeving",
+      "description": "De Kansspelautoriteit zoekt een opdrachtnemer die Ksa kan voorzien in dienstverlening rondom haar Exact omgeving. De Exact omgeving (met onder andere Exact Financials Enterprise en Exact Synergy Enterprise) vormt een geheel aan centrale applicaties waarin kritische bedrijfsprocessen worden ondersteund. Exact is op dit moment ingericht als onderdeel van de bedrijfsvoering van de Ksa en bevat onder meer bestaande administratieve processen, stamdata, autorisaties, rapportages, koppelingen, specifieke inrichting een aanpassingen aan werkprocessen, workflows, controles en historische gegevens. Momenteel maken 10 gebruikers gebruik van Exact Financials Enterprise. Momenteel maken 230 (professional licenties) gebruikers gebruik van Exact Synergy Enterprise van de ingerichte workflows en selfservice. En er zijn 50 zware gebruikers die gebruik maken van Exact Synergy Enterprise.",
+      "cpv": "72200000",
+      "pays": "NLD",
+      "deadline": "2026-06-30",
+      "montant": 0,
+      "publication": "2026-05-18",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/334836-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 63,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 1
       },
       "score_status": "cond",
       "notes": "",
@@ -687,46 +656,6 @@
       "auto": true
     },
     {
-      "id": "26-50411",
-      "ref": "26-50411",
-      "acheteur": "Comité national des actions sociales",
-      "objet": "MARCHÉ DE COMMISSAIRE AUX COMPTES (CAC), CERTIFICATION LÉGALE ET SERVICES ASSOCIÉS (SACC) POUR LES EXERCICES 2026-2031.",
-      "description": "MARCHÉ DE COMMISSAIRE AUX COMPTES (CAC), CERTIFICATION LÉGALE ET SERVICES ASSOCIÉS (SACC) POUR LES EXERCICES 2026-2031.",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-07-06",
-      "montant": 0,
-      "publication": "2026-05-23",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-50411",
-      "_boamp": {
-        "famille": "Marchés européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Audit",
-          "Expertise comptable"
-        ],
-        "departement": "78"
-      },
-      "segment": "Autre",
-      "keyword_hits": [
-        "certification services"
-      ],
-      "score": 60,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "343216-2026",
       "ref": "343216-2026",
       "acheteur": "Land Saarland",
@@ -752,6 +681,37 @@
         "com": 5,
         "admin": 7,
         "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "348478-2026",
+      "ref": "348478-2026",
+      "acheteur": "Chambre de Métiers et de l'Artisanat d'Ile-de-France",
+      "objet": "France – Services de formation professionnelle – Accord-cadre relatif à des prestations de formations courtes, certifiantes, diplômantes pour la CMA IDF",
+      "description": "Développement d’entreprise / Formations diplômantes RNCP / Numérique et marketing / Techniques et réglementaires / Techniques Coiffure / Techniques esthétiques",
+      "cpv": "80530000",
+      "pays": "FRA",
+      "deadline": "2026-06-22",
+      "montant": 0,
+      "publication": "2026-05-21",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/348478-2026",
+      "segment": "Consulaire",
+      "keyword_hits": [
+        "RNCP"
+      ],
+      "bureautique": false,
+      "score": 57,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
       },
       "score_status": "cond",
       "notes": "",

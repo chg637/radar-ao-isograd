@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-06-12T10:09:22.901Z",
+  "generated_at": "2026-06-13T08:58:11.954Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 24,
+      "matched": 25,
       "go": 0,
-      "generated_at": "2026-06-12T10:02:56.341Z"
+      "generated_at": "2026-06-13T08:51:42.544Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-12T10:09:05.973Z"
+      "generated_at": "2026-06-13T08:57:54.068Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-12T10:09:22.853Z"
+      "generated_at": "2026-06-13T08:58:11.901Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 24,
+  "total_matched": 25,
   "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -35,18 +35,49 @@
   },
   "notices": [
     {
-      "id": "347409-2026",
-      "ref": "347409-2026",
-      "acheteur": "Waterschap Rivierenland",
-      "objet": "Pays-Bas – Travaux d'équipement électrique – Raamovereenkomst Elektrotechnische en Procesautomatisering werkzaamheden iWA2.0/ iPA2.0 2026",
-      "description": "De Raamovereenkomst Elektrotechnische en Procesautomatisering werkzaamheden iWA2.0/iPA2.0 2026-2030 is voornamelijk gebaseerd op de programma’s iWA2.0 en iPA2.0. De, niet uitputtende, werkzaamheden zijn onderverdeeld in: • Werkzaamheden aan de objecten stuwen en gemalen, krooshekreiniger, meetpunten en dergelijke objecten in het watersysteem. Deze objecten behoren tot het programma iWA2.0 • Werkzaamheden aan de objecten rioolgemalen en rioolwaterzuiveringsinstallaties (rwzi’s) in de waterketen. Deze objecten behoren tot het programma iPA2.0; • Buiten de programma’s iWA2.0 en iPA2.0 kunnen werkzaamheden op de (de)centrale locaties/kantoren van WSRL deel uitmaken van deze Raamovereenkomst. De werkzaamheden moeten wel in relatie staan met de werkzaamheden zoals in deze Aanbestedingsleidraad benoemd; • Detachering van personeel in geval van capaciteitsbehoefte bij WSRL. Voor deze objecten dienen er voornamelijk elektrotechnische installatiewerkzaamheden uitgevoerd te worden. Meestal worden de engineeringswerkzaamheden door WSRL zelf uitgevoerd. In sommige gevallen kan de engineering door Opdrachtnemer onderdeel uitmaken van de Nadere opdracht. WSRL hanteert voor het gehele programma iWA2.0 en iPA2.0 de volgende doelstellingen: • Het vervangen van de procesautomatisering eens per 12,5 jaar van de objecten waarbij enkel op elektrotechnisch en procesautomatisering vlak vervanging dient plaats te vinden; • Bij het vervangen van de procesautomatisering gelijktijdig het vervangen van de elektrotechnische componenten, welke niet meer voldoen aan de normen of aan vervanging toe zijn, inclusief de benodigde documentatie van de objecten; • Het technisch en functioneel op orde houden van de centrale hoofdposten watersysteem en waterketen.   Het doel van deze aanbesteding is tweeledig: 1. Het sluiten van een Raamovereenkomst(en) met één of meerdere ondernemingen voor Elektrotechnische installaties & Procesautomatisering werkzaamheden iWA2.0/ iPA2.0 2026-2030; 2. Het verstrekken van één Opdracht (een Nadere opdracht vanuit vakgebied B) voor werkzaamheden aan gemaal Middelkoop.",
-      "cpv": "45310000",
+      "id": "354700-2026",
+      "ref": "354700-2026",
+      "acheteur": "Ministerie van Defensie",
+      "objet": "Pays-Bas – Services de formation professionnelle – EA NEN-opleidingen 3140/3840 - 2026",
+      "description": "Defensie conformeert zich aan het ARBO-besluit ten aanzien van de NEN 3140 en NEN 3840 bepalingen. Dit betekent dat de medewerkers van Defensie die in aanraking komen met elektrotechnische installaties opgeleid moeten worden conform de NEN 3140 en/of NEN 3840. De Opdracht betreft het ten behoeve van Cursisten verzorgen van Opleidingen NEN-3140/3840 en het afnemen van de daarbij behorende (her)examen, of hertoetsingen in het geval van de opleiding NEN 3140 VOP praktijkgericht, op een locatie van/namens Opdrachtnemer zoals beschreven in de Bijlage Programma van eisen. De volgende Opleidingen NEN-3140/3840 maken onderdeel uit van de Opdracht: NEN 3140 VOP; NEN 3140 VOP praktijkgericht; NEN 3140 VP; NEN 3140 IV/WV; NEN 3840 VOP; NEN 3840 VP; NEN 3840 IV/WV. Cursisten voor deze opleiding melden zich individueel aan en mogen ingedeeld worden bij cursisten van andere organisaties. De Opleidingen NEN-3140/3840 hoeven dus niet exclusief voor Defensiemedewerkers verzorgd te worden.",
+      "cpv": "80530000",
       "pays": "NLD",
-      "deadline": "2026-07-02",
-      "montant": 100000,
-      "publication": "2026-05-21",
+      "deadline": "2026-07-06",
+      "montant": 1911,
+      "publication": "2026-05-26",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/347409-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/354700-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "356013-2026",
+      "ref": "356013-2026",
+      "acheteur": "Ministerie van Defensie",
+      "objet": "Pays-Bas – Services de formation en matière de sécurité – Perceel 1 : Aanvullende instructie voor opleiding Documentenonderzoek en opleiding Documentendeskundige en Perceel 2: Ontwikkelen en verzorgen van opleiding RFID-chiptechnologie",
+      "description": "De opdrachten betreffen het verrichten van aanvullende instructie ten behoeve van opleiding Documentenonderzoek en opleiding Documentendeskundige. Meer informatie vindt u in de aanbestedingsdocumenten. / Het OTCKMar zoekt een opdrachtnemer die een gespecialiseerde verdieping, verbreding en aanvulling kan geven op de bestaande opleiding Documentdeskundige . De opleiding is bedoeld voor documentdeskundigen werkzaam bij een publieke organisatie. De opleiding wordt geheel ontwikkeld, gefaciliteerd en verzorgd door de opdrachtnemer. De opdrachtnemer is in staat om deelnemers te trainen in het herkennen van afwijkingen en het beoordelen van de authenticiteit van RFID-chips, alsmede het onderbouwd vastleggen van bevindingen, bijvoorbeeld in een proces-verbaal of een rapport. Voor meer info, zie de aanbestedingsdocumenten.",
+      "cpv": "80330000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 3182,
+      "publication": "2026-05-26",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/356013-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -184,6 +215,37 @@
         "com": 5,
         "admin": 7,
         "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "347409-2026",
+      "ref": "347409-2026",
+      "acheteur": "Waterschap Rivierenland",
+      "objet": "Pays-Bas – Travaux d'équipement électrique – Raamovereenkomst Elektrotechnische en Procesautomatisering werkzaamheden iWA2.0/ iPA2.0 2026",
+      "description": "De Raamovereenkomst Elektrotechnische en Procesautomatisering werkzaamheden iWA2.0/iPA2.0 2026-2030 is voornamelijk gebaseerd op de programma’s iWA2.0 en iPA2.0. De, niet uitputtende, werkzaamheden zijn onderverdeeld in: • Werkzaamheden aan de objecten stuwen en gemalen, krooshekreiniger, meetpunten en dergelijke objecten in het watersysteem. Deze objecten behoren tot het programma iWA2.0 • Werkzaamheden aan de objecten rioolgemalen en rioolwaterzuiveringsinstallaties (rwzi’s) in de waterketen. Deze objecten behoren tot het programma iPA2.0; • Buiten de programma’s iWA2.0 en iPA2.0 kunnen werkzaamheden op de (de)centrale locaties/kantoren van WSRL deel uitmaken van deze Raamovereenkomst. De werkzaamheden moeten wel in relatie staan met de werkzaamheden zoals in deze Aanbestedingsleidraad benoemd; • Detachering van personeel in geval van capaciteitsbehoefte bij WSRL. Voor deze objecten dienen er voornamelijk elektrotechnische installatiewerkzaamheden uitgevoerd te worden. Meestal worden de engineeringswerkzaamheden door WSRL zelf uitgevoerd. In sommige gevallen kan de engineering door Opdrachtnemer onderdeel uitmaken van de Nadere opdracht. WSRL hanteert voor het gehele programma iWA2.0 en iPA2.0 de volgende doelstellingen: • Het vervangen van de procesautomatisering eens per 12,5 jaar van de objecten waarbij enkel op elektrotechnisch en procesautomatisering vlak vervanging dient plaats te vinden; • Bij het vervangen van de procesautomatisering gelijktijdig het vervangen van de elektrotechnische componenten, welke niet meer voldoen aan de normen of aan vervanging toe zijn, inclusief de benodigde documentatie van de objecten; • Het technisch en functioneel op orde houden van de centrale hoofdposten watersysteem en waterketen.   Het doel van deze aanbesteding is tweeledig: 1. Het sluiten van een Raamovereenkomst(en) met één of meerdere ondernemingen voor Elektrotechnische installaties & Procesautomatisering werkzaamheden iWA2.0/ iPA2.0 2026-2030; 2. Het verstrekken van één Opdracht (een Nadere opdracht vanuit vakgebied B) voor werkzaamheden aan gemaal Middelkoop.",
+      "cpv": "45310000",
+      "pays": "NLD",
+      "deadline": "2026-07-02",
+      "montant": 100000,
+      "publication": "2026-05-21",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/347409-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 1
       },
       "score_status": "cond",
       "notes": "",
@@ -483,37 +545,6 @@
       "source": "TED",
       "url": "https://ted.europa.eu/fr/notice/-/detail/353874-2026",
       "segment": "Autre",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "bureautique": false,
-      "score": 64,
-      "score_detail": {
-        "fit": 25,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "328501-2026",
-      "ref": "328501-2026",
-      "acheteur": "Région Hauts-de-France",
-      "objet": "France – Services de formation du personnel – Conception et réalisation de formations en Santé, Sécurité et Prévention des risques professionnels",
-      "description": "HABILITATIONS ELECTRIQUES - DEPT 02/60/80&amp;lt;br/&amp;gt; / HABILITATIONS ELECTRIQUES - DEPT 59/62&amp;lt;br/&amp;gt; / HDF - ACES - DEPT 02/60/80&amp;lt;br/&amp;gt; / HDF - ACES - DEPT 59/62&amp;lt;br/&amp;gt; / HDF - PERMIS MER&amp;lt;br/&amp;gt; / HDF - PERMIS TERRE&amp;lt;br/&amp;gt; / SECURITE INCENDIE - DEPT 02/60/80&amp;lt;br/&amp;gt; / SECURITE INCENDIE - DEPT 59/62&amp;lt;br/&amp;gt; / HDF - MONTAGE DEMONTAGE ECHAFAUDAGE &amp;lt;br/&amp;gt; / HDF - PRAP &amp;lt;br/&amp;gt; / HDF - A.I.P.R.&amp;lt;br/&amp;gt; / CACES (R482, R486, R489) - DEPT 59/62&amp;lt;br/&amp;gt; / CACES (R482, R486, R489) - DEPT 02/60/80&amp;lt;br/&amp;gt; / HDF - SURETE - SECURITE INCENDIE&amp;lt;br/&amp;gt; / HDF - CACES (R484 - Ponts roulants et portiques)&amp;lt;br/&amp;gt; / CACES (R485) - DEPT 59/62&amp;lt;br/&amp;gt; / CACES (R485) - DEPT 02/60/80&amp;lt;br/&amp;gt; / CACES (R490 - Grue auxiliaire ou de chargement) - DEPT 59 et 62&amp;lt;br/&amp;gt; / HDF - INGENERIE A L'AMIANTE &amp;lt;br/&amp;gt; / HDF - Manipuler les outils tranchants d'espaces verts en toute sécurité&amp;lt;br/&amp;gt; / HDF - SSIAP&amp;lt;br/&amp;gt;",
-      "cpv": "80511000",
-      "pays": "FRA",
-      "deadline": "2026-06-19",
-      "montant": 2516,
-      "publication": "2026-05-13",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/328501-2026",
-      "segment": "Collectivités",
       "keyword_hits": [
         "habilitation"
       ],

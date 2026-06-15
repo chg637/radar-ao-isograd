@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-06-14T09:32:12.911Z",
+  "generated_at": "2026-06-15T12:01:17.284Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 25,
+      "matched": 26,
       "go": 0,
-      "generated_at": "2026-06-14T09:25:46.394Z"
+      "generated_at": "2026-06-15T11:54:06.105Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-14T09:31:51.470Z"
+      "generated_at": "2026-06-15T12:00:17.748Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-14T09:32:12.858Z"
+      "generated_at": "2026-06-15T12:01:17.225Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 25,
+  "total_matched": 26,
   "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -34,6 +34,68 @@
     "fuzzy_jaccard": 0
   },
   "notices": [
+    {
+      "id": "357299-2026",
+      "ref": "357299-2026",
+      "acheteur": "Bedrijfsvoeringseenheid Bommelerwaard",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Softwarebroker",
+      "description": "BVEB beoogt met deze aanbesteding te komen tot het sluiten van een overeenkomst met één (1) opdrachtnemer voor de levering van softwarelicenties en het verzorgen van bijbehorende dienstverlening in de vorm van softwarebrokerage. BVEB wenst te worden ontzorgd op het gebied van softwarelicentiebeheer, waarbij transparantie, rechtmatigheid en doelmatigheid centraal staan. Daarnaast wordt van Opdrachtnemer verwacht dat deze Opdrachtgever actief ondersteunt met strategisch en tactisch advies ten aanzien van het gebruik, de inrichting en de optimalisatie van het softwarelandschap. 1.000.000,00 over een periode van vijf jaar.",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "2026-07-31",
+      "montant": 1000,
+      "publication": "2026-05-26",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/357299-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 74,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "358889-2026",
+      "ref": "358889-2026",
+      "acheteur": "Gemeente Amsterdam",
+      "objet": "Pays-Bas – Services d'enseignement et de formation – Financiële coaching 18-/18+ op VSO, PRO en ISK onderwijs",
+      "description": "In het kader van deze Aanbesteding is Opdrachtgever voornemens financiële coaching 18-/18+ voor het PRO/VSO en ISK in te kopen. De Opdracht wordt geplaatst door de gemeente Amsterdam en Samenwerkingsverband voortgezet onderwijs Amsterdam-Diemen gezamenlijk. De gemeente is voor deze aanbesteding aanspreekpunt. De gemeente Amsterdam vindt het belangrijk dat jongeren voldoende voorbereid zijn op de financiële verantwoordelijkheden die zij krijgen wanneer zij 18 jaar worden. Gemeente Amsterdam beoogt een opdracht te verstrekken aan één aanbieder voor het geven van financiële coaching op het PRO/VSO en ISK. Zij zoekt daartoe een partner die Financiële coaching kan bieden aan kwetsbare leerlingen bij de overgang van 18- naar 18+. Het gaat daarbij in ieder geval om het delen van kennis over en de ondersteuning bij het aanvragen van:  Zorgverzekering  Toeslagen, waaronder zorgtoeslag  DigiD   Bankpas (zaken)  Vergunningen  Tegemoetkoming scholieren  Studiefinanciering  OV- producten  BSN  Woningnet  Kennis vergroten sociale kaart (onder andere buurtteam, jongerenpunt, etc)  Basiskennis over juridische zaken zoals boetes en fraude ….. Naast het ondersteunen/ coachen bij het aanvragen bij bovenstaande is het doel ook om de jongeren financieel zelfredzamer te maken door het vergroten van het netwerk van jongeren en waar mogelijk ook een warme overdracht. Buiten de scope van deze opdracht valt: Budgetcoaching op mbo-scholen (hier is een andere raamovereenkomst voor); Financiële educatie op VO-scholen (hier is een andere raamovereenkomst voor).",
+      "cpv": "80000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 1740,
+      "publication": "2026-05-27",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/358889-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
     {
       "id": "354700-2026",
       "ref": "354700-2026",
@@ -376,31 +438,62 @@
       "auto": true
     },
     {
-      "id": "334296-2026",
-      "ref": "334296-2026",
-      "acheteur": "CCI MARNE ARDENNES",
-      "objet": "France – Services de conseil en gestion de projet – Mission d'appui opérationnel pour la mise en œuvre du Pôle d'Excellence Territorial (PET) Cyber Marne Ardennes",
-      "description": "La Région Grand-Est a adopté en 2023 un Plan régional cybersécurité pour répondre à la menace croissante des cyberattaques qui touchent à la fois les collectivités et les entreprises. Dans ce cadre, le Pôle d’Excellence Territorial (PET) Cyber Marne Ardennes a été créé pour fédérer les acteurs régionaux autour de la thématique de la cybersécurité. Les ambitions du PET Cyber se déclinent en quatre axes stratégiques : • Opération : Mobiliser les experts de la cybersécurité pour renforcer les compétences et actions sur le territoire • Formation : Créer et proposer des formations adaptées aux étudiants, entreprises et institutions du territoire • Mobilisation : Impliquer l’ensemble de la chaîne de valeur et créer des synergies au sein de l’écosystème • Innovation : Favoriser la Recherche et Développement ainsi que le transfert de technologie. Le PET Cyber vise structurer une filière régionale dédiée à la cybersécurité et la cyberdéfense, tout en développant un écosystème fonctionnel et en initiant des dynamiques de groupe.",
-      "cpv": "72224000",
-      "pays": "FRA",
-      "deadline": "",
-      "montant": 204,
-      "publication": "2026-05-15",
+      "id": "359586-2026",
+      "ref": "359586-2026",
+      "acheteur": "Rijkswaterstaat Centrale Informatievoorziening",
+      "objet": "Pays-Bas – Services de programmation de logiciels d'application – C-ITS-applicaties Rijkswaterstaat 2026",
+      "description": "Dit is een C-ITS-applicatie op basis van CCOL die lokaal wordt gehost waarin de beleidsdoelen middels het instellen van parameters, schakelaars en (tijd)instellingen worden vertaald naar de regeling. De C-ITS-applicatie uit dit perceel is Ivera-georiënteerd. Parameters kan Rijkswaterstaat via de VRI-beheercentrale (momenteel MobiMaestro) zelf grotendeels beheren. Hierdoor worden voor dit type applicatie minder verkeerskundige diensten uitgevraagd. Deze C-ITS-applicatie lijkt het meest op de in conventionele VRI’s toegepaste applicaties aangevuld met de use cases voor de iVRI. Voor dit perceel wordt maximaal één leverancier geselecteerd. Voor nadere informatie zie het Beschrijvend document. zie het Beschrijvend document. / Dit is een C-ITS-applicatie die lokaal of in de cloud wordt gehost waarin de beleidsdoelen op kruispunt- of netwerkniveau in de C-ITS-applicatie kunnen worden geconfigureerd. Op basis van de geconfigureerde beleidsdoelen optimaliseert de C-ITS-applicatie. Voor de werking worden in deze uitvraag (verkeerskundige) diensten uitgevraagd. Op welke wijze de configuratie en optimalisatie wordt uitgevoerd is de verantwoordelijkheid van de Opdrachtnemer. Voor dit perceel wordt maximaal één leverancier geselecteerd. zie verder het Beschrijvend document Zie beschrijvend document",
+      "cpv": "72212000",
+      "pays": "NLD",
+      "deadline": "2026-09-07",
+      "montant": 0,
+      "publication": "2026-05-27",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/334296-2026",
-      "segment": "Consulaire",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/359586-2026",
+      "segment": "Autre",
       "keyword_hits": [
-        "Excel"
+        "Word"
       ],
       "bureautique": true,
       "score": 67,
       "score_detail": {
         "fit": 30,
-        "size": 10,
+        "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 3
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "357329-2026",
+      "ref": "357329-2026",
+      "acheteur": "Gemeente Tilburg",
+      "objet": "Pays-Bas – Services de gestion relatifs à l'informatique – Multifunctionele printers & printers inclusief toebehoren, beheer en onderhoud",
+      "description": "Aanbestedende dienst is op zoek naar één Opdrachtnemer om een Overeenkomst mee te sluiten die toeziet op: Het contracteren van een dienstverlening in de vorm van Managed Print Services (MPS) voor de gemeente Tilburg en deelnemende organisatie gemeente Dongen. In het kader van deze dienstverlening stelt de opdrachtnemer multifunctionele printers en printers inclusief toebehoren ter beschikking en draagt zorg voor het beheer, onderhoud en de ondersteuning daarvan als onderdeel van een doorlopende ICT-prestatie. De dienstverlening omvat onder meer het ter beschikking stellen van apparatuur, het verzorgen van de implementatie, beheer en onderhoud, het leveren van ondersteunende software en het voldoen aan de eisen zoals opgenomen in het Programma van Eisen Multifunctionele printers & printers inclusief toebehoren, beheer en onderhoud. Er is geen sprake van koop, levering, huur, lease of eigendomsoverdracht van appratuur. De apparatuur maakt integraal onderdeel uit van de dienstverleni De opdracht omvat het leveren van Managed Print Services (MPS) ten behoeve van de gemeente Tilburg (en deelnemende organisatie gemeente Dongen), waaronder het ter beschikking stellen, beheren en onderhouden van multifunctionele printers en printers inclusief bijbehorende dienstverlening. De huidige omvang betreft indicatief: circa 94 apparaten, verdeeld over verschillende typen printers en multifunctionele apparaten; een jaarlijks afdrukvolume van circa 2,3 miljoen zwart-wit afdrukken en circa 0,95 miljoen kleurenafdrukken. Deze aantallen en volumes zijn gebaseerd op historische gegevens en dienen uitsluitend ter indicatie. Hieraan kunnen geen rechten of afnameverplichtingen worden ontleend. Gedurende de looptijd van de overeenkomst kan de omvang van de dienstverlening wijzigen binnen de contractueel vastgestelde bandbreedtes, waaronder opschaling en afschaling van het aantal apparaten. De overeenkomst wordt aangegaan voor een initiële looptijd van vijf (5) jaar met de mogelijkheid tot verlenging van maximaal vijf (5) maal één (1) jaar.",
+      "cpv": "72510000",
+      "pays": "NLD",
+      "deadline": "2026-08-18",
+      "montant": 0,
+      "publication": "2026-05-26",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/357329-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 67,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
       },
       "score_status": "cond",
       "notes": "",
@@ -619,68 +712,6 @@
         "com": 5,
         "admin": 7,
         "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "331277-2026",
-      "ref": "331277-2026",
-      "acheteur": "Vitos gemeinnützige GmbH",
-      "objet": "Allemagne – Logiciels et systèmes d'information – Bereitstellung und Betrieb einer Lösung zur Nutzung elektronischer Signaturen nach eIDAS im Vitos Konzern",
-      "description": "Vitos ist der größte Anbieter für die Behandlung von psychisch erkrankten Menschen in Hessen. Das Unternehmen betreibt psychiatrische, psychosomatische und forensisch-psychiatrische Kliniken sowie Einrichtungen der psychiatrischen Rehabilitation. Die begleitenden psychiatrischen Dienste richten sich mit ihrem Angebot an chronisch psychisch erkrankte Menschen. Neben seiner Kernaufgabe - der Diagnostik und Behandlung psychisch erkrankter Menschen - betreibt Vitos auch eine orthopädische Fachklinik in Kassel sowie hessenweit Einrichtungen der Jugend- und Behindertenhilfe. Vitos ist ein Unternehmen des Landeswohlfahrtsverbandes (LWV) Hessen. Zum Unternehmensverbund mit Zentrale in Kassel gehören 17 gemeinnützige Gesellschaften. 12.200 Mitarbeitende erwirtschaften an 115 Standorten einen jährlichen Gesamtertrag von einer Milliarde Euro. Sie behandeln insgesamt 44.000 Patient/-innen stationär/teilstationär und erbringen etwa 300.000 ambulante Behandlungen im Jahr. Für weitere Informationen wird auf die Homepage des Vitos Konzern unter der Adresse www.vitos.de verwiesen. Gegenstand des vorliegenden Vergabeverfahrens ist die Bereitstellung, Einführung und Betrieb einer rechtssicheren, interoperablen und benutzerfreundlichen Plattform zur Erstellung, Prüfung und Validierung von digitalen Signaturen als Gesamtlösung für interne und externe Geschäftsprozess zur Digitalisierung von Geschäftsprozessen mit gleichwertiger Rechtswirkung wie handschriftliche Unterschriften. Die Gesamtlösung muss den Anforderungen der eIDAS Verordnung (EU) 910/2014 und deren zugehörigen Durchführungsrechtsakten (bspw. (EU) 2015/1505 Vertrauenslisten, (EU) 2015/1506 Signaturformate, (EU) 2016/650 IT-Sicherheitsverfahren & Schutzprofile) entsprechen. Außerdem muss die Gesamtlösung den gängigen Standards für Datenschutz, Informationssicherheit, insbesondere der EU-Verordnung 2016/679 DSGVO und dem Hessischen Datenschutz und Informationsfreiheitsgesetz (HDSIG) einhalten. Ebenso sind die Anforderungen nach § 393 SGB V zu beachten. Die Leistung umfasst dabei insbesondere die Bereitstellung qualifizierter Vertrauensdienste einschließlich entsprechender Software zur Erstellung, Überprüfung und Validierung elektronischer Signaturen sowie zur Ausstellung qualifizierter Zertifikate für natürliche und juristische Personen sowie notwendiger technischer Infrastruktur. Dabei umfasst die Leistung unter anderem auch eine Benutzerverwaltung und Identitätsprüfung (z. B. VideoIdent, eID), Implementierungsunterstützung, Schulung und Support für Anwender sowie Dokumentation und Nachweisführung über Signaturprozesse. Die Vitos gGmbH schreibt den Auftrag als Öffentliche Auftraggeberin gemäß § 15 der Verordnung über die Vergabe öffentlicher Aufträge (Vergabeverordnung - VgV) im Wege eines Offenen Verfahrens aus. Die Auftraggeberin, ihre Tochter- und Enkelgesellschaften sowie die Gemeinnützige Gesellschaft für digitale Gesundheit mbH sind berechtigt, Leistungen aus dem Rahmenvertrag zu beziehen (bezugsberechtigte Unternehmen). Sie werden die Leistungen zu den in dieser Rahmenvereinbarung vereinbarten Konditionen beziehen. Für die Gegenleistung der gegenüber den bezugsberechtigten Unternehmen erbrachten Leistungen ist die jeweilige Gesellschaft direkte Schuldnerin des Auftragnehmers. Die Vitos gGmbH ist diesbezüglich im Außenverhältnis vertretungsbefugt. Bei den bezugsberechtigten Unternehmen handelt es sich konkret um: - Vitos gemeinnützige GmbH, Akazienweg 10, 34117 Kassel - Vitos Gießen-Marburg gemeinnützige GmbH, Licher Straße 106, 35394 Gießen - Vitos Haina gemeinnützige GmbH, Landgraf-Philipp-Platz 3, 35114 Haina - Vitos Herborn gemeinnützige GmbH, Austraße 40, 35745 Herborn - Vitos Hochtaunus gemeinnützige GmbH, Zeppelinstraße 38, 61352 Bad Homburg - Vitos Nordhessen gemeinnützige GmbH, Landgraf-Philipp-Str. 9, 34308 Bad Emstal - Vitos Pflegezentrum Weilmünster gemeinnützige GmbH, Mönchberg 8, 65589 Hadamar - Vitos Reha GmbH, Erzberger Straße 47, 34117 Kassel - Vitos Rheingau gemeinnützige GmbH, Kloster-Eberbach-Straße 4, 65346 Eltville - Vitos Rhein-Main gemeinnützige GmbH, Sebastian-Kneipp-Straße 11, 65812 Bad Soden - Vitos Südhessen gemeinnützige GmbH, Philippsanlage 101, 64560 Riedstadt - Vitos Service gemeinnützige GmbH, Sandweg 3, 35457 Lollar - Vitos Teilhabe gemeinnützige GmbH, Veitenmühlweg 10, 65510 Idstein - Vitos Jugendhilfe Frankfurt gemeinnützige GmbH, Fichardstraße 38, 60322 Frankfurt am Main - Vitos Weil-Lahn gemeinnützige GmbH, Mönchberg 8, 65589 Hadamar - Vitos Medizinisches Versorgungszentrum Kassel gemeinnützige GmbH, Wilhelmshöher Allee 345, 34131 Kassel -Vitos medizinische Versorgungszentren gemeinnützige GmbH, Akazienweg 10, 34117 Kassel - Gemeinnützige Gesellschaft für digitale Gesundheit GDG mbH, Akazienweg 10, 34117 Kassel",
-      "cpv": "48000000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 114,
-      "publication": "2026-05-15",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/331277-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "bureautique": false,
-      "score": 62,
-      "score_detail": {
-        "fit": 25,
-        "size": 10,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "333996-2026",
-      "ref": "333996-2026",
-      "acheteur": "ORES SC",
-      "objet": "Belgique – Services de logiciels de gestion de réseau – Marché de services relatifs à un système de Gouvernance et Administration des Identités (IGA)",
-      "description": "Ce dossier d’achat a pour objet les services relatifs à un système IGA (Identity Governance & Administration) . Un système IGA est un dispositif centralisé permettant de gérer, contrôler et sécuriser les accès des collaborateurs aux outils numériques de l’entreprise. Il constitue un pilier essentiel de la cybersécurité, de la conformité réglementaire et de l’efficacité opérationnelle. Périmètre fonctionnel visé Le système IGA attendu devra couvrir les fonctions suivantes, considérées comme socle de gouvernance des identités et des accès : • Gestion du cycle de vie des identités (processus Joiner / Mover / Leaver) ; • Portail d’accès ergonomique pour les utilisateurs métiers (demandes, validations, campagnes) ; • Gestion des demandes d’accès et du catalogue d’habilitations ; • Campagnes de revue de droits (recertifications périodiques) ; • Gestion des règles de séparation des tâches (SoD) et des accès sensibles ; • Journalisation exhaustive et génération de rapports d’audit ; • Connecteurs standards vers les systèmes cibles (ex : Active Directory / Entra ID, Microsoft 365, ITSM, SAP4ANA, Success Factors) ; • Gestion des identités non humaines (comptes techniques, services, API, etc.) ; • Modélisation des rôles, gestion des attributions, reprise des objets SAP IDM existants ; • Support des exigences de conformité (NIS2, RGPD, contrôles internes) ; • Capacité à s’intégrer dans un environnement IT/OT segmenté, avec contraintes de connectivité, de sécurité et de souveraineté. Ce périmètre fonctionnel constitue la base des exigences attendues.",
-      "cpv": "72511000",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-05-15",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/333996-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "bureautique": false,
-      "score": 62,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
-        "tech": 14,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
       },
       "score_status": "cond",
       "notes": "",

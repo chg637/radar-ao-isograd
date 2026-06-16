@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T12:01:17.284Z",
+  "generated_at": "2026-06-16T11:09:16.235Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
@@ -7,21 +7,21 @@
       "fetched": 500,
       "matched": 26,
       "go": 0,
-      "generated_at": "2026-06-15T11:54:06.105Z"
+      "generated_at": "2026-06-16T11:02:59.360Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-15T12:00:17.748Z"
+      "generated_at": "2026-06-16T11:09:15.671Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-15T12:01:17.225Z"
+      "generated_at": "2026-06-16T11:09:16.103Z"
     }
   },
   "total_fetched": 3500,
@@ -78,6 +78,37 @@
       "publication": "2026-05-27",
       "source": "TED",
       "url": "https://ted.europa.eu/fr/notice/-/detail/358889-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "361560-2026",
+      "ref": "361560-2026",
+      "acheteur": "Stedin",
+      "objet": "Pays-Bas – Services de formation de personnel – Leermanagementsysteem en Opleidingsintermediair",
+      "description": "Van Gegadigden wordt gevraagd dat zij Stedin op een kwalitatief uitstekend niveau ondersteunen middels het leveren van een leermanagementsysteem en/of het verzorgen van opleidingsintermediairdienstverlening, tegen marktconforme tarieven. / Zie aanbestedingsdocumenten",
+      "cpv": "79632000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 80000,
+      "publication": "2026-05-27",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/361560-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -376,37 +407,6 @@
       "auto": true
     },
     {
-      "id": "335228-2026",
-      "ref": "335228-2026",
-      "acheteur": "Naturalis Biodiversity Center",
-      "objet": "Pays-Bas – Services de relations publiques – Europese aanbesteding Strategisch advies en operationele ondersteuning t.b.v. public engagement en maatschappelijke impact Naturalis",
-      "description": "Naturalis heeft de ambitie om de stem van de biodiversiteit te zijn en de verschuiving naar een biodiversiteitspositieve samenleving te stimuleren en versnellen. Om deze maatschappelijke rol als ‘change agent’ te versterken, wil Naturalis haar bereik verbreden, publieke betrokkenheid vergroten en beleid effectief beïnvloeden. Deze aanbesteding voorziet in de strategische expertise en uitvoerende capaciteit die Naturalis de komende jaren mogelijk nodig heeft om haar doelstellingen uit de ‘Strategische Ambitie 2’ te realiseren: “We inspireren mensen om zich in te zetten voor een biodiversiteitspositieve samenleving; Naturalis is de stem van de biodiversiteit. Wij moedigen zoveel mogelijk verschillende mensen en organisaties aan om zich in te zetten voor het behoud van biodiversiteit, zodat de verschuiving naar een biodiversiteitspositieve samenleving mogelijk wordt.” De geschatte waarde van de overeenkomst bedraagt € 950.000 exclusief BTW over de maximale looptijd van de raamovereenkomst van vier jaar. Deze schatting is niet bindend en er kunnen geen rechten aan worden ontleend.",
-      "cpv": "79416000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 950,
-      "publication": "2026-05-18",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/335228-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "342598-2026",
       "ref": "342598-2026",
       "acheteur": "Presidencia de la Autoridad Portuaria de la Bahía de Algeciras",
@@ -673,14 +673,14 @@
         "Word"
       ],
       "bureautique": true,
-      "score": 63,
+      "score": 62,
       "score_detail": {
         "fit": 30,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 1
+        "delay": 0
       },
       "score_status": "cond",
       "notes": "",

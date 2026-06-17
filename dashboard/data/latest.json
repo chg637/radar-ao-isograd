@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T11:09:16.235Z",
+  "generated_at": "2026-06-17T10:52:46.676Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
@@ -7,21 +7,21 @@
       "fetched": 500,
       "matched": 26,
       "go": 0,
-      "generated_at": "2026-06-16T11:02:59.360Z"
+      "generated_at": "2026-06-17T10:46:18.508Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-16T11:09:15.671Z"
+      "generated_at": "2026-06-17T10:52:28.487Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-16T11:09:16.103Z"
+      "generated_at": "2026-06-17T10:52:46.623Z"
     }
   },
   "total_fetched": 3500,
@@ -128,37 +128,6 @@
       "auto": true
     },
     {
-      "id": "354700-2026",
-      "ref": "354700-2026",
-      "acheteur": "Ministerie van Defensie",
-      "objet": "Pays-Bas – Services de formation professionnelle – EA NEN-opleidingen 3140/3840 - 2026",
-      "description": "Defensie conformeert zich aan het ARBO-besluit ten aanzien van de NEN 3140 en NEN 3840 bepalingen. Dit betekent dat de medewerkers van Defensie die in aanraking komen met elektrotechnische installaties opgeleid moeten worden conform de NEN 3140 en/of NEN 3840. De Opdracht betreft het ten behoeve van Cursisten verzorgen van Opleidingen NEN-3140/3840 en het afnemen van de daarbij behorende (her)examen, of hertoetsingen in het geval van de opleiding NEN 3140 VOP praktijkgericht, op een locatie van/namens Opdrachtnemer zoals beschreven in de Bijlage Programma van eisen. De volgende Opleidingen NEN-3140/3840 maken onderdeel uit van de Opdracht: NEN 3140 VOP; NEN 3140 VOP praktijkgericht; NEN 3140 VP; NEN 3140 IV/WV; NEN 3840 VOP; NEN 3840 VP; NEN 3840 IV/WV. Cursisten voor deze opleiding melden zich individueel aan en mogen ingedeeld worden bij cursisten van andere organisaties. De Opleidingen NEN-3140/3840 hoeven dus niet exclusief voor Defensiemedewerkers verzorgd te worden.",
-      "cpv": "80530000",
-      "pays": "NLD",
-      "deadline": "2026-07-06",
-      "montant": 1911,
-      "publication": "2026-05-26",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/354700-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "356013-2026",
       "ref": "356013-2026",
       "acheteur": "Ministerie van Defensie",
@@ -221,37 +190,6 @@
       "auto": true
     },
     {
-      "id": "342824-2026",
-      "ref": "342824-2026",
-      "acheteur": "Ministerie van Defensie",
-      "objet": "Pays-Bas – Services de formation dans le domaine de la sécurité – Computer Assisted eXercise (CAX) Cybernet",
-      "description": "De opdracht betreft het opzetten, begeleiden en evalueren van een CAX oefening in een virtuele omgeving, waarin door middel van scenario’s defensieve en offensieve cyber-skills worden getraind. Samenvattend: het verzorgen van de jaarlijkse Computer Assisted eXercise (CAX) Cybernet oefening. Deze aanbesteding is het gevolg van het aflopen van de huidige Raamovereenkomst. Deze Europese openbare aanbesteding heeft tot doel het sluiten van één raamovereenkomst met één Opdrachtnemer voor het uitvoeren van diensten. Voor een uitvoerige beschrijving van de opdracht wordt verwezen naar het Programma van eisen als opgenomen in de Bijlage 3 van deze Aanbestedingsleidraad.",
-      "cpv": "80550000",
-      "pays": "NLD",
-      "deadline": "2026-07-06",
-      "montant": 1800,
-      "publication": "2026-05-19",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/342824-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "342854-2026",
       "ref": "342854-2026",
       "acheteur": "Gemeente Zaanstad",
@@ -277,6 +215,37 @@
         "com": 5,
         "admin": 7,
         "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "354700-2026",
+      "ref": "354700-2026",
+      "acheteur": "Ministerie van Defensie",
+      "objet": "Pays-Bas – Services de formation professionnelle – EA NEN-opleidingen 3140/3840 - 2026",
+      "description": "Defensie conformeert zich aan het ARBO-besluit ten aanzien van de NEN 3140 en NEN 3840 bepalingen. Dit betekent dat de medewerkers van Defensie die in aanraking komen met elektrotechnische installaties opgeleid moeten worden conform de NEN 3140 en/of NEN 3840. De Opdracht betreft het ten behoeve van Cursisten verzorgen van Opleidingen NEN-3140/3840 en het afnemen van de daarbij behorende (her)examen, of hertoetsingen in het geval van de opleiding NEN 3140 VOP praktijkgericht, op een locatie van/namens Opdrachtnemer zoals beschreven in de Bijlage Programma van eisen. De volgende Opleidingen NEN-3140/3840 maken onderdeel uit van de Opdracht: NEN 3140 VOP; NEN 3140 VOP praktijkgericht; NEN 3140 VP; NEN 3140 IV/WV; NEN 3840 VOP; NEN 3840 VP; NEN 3840 IV/WV. Cursisten voor deze opleiding melden zich individueel aan en mogen ingedeeld worden bij cursisten van andere organisaties. De Opleidingen NEN-3140/3840 hoeven dus niet exclusief voor Defensiemedewerkers verzorgd te worden.",
+      "cpv": "80530000",
+      "pays": "NLD",
+      "deadline": "2026-07-06",
+      "montant": 1911,
+      "publication": "2026-05-26",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/354700-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 1
       },
       "score_status": "cond",
       "notes": "",
@@ -401,6 +370,37 @@
         "com": 5,
         "admin": 7,
         "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "342824-2026",
+      "ref": "342824-2026",
+      "acheteur": "Ministerie van Defensie",
+      "objet": "Pays-Bas – Services de formation dans le domaine de la sécurité – Computer Assisted eXercise (CAX) Cybernet",
+      "description": "De opdracht betreft het opzetten, begeleiden en evalueren van een CAX oefening in een virtuele omgeving, waarin door middel van scenario’s defensieve en offensieve cyber-skills worden getraind. Samenvattend: het verzorgen van de jaarlijkse Computer Assisted eXercise (CAX) Cybernet oefening. Deze aanbesteding is het gevolg van het aflopen van de huidige Raamovereenkomst. Deze Europese openbare aanbesteding heeft tot doel het sluiten van één raamovereenkomst met één Opdrachtnemer voor het uitvoeren van diensten. Voor een uitvoerige beschrijving van de opdracht wordt verwezen naar het Programma van eisen als opgenomen in de Bijlage 3 van deze Aanbestedingsleidraad.",
+      "cpv": "80550000",
+      "pays": "NLD",
+      "deadline": "2026-07-06",
+      "montant": 1800,
+      "publication": "2026-05-19",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/342824-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 1
       },
       "score_status": "cond",
       "notes": "",

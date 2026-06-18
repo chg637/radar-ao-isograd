@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T10:52:46.676Z",
+  "generated_at": "2026-06-18T10:20:39.708Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
@@ -7,30 +7,30 @@
       "fetched": 500,
       "matched": 26,
       "go": 0,
-      "generated_at": "2026-06-17T10:46:18.508Z"
+      "generated_at": "2026-06-18T10:14:08.096Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-17T10:52:28.487Z"
+      "generated_at": "2026-06-18T10:20:21.672Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-17T10:52:46.623Z"
+      "generated_at": "2026-06-18T10:20:39.656Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 26,
+  "total_matched": 24,
   "total_go": 0,
-  "total_dedup_collisions": 0,
+  "total_dedup_collisions": 2,
   "dedup_breakdown": {
     "by_id": 0,
-    "fuzzy_signature": 0,
+    "fuzzy_signature": 2,
     "fuzzy_jaccard": 0
   },
   "notices": [
@@ -283,37 +283,6 @@
       "auto": true
     },
     {
-      "id": "347409-2026",
-      "ref": "347409-2026",
-      "acheteur": "Waterschap Rivierenland",
-      "objet": "Pays-Bas – Travaux d'équipement électrique – Raamovereenkomst Elektrotechnische en Procesautomatisering werkzaamheden iWA2.0/ iPA2.0 2026",
-      "description": "De Raamovereenkomst Elektrotechnische en Procesautomatisering werkzaamheden iWA2.0/iPA2.0 2026-2030 is voornamelijk gebaseerd op de programma’s iWA2.0 en iPA2.0. De, niet uitputtende, werkzaamheden zijn onderverdeeld in: • Werkzaamheden aan de objecten stuwen en gemalen, krooshekreiniger, meetpunten en dergelijke objecten in het watersysteem. Deze objecten behoren tot het programma iWA2.0 • Werkzaamheden aan de objecten rioolgemalen en rioolwaterzuiveringsinstallaties (rwzi’s) in de waterketen. Deze objecten behoren tot het programma iPA2.0; • Buiten de programma’s iWA2.0 en iPA2.0 kunnen werkzaamheden op de (de)centrale locaties/kantoren van WSRL deel uitmaken van deze Raamovereenkomst. De werkzaamheden moeten wel in relatie staan met de werkzaamheden zoals in deze Aanbestedingsleidraad benoemd; • Detachering van personeel in geval van capaciteitsbehoefte bij WSRL. Voor deze objecten dienen er voornamelijk elektrotechnische installatiewerkzaamheden uitgevoerd te worden. Meestal worden de engineeringswerkzaamheden door WSRL zelf uitgevoerd. In sommige gevallen kan de engineering door Opdrachtnemer onderdeel uitmaken van de Nadere opdracht. WSRL hanteert voor het gehele programma iWA2.0 en iPA2.0 de volgende doelstellingen: • Het vervangen van de procesautomatisering eens per 12,5 jaar van de objecten waarbij enkel op elektrotechnisch en procesautomatisering vlak vervanging dient plaats te vinden; • Bij het vervangen van de procesautomatisering gelijktijdig het vervangen van de elektrotechnische componenten, welke niet meer voldoen aan de normen of aan vervanging toe zijn, inclusief de benodigde documentatie van de objecten; • Het technisch en functioneel op orde houden van de centrale hoofdposten watersysteem en waterketen.   Het doel van deze aanbesteding is tweeledig: 1. Het sluiten van een Raamovereenkomst(en) met één of meerdere ondernemingen voor Elektrotechnische installaties & Procesautomatisering werkzaamheden iWA2.0/ iPA2.0 2026-2030; 2. Het verstrekken van één Opdracht (een Nadere opdracht vanuit vakgebied B) voor werkzaamheden aan gemaal Middelkoop.",
-      "cpv": "45310000",
-      "pays": "NLD",
-      "deadline": "2026-07-02",
-      "montant": 100000,
-      "publication": "2026-05-21",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/347409-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 1
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "340160-2026",
       "ref": "340160-2026",
       "acheteur": "Afeer",
@@ -407,6 +376,37 @@
       "auto": true
     },
     {
+      "id": "347409-2026",
+      "ref": "347409-2026",
+      "acheteur": "Waterschap Rivierenland",
+      "objet": "Pays-Bas – Travaux d'équipement électrique – Raamovereenkomst Elektrotechnische en Procesautomatisering werkzaamheden iWA2.0/ iPA2.0 2026",
+      "description": "De Raamovereenkomst Elektrotechnische en Procesautomatisering werkzaamheden iWA2.0/iPA2.0 2026-2030 is voornamelijk gebaseerd op de programma’s iWA2.0 en iPA2.0. De, niet uitputtende, werkzaamheden zijn onderverdeeld in: • Werkzaamheden aan de objecten stuwen en gemalen, krooshekreiniger, meetpunten en dergelijke objecten in het watersysteem. Deze objecten behoren tot het programma iWA2.0 • Werkzaamheden aan de objecten rioolgemalen en rioolwaterzuiveringsinstallaties (rwzi’s) in de waterketen. Deze objecten behoren tot het programma iPA2.0; • Buiten de programma’s iWA2.0 en iPA2.0 kunnen werkzaamheden op de (de)centrale locaties/kantoren van WSRL deel uitmaken van deze Raamovereenkomst. De werkzaamheden moeten wel in relatie staan met de werkzaamheden zoals in deze Aanbestedingsleidraad benoemd; • Detachering van personeel in geval van capaciteitsbehoefte bij WSRL. Voor deze objecten dienen er voornamelijk elektrotechnische installatiewerkzaamheden uitgevoerd te worden. Meestal worden de engineeringswerkzaamheden door WSRL zelf uitgevoerd. In sommige gevallen kan de engineering door Opdrachtnemer onderdeel uitmaken van de Nadere opdracht. WSRL hanteert voor het gehele programma iWA2.0 en iPA2.0 de volgende doelstellingen: • Het vervangen van de procesautomatisering eens per 12,5 jaar van de objecten waarbij enkel op elektrotechnisch en procesautomatisering vlak vervanging dient plaats te vinden; • Bij het vervangen van de procesautomatisering gelijktijdig het vervangen van de elektrotechnische componenten, welke niet meer voldoen aan de normen of aan vervanging toe zijn, inclusief de benodigde documentatie van de objecten; • Het technisch en functioneel op orde houden van de centrale hoofdposten watersysteem en waterketen.   Het doel van deze aanbesteding is tweeledig: 1. Het sluiten van een Raamovereenkomst(en) met één of meerdere ondernemingen voor Elektrotechnische installaties & Procesautomatisering werkzaamheden iWA2.0/ iPA2.0 2026-2030; 2. Het verstrekken van één Opdracht (een Nadere opdracht vanuit vakgebied B) voor werkzaamheden aan gemaal Middelkoop.",
+      "cpv": "45310000",
+      "pays": "NLD",
+      "deadline": "2026-07-02",
+      "montant": 100000,
+      "publication": "2026-05-21",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/347409-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 69,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "342598-2026",
       "ref": "342598-2026",
       "acheteur": "Presidencia de la Autoridad Portuaria de la Bahía de Algeciras",
@@ -432,6 +432,37 @@
         "com": 5,
         "admin": 7,
         "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "362734-2026",
+      "ref": "362734-2026",
+      "acheteur": "Gemeente Tilburg",
+      "objet": "Pays-Bas – Services de gestion relatifs à l'informatique – Multifunctionele printers & printers inclusief toebehoren, beheer en onderhoud",
+      "description": "Aanbestedende dienst is op zoek naar één Opdrachtnemer om een Overeenkomst mee te sluiten die toeziet op: Het contracteren van een dienstverlening in de vorm van Managed Print Services (MPS) voor de gemeente Tilburg en deelnemende organisatie gemeente Dongen. In het kader van deze dienstverlening stelt de opdrachtnemer multifunctionele printers en printers inclusief toebehoren ter beschikking en draagt zorg voor het beheer, onderhoud en de ondersteuning daarvan als onderdeel van een doorlopende ICT-prestatie. De dienstverlening omvat onder meer het ter beschikking stellen van apparatuur, het verzorgen van de implementatie, beheer en onderhoud, het leveren van ondersteunende software en het voldoen aan de eisen zoals opgenomen in het Programma van Eisen Multifunctionele printers & printers inclusief toebehoren, beheer en onderhoud. Er is geen sprake van koop, levering, huur, lease of eigendomsoverdracht van appratuur. De apparatuur maakt integraal onderdeel uit van de dienstverleni De opdracht omvat het leveren van Managed Print Services (MPS) ten behoeve van de gemeente Tilburg (en deelnemende organisatie gemeente Dongen), waaronder het ter beschikking stellen, beheren en onderhouden van multifunctionele printers en printers inclusief bijbehorende dienstverlening. De huidige omvang betreft indicatief: circa 94 apparaten, verdeeld over verschillende typen printers en multifunctionele apparaten; een jaarlijks afdrukvolume van circa 2,3 miljoen zwart-wit afdrukken en circa 0,95 miljoen kleurenafdrukken. Deze aantallen en volumes zijn gebaseerd op historische gegevens en dienen uitsluitend ter indicatie. Hieraan kunnen geen rechten of afnameverplichtingen worden ontleend. Gedurende de looptijd van de overeenkomst kan de omvang van de dienstverlening wijzigen binnen de contractueel vastgestelde bandbreedtes, waaronder opschaling en afschaling van het aantal apparaten. De overeenkomst wordt aangegaan voor een initiële looptijd van vijf (5) jaar met de mogelijkheid tot verlenging van maximaal vijf (5) maal één (1) jaar.",
+      "cpv": "72510000",
+      "pays": "NLD",
+      "deadline": "2026-08-18",
+      "montant": 0,
+      "publication": "2026-05-27",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/362734-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 67,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
       },
       "score_status": "cond",
       "notes": "",
@@ -469,31 +500,31 @@
       "auto": true
     },
     {
-      "id": "357329-2026",
-      "ref": "357329-2026",
-      "acheteur": "Gemeente Tilburg",
-      "objet": "Pays-Bas – Services de gestion relatifs à l'informatique – Multifunctionele printers & printers inclusief toebehoren, beheer en onderhoud",
-      "description": "Aanbestedende dienst is op zoek naar één Opdrachtnemer om een Overeenkomst mee te sluiten die toeziet op: Het contracteren van een dienstverlening in de vorm van Managed Print Services (MPS) voor de gemeente Tilburg en deelnemende organisatie gemeente Dongen. In het kader van deze dienstverlening stelt de opdrachtnemer multifunctionele printers en printers inclusief toebehoren ter beschikking en draagt zorg voor het beheer, onderhoud en de ondersteuning daarvan als onderdeel van een doorlopende ICT-prestatie. De dienstverlening omvat onder meer het ter beschikking stellen van apparatuur, het verzorgen van de implementatie, beheer en onderhoud, het leveren van ondersteunende software en het voldoen aan de eisen zoals opgenomen in het Programma van Eisen Multifunctionele printers & printers inclusief toebehoren, beheer en onderhoud. Er is geen sprake van koop, levering, huur, lease of eigendomsoverdracht van appratuur. De apparatuur maakt integraal onderdeel uit van de dienstverleni De opdracht omvat het leveren van Managed Print Services (MPS) ten behoeve van de gemeente Tilburg (en deelnemende organisatie gemeente Dongen), waaronder het ter beschikking stellen, beheren en onderhouden van multifunctionele printers en printers inclusief bijbehorende dienstverlening. De huidige omvang betreft indicatief: circa 94 apparaten, verdeeld over verschillende typen printers en multifunctionele apparaten; een jaarlijks afdrukvolume van circa 2,3 miljoen zwart-wit afdrukken en circa 0,95 miljoen kleurenafdrukken. Deze aantallen en volumes zijn gebaseerd op historische gegevens en dienen uitsluitend ter indicatie. Hieraan kunnen geen rechten of afnameverplichtingen worden ontleend. Gedurende de looptijd van de overeenkomst kan de omvang van de dienstverlening wijzigen binnen de contractueel vastgestelde bandbreedtes, waaronder opschaling en afschaling van het aantal apparaten. De overeenkomst wordt aangegaan voor een initiële looptijd van vijf (5) jaar met de mogelijkheid tot verlenging van maximaal vijf (5) maal één (1) jaar.",
-      "cpv": "72510000",
-      "pays": "NLD",
-      "deadline": "2026-08-18",
+      "id": "362245-2026",
+      "ref": "362245-2026",
+      "acheteur": "Medizinisches Zentrum für Gesundheit Bad Lippspringe gGmbH (MZG) / Karl-Hansen-Klinik GmbH",
+      "objet": "Allemagne – Imprimantes et traceurs – Outputmanagement / KDF-Systeme",
+      "description": "Der Auftragnehmer ist ein IT-Dienstleister mit weitgehender Erfahrung im Bereich der Bereitstellung von Dokumentenverarbeitungsgeräten und der Erbringung von Full-Service-Dienstleistungen. Der Auftragnehmer übernimmt die Gesamtverantwortung für die Funktionalität und die volle Integrationsfähigkeit der Dokumentenverarbeitungsgeräte in die vorhandene und geplante EDV-Landschaft der Auftraggeber. Ebenso sichert er die Betriebssicherheit der Dokumentenverarbeitungsgeräte zu und garantiert deren Einsatzbereitschaft im vorgegebenen Zeitrahmen. Erfüllungsort für alle Leistungen sind die Standorte der Auftraggeber, die beim jeweiligen Abruf aus der Rahmenvereinbarung benannt werden. Alle Hauptstandorte der Auftraggeber sind per Glasfasernetz untereinander verbunden. Es ist ein Hauptprint Server mit Win 2022 vor Ort installiert. Alle Desktop PCs und Latops arbeiten mit Windows 11 64bit. Alle PC-Arbeitsplätze müssen mit MS Office 365, Standard Drittanbietersoftware, Klinikinformationssystem Orbis, Meditec, div. drucken. Alle Leistungen erfolgen nach Vorgaben des MZG frei Haus. Das Transportrisiko geht zu Lasten des Auftragnehmers. Transport- und Verpackungsmaterial sind auf Anforderung sofort bei Lieferung aus den Räumlichkeiten des Bedarfsträgers zu entfernen und umweltgerecht zu verwerten / entsorgen; eine Zwischenlagerung ist nicht möglich. Der Auftragnehmer übernimmt die Organisation sowie die Kosten der Rücknahme und der Entsorgung. Für die vorgenannten Leistungen wird keine zusätzliche Gebühr berechnet, die entsprechenden Kosten sind in den Angebotspreisen berücksichtigt. Die Rahmenvereinbarung hat eine Laufzeit von 48 Monaten. Eine Vertragsverlängerung ist nicht vorgesehen. Die Abrufe aus der Rahmenvereinbarung werden in schriftlicher Form durch die Auftraggeber in Form einer Bestellung ausgelöst. Die weiteren Details sind der Rahmenvereinbarung (Teil C) zu entnehmen. Da bei der Durchführung der Rahmenvereinbarung personenbezogene Daten im Sinne des Art. 4 Nr. 1 der Datenschutzgrundverordnung (DSGVO) verarbeitet werden, muss sich der Auftragnehmer zur Einhaltung der jeweils einschlägigen datenschutzrechtlichen Bestimmungen der Europäischen Union (insb. der DSGVO), des Bundes (Bundesdatenschutzgesetz - BDSG) sowie des Landes Nordrhein-Westfalen (Datenschutzgesetz Nordrhein-Westfalen - DSG NRW) verpflichten. Zu diesem Zweck schließt er einen Vertrag zur Auftragsverarbeitung nach Art. 28 DSGVO mit den Auftraggebern. Auf Grundlage der Rahmenvereinbarung können die Auftraggeber während deren Laufzeit einzelne Bestellungen über die mietweise Überlassung der Dokumentenverarbeitungsgeräte einschließlich der jeweils zugehörigen Serviceleistungen abrufen (nachfolgend jeweils \"Einzelbestellung\"). Die Auftraggeber sind berechtigt, jede Einzelbestellung einschließlich der zugehörigen Serviceleistungen erstmals zum Ablauf von 24 Monaten ab dem in der jeweiligen Einzelbestellung bestimmten Leistungsbeginn ordentlich zu kündigen. Die Kündigung ist mit einer Frist von drei (3) Monaten zum Monatsende in Textform zulässig. Die Kündigung einer Einzelbestellung beendet ausschließlich die hiervon erfasste Einzelbestellung einschließlich der zugehörigen Serviceleistungen. Die Ausstattung der einzelnen Standorte mit den vertraglich vereinbarten Druck- und Multifunktionssystemen erfolgt im Rahmen eines abgestimmten Roll-out-Prozesses. Der Roll-out-Prozess beginnt unverzüglich nach Zuschlagserteilung. Der Roll-out wird jeweils durch eine schriftliche Einzelbestellung des Auftraggebers ausgelöst. Der Auftragnehmer verpflichtet sich, den durch die jeweilige Bestellung initiierten Roll-out-Prozess spätestens innerhalb von 6 Wochen nach Zugang der vollständigen Bestellung abzuschließen. Als abgeschlossen gilt der Roll-out, sobald die Systeme am jeweiligen Standort angeliefert, installiert, konfiguriert, betriebsbereit übergeben und durch den Auftraggeber abgenommen wurden. Verzögerungen, die ausschließlich auf fehlende oder verspätete Mitwirkungshandlungen des Auftraggebers zurückzuführen sind, verlängern die Frist entsprechend. Die im Preisblatt gem. Vordruck Anlage B.1 zu Teil B ausgewiesenen Mengenangaben basieren auf der statistischen Auswertung der Auftraggeber, die für den Zeitraum der Leistungserbringung repräsentativ sind, aber lediglich als Anhaltspunkt für die tatsächlich anfallenden Mengen dient. Es ist in jedem Fall der komplette Bedarf zu decken. Aus der Angabe des geschätzten Gesamtwerts sowie des dort geschätzten Leistungsumfangs pro Jahr kann keine Verpflichtung der Auftraggeber zur Beauftragung eines bestimmten Leistungsumfangs oder Mindestumfang der Dienstleistungen abgeleitet werden. Der Auftragnehmer kann aus dem Nichtabruf des geschätzten Gesamtwerts und des geschätzten Leistungsumfangs pro Jahr keine Ansprüche auf Schadensersatz oder sonstige Ansprüche ableiten. Die Auftraggeber sind insbesondere berechtigt, im erforderlichen und in einem den Rahmenvereinbarungspartnern zumutbaren Umfang und innerhalb ihrer Leistungsfähigkeit das geschätzte Auftragsvolumen der Rahmenvereinbarung gemäß EU-Bekanntmachung um maximal 50% des ursprünglich geschätzten Auftragsvolumens jeweils positionsspezifisch zu erhöhen, wenn a) dies zur fachgerechten Erbringung der von der Rahmenvereinbarung erfassten Leistungen im Geltungsbereich und während der Laufzeit der Rahmenvereinbarung erforderlich ist oder b) für die Leistungserbringung relevante rechtliche oder regulatorische Vorgaben, einschließlich Feststellungen oder Anordnungen der die Auftraggeber beaufsichtigenden Stellen, eine Änderung des Bedarfs der Auftraggeber nach sich ziehen oder c) grundlegende betriebliche Entscheidungen der Auftraggeber über Erweiterungen der Klinikabschnitte zu einem erhöhten Patientenaufkommen und damit zu einer Anpassung des Beschaffungsbedarfs führen. Wegen der weiteren Einzelheiten wird auf die Vergabeunterlagen, insbesondere die Leistungsbeschreibung (Teil B) und die Vertragsunterlagen (Teil C) verwiesen.",
+      "cpv": "30232100",
+      "pays": "DEU",
+      "deadline": "",
       "montant": 0,
-      "publication": "2026-05-26",
+      "publication": "2026-05-27",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/357329-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/362245-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Word"
+        "Office 365"
       ],
       "bureautique": true,
-      "score": 67,
+      "score": 65,
       "score_detail": {
         "fit": 30,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -515,37 +546,6 @@
       "segment": "Autre",
       "keyword_hits": [
         "Excel"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "345949-2026",
-      "ref": "345949-2026",
-      "acheteur": "Medizinisches Zentrum für Gesundheit Bad Lippspringe gGmbH (MZG) / Karl-Hansen-Klinik GmbH",
-      "objet": "Allemagne – Imprimantes et traceurs – Outputmanagement / KDF-Systeme",
-      "description": "Der Auftragnehmer ist ein IT-Dienstleister mit weitgehender Erfahrung im Bereich der Bereitstellung von Dokumentenverarbeitungsgeräten und der Erbringung von Full-Service-Dienstleistungen. Der Auftragnehmer übernimmt die Gesamtverantwortung für die Funktionalität und die volle Integrationsfähigkeit der Dokumentenverarbeitungsgeräte in die vorhandene und geplante EDV-Landschaft der Auftraggeber. Ebenso sichert er die Betriebssicherheit der Dokumentenverarbeitungsgeräte zu und garantiert deren Einsatzbereitschaft im vorgegebenen Zeitrahmen. Erfüllungsort für alle Leistungen sind die Standorte der Auftraggeber, die beim jeweiligen Abruf aus der Rahmenvereinbarung benannt werden. Alle Hauptstandorte der Auftraggeber sind per Glasfasernetz untereinander verbunden. Es ist ein Hauptprint Server mit Win 2022 vor Ort installiert. Alle Desktop PCs und Latops arbeiten mit Windows 11 64bit. Alle PC-Arbeitsplätze müssen mit MS Office 365, Standard Drittanbietersoftware, Klinikinformationssystem Orbis, Meditec, div. drucken. Alle Leistungen erfolgen nach Vorgaben des MZG frei Haus. Das Transportrisiko geht zu Lasten des Auftragnehmers. Transport- und Verpackungsmaterial sind auf Anforderung sofort bei Lieferung aus den Räumlichkeiten des Bedarfsträgers zu entfernen und umweltgerecht zu verwerten / entsorgen; eine Zwischenlagerung ist nicht möglich. Der Auftragnehmer übernimmt die Organisation sowie die Kosten der Rücknahme und der Entsorgung. Für die vorgenannten Leistungen wird keine zusätzliche Gebühr berechnet, die entsprechenden Kosten sind in den Angebotspreisen berücksichtigt. Die Rahmenvereinbarung hat eine Laufzeit von 48 Monaten. Eine Vertragsverlängerung ist nicht vorgesehen. Die Abrufe aus der Rahmenvereinbarung werden in schriftlicher Form durch die Auftraggeber in Form einer Bestellung ausgelöst. Die weiteren Details sind der Rahmenvereinbarung (Teil C) zu entnehmen. Da bei der Durchführung der Rahmenvereinbarung personenbezogene Daten im Sinne des Art. 4 Nr. 1 der Datenschutzgrundverordnung (DSGVO) verarbeitet werden, muss sich der Auftragnehmer zur Einhaltung der jeweils einschlägigen datenschutzrechtlichen Bestimmungen der Europäischen Union (insb. der DSGVO), des Bundes (Bundesdatenschutzgesetz - BDSG) sowie des Landes Nordrhein-Westfalen (Datenschutzgesetz Nordrhein-Westfalen - DSG NRW) verpflichten. Zu diesem Zweck schließt er einen Vertrag zur Auftragsverarbeitung nach Art. 28 DSGVO mit den Auftraggebern. Auf Grundlage der Rahmenvereinbarung können die Auftraggeber während deren Laufzeit einzelne Bestellungen über die mietweise Überlassung der Dokumentenverarbeitungsgeräte einschließlich der jeweils zugehörigen Serviceleistungen abrufen (nachfolgend jeweils \"Einzelbestellung\"). Die Auftraggeber sind berechtigt, jede Einzelbestellung einschließlich der zugehörigen Serviceleistungen erstmals zum Ablauf von 24 Monaten ab dem in der jeweiligen Einzelbestellung bestimmten Leistungsbeginn ordentlich zu kündigen. Die Kündigung ist mit einer Frist von drei (3) Monaten zum Monatsende in Textform zulässig. Die Kündigung einer Einzelbestellung beendet ausschließlich die hiervon erfasste Einzelbestellung einschließlich der zugehörigen Serviceleistungen. Die Ausstattung der einzelnen Standorte mit den vertraglich vereinbarten Druck- und Multifunktionssystemen erfolgt im Rahmen eines abgestimmten Roll-out-Prozesses. Der Roll-out-Prozess beginnt unverzüglich nach Zuschlagserteilung. Der Roll-out wird jeweils durch eine schriftliche Einzelbestellung des Auftraggebers ausgelöst. Der Auftragnehmer verpflichtet sich, den durch die jeweilige Bestellung initiierten Roll-out-Prozess spätestens innerhalb von 6 Wochen nach Zugang der vollständigen Bestellung abzuschließen. Als abgeschlossen gilt der Roll-out, sobald die Systeme am jeweiligen Standort angeliefert, installiert, konfiguriert, betriebsbereit übergeben und durch den Auftraggeber abgenommen wurden. Verzögerungen, die ausschließlich auf fehlende oder verspätete Mitwirkungshandlungen des Auftraggebers zurückzuführen sind, verlängern die Frist entsprechend. Die im Preisblatt gem. Vordruck Anlage B.1 zu Teil B ausgewiesenen Mengenangaben basieren auf der statistischen Auswertung der Auftraggeber, die für den Zeitraum der Leistungserbringung repräsentativ sind, aber lediglich als Anhaltspunkt für die tatsächlich anfallenden Mengen dient. Es ist in jedem Fall der komplette Bedarf zu decken. Aus der Angabe des geschätzten Gesamtwerts sowie des dort geschätzten Leistungsumfangs pro Jahr kann keine Verpflichtung der Auftraggeber zur Beauftragung eines bestimmten Leistungsumfangs oder Mindestumfang der Dienstleistungen abgeleitet werden. Der Auftragnehmer kann aus dem Nichtabruf des geschätzten Gesamtwerts und des geschätzten Leistungsumfangs pro Jahr keine Ansprüche auf Schadensersatz oder sonstige Ansprüche ableiten. Die Auftraggeber sind insbesondere berechtigt, im erforderlichen und in einem den Rahmenvereinbarungspartnern zumutbaren Umfang und innerhalb ihrer Leistungsfähigkeit das geschätzte Auftragsvolumen der Rahmenvereinbarung gemäß EU-Bekanntmachung um maximal 50% des ursprünglich geschätzten Auftragsvolumens jeweils positionsspezifisch zu erhöhen, wenn a) dies zur fachgerechten Erbringung der von der Rahmenvereinbarung erfassten Leistungen im Geltungsbereich und während der Laufzeit der Rahmenvereinbarung erforderlich ist oder b) für die Leistungserbringung relevante rechtliche oder regulatorische Vorgaben, einschließlich Feststellungen oder Anordnungen der die Auftraggeber beaufsichtigenden Stellen, eine Änderung des Bedarfs der Auftraggeber nach sich ziehen oder c) grundlegende betriebliche Entscheidungen der Auftraggeber über Erweiterungen der Klinikabschnitte zu einem erhöhten Patientenaufkommen und damit zu einer Anpassung des Beschaffungsbedarfs führen. Wegen der weiteren Einzelheiten wird auf die Vergabeunterlagen, insbesondere die Leistungsbeschreibung (Teil B) und die Vertragsunterlagen (Teil C) verwiesen.",
-      "cpv": "30232100",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-05-20",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/345949-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Office 365"
       ],
       "bureautique": true,
       "score": 65,
@@ -650,68 +650,6 @@
         "com": 5,
         "admin": 7,
         "delay": 1
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "334836-2026",
-      "ref": "334836-2026",
-      "acheteur": "Kansspelautoriteit",
-      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Applicatiebeheer Exact omgeving",
-      "description": "De Kansspelautoriteit zoekt een opdrachtnemer die Ksa kan voorzien in dienstverlening rondom haar Exact omgeving. De Exact omgeving (met onder andere Exact Financials Enterprise en Exact Synergy Enterprise) vormt een geheel aan centrale applicaties waarin kritische bedrijfsprocessen worden ondersteund. Exact is op dit moment ingericht als onderdeel van de bedrijfsvoering van de Ksa en bevat onder meer bestaande administratieve processen, stamdata, autorisaties, rapportages, koppelingen, specifieke inrichting een aanpassingen aan werkprocessen, workflows, controles en historische gegevens. Momenteel maken 10 gebruikers gebruik van Exact Financials Enterprise. Momenteel maken 230 (professional licenties) gebruikers gebruik van Exact Synergy Enterprise van de ingerichte workflows en selfservice. En er zijn 50 zware gebruikers die gebruik maken van Exact Synergy Enterprise.",
-      "cpv": "72200000",
-      "pays": "NLD",
-      "deadline": "2026-06-30",
-      "montant": 0,
-      "publication": "2026-05-18",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/334836-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "335552-2026",
-      "ref": "335552-2026",
-      "acheteur": "Gemeente Nijkerk",
-      "objet": "Pays-Bas – Services relatifs aux logiciels – Financieel Systeem",
-      "description": "De gemeente Nijkerk is voornemens om een overeenkomst af te sluiten met een samenwerkingspartner voor de levering en implementatie van een financieel systeem. Op het moment maakt de gemeente gebruik van ons huidige financiële systeem van leverancier Centric, maar deze overeenkomst loopt binnenkort af. We zijn op zoek naar een samenwerkingspartner die begrijpt waar onze behoeften liggen en die samen met ons ervoor zorgt dat we worden ondersteund bij het betrouwbaar, transparant en efficiënt uitvoeren van onze financiële taken. 1",
-      "cpv": "72260000",
-      "pays": "NLD",
-      "deadline": "2026-06-15",
-      "montant": 0,
-      "publication": "2026-05-18",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/335552-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
       },
       "score_status": "cond",
       "notes": "",

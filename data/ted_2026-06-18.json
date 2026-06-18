@@ -1,38 +1,10 @@
 {
-  "generated_at": "2026-06-18T10:20:39.708Z",
-  "source": "MERGE",
-  "sources_summary": {
-    "TED": {
-      "present": true,
-      "fetched": 500,
-      "matched": 26,
-      "go": 0,
-      "generated_at": "2026-06-18T10:14:08.096Z"
-    },
-    "BOAMP": {
-      "present": true,
-      "fetched": 3000,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-06-18T10:20:21.672Z"
-    },
-    "Profil": {
-      "present": true,
-      "fetched": 0,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-06-18T10:20:39.656Z"
-    }
-  },
-  "total_fetched": 3500,
-  "total_matched": 24,
+  "generated_at": "2026-06-18T10:14:08.096Z",
+  "source": "TED",
+  "window_days": 30,
+  "total_fetched": 500,
+  "total_matched": 26,
   "total_go": 0,
-  "total_dedup_collisions": 2,
-  "dedup_breakdown": {
-    "by_id": 0,
-    "fuzzy_signature": 2,
-    "fuzzy_jaccard": 0
-  },
   "notices": [
     {
       "id": "357299-2026",
@@ -60,6 +32,99 @@
         "com": 5,
         "admin": 7,
         "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "342854-2026",
+      "ref": "342854-2026",
+      "acheteur": "Gemeente Zaanstad",
+      "objet": "Pays-Bas – Services de développement de logiciels de gestion d'internet et d'intranet – Sociaal intranet",
+      "description": "Gemeente Zaanstad heeft al 10 jaar een sociaal intranet. Het is de spil van de interne communicatie middelenmix. Medewerkers weten niet beter dan dat ze op het intranet zelf berichten kunnen plaatsen, vragen stellen en organisatie nieuws en organisatie informatie kunnen vinden. Zie aanbestedingsdocumenten. Hiervoor geldt een plafondbedrag van € 80.000, - excl. BTW per jaar. Indien dit bedrag in de inschrijving wordt overschreden wordt de inschrijving terzijde gelegd en niet meegenomen voor de verdere beoordeling.",
+      "cpv": "72212220",
+      "pays": "NLD",
+      "deadline": "2026-08-20",
+      "montant": 800,
+      "publication": "2026-05-19",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/342854-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "348211-2026",
+      "ref": "348211-2026",
+      "acheteur": "Belastingdienst, IUC Belastingdienst",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Beheer, Onderhoud & support Oracle Exadata-omgeving",
+      "description": "De Belastingdienst maakt gebruik van een Exadata-omgeving als onderdeel van haar kritieke dataplatforminfrastructuur. Deze omgeving ondersteunt diverse bedrijfskritische applicaties en processen die essentieel zijn voor de uitvoering van haar taken. Om de continuïteit, prestaties en (Informatie)beveiliging van deze omgeving te waarborgen, wordt een aanbesteding gestart voor het onderhoud en de ondersteuning van de bestaande Exadata-stack (Installed base). De scope van deze aanbesteding omvat primair het Beheer, Onderhoud & Support van de Oracle Exadata-stack (Installed Base) en Technical Accountmanagement (TAM) die een directe relatie hebben met de Oracle Exadata-omgeving Keuze-element: Consultancy Herzieningsclausules: 1. Uitbreiding Programmatuur; 2. Nieuwe Programmatuur; 3. Technology refresh; 4. Logische opvolger; 5. Tijdelijk verlenging Overeenkomst. De opdracht betreft primair het Beheer, Onderhoud & Support op 5 Oracle Exadata X10M Engineered systems (incl Systeemsoftware en databasesoftware). De geraamde waarde van Diensten (Beheer, Onderhoud & Support) is geraamd op een waarde van 400.000 (excl. BTW) per jaar. De omvang is (mede) gebaseerd op ramingen, waar geen rechten aan kunnen worden ontleend. Deze omvang is exclusief Keuze-elementen en Herziengingen.",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 2209,
+      "publication": "2026-05-21",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/348211-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "356013-2026",
+      "ref": "356013-2026",
+      "acheteur": "Ministerie van Defensie",
+      "objet": "Pays-Bas – Services de formation en matière de sécurité – Perceel 1 : Aanvullende instructie voor opleiding Documentenonderzoek en opleiding Documentendeskundige en Perceel 2: Ontwikkelen en verzorgen van opleiding RFID-chiptechnologie",
+      "description": "De opdrachten betreffen het verrichten van aanvullende instructie ten behoeve van opleiding Documentenonderzoek en opleiding Documentendeskundige. Meer informatie vindt u in de aanbestedingsdocumenten. / Het OTCKMar zoekt een opdrachtnemer die een gespecialiseerde verdieping, verbreding en aanvulling kan geven op de bestaande opleiding Documentdeskundige . De opleiding is bedoeld voor documentdeskundigen werkzaam bij een publieke organisatie. De opleiding wordt geheel ontwikkeld, gefaciliteerd en verzorgd door de opdrachtnemer. De opdrachtnemer is in staat om deelnemers te trainen in het herkennen van afwijkingen en het beoordelen van de authenticiteit van RFID-chips, alsmede het onderbouwd vastleggen van bevindingen, bijvoorbeeld in een proces-verbaal of een rapport. Voor meer info, zie de aanbestedingsdocumenten.",
+      "cpv": "80330000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 3182,
+      "publication": "2026-05-26",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/356013-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -118,161 +183,6 @@
       "score_detail": {
         "fit": 30,
         "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "356013-2026",
-      "ref": "356013-2026",
-      "acheteur": "Ministerie van Defensie",
-      "objet": "Pays-Bas – Services de formation en matière de sécurité – Perceel 1 : Aanvullende instructie voor opleiding Documentenonderzoek en opleiding Documentendeskundige en Perceel 2: Ontwikkelen en verzorgen van opleiding RFID-chiptechnologie",
-      "description": "De opdrachten betreffen het verrichten van aanvullende instructie ten behoeve van opleiding Documentenonderzoek en opleiding Documentendeskundige. Meer informatie vindt u in de aanbestedingsdocumenten. / Het OTCKMar zoekt een opdrachtnemer die een gespecialiseerde verdieping, verbreding en aanvulling kan geven op de bestaande opleiding Documentdeskundige . De opleiding is bedoeld voor documentdeskundigen werkzaam bij een publieke organisatie. De opleiding wordt geheel ontwikkeld, gefaciliteerd en verzorgd door de opdrachtnemer. De opdrachtnemer is in staat om deelnemers te trainen in het herkennen van afwijkingen en het beoordelen van de authenticiteit van RFID-chips, alsmede het onderbouwd vastleggen van bevindingen, bijvoorbeeld in een proces-verbaal of een rapport. Voor meer info, zie de aanbestedingsdocumenten.",
-      "cpv": "80330000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 3182,
-      "publication": "2026-05-26",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/356013-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "348211-2026",
-      "ref": "348211-2026",
-      "acheteur": "Belastingdienst, IUC Belastingdienst",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Beheer, Onderhoud & support Oracle Exadata-omgeving",
-      "description": "De Belastingdienst maakt gebruik van een Exadata-omgeving als onderdeel van haar kritieke dataplatforminfrastructuur. Deze omgeving ondersteunt diverse bedrijfskritische applicaties en processen die essentieel zijn voor de uitvoering van haar taken. Om de continuïteit, prestaties en (Informatie)beveiliging van deze omgeving te waarborgen, wordt een aanbesteding gestart voor het onderhoud en de ondersteuning van de bestaande Exadata-stack (Installed base). De scope van deze aanbesteding omvat primair het Beheer, Onderhoud & Support van de Oracle Exadata-stack (Installed Base) en Technical Accountmanagement (TAM) die een directe relatie hebben met de Oracle Exadata-omgeving Keuze-element: Consultancy Herzieningsclausules: 1. Uitbreiding Programmatuur; 2. Nieuwe Programmatuur; 3. Technology refresh; 4. Logische opvolger; 5. Tijdelijk verlenging Overeenkomst. De opdracht betreft primair het Beheer, Onderhoud & Support op 5 Oracle Exadata X10M Engineered systems (incl Systeemsoftware en databasesoftware). De geraamde waarde van Diensten (Beheer, Onderhoud & Support) is geraamd op een waarde van 400.000 (excl. BTW) per jaar. De omvang is (mede) gebaseerd op ramingen, waar geen rechten aan kunnen worden ontleend. Deze omvang is exclusief Keuze-elementen en Herziengingen.",
-      "cpv": "72000000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 2209,
-      "publication": "2026-05-21",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/348211-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "342854-2026",
-      "ref": "342854-2026",
-      "acheteur": "Gemeente Zaanstad",
-      "objet": "Pays-Bas – Services de développement de logiciels de gestion d'internet et d'intranet – Sociaal intranet",
-      "description": "Gemeente Zaanstad heeft al 10 jaar een sociaal intranet. Het is de spil van de interne communicatie middelenmix. Medewerkers weten niet beter dan dat ze op het intranet zelf berichten kunnen plaatsen, vragen stellen en organisatie nieuws en organisatie informatie kunnen vinden. Zie aanbestedingsdocumenten. Hiervoor geldt een plafondbedrag van € 80.000, - excl. BTW per jaar. Indien dit bedrag in de inschrijving wordt overschreden wordt de inschrijving terzijde gelegd en niet meegenomen voor de verdere beoordeling.",
-      "cpv": "72212220",
-      "pays": "NLD",
-      "deadline": "2026-08-20",
-      "montant": 800,
-      "publication": "2026-05-19",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/342854-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "354700-2026",
-      "ref": "354700-2026",
-      "acheteur": "Ministerie van Defensie",
-      "objet": "Pays-Bas – Services de formation professionnelle – EA NEN-opleidingen 3140/3840 - 2026",
-      "description": "Defensie conformeert zich aan het ARBO-besluit ten aanzien van de NEN 3140 en NEN 3840 bepalingen. Dit betekent dat de medewerkers van Defensie die in aanraking komen met elektrotechnische installaties opgeleid moeten worden conform de NEN 3140 en/of NEN 3840. De Opdracht betreft het ten behoeve van Cursisten verzorgen van Opleidingen NEN-3140/3840 en het afnemen van de daarbij behorende (her)examen, of hertoetsingen in het geval van de opleiding NEN 3140 VOP praktijkgericht, op een locatie van/namens Opdrachtnemer zoals beschreven in de Bijlage Programma van eisen. De volgende Opleidingen NEN-3140/3840 maken onderdeel uit van de Opdracht: NEN 3140 VOP; NEN 3140 VOP praktijkgericht; NEN 3140 VP; NEN 3140 IV/WV; NEN 3840 VOP; NEN 3840 VP; NEN 3840 IV/WV. Cursisten voor deze opleiding melden zich individueel aan en mogen ingedeeld worden bij cursisten van andere organisaties. De Opleidingen NEN-3140/3840 hoeven dus niet exclusief voor Defensiemedewerkers verzorgd te worden.",
-      "cpv": "80530000",
-      "pays": "NLD",
-      "deadline": "2026-07-06",
-      "montant": 1911,
-      "publication": "2026-05-26",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/354700-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 1
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "352269-2026",
-      "ref": "352269-2026",
-      "acheteur": "Ministerie van Economische Zaken",
-      "objet": "Pays-Bas – Services d'organisation d'événements – Kenniscommunity Lage Temperatuur Aardwarmte",
-      "description": "Deze aanbesteding ziet toe op een invulling van de Kenniscommunity binnen programmalijn 3 van het versnellingsprogramma Lage Tempratuur Aardwarmte (LTA). Er wordt beoogd dat deze zal bestaan uit zowel fysieke (e.g. events, workshops) als digitale aspecten (digitaal platform) welke stakeholders stimuleren om kennis te delen en van elkaar te leren op het gebied van LTA. Zie aanbestedingsdocument paragraaf 2.4.",
-      "cpv": "79952000",
-      "pays": "NLD",
-      "deadline": "2026-07-08",
-      "montant": 255,
-      "publication": "2026-05-22",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/352269-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -376,31 +286,62 @@
       "auto": true
     },
     {
-      "id": "347409-2026",
-      "ref": "347409-2026",
-      "acheteur": "Waterschap Rivierenland",
-      "objet": "Pays-Bas – Travaux d'équipement électrique – Raamovereenkomst Elektrotechnische en Procesautomatisering werkzaamheden iWA2.0/ iPA2.0 2026",
-      "description": "De Raamovereenkomst Elektrotechnische en Procesautomatisering werkzaamheden iWA2.0/iPA2.0 2026-2030 is voornamelijk gebaseerd op de programma’s iWA2.0 en iPA2.0. De, niet uitputtende, werkzaamheden zijn onderverdeeld in: • Werkzaamheden aan de objecten stuwen en gemalen, krooshekreiniger, meetpunten en dergelijke objecten in het watersysteem. Deze objecten behoren tot het programma iWA2.0 • Werkzaamheden aan de objecten rioolgemalen en rioolwaterzuiveringsinstallaties (rwzi’s) in de waterketen. Deze objecten behoren tot het programma iPA2.0; • Buiten de programma’s iWA2.0 en iPA2.0 kunnen werkzaamheden op de (de)centrale locaties/kantoren van WSRL deel uitmaken van deze Raamovereenkomst. De werkzaamheden moeten wel in relatie staan met de werkzaamheden zoals in deze Aanbestedingsleidraad benoemd; • Detachering van personeel in geval van capaciteitsbehoefte bij WSRL. Voor deze objecten dienen er voornamelijk elektrotechnische installatiewerkzaamheden uitgevoerd te worden. Meestal worden de engineeringswerkzaamheden door WSRL zelf uitgevoerd. In sommige gevallen kan de engineering door Opdrachtnemer onderdeel uitmaken van de Nadere opdracht. WSRL hanteert voor het gehele programma iWA2.0 en iPA2.0 de volgende doelstellingen: • Het vervangen van de procesautomatisering eens per 12,5 jaar van de objecten waarbij enkel op elektrotechnisch en procesautomatisering vlak vervanging dient plaats te vinden; • Bij het vervangen van de procesautomatisering gelijktijdig het vervangen van de elektrotechnische componenten, welke niet meer voldoen aan de normen of aan vervanging toe zijn, inclusief de benodigde documentatie van de objecten; • Het technisch en functioneel op orde houden van de centrale hoofdposten watersysteem en waterketen.   Het doel van deze aanbesteding is tweeledig: 1. Het sluiten van een Raamovereenkomst(en) met één of meerdere ondernemingen voor Elektrotechnische installaties & Procesautomatisering werkzaamheden iWA2.0/ iPA2.0 2026-2030; 2. Het verstrekken van één Opdracht (een Nadere opdracht vanuit vakgebied B) voor werkzaamheden aan gemaal Middelkoop.",
-      "cpv": "45310000",
+      "id": "352269-2026",
+      "ref": "352269-2026",
+      "acheteur": "Ministerie van Economische Zaken",
+      "objet": "Pays-Bas – Services d'organisation d'événements – Kenniscommunity Lage Temperatuur Aardwarmte",
+      "description": "Deze aanbesteding ziet toe op een invulling van de Kenniscommunity binnen programmalijn 3 van het versnellingsprogramma Lage Tempratuur Aardwarmte (LTA). Er wordt beoogd dat deze zal bestaan uit zowel fysieke (e.g. events, workshops) als digitale aspecten (digitaal platform) welke stakeholders stimuleren om kennis te delen en van elkaar te leren op het gebied van LTA. Zie aanbestedingsdocument paragraaf 2.4.",
+      "cpv": "79952000",
       "pays": "NLD",
-      "deadline": "2026-07-02",
-      "montant": 100000,
-      "publication": "2026-05-21",
+      "deadline": "2026-07-08",
+      "montant": 255,
+      "publication": "2026-05-22",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/347409-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/352269-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
       "bureautique": true,
-      "score": 69,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "354700-2026",
+      "ref": "354700-2026",
+      "acheteur": "Ministerie van Defensie",
+      "objet": "Pays-Bas – Services de formation professionnelle – EA NEN-opleidingen 3140/3840 - 2026",
+      "description": "Defensie conformeert zich aan het ARBO-besluit ten aanzien van de NEN 3140 en NEN 3840 bepalingen. Dit betekent dat de medewerkers van Defensie die in aanraking komen met elektrotechnische installaties opgeleid moeten worden conform de NEN 3140 en/of NEN 3840. De Opdracht betreft het ten behoeve van Cursisten verzorgen van Opleidingen NEN-3140/3840 en het afnemen van de daarbij behorende (her)examen, of hertoetsingen in het geval van de opleiding NEN 3140 VOP praktijkgericht, op een locatie van/namens Opdrachtnemer zoals beschreven in de Bijlage Programma van eisen. De volgende Opleidingen NEN-3140/3840 maken onderdeel uit van de Opdracht: NEN 3140 VOP; NEN 3140 VOP praktijkgericht; NEN 3140 VP; NEN 3140 IV/WV; NEN 3840 VOP; NEN 3840 VP; NEN 3840 IV/WV. Cursisten voor deze opleiding melden zich individueel aan en mogen ingedeeld worden bij cursisten van andere organisaties. De Opleidingen NEN-3140/3840 hoeven dus niet exclusief voor Defensiemedewerkers verzorgd te worden.",
+      "cpv": "80530000",
+      "pays": "NLD",
+      "deadline": "2026-07-06",
+      "montant": 1911,
+      "publication": "2026-05-26",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/354700-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
       "score_detail": {
         "fit": 30,
         "size": 15,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 0
+        "delay": 1
       },
       "score_status": "cond",
       "notes": "",
@@ -438,8 +379,39 @@
       "auto": true
     },
     {
-      "id": "362734-2026",
-      "ref": "362734-2026",
+      "id": "347409-2026",
+      "ref": "347409-2026",
+      "acheteur": "Waterschap Rivierenland",
+      "objet": "Pays-Bas – Travaux d'équipement électrique – Raamovereenkomst Elektrotechnische en Procesautomatisering werkzaamheden iWA2.0/ iPA2.0 2026",
+      "description": "De Raamovereenkomst Elektrotechnische en Procesautomatisering werkzaamheden iWA2.0/iPA2.0 2026-2030 is voornamelijk gebaseerd op de programma’s iWA2.0 en iPA2.0. De, niet uitputtende, werkzaamheden zijn onderverdeeld in: • Werkzaamheden aan de objecten stuwen en gemalen, krooshekreiniger, meetpunten en dergelijke objecten in het watersysteem. Deze objecten behoren tot het programma iWA2.0 • Werkzaamheden aan de objecten rioolgemalen en rioolwaterzuiveringsinstallaties (rwzi’s) in de waterketen. Deze objecten behoren tot het programma iPA2.0; • Buiten de programma’s iWA2.0 en iPA2.0 kunnen werkzaamheden op de (de)centrale locaties/kantoren van WSRL deel uitmaken van deze Raamovereenkomst. De werkzaamheden moeten wel in relatie staan met de werkzaamheden zoals in deze Aanbestedingsleidraad benoemd; • Detachering van personeel in geval van capaciteitsbehoefte bij WSRL. Voor deze objecten dienen er voornamelijk elektrotechnische installatiewerkzaamheden uitgevoerd te worden. Meestal worden de engineeringswerkzaamheden door WSRL zelf uitgevoerd. In sommige gevallen kan de engineering door Opdrachtnemer onderdeel uitmaken van de Nadere opdracht. WSRL hanteert voor het gehele programma iWA2.0 en iPA2.0 de volgende doelstellingen: • Het vervangen van de procesautomatisering eens per 12,5 jaar van de objecten waarbij enkel op elektrotechnisch en procesautomatisering vlak vervanging dient plaats te vinden; • Bij het vervangen van de procesautomatisering gelijktijdig het vervangen van de elektrotechnische componenten, welke niet meer voldoen aan de normen of aan vervanging toe zijn, inclusief de benodigde documentatie van de objecten; • Het technisch en functioneel op orde houden van de centrale hoofdposten watersysteem en waterketen.   Het doel van deze aanbesteding is tweeledig: 1. Het sluiten van een Raamovereenkomst(en) met één of meerdere ondernemingen voor Elektrotechnische installaties & Procesautomatisering werkzaamheden iWA2.0/ iPA2.0 2026-2030; 2. Het verstrekken van één Opdracht (een Nadere opdracht vanuit vakgebied B) voor werkzaamheden aan gemaal Middelkoop.",
+      "cpv": "45310000",
+      "pays": "NLD",
+      "deadline": "2026-07-02",
+      "montant": 100000,
+      "publication": "2026-05-21",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/347409-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 69,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "357329-2026",
+      "ref": "357329-2026",
       "acheteur": "Gemeente Tilburg",
       "objet": "Pays-Bas – Services de gestion relatifs à l'informatique – Multifunctionele printers & printers inclusief toebehoren, beheer en onderhoud",
       "description": "Aanbestedende dienst is op zoek naar één Opdrachtnemer om een Overeenkomst mee te sluiten die toeziet op: Het contracteren van een dienstverlening in de vorm van Managed Print Services (MPS) voor de gemeente Tilburg en deelnemende organisatie gemeente Dongen. In het kader van deze dienstverlening stelt de opdrachtnemer multifunctionele printers en printers inclusief toebehoren ter beschikking en draagt zorg voor het beheer, onderhoud en de ondersteuning daarvan als onderdeel van een doorlopende ICT-prestatie. De dienstverlening omvat onder meer het ter beschikking stellen van apparatuur, het verzorgen van de implementatie, beheer en onderhoud, het leveren van ondersteunende software en het voldoen aan de eisen zoals opgenomen in het Programma van Eisen Multifunctionele printers & printers inclusief toebehoren, beheer en onderhoud. Er is geen sprake van koop, levering, huur, lease of eigendomsoverdracht van appratuur. De apparatuur maakt integraal onderdeel uit van de dienstverleni De opdracht omvat het leveren van Managed Print Services (MPS) ten behoeve van de gemeente Tilburg (en deelnemende organisatie gemeente Dongen), waaronder het ter beschikking stellen, beheren en onderhouden van multifunctionele printers en printers inclusief bijbehorende dienstverlening. De huidige omvang betreft indicatief: circa 94 apparaten, verdeeld over verschillende typen printers en multifunctionele apparaten; een jaarlijks afdrukvolume van circa 2,3 miljoen zwart-wit afdrukken en circa 0,95 miljoen kleurenafdrukken. Deze aantallen en volumes zijn gebaseerd op historische gegevens en dienen uitsluitend ter indicatie. Hieraan kunnen geen rechten of afnameverplichtingen worden ontleend. Gedurende de looptijd van de overeenkomst kan de omvang van de dienstverlening wijzigen binnen de contractueel vastgestelde bandbreedtes, waaronder opschaling en afschaling van het aantal apparaten. De overeenkomst wordt aangegaan voor een initiële looptijd van vijf (5) jaar met de mogelijkheid tot verlenging van maximaal vijf (5) maal één (1) jaar.",
@@ -447,9 +419,9 @@
       "pays": "NLD",
       "deadline": "2026-08-18",
       "montant": 0,
-      "publication": "2026-05-27",
+      "publication": "2026-05-26",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/362734-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/357329-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -500,8 +472,71 @@
       "auto": true
     },
     {
-      "id": "362245-2026",
-      "ref": "362245-2026",
+      "id": "362734-2026",
+      "ref": "362734-2026",
+      "acheteur": "Gemeente Tilburg",
+      "objet": "Pays-Bas – Services de gestion relatifs à l'informatique – Multifunctionele printers & printers inclusief toebehoren, beheer en onderhoud",
+      "description": "Aanbestedende dienst is op zoek naar één Opdrachtnemer om een Overeenkomst mee te sluiten die toeziet op: Het contracteren van een dienstverlening in de vorm van Managed Print Services (MPS) voor de gemeente Tilburg en deelnemende organisatie gemeente Dongen. In het kader van deze dienstverlening stelt de opdrachtnemer multifunctionele printers en printers inclusief toebehoren ter beschikking en draagt zorg voor het beheer, onderhoud en de ondersteuning daarvan als onderdeel van een doorlopende ICT-prestatie. De dienstverlening omvat onder meer het ter beschikking stellen van apparatuur, het verzorgen van de implementatie, beheer en onderhoud, het leveren van ondersteunende software en het voldoen aan de eisen zoals opgenomen in het Programma van Eisen Multifunctionele printers & printers inclusief toebehoren, beheer en onderhoud. Er is geen sprake van koop, levering, huur, lease of eigendomsoverdracht van appratuur. De apparatuur maakt integraal onderdeel uit van de dienstverleni De opdracht omvat het leveren van Managed Print Services (MPS) ten behoeve van de gemeente Tilburg (en deelnemende organisatie gemeente Dongen), waaronder het ter beschikking stellen, beheren en onderhouden van multifunctionele printers en printers inclusief bijbehorende dienstverlening. De huidige omvang betreft indicatief: circa 94 apparaten, verdeeld over verschillende typen printers en multifunctionele apparaten; een jaarlijks afdrukvolume van circa 2,3 miljoen zwart-wit afdrukken en circa 0,95 miljoen kleurenafdrukken. Deze aantallen en volumes zijn gebaseerd op historische gegevens en dienen uitsluitend ter indicatie. Hieraan kunnen geen rechten of afnameverplichtingen worden ontleend. Gedurende de looptijd van de overeenkomst kan de omvang van de dienstverlening wijzigen binnen de contractueel vastgestelde bandbreedtes, waaronder opschaling en afschaling van het aantal apparaten. De overeenkomst wordt aangegaan voor een initiële looptijd van vijf (5) jaar met de mogelijkheid tot verlenging van maximaal vijf (5) maal één (1) jaar.",
+      "cpv": "72510000",
+      "pays": "NLD",
+      "deadline": "2026-08-18",
+      "montant": 0,
+      "publication": "2026-05-27",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/362734-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 67,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "341636-2026",
+      "ref": "341636-2026",
+      "acheteur": "Medizinische Universität Lausitz - Carl Thiem KdöR",
+      "objet": "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Beschaffung von Entwicklungsleistungen für die Digitalisierung der akademischen Verwaltung auf Basis des koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint",
+      "description": "5.1. Art und Umfang der zu erbringenden Leistungen Die MUL-CT strebt beim Aufbau der digitalen Universität an, akademische Verwaltungsprozesse zukünftig im koellisch-toolkit/koellisch-core-framework auf Office365/Sharepoint umzusetzen. Dabei wird die Entwicklung einer performanten Informationstechnologie & Aufbau digitaler Plattformen für die akademische Verwaltung definiert, um durch Digitalisierung und Automatisierung schlanke und digitale Verwaltungsprozesse direkt von Beginn an zu entwickeln. Die durch den Auftragnehmer zu erbringende Leistungen beinhaltet die Entwicklung von akademischen Verwaltungsprozessen auf Basis von dem koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint. 5.1.1. zu erbringende Dienstleistungen Folgende Aufgaben sind durch das Projektteam des Auftragnehmers in den zu beauftragenden Projekten zu erbringen: - Architektur & Konzeption: Entwicklung, Implementierung und Weiterentwicklung von digitalen Verwaltungslösungen für die Universität auf Basis des koellisch-Toolkit/Core Framework in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Workflow-Entwicklung: Konzeption und Umsetzung komplexer Workflows inkl. Fristen- und Mandatsverwaltung, Abstimmungs- und Dokumentationsprozessen sowie digitale Akten mit rechtssicherer Dokumentation - Schnittstellen & Integration: Design und Realisierung von Anbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Fehleranalyse & Wartung: Analyse und Behebung von Lösungsfehlern im Ticketsystem inkl. Eskalationsmanagement - Testing & Qualitätsmanagement: Steuerung von Test- und Rollout-Phasen, Qualitätssicherung und Erstellung technischer Dokumentationen - IT-Projektleitung: Übernahme von (Teil-)Projektleitungen im Rahmen der Digitalisierungsprojekte der MUL-CT Tätigkeiten, die während der Digitalisierungsvorhaben der MUL-CT zu erwarten und von jeweiligen Entwickler:in köllisch-toolkit/köllisch-core-framework zu übernehmen sind: - Konzeption, Implementierung und Weiterentwicklung von Lösungen auf Basis des köllisch-Toolkit/Core Frameworks in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Realisierung von Workflows und digitalen Akten inkl. Fristen- und Mandatsverwaltung, rechtssicherer Dokumentation, Abstimmungs- und Sitzungsorganisation - Analyse und Behebung von Lösungsfehlern im Rahmen des Ticketsystems, inkl. Eskalationsmanagement und Support bei Fehlertickets - Mitwirkung bei Schnittstellenanbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Übernahme von (Teil-)Projektleitungen in Digitalisierungsprojekten inkl. Steuerung von Test- und Rollout-Phasen - Planung, Durchführung und Dokumentation von Test- und Qualitätssicherungsmaßnahmen (funktionales Testing, Abnahmetests, Regressionstests) - Durchführung von Schulungen und Workshops für unterschiedliche Zielgruppen (Key-User, Gremienmitglieder, Verwaltung, interne IT) - Coaching und Training interner IT-Mitarbeitender zur Förderung des nachhaltigen Kompetenzaufbaus",
+      "cpv": "72000000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-19",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/341636-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Microsoft Office",
+        "Office 365"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "345949-2026",
+      "ref": "345949-2026",
       "acheteur": "Medizinisches Zentrum für Gesundheit Bad Lippspringe gGmbH (MZG) / Karl-Hansen-Klinik GmbH",
       "objet": "Allemagne – Imprimantes et traceurs – Outputmanagement / KDF-Systeme",
       "description": "Der Auftragnehmer ist ein IT-Dienstleister mit weitgehender Erfahrung im Bereich der Bereitstellung von Dokumentenverarbeitungsgeräten und der Erbringung von Full-Service-Dienstleistungen. Der Auftragnehmer übernimmt die Gesamtverantwortung für die Funktionalität und die volle Integrationsfähigkeit der Dokumentenverarbeitungsgeräte in die vorhandene und geplante EDV-Landschaft der Auftraggeber. Ebenso sichert er die Betriebssicherheit der Dokumentenverarbeitungsgeräte zu und garantiert deren Einsatzbereitschaft im vorgegebenen Zeitrahmen. Erfüllungsort für alle Leistungen sind die Standorte der Auftraggeber, die beim jeweiligen Abruf aus der Rahmenvereinbarung benannt werden. Alle Hauptstandorte der Auftraggeber sind per Glasfasernetz untereinander verbunden. Es ist ein Hauptprint Server mit Win 2022 vor Ort installiert. Alle Desktop PCs und Latops arbeiten mit Windows 11 64bit. Alle PC-Arbeitsplätze müssen mit MS Office 365, Standard Drittanbietersoftware, Klinikinformationssystem Orbis, Meditec, div. drucken. Alle Leistungen erfolgen nach Vorgaben des MZG frei Haus. Das Transportrisiko geht zu Lasten des Auftragnehmers. Transport- und Verpackungsmaterial sind auf Anforderung sofort bei Lieferung aus den Räumlichkeiten des Bedarfsträgers zu entfernen und umweltgerecht zu verwerten / entsorgen; eine Zwischenlagerung ist nicht möglich. Der Auftragnehmer übernimmt die Organisation sowie die Kosten der Rücknahme und der Entsorgung. Für die vorgenannten Leistungen wird keine zusätzliche Gebühr berechnet, die entsprechenden Kosten sind in den Angebotspreisen berücksichtigt. Die Rahmenvereinbarung hat eine Laufzeit von 48 Monaten. Eine Vertragsverlängerung ist nicht vorgesehen. Die Abrufe aus der Rahmenvereinbarung werden in schriftlicher Form durch die Auftraggeber in Form einer Bestellung ausgelöst. Die weiteren Details sind der Rahmenvereinbarung (Teil C) zu entnehmen. Da bei der Durchführung der Rahmenvereinbarung personenbezogene Daten im Sinne des Art. 4 Nr. 1 der Datenschutzgrundverordnung (DSGVO) verarbeitet werden, muss sich der Auftragnehmer zur Einhaltung der jeweils einschlägigen datenschutzrechtlichen Bestimmungen der Europäischen Union (insb. der DSGVO), des Bundes (Bundesdatenschutzgesetz - BDSG) sowie des Landes Nordrhein-Westfalen (Datenschutzgesetz Nordrhein-Westfalen - DSG NRW) verpflichten. Zu diesem Zweck schließt er einen Vertrag zur Auftragsverarbeitung nach Art. 28 DSGVO mit den Auftraggebern. Auf Grundlage der Rahmenvereinbarung können die Auftraggeber während deren Laufzeit einzelne Bestellungen über die mietweise Überlassung der Dokumentenverarbeitungsgeräte einschließlich der jeweils zugehörigen Serviceleistungen abrufen (nachfolgend jeweils \"Einzelbestellung\"). Die Auftraggeber sind berechtigt, jede Einzelbestellung einschließlich der zugehörigen Serviceleistungen erstmals zum Ablauf von 24 Monaten ab dem in der jeweiligen Einzelbestellung bestimmten Leistungsbeginn ordentlich zu kündigen. Die Kündigung ist mit einer Frist von drei (3) Monaten zum Monatsende in Textform zulässig. Die Kündigung einer Einzelbestellung beendet ausschließlich die hiervon erfasste Einzelbestellung einschließlich der zugehörigen Serviceleistungen. Die Ausstattung der einzelnen Standorte mit den vertraglich vereinbarten Druck- und Multifunktionssystemen erfolgt im Rahmen eines abgestimmten Roll-out-Prozesses. Der Roll-out-Prozess beginnt unverzüglich nach Zuschlagserteilung. Der Roll-out wird jeweils durch eine schriftliche Einzelbestellung des Auftraggebers ausgelöst. Der Auftragnehmer verpflichtet sich, den durch die jeweilige Bestellung initiierten Roll-out-Prozess spätestens innerhalb von 6 Wochen nach Zugang der vollständigen Bestellung abzuschließen. Als abgeschlossen gilt der Roll-out, sobald die Systeme am jeweiligen Standort angeliefert, installiert, konfiguriert, betriebsbereit übergeben und durch den Auftraggeber abgenommen wurden. Verzögerungen, die ausschließlich auf fehlende oder verspätete Mitwirkungshandlungen des Auftraggebers zurückzuführen sind, verlängern die Frist entsprechend. Die im Preisblatt gem. Vordruck Anlage B.1 zu Teil B ausgewiesenen Mengenangaben basieren auf der statistischen Auswertung der Auftraggeber, die für den Zeitraum der Leistungserbringung repräsentativ sind, aber lediglich als Anhaltspunkt für die tatsächlich anfallenden Mengen dient. Es ist in jedem Fall der komplette Bedarf zu decken. Aus der Angabe des geschätzten Gesamtwerts sowie des dort geschätzten Leistungsumfangs pro Jahr kann keine Verpflichtung der Auftraggeber zur Beauftragung eines bestimmten Leistungsumfangs oder Mindestumfang der Dienstleistungen abgeleitet werden. Der Auftragnehmer kann aus dem Nichtabruf des geschätzten Gesamtwerts und des geschätzten Leistungsumfangs pro Jahr keine Ansprüche auf Schadensersatz oder sonstige Ansprüche ableiten. Die Auftraggeber sind insbesondere berechtigt, im erforderlichen und in einem den Rahmenvereinbarungspartnern zumutbaren Umfang und innerhalb ihrer Leistungsfähigkeit das geschätzte Auftragsvolumen der Rahmenvereinbarung gemäß EU-Bekanntmachung um maximal 50% des ursprünglich geschätzten Auftragsvolumens jeweils positionsspezifisch zu erhöhen, wenn a) dies zur fachgerechten Erbringung der von der Rahmenvereinbarung erfassten Leistungen im Geltungsbereich und während der Laufzeit der Rahmenvereinbarung erforderlich ist oder b) für die Leistungserbringung relevante rechtliche oder regulatorische Vorgaben, einschließlich Feststellungen oder Anordnungen der die Auftraggeber beaufsichtigenden Stellen, eine Änderung des Bedarfs der Auftraggeber nach sich ziehen oder c) grundlegende betriebliche Entscheidungen der Auftraggeber über Erweiterungen der Klinikabschnitte zu einem erhöhten Patientenaufkommen und damit zu einer Anpassung des Beschaffungsbedarfs führen. Wegen der weiteren Einzelheiten wird auf die Vergabeunterlagen, insbesondere die Leistungsbeschreibung (Teil B) und die Vertragsunterlagen (Teil C) verwiesen.",
@@ -509,9 +544,9 @@
       "pays": "DEU",
       "deadline": "",
       "montant": 0,
-      "publication": "2026-05-27",
+      "publication": "2026-05-20",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/362245-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/345949-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Office 365"
@@ -562,21 +597,20 @@
       "auto": true
     },
     {
-      "id": "341636-2026",
-      "ref": "341636-2026",
-      "acheteur": "Medizinische Universität Lausitz - Carl Thiem KdöR",
-      "objet": "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Beschaffung von Entwicklungsleistungen für die Digitalisierung der akademischen Verwaltung auf Basis des koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint",
-      "description": "5.1. Art und Umfang der zu erbringenden Leistungen Die MUL-CT strebt beim Aufbau der digitalen Universität an, akademische Verwaltungsprozesse zukünftig im koellisch-toolkit/koellisch-core-framework auf Office365/Sharepoint umzusetzen. Dabei wird die Entwicklung einer performanten Informationstechnologie & Aufbau digitaler Plattformen für die akademische Verwaltung definiert, um durch Digitalisierung und Automatisierung schlanke und digitale Verwaltungsprozesse direkt von Beginn an zu entwickeln. Die durch den Auftragnehmer zu erbringende Leistungen beinhaltet die Entwicklung von akademischen Verwaltungsprozessen auf Basis von dem koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint. 5.1.1. zu erbringende Dienstleistungen Folgende Aufgaben sind durch das Projektteam des Auftragnehmers in den zu beauftragenden Projekten zu erbringen: - Architektur & Konzeption: Entwicklung, Implementierung und Weiterentwicklung von digitalen Verwaltungslösungen für die Universität auf Basis des koellisch-Toolkit/Core Framework in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Workflow-Entwicklung: Konzeption und Umsetzung komplexer Workflows inkl. Fristen- und Mandatsverwaltung, Abstimmungs- und Dokumentationsprozessen sowie digitale Akten mit rechtssicherer Dokumentation - Schnittstellen & Integration: Design und Realisierung von Anbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Fehleranalyse & Wartung: Analyse und Behebung von Lösungsfehlern im Ticketsystem inkl. Eskalationsmanagement - Testing & Qualitätsmanagement: Steuerung von Test- und Rollout-Phasen, Qualitätssicherung und Erstellung technischer Dokumentationen - IT-Projektleitung: Übernahme von (Teil-)Projektleitungen im Rahmen der Digitalisierungsprojekte der MUL-CT Tätigkeiten, die während der Digitalisierungsvorhaben der MUL-CT zu erwarten und von jeweiligen Entwickler:in köllisch-toolkit/köllisch-core-framework zu übernehmen sind: - Konzeption, Implementierung und Weiterentwicklung von Lösungen auf Basis des köllisch-Toolkit/Core Frameworks in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Realisierung von Workflows und digitalen Akten inkl. Fristen- und Mandatsverwaltung, rechtssicherer Dokumentation, Abstimmungs- und Sitzungsorganisation - Analyse und Behebung von Lösungsfehlern im Rahmen des Ticketsystems, inkl. Eskalationsmanagement und Support bei Fehlertickets - Mitwirkung bei Schnittstellenanbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Übernahme von (Teil-)Projektleitungen in Digitalisierungsprojekten inkl. Steuerung von Test- und Rollout-Phasen - Planung, Durchführung und Dokumentation von Test- und Qualitätssicherungsmaßnahmen (funktionales Testing, Abnahmetests, Regressionstests) - Durchführung von Schulungen und Workshops für unterschiedliche Zielgruppen (Key-User, Gremienmitglieder, Verwaltung, interne IT) - Coaching und Training interner IT-Mitarbeitender zur Förderung des nachhaltigen Kompetenzaufbaus",
-      "cpv": "72000000",
+      "id": "362245-2026",
+      "ref": "362245-2026",
+      "acheteur": "Medizinisches Zentrum für Gesundheit Bad Lippspringe gGmbH (MZG) / Karl-Hansen-Klinik GmbH",
+      "objet": "Allemagne – Imprimantes et traceurs – Outputmanagement / KDF-Systeme",
+      "description": "Der Auftragnehmer ist ein IT-Dienstleister mit weitgehender Erfahrung im Bereich der Bereitstellung von Dokumentenverarbeitungsgeräten und der Erbringung von Full-Service-Dienstleistungen. Der Auftragnehmer übernimmt die Gesamtverantwortung für die Funktionalität und die volle Integrationsfähigkeit der Dokumentenverarbeitungsgeräte in die vorhandene und geplante EDV-Landschaft der Auftraggeber. Ebenso sichert er die Betriebssicherheit der Dokumentenverarbeitungsgeräte zu und garantiert deren Einsatzbereitschaft im vorgegebenen Zeitrahmen. Erfüllungsort für alle Leistungen sind die Standorte der Auftraggeber, die beim jeweiligen Abruf aus der Rahmenvereinbarung benannt werden. Alle Hauptstandorte der Auftraggeber sind per Glasfasernetz untereinander verbunden. Es ist ein Hauptprint Server mit Win 2022 vor Ort installiert. Alle Desktop PCs und Latops arbeiten mit Windows 11 64bit. Alle PC-Arbeitsplätze müssen mit MS Office 365, Standard Drittanbietersoftware, Klinikinformationssystem Orbis, Meditec, div. drucken. Alle Leistungen erfolgen nach Vorgaben des MZG frei Haus. Das Transportrisiko geht zu Lasten des Auftragnehmers. Transport- und Verpackungsmaterial sind auf Anforderung sofort bei Lieferung aus den Räumlichkeiten des Bedarfsträgers zu entfernen und umweltgerecht zu verwerten / entsorgen; eine Zwischenlagerung ist nicht möglich. Der Auftragnehmer übernimmt die Organisation sowie die Kosten der Rücknahme und der Entsorgung. Für die vorgenannten Leistungen wird keine zusätzliche Gebühr berechnet, die entsprechenden Kosten sind in den Angebotspreisen berücksichtigt. Die Rahmenvereinbarung hat eine Laufzeit von 48 Monaten. Eine Vertragsverlängerung ist nicht vorgesehen. Die Abrufe aus der Rahmenvereinbarung werden in schriftlicher Form durch die Auftraggeber in Form einer Bestellung ausgelöst. Die weiteren Details sind der Rahmenvereinbarung (Teil C) zu entnehmen. Da bei der Durchführung der Rahmenvereinbarung personenbezogene Daten im Sinne des Art. 4 Nr. 1 der Datenschutzgrundverordnung (DSGVO) verarbeitet werden, muss sich der Auftragnehmer zur Einhaltung der jeweils einschlägigen datenschutzrechtlichen Bestimmungen der Europäischen Union (insb. der DSGVO), des Bundes (Bundesdatenschutzgesetz - BDSG) sowie des Landes Nordrhein-Westfalen (Datenschutzgesetz Nordrhein-Westfalen - DSG NRW) verpflichten. Zu diesem Zweck schließt er einen Vertrag zur Auftragsverarbeitung nach Art. 28 DSGVO mit den Auftraggebern. Auf Grundlage der Rahmenvereinbarung können die Auftraggeber während deren Laufzeit einzelne Bestellungen über die mietweise Überlassung der Dokumentenverarbeitungsgeräte einschließlich der jeweils zugehörigen Serviceleistungen abrufen (nachfolgend jeweils \"Einzelbestellung\"). Die Auftraggeber sind berechtigt, jede Einzelbestellung einschließlich der zugehörigen Serviceleistungen erstmals zum Ablauf von 24 Monaten ab dem in der jeweiligen Einzelbestellung bestimmten Leistungsbeginn ordentlich zu kündigen. Die Kündigung ist mit einer Frist von drei (3) Monaten zum Monatsende in Textform zulässig. Die Kündigung einer Einzelbestellung beendet ausschließlich die hiervon erfasste Einzelbestellung einschließlich der zugehörigen Serviceleistungen. Die Ausstattung der einzelnen Standorte mit den vertraglich vereinbarten Druck- und Multifunktionssystemen erfolgt im Rahmen eines abgestimmten Roll-out-Prozesses. Der Roll-out-Prozess beginnt unverzüglich nach Zuschlagserteilung. Der Roll-out wird jeweils durch eine schriftliche Einzelbestellung des Auftraggebers ausgelöst. Der Auftragnehmer verpflichtet sich, den durch die jeweilige Bestellung initiierten Roll-out-Prozess spätestens innerhalb von 6 Wochen nach Zugang der vollständigen Bestellung abzuschließen. Als abgeschlossen gilt der Roll-out, sobald die Systeme am jeweiligen Standort angeliefert, installiert, konfiguriert, betriebsbereit übergeben und durch den Auftraggeber abgenommen wurden. Verzögerungen, die ausschließlich auf fehlende oder verspätete Mitwirkungshandlungen des Auftraggebers zurückzuführen sind, verlängern die Frist entsprechend. Die im Preisblatt gem. Vordruck Anlage B.1 zu Teil B ausgewiesenen Mengenangaben basieren auf der statistischen Auswertung der Auftraggeber, die für den Zeitraum der Leistungserbringung repräsentativ sind, aber lediglich als Anhaltspunkt für die tatsächlich anfallenden Mengen dient. Es ist in jedem Fall der komplette Bedarf zu decken. Aus der Angabe des geschätzten Gesamtwerts sowie des dort geschätzten Leistungsumfangs pro Jahr kann keine Verpflichtung der Auftraggeber zur Beauftragung eines bestimmten Leistungsumfangs oder Mindestumfang der Dienstleistungen abgeleitet werden. Der Auftragnehmer kann aus dem Nichtabruf des geschätzten Gesamtwerts und des geschätzten Leistungsumfangs pro Jahr keine Ansprüche auf Schadensersatz oder sonstige Ansprüche ableiten. Die Auftraggeber sind insbesondere berechtigt, im erforderlichen und in einem den Rahmenvereinbarungspartnern zumutbaren Umfang und innerhalb ihrer Leistungsfähigkeit das geschätzte Auftragsvolumen der Rahmenvereinbarung gemäß EU-Bekanntmachung um maximal 50% des ursprünglich geschätzten Auftragsvolumens jeweils positionsspezifisch zu erhöhen, wenn a) dies zur fachgerechten Erbringung der von der Rahmenvereinbarung erfassten Leistungen im Geltungsbereich und während der Laufzeit der Rahmenvereinbarung erforderlich ist oder b) für die Leistungserbringung relevante rechtliche oder regulatorische Vorgaben, einschließlich Feststellungen oder Anordnungen der die Auftraggeber beaufsichtigenden Stellen, eine Änderung des Bedarfs der Auftraggeber nach sich ziehen oder c) grundlegende betriebliche Entscheidungen der Auftraggeber über Erweiterungen der Klinikabschnitte zu einem erhöhten Patientenaufkommen und damit zu einer Anpassung des Beschaffungsbedarfs führen. Wegen der weiteren Einzelheiten wird auf die Vergabeunterlagen, insbesondere die Leistungsbeschreibung (Teil B) und die Vertragsunterlagen (Teil C) verwiesen.",
+      "cpv": "30232100",
       "pays": "DEU",
       "deadline": "",
       "montant": 0,
-      "publication": "2026-05-19",
+      "publication": "2026-05-27",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/341636-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/362245-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Microsoft Office",
         "Office 365"
       ],
       "bureautique": true,
@@ -687,21 +721,21 @@
       "auto": true
     },
     {
-      "id": "351664-2026",
-      "ref": "351664-2026",
-      "acheteur": "ALTEMED",
-      "objet": "France – Services de formation du personnel – Achat de prestations de formation pour la Société ALTEMED (ALTEMED, ACM HABITAT, SERM, SA3M et GIE SERM-SA3M)",
-      "description": "Actions de formation portant sur la GESTION LOCATIVE / Actions de formation portant sur la RELATION CLIENT / Actions de formation portant sur la VENTE HLM, GESTION DES COPROPRIETES, BAIL COMMERICAL et SYNDIC / Actions de formation portant sur l'ENTRETIEN TECHNIQUE DU PATRIMOINE / Actions de formation portant sur l'URBANISME, AMENAGEMENT, CONSTRUCTION et MAITRISE D'OUVRAGE / Actions de formation portant sur l'ENERGIE / Actions de formation portant sur la SANTE et SECURITE / Actions de formation portant sur les HABILITATIONS / Actions de formation portant sur les RISQUES PSYCHOSOCIAUX / Actions de formation portant sur les PERMIS DE CONDUIRE / Actions de formation portant sur les MARCHES PUBLICS et RESPONSABILITE JURIDIQUE / Actions de formation portant sur l'INFORMATIQUE &amp;amp; BUREAUTIQUE / Actions de formation portant sur l'INTELLIGENCE ARTIFICIELLE / Actions de formation portant sur le MANAGEMENT / Actions de formation portant sur les FINANCES ET COMPTABILITE dans un OPH et dans l'activité AMENAGEMENT, CONSTRUCTION et ENERGIE",
-      "cpv": "80511000",
+      "id": "348478-2026",
+      "ref": "348478-2026",
+      "acheteur": "Chambre de Métiers et de l'Artisanat d'Ile-de-France",
+      "objet": "France – Services de formation professionnelle – Accord-cadre relatif à des prestations de formations courtes, certifiantes, diplômantes pour la CMA IDF",
+      "description": "Développement d’entreprise / Formations diplômantes RNCP / Numérique et marketing / Techniques et réglementaires / Techniques Coiffure / Techniques esthétiques",
+      "cpv": "80530000",
       "pays": "FRA",
       "deadline": "2026-06-22",
       "montant": 0,
-      "publication": "2026-05-22",
+      "publication": "2026-05-21",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/351664-2026",
-      "segment": "Autre",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/348478-2026",
+      "segment": "Consulaire",
       "keyword_hits": [
-        "habilitation"
+        "RNCP"
       ],
       "bureautique": false,
       "score": 57,
@@ -718,21 +752,21 @@
       "auto": true
     },
     {
-      "id": "348478-2026",
-      "ref": "348478-2026",
-      "acheteur": "Chambre de Métiers et de l'Artisanat d'Ile-de-France",
-      "objet": "France – Services de formation professionnelle – Accord-cadre relatif à des prestations de formations courtes, certifiantes, diplômantes pour la CMA IDF",
-      "description": "Développement d’entreprise / Formations diplômantes RNCP / Numérique et marketing / Techniques et réglementaires / Techniques Coiffure / Techniques esthétiques",
-      "cpv": "80530000",
+      "id": "351664-2026",
+      "ref": "351664-2026",
+      "acheteur": "ALTEMED",
+      "objet": "France – Services de formation du personnel – Achat de prestations de formation pour la Société ALTEMED (ALTEMED, ACM HABITAT, SERM, SA3M et GIE SERM-SA3M)",
+      "description": "Actions de formation portant sur la GESTION LOCATIVE / Actions de formation portant sur la RELATION CLIENT / Actions de formation portant sur la VENTE HLM, GESTION DES COPROPRIETES, BAIL COMMERICAL et SYNDIC / Actions de formation portant sur l'ENTRETIEN TECHNIQUE DU PATRIMOINE / Actions de formation portant sur l'URBANISME, AMENAGEMENT, CONSTRUCTION et MAITRISE D'OUVRAGE / Actions de formation portant sur l'ENERGIE / Actions de formation portant sur la SANTE et SECURITE / Actions de formation portant sur les HABILITATIONS / Actions de formation portant sur les RISQUES PSYCHOSOCIAUX / Actions de formation portant sur les PERMIS DE CONDUIRE / Actions de formation portant sur les MARCHES PUBLICS et RESPONSABILITE JURIDIQUE / Actions de formation portant sur l'INFORMATIQUE &amp;amp; BUREAUTIQUE / Actions de formation portant sur l'INTELLIGENCE ARTIFICIELLE / Actions de formation portant sur le MANAGEMENT / Actions de formation portant sur les FINANCES ET COMPTABILITE dans un OPH et dans l'activité AMENAGEMENT, CONSTRUCTION et ENERGIE",
+      "cpv": "80511000",
       "pays": "FRA",
       "deadline": "2026-06-22",
       "montant": 0,
-      "publication": "2026-05-21",
+      "publication": "2026-05-22",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/348478-2026",
-      "segment": "Consulaire",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/351664-2026",
+      "segment": "Autre",
       "keyword_hits": [
-        "RNCP"
+        "habilitation"
       ],
       "bureautique": false,
       "score": 57,

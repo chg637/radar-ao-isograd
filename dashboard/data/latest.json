@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-06-18T10:20:39.708Z",
+  "generated_at": "2026-06-19T10:25:39.922Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 26,
+      "matched": 25,
       "go": 0,
-      "generated_at": "2026-06-18T10:14:08.096Z"
+      "generated_at": "2026-06-19T10:19:07.682Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-18T10:20:21.672Z"
+      "generated_at": "2026-06-19T10:25:21.799Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-18T10:20:39.656Z"
+      "generated_at": "2026-06-19T10:25:39.871Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 24,
+  "total_matched": 23,
   "total_go": 0,
   "total_dedup_collisions": 2,
   "dedup_breakdown": {
@@ -60,6 +60,39 @@
         "com": 5,
         "admin": 7,
         "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "367815-2026",
+      "ref": "367815-2026",
+      "acheteur": "Association Regionale Missions Locales",
+      "objet": "France – Services de formation professionnelle – Plan inter-Régional de Formations ML PAIO Région Ile-de-France et Corse",
+      "description": "Identifier clairement les modèles d'accompagnement du choix professionnel Identifier les impératifs de la mission d'accompagnement en insertion Identifier l'étape du projet d'un jeune en entretien d'accueil avec la grille d'identification de l'étape du projet d'un consultant en premier accueil Fonder une entente de travail avec le jeune accompagné, basée sur le partage du diagnostic et établir un plan d'action concerté Mener un entretien de développement pour aider un jeune à intégrer une expérience vécue en lien avec son parcours Connaître l'usage individuel et collectif des outils de diagnostic, savoir les adapter / Mettre en place un processus permettant de créer de la cohésion dans un groupe Connaître et agir en posture de coach Permettre à un groupe de déterminer des objectifs individuels et collectifs dans un cadre bienveillant et sécurisé Utiliser des outils issus du coaching collectif pour mieux accompagner en collectif Connaître les fondements de la motivation et les utiliser dans les accompagnements / Savoir identifier les besoins spécifiques des jeunes en crise, à partir de leurs manifestations émotionnelles et physiques et une meilleure appréhension du sujet Cerner la notion de crise, les principaux dispositifs et acteurs pour mieux faire face à la situation de jeunes en souffrance Adapter sa posture et mobiliser des outils concrets d'accompagnement de la crise et de l'agressivité Proposer un accompagnement adapté et des solutions constructives / Comprendre les mécanismes de la construction et de fonctionnement de l'image et de l'estime de soi et ses effets sur les comportements Evaluer la place de l'image de soi et de l'estime de soi auprès d'un public fragilisé Appréhender les facteurs qui influencent et affectent leur image et leur estime Adopter la posture professionnelle adéquate pour aborder des sujets touchants à l'image et l'estime de soi Elaborer des ateliers agissant positivement sur l'image et l'estime de soi / Permettre l'appropriation d'une posture d'accompagnement de mobilisation vers la mise en mouvement. S'approprier des fiches outils pour un accompagnement de mobilisation vers la mise en mouvement. / Comprendre le mécanisme et l'importance des neurosciences Savoir réaliser une introspection pour mieux s'adapter Identifier les leviers Identifier les freins et les obstacles Développer des comportements et attitudes adaptés à l'intelligence relationnelle et comprendre ses limites en tant que professionnel de l'accompagnement / Définir ce que sont l'analyse transactionnelle et ses modèles relationnel intra et interpersonnel Définir les différents cadres de référence des états du moi et leurs stratégies Distinguer et reconnaitre les émotions, les besoins, les contrats tacites Approche systémique des liens de communication des différents états et postures relationnelles Comment transformer une situation relationnelle, éviter l'enlisement / Connaître les différents softskills Comprendre les processus et modalités d'apprentissage et d'acquisition des softskills Savoir les repérer à travers la mise en place d'ateliers Savoir développer les différents softskills des publics au travers de leur accompagnement Savoir créer des ateliers spécifiques permettant de les développer / Définir les principes du bilan de compétences et quand l'utiliser Analyser les besoins en s'appuyant sur la construction, la diffusion et l'analyse d'un questionnaire sur la relation au travail et l'intérêt qu'il suscite chez le jeune Restituer les résultats des analyses Décliner/ orienter l'accompagnement en fonction des analyses / Identifier tous les troubles de santé mentale Identifier les facteurs de risques Connaître les crises en santé mentale Visualiser les gestes et attitudes adaptés à chaque situation Le formateur/ La formatrice devra être accrédité/e Premier Secours en Santé Mentale. / Lire autrement la demande et les énoncés des jeunes Analyser une situation complexe à partir d'un cas Ajuster sa posture professionnelle Soutenir l'évolution du jeune dans la durée Développer une dynamique collective d'analyse et de soutien / Comprendre les enjeux et les risques de l'intelligence artificielle Identifier les enjeux et bénéfices de l'IA Comprendre les risques et limites Accompagner le jeune pour une utilisation responsable - protection de l'identité et des données Accompagner le développement de l'esprit critique face aux contenus produits par l'IA / Comprendre les enjeux de l'accueil des jeunes en Mission Locale Organiser efficacement un dispositif d'accueil Adopter une communication professionnelle et adaptée aux jeunes pour mieux prévenir des situations sensibles Animer et valoriser l'espace d'accueil au quotidien Comprendre les enjeux d'une gestion structurée des rendez?vous - S'approprier les règles internes de planification / Organiser efficacement son action de prospection Mettre en place un tableau de suivi simple et exploitable Identifier les partenariats possibles avec le levier de l'engagement social des prospects Préparer son plan de prospection Transformer ses prospects en partenaires Savoir fidéliser ses clients à l'ère du digital et de l'IA Définir et mettre en oeuvre des actions de fidélisation / Identifier tous les leviers de la RSE sur la partie sociale essentiellement, sur lesquels, les Missions Locales peuvent accompagner et engager les partenaires Déterminer les objectifs et bénéfices de l'engagement de la démarche RSE auprès des partenaires Concrétiser la démarche RSE et avoir de l'impact à travers des actions de communication adaptées auprès des partenaires / Comprendre les bases de l'IA appliquées à la communication Produire des contenus écrits de qualité grâce à l'IA Créer des visuels impactants avec l'IA Concevoir une stratégie de communication assistée par IA Utiliser l'IA pour gagner du temps et fluidifier sa communication Développer une communication éthique et responsable / Intégrer dans ses pratiques d'accompagnement des jeunes le renforcement des compétences psychosociales Etablir les liens entre problématiques de santé des jeunes en insertion et les \" Compétences Psychosociales (CPS) \" comme stratégie d'action pour la santé, le bien être, l'insertion Valoriser et intégrer les \" CPS \" dans les pratiques professionnelles en Mission Locale / Comprendre ce que sont ces handicaps invisibles et troubles cognitifs spécifiques : comment ils se manifestent, quels mécanismes entrent en jeux Acquérir des connaissances sur les besoins des personnes concernées Avoir recourt à des pratiques adaptées face à des situations complexes Connaître les technologies adaptées et les comportements à adopter pour créer des environnements favorables Connaître la législation vis-à-vis du recrutement et du maintien dans l'emploi des personnes en situation de handicap Connaître les dispositifs, organismes et aides mobilisables / Acquérir des connaissances de base concernant les troubles psychiques Mieux appréhender les différents types de crises Développer des compétences relationnelles (écoute active, prise de recul) Mieux faire face aux comportements agressifs Tester et s'approprier un plan d'action pouvant être utiliser pour apporter un soutien immédiat sur des problèmes de troubles psychiques / Disposer de connaissances juridiques nécessaires à l'information et à l'orientation des jeunes pouvant prétendre à la délivrance d'un titre de séjour ou à la nationalité française Concevoir l'insertion professionnelle du jeune au regard de sa situation administrative Appréhender les évolutions légales relatives à l'accès à l'emploi, à l'accès à la protection sociale des jeunes ressortissants étrangers Connaître les dispositions et évolutions légales de la situation des mineurs et jeunes majeurs isolés étrangers dans l'accès au séjour et à l'insertion / Connaître davantage les mineurs non-accompagnés (MNA) et la demande d'asile Connaître la protection des mineurs et jeunes majeurs non-accompagnés Evaluer l'éloignement du territoire Identifier la prise en charge éducative et les droits des mineurs non-accompagnés Connaître la majorité et la délivrance d'un titre de séjour / Comprendre les facteurs de vulnérabilité sociale et connaître les dispositifs d'aide et d'accompagnement Identifier et repérer les besoins d'une personne en situation de vulnérabilité sociale Repérer l'impact de la précarité sur les attitudes et les comportements des personnes S'approprier des éléments issus de l'anthropologie et de l'ethnologie pour mieux saisir les enjeux de la construction identitaire des familles issues de l'immigration Sensibiliser aux outils d'écoute des besoins et de l'expression de la personne accueillie, et savoir communiquer malgré les barrières de langues Adapter sa posture et ses outils pour informer, orienter et accompagner / Situer les acteurs et les mesures judiciaires dans la chaîne pénale Identifier les contraintes qui s'imposent aux jeunes \" mineurs \" et \" majeurs \" placés sous mains de justice Adapter la prise en charge socio professionnelle du jeune Avoir connaissance du dispositif judiciaire et des contraintes sur l'accompagnement des jeunes Recevoir et accompagner le public sous-main de justice : milieu ouvert et fermé Accompagner l'élaboration du parcours d'insertion / réinsertion du jeune / Apporter des connaissances théoriques et pratiques dans le domaine du logement : sur le plan juridique et technique Identifier les acteurs du logement et les pistes de partenariats possibles Disposer d'une méthodologie et de moyens pour constituer un réseau de partenaire du logement pour les jeunes sur le territoire Identifier et s'approprier le rôle du conseiller dans l'accompagnement des jeunes sur les questions de logement transitoire et autonome en lien avec les partenaires Adapter sa posture en fonction des situations rencontrées / Identifier les principaux partenaires dans des projets de mobilité internationale et les principaux types de financements et les mobiliser Identifier et savoir résoudre les problématiques administratives Identifier la valeur ajoutée de la mobilité internationale pour chaque public Construire un projet international Préparer les jeunes à la culture locale et à l'interculturalité Accompagner les jeunes au départ en mobilité internationale / Comprendre les fondements et les enjeux de la démarche Analyser le non?recours et les freins à l'accès aux droits S'approprier les principes d'une intervention \" hors les murs \" Construire une ingénierie d'action adaptée au terrain Définir la place de l'accueil dans la démarche d' \"Aller vers \" Élaborer un mini?projet \" Aller vers \" adapté à la structure et au public ciblé / Anticiper et planifier ses activités en diagnostiquant les priorités Mettre en place une organisation personnelle efficace au quotidien Utiliser avec pertinence des outils d'organisation Agir sur le temps relationnel pour gagner du temps collectivement / Adopter un comportement et une gestuelle appropriés Maîtriser les techniques d'expression orale pour capter l'attention et convaincre Contrôler la respiration, la voix, et le stress Rythmer son allocution Savoir gérer les interruptions et les perturbations sans être déstabiliser Adopter une posture adéquate en visioconférence / Définir une stratégie de plaidoyer adaptée Cartographier et analyser les acteurs clés Choisir et utiliser les outils et tactiques d'influence Construire une feuille de route de plaidoyer opérationnelle Maîtriser la communication de plaidoyer / Préparer et structurer efficacement des ateliers collectifs Se positionner face à un groupe et travailler efficacement avec les autres Favoriser l'adhésion du groupe Identifier les différentes personnalités qui composent le groupe Gérer les comportements difficiles et les situations particulières (format hybride, à distance) Piloter la réunion pour atteindre l'objectif et garantir les résultats attendus / Reconnaître les facteurs de motivation Reconnaître les profils comportementaux Analyser ses profils personnels Appliquer la méthodologie d'analyse d'un profil DISC© Adapter la forme pour être entendu sur le fond Délivrer un message pour mettre en mouvement / La synchronisation non verbale La calibration V.A. K.O.G L'écoute active Mettre en application les 4 outils / Niveau 1 : Découvrir les principales fonctionnalités d'Excel et savoir quand et comment l'utiliser Créer, modifier et ajouter une feuille Modifier des cellules Importer des documents simples Trier et filtrer des données Créer et exploiter les calculs simples Mettre en page pour imprimer un tableau Créer des formules de bases Gérer les mises en forme conditionnelles Niveau 2 : Créer des formules adaptées au besoin et avancées Créer des tableaux croisés dynamiques et des graphiques croisés dynamiques Créer des plans, des gestionnaires de noms Utiliser des outils de données (établir des listes déroulantes, nettoyer les doublons, etc...) Utiliser les fonctions de collaboration intégrées à Excel et sécuriser les cellules, feuilles et classeurs Excel Niveau 3 (VBA) : Comprendre et maîtriser les bases du langage VBA Automatiser des tâches répétitives avec des macros avancées Manipuler les objets Excel via le modèle objet (Object Model) Développer des procédures sur mesure Concevoir des formulaires (UserForms) professionnels Gérer les événements et interactions utilisateur Structurer, documenter et sécuriser son code VBA Créer un outil VBA complet et opérationnel / Comprendre les fondamentaux de l'IA générative Maîtriser les bases du Prompt Engineering Développer des prompts avancés pour des usages professionnels Intégrer efficacement l'IA dans ses processus métier Garantir un usage responsable, éthique et sécurisé Prototyper un cas d'usage IA concret / Comprendre les apports de l'IA à l'écriture professionnelle Maîtriser les fondamentaux du prompt engineering pour l'écriture Améliorer la clarté, la cohérence et la qualité linguistique de ses écrits Structurer efficacement différents types d'écrits professionnels et développer un style professionnel cohérent et impactant Développer une pratique responsable et éthique de l'IA rédactionnelle / Appréhender les différentes étapes de développement d'un projet Savoir dresser un diagnostic de départ permettant de développer un projet cohérent Mettre en oeuvre une structuration du projet, y compris pour la planification des étapes Analyser la capacité d'une Mission Locale à porter ou non un projet et la pertinence d'un projet Acquérir une méthodologie de construction budgétaire prévisionnelle Savoir valoriser un projet auprès de financeurs Sécuriser la mise en oeuvre d'un projet Définir le cadre contractuel des différents partenaires Organiser le travail d'une équipe de partenaires au quotidien Favoriser l'implication des parties prenantes Gérer les situations délicates Evaluer l'impact d'un projet / Elaborer un système de veille sur les appels d'offres et les appels à projets Décrypter les éléments qui composent la commande Savoir rédiger une réponse intégrant les données de la commande, les orientations principales des politiques publiques Savoir se démarquer Acquérir une vision des stratégies efficaces dans les différents aspects de la négociation Maîtriser un ensemble de méthodes et d'outils pour faciliter la préparation et la conduite des négociations Conclure des accords durables et profitables Construire et suivre des indicateurs d'évaluation / Comprendre les apports de l'IA dans la gestion de projets Maîtriser les fondamentaux du prompt engineering appliqué au pilotage de projet Utiliser l'IA pour améliorer la préparation et le cadrage d'un projet Optimiser la planification, la coordination et le suivi grâce à l'IA Développer une pratique responsable, sécurisée et conforme / Intégrer une démarche de résolution de problème Intégrer et appliquer les outils de résolution de problème Définir et structurer un plan d'actions Mettre en oeuvre un diagramme d'affinité (exemple : méthode KJ) Mettre en évidence les bonnes pratiques pour mobiliser l'ensemble de la Mission Locale dans une démarche de progrès. / Mieux cerner le rôle de manager, les enjeux et les contraintes Définir les règles de fonctionnement et fixer des objectifs pertinents Favoriser l'adhésion du collectif en adoptant une bonne communication Adapter son management à chaque situation collective ou individuelle Organiser la délégation pour renforcer l'autonomie Evaluer et apprécier les performances de son équipe Gérer les situations difficiles et les conflits Partie en distanciel : Repérer les pratiques et les leviers d'action pour manager une équipe à distance Mettre en place des règles de fonctionnement pour mieux manager son équipe à distance Être capable de mieux communiquer à distance Assoir une relation de confiance renforcée dans le principe de délégation Veiller aux conditions de travail, de la bonne application des règles d'une équipe en télétravail / Comprendre les usages et les enjeux de l'IA dans le travail quotidien Définir un cadre d'usage responsable pour son équipe (déterminer ce qui peut / ne peut pas être délégué à l'IA selon les missions et les niveaux de responsabilité) Accompagner les collaborateurs dans leur utilisation de l'IA Animer la dynamique d'évolution du cadre autour des usages d'IA / Comprendre les fondements et principes du co?développement Maîtriser le déroulé structuré d'une séance de co?développement Développer une posture managériale facilitatrice adaptée Intégrer le co?développement dans ses pratiques managériales / Diagnostiquer la situation financière et les leviers de développement (dont FSE+) Construire une stratégie de diversification financière Identifier et mobiliser de nouvelles sources de financement Concevoir des dossiers et propositions de valeur convaincants Renforcer la capacité de plaidoyer auprès des financeurs Mettre en place un pilotage et un suivi durable des financements / Connaître l'imbrication de l'intelligence artificielle et la protection des données. Comprendre l'intérêt et les enjeux du recours à l'IA dans la stratégie RH d'une Mission Locale Accompagner la mise en oeuvre de solutions et d'outils basés sur l'IA au sein du service RH Identifier les applications réelles de l'IA dans le domaine des RH et celles aidantes (exemple : rédaction). Maîtriser l'impact de l'IA sur l'organisation du service RH en Mission Locale, des métiers et compétences. / Utiliser l'IA pour analyser les compétences et faire évoluer les référentiels Intégrer l'IA dans les démarches GPEC/GEPP et de gestion des talents S'appuyer sur l'IA pour concevoir des parcours de développement des compétences Utiliser l'IA comme outil RH d'analyse, de veille et de production Développer une pratique RH responsable et sécurisée de l'IA / Découvrir/renforcer l'actualité des réformes sociales entraînant des conséquences immédiates sur la gestion des RH Évaluer l'incidence pratique de ces actualités sur la gestion des RH au sein de la Mission Locale Découvrir/renforcer ses connaissances de la Convention Collective Nationale des Missions Locales PAIO (IDCC 2190). Partages et conseils pratiques entre pairs.",
+      "cpv": "80530000",
+      "pays": "FRA",
+      "deadline": "2026-06-30",
+      "montant": 0,
+      "publication": "2026-05-29",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/367815-2026",
+      "segment": "Collectivités",
+      "keyword_hits": [
+        "bilan de compétences",
+        "GPEC",
+        "Excel"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 40,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
       },
       "score_status": "cond",
       "notes": "",
@@ -190,31 +223,31 @@
       "auto": true
     },
     {
-      "id": "342854-2026",
-      "ref": "342854-2026",
-      "acheteur": "Gemeente Zaanstad",
-      "objet": "Pays-Bas – Services de développement de logiciels de gestion d'internet et d'intranet – Sociaal intranet",
-      "description": "Gemeente Zaanstad heeft al 10 jaar een sociaal intranet. Het is de spil van de interne communicatie middelenmix. Medewerkers weten niet beter dan dat ze op het intranet zelf berichten kunnen plaatsen, vragen stellen en organisatie nieuws en organisatie informatie kunnen vinden. Zie aanbestedingsdocumenten. Hiervoor geldt een plafondbedrag van € 80.000, - excl. BTW per jaar. Indien dit bedrag in de inschrijving wordt overschreden wordt de inschrijving terzijde gelegd en niet meegenomen voor de verdere beoordeling.",
-      "cpv": "72212220",
+      "id": "367530-2026",
+      "ref": "367530-2026",
+      "acheteur": "Gemeente Breda",
+      "objet": "Pays-Bas – Services de relations publiques – Communicatie water, groen en klimaatadaptatie",
+      "description": "Procedure  Aanbesteding middels de Europees openbare procedure conform de (gewijzigde) aanbestedingswet 2012.    Opdrachtgever  De opdrachtgever bij deze aanbesteding is de Gemeente Breda.  Voor meer informatie over de Gemeente Breda verwijzen wij u naar de website van de gemeente: www.breda.nl.    Opdracht  De opdracht betreft het uitvoeren van communicatieactiviteiten omtrent water en klimaatadaptatie, te weten: Stad in een park & waterbewustzijn; Week van ons water in Brabant; Vier Groene buurtjes; NK Tegelwippen; Beneden brada; Periodiek rapporten, uitnodigen of flyers vanuit bovengenoemde maar ook andere projecten.   Percelen  Deze opdracht is niet verdeeld in percelen.    Doel  Het doel van deze aanbesteding is om voor de levering van deze diensten een raamovereenkomst/overeenkomst/opdracht te sluiten met een looptijd van XX jaar met als ingangsdatum DATUM.    Indien verlengingsoptie: De opdrachtgever heeft eenzijdig het recht deze XX maal met XX jaar te verlengen. De besluitvorming ten aanzien van deze verlenging(en) geschiedt op basis van evaluatie van de geleverde prestatie. De opdrachtgever zal uiterlijk drie maanden voor de einddatum van deze overeenkomst aangeven of zij gebruik wenst te maken van de eventueel vooraf overeengekomen verlengingstermijn.     Maximale contractwaarde  De maximale opdrachtwaarde in het kader van deze raamovereenkomst wordt gesteld op € XX bezien over de looptijd van de overeenkomst, inclusief verlengingsopties.  Aan het genoemde bedrag kunnen geen rechten worden ontleend. Voor opdrachtgever geldt geen afnameverplichting.    Mocht gedurende de looptijd van de raamovereenkomst de maximale opdrachtwaarde worden overschreden dan zal de raamovereenkomst (eerder) worden beëindigd.    Mercell Deze aanbesteding zal uitsluitend en geheel digitaal online worden afgehandeld via het Mercell platform (www.mercell.com). Een uitgebreide instructie met betrekking tot digitaal aanbesteden treft u aan in de Vragenlijsten.",
+      "cpv": "79416000",
       "pays": "NLD",
-      "deadline": "2026-08-20",
-      "montant": 800,
-      "publication": "2026-05-19",
+      "deadline": "",
+      "montant": 300,
+      "publication": "2026-05-29",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/342854-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/367530-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
       "bureautique": true,
-      "score": 72,
+      "score": 70,
       "score_detail": {
         "fit": 30,
         "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -233,130 +266,6 @@
       "publication": "2026-05-26",
       "source": "TED",
       "url": "https://ted.europa.eu/fr/notice/-/detail/354700-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 1
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "352269-2026",
-      "ref": "352269-2026",
-      "acheteur": "Ministerie van Economische Zaken",
-      "objet": "Pays-Bas – Services d'organisation d'événements – Kenniscommunity Lage Temperatuur Aardwarmte",
-      "description": "Deze aanbesteding ziet toe op een invulling van de Kenniscommunity binnen programmalijn 3 van het versnellingsprogramma Lage Tempratuur Aardwarmte (LTA). Er wordt beoogd dat deze zal bestaan uit zowel fysieke (e.g. events, workshops) als digitale aspecten (digitaal platform) welke stakeholders stimuleren om kennis te delen en van elkaar te leren op het gebied van LTA. Zie aanbestedingsdocument paragraaf 2.4.",
-      "cpv": "79952000",
-      "pays": "NLD",
-      "deadline": "2026-07-08",
-      "montant": 255,
-      "publication": "2026-05-22",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/352269-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "340160-2026",
-      "ref": "340160-2026",
-      "acheteur": "Afeer",
-      "objet": "Pays-Bas – Services de gestion et d'assistance relatifs aux réseaux de données – Netwerkbeheer Afeer",
-      "description": "Afeer beschikt over een bestaand netwerk met producten uit het Aruba Portfolio. Alle apparatuur is opgenomen in het management platform van Aruba, genaamd Aruba Central, wat een omgeving creëert, die met één cloud applicatie te beheren en te monitoren is, ook wel SD-BRANCH genaamd. Wij zijn op zoek naar een gespecialiseerde leverancier die verantwoordelijk wordt voor het beheer, onderhoud, monitoring en beveiliging van onze netwerkoplossing, maar ook een leverancier die qua omvang en cultuur bij ons past. De leverancier draagt zorg voor een proactieve bewaking van de omgeving, een snelle en deskundige reactie bij incidenten, en draagt bij aan het up-to-date en veilig houden van de netwerkinfrastructuur. Deze opdracht is een overheidsopdracht met een geraamde waarde van € 450.000 exclusief BTW per jaar. Er kunnen geen rechten ontleend worden aan deze raming.",
-      "cpv": "72315000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 494,
-      "publication": "2026-05-19",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/340160-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "340167-2026",
-      "ref": "340167-2026",
-      "acheteur": "Koninklijke Bibliotheek",
-      "objet": "Pays-Bas – Services d'audit informatique et services d'essai informatique – Digitale toegankelijkheid audits, consultancy & trainingen",
-      "description": "De KB is binnen onderhavige Aanbesteding op zoek naar één Opdrachtnemer voor de uitvoering van Digitale toegankelijkheid audits, consultancy & trainingen. Opdrachtnemer dient de Opdracht uit te voeren in overeenstemming met het Programma van Eisen, zie Bijlage 1. Rekening houdend met indexeringen en een eventuele toename van de behoefte van de KB wordt de maximale omvang van de Raamovereenkomst (voor de gehele looptijd van 4 jaar) geraamd op € 300.000 exclusief btw.",
-      "cpv": "72800000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 300,
-      "publication": "2026-05-19",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/340167-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "342824-2026",
-      "ref": "342824-2026",
-      "acheteur": "Ministerie van Defensie",
-      "objet": "Pays-Bas – Services de formation dans le domaine de la sécurité – Computer Assisted eXercise (CAX) Cybernet",
-      "description": "De opdracht betreft het opzetten, begeleiden en evalueren van een CAX oefening in een virtuele omgeving, waarin door middel van scenario’s defensieve en offensieve cyber-skills worden getraind. Samenvattend: het verzorgen van de jaarlijkse Computer Assisted eXercise (CAX) Cybernet oefening. Deze aanbesteding is het gevolg van het aflopen van de huidige Raamovereenkomst. Deze Europese openbare aanbesteding heeft tot doel het sluiten van één raamovereenkomst met één Opdrachtnemer voor het uitvoeren van diensten. Voor een uitvoerige beschrijving van de opdracht wordt verwezen naar het Programma van eisen als opgenomen in de Bijlage 3 van deze Aanbestedingsleidraad.",
-      "cpv": "80550000",
-      "pays": "NLD",
-      "deadline": "2026-07-06",
-      "montant": 1800,
-      "publication": "2026-05-19",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/342824-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -407,31 +316,62 @@
       "auto": true
     },
     {
-      "id": "342598-2026",
-      "ref": "342598-2026",
-      "acheteur": "Presidencia de la Autoridad Portuaria de la Bahía de Algeciras",
-      "objet": "Espagne – Logiciels de bureautique – Suministro de licencias Office 365 2026-2029",
-      "description": "Suministro de licencias Office 365 2026-2029",
-      "cpv": "48920000",
-      "pays": "ESP",
-      "deadline": "2026-06-18",
-      "montant": 1119,
-      "publication": "2026-05-19",
+      "id": "352269-2026",
+      "ref": "352269-2026",
+      "acheteur": "Ministerie van Economische Zaken",
+      "objet": "Pays-Bas – Services d'organisation d'événements – Kenniscommunity Lage Temperatuur Aardwarmte",
+      "description": "Deze aanbesteding ziet toe op een invulling van de Kenniscommunity binnen programmalijn 3 van het versnellingsprogramma Lage Tempratuur Aardwarmte (LTA). Er wordt beoogd dat deze zal bestaan uit zowel fysieke (e.g. events, workshops) als digitale aspecten (digitaal platform) welke stakeholders stimuleren om kennis te delen en van elkaar te leren op het gebied van LTA. Zie aanbestedingsdocument paragraaf 2.4.",
+      "cpv": "79952000",
+      "pays": "NLD",
+      "deadline": "2026-07-08",
+      "montant": 255,
+      "publication": "2026-05-22",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/342598-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/352269-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Office 365"
+        "Word"
       ],
       "bureautique": true,
-      "score": 69,
+      "score": 68,
       "score_detail": {
         "fit": 30,
-        "size": 15,
+        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 0
+        "delay": 1
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "368552-2026",
+      "ref": "368552-2026",
+      "acheteur": "Stichting Connekt",
+      "objet": "Pays-Bas – Services de développement de logiciels – Innovatiepartnerschap BDI Componenten | Digitale Transport Strategie",
+      "description": "De BDI als afsprakenstelsel kan voor een groot deel gebaseerd worden op bestaande industriestandaards en beschikbare (open source) software. Er is een gefaseerd stappenplan in ontwikkeling voor versies van het stelsel. Het eerste niveau kan ondersteund worden met de bestaande OAuth M2M Client Credentials flow, en bestaand aanbod van OAuth services. De volgende niveaus vragen om een stap in functionaliteit in die kerncomponenten. De scope/context zijn 3 kerncomponenten van de BDI, plus eventuele aanvullende tools/deelcomponenten die op basis van ervaring uit Living Labs gedefinieerd worden. Het is nodig om deze componenten te ontwikkelen in de vorm van open source referentie software. maximaal EUR 2.000.000",
+      "cpv": "72262000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 200,
+      "publication": "2026-05-29",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/368552-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 67,
+      "score_detail": {
+        "fit": 30,
+        "size": 10,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -500,6 +440,37 @@
       "auto": true
     },
     {
+      "id": "366440-2026",
+      "ref": "366440-2026",
+      "acheteur": "AG Digipolis Antwerpen",
+      "objet": "Belgique – Services d'assistance relative aux logiciels – SAP Partner",
+      "description": "Dit perceel omvat het beheer, onderhoud, de optimalisatie en de gerelateerde opdrachten met betrekking tot SAP SuccessFactors en de daaronder vallende HR-processen en -oplossingen. De dienstverlening omvat zowel operationeel en projectmatig beheer als operationele ondersteuning, adviesverlening, configuratie, wijzigingsbeheer en optimalisatie binnen de scope van SAP SuccessFactors. / Dit perceel omvat het beheer, onderhoud, de optimalisatie en de gerelateerde opdrachten met betrekking tot S/4HANA ERP Core (alle kernprocessen behalve HR) en SAP Ariba. Het perceel omvat zowel operationeel en projectmatig beheer als operationele ondersteuning, adviesverlening, configuratie, wijzigingsbeheer en optimalisatie binnen deze componenten en hun onderlinge samenhang. (FI/CO, Treasury, Asset Accounting, MM, SD, PS, EWM, SAP Ariba) / Dit perceel omvat twee onderscheiden maar samenhangende domeinen: - Applicatiebeheer • het beheer, onderhoud, de optimalisatie en gerelateerde opdrachten met betrekking tot de applicaties OTAS, SAP Datasphere, SAP Enable Now en SAP Analytics Cloud - Technisch platformbeheer (SAP BTP) • het beheer, de configuratie en de operationele ondersteuning van platformdiensten binnen SAP BTP, waaronder: o applicatieontwikkelingsdiensten (incl. low-code/no-code omgevingen zoals BTP Build) o integratiediensten, waaronder SAP Integration Suite o datadiensten en analytische platformcomponenten o Identity & Access Management (IAM), inclusief authenticatie, autorisatie en identity provisioning • Het technisch platformbeheer omvat eveneens: o het beheer en de installatie van certificaten (incl. lifecycle management en renewals) o het beheer, de configuratie en het patchen van connectivitycomponenten, waaronder SAP Cloud Connector en gelijkaardige integratiecomponenten o het waarborgen van veilige communicatie tussen platform en gekoppelde systemen Beide domeinen maken integraal deel uit van dit perceel en worden uitgevoerd door dezelfde opdrachtnemer. De opdrachtnemer waarborgt de samenhang tussen beide lagen en staat in voor een geïntegreerde dienstverlening. Hij treedt op als end-to-end verantwoordelijke voor zowel applicatie- als platformbeheer binnen dit perceel. / Dit perceel beoogt de samenstelling van een pool van opdrachtnemers voor de uitvoering van toekomstige SAP-gerelateerde projecten en opdrachten die niet expliciet vervat zijn binnen de scope van de overige percelen binnen deze opdracht. Het betreft zowel technische als functionele opdrachten, waaronder maar niet beperkt tot implementaties, uitbreidingen, optimalisaties en ad-hoc projectmatige ondersteuning binnen het SAP-landschap.",
+      "cpv": "72261000",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-05-28",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/366440-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "362245-2026",
       "ref": "362245-2026",
       "acheteur": "Medizinisches Zentrum für Gesundheit Bad Lippspringe gGmbH (MZG) / Karl-Hansen-Klinik GmbH",
@@ -562,38 +533,6 @@
       "auto": true
     },
     {
-      "id": "341636-2026",
-      "ref": "341636-2026",
-      "acheteur": "Medizinische Universität Lausitz - Carl Thiem KdöR",
-      "objet": "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Beschaffung von Entwicklungsleistungen für die Digitalisierung der akademischen Verwaltung auf Basis des koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint",
-      "description": "5.1. Art und Umfang der zu erbringenden Leistungen Die MUL-CT strebt beim Aufbau der digitalen Universität an, akademische Verwaltungsprozesse zukünftig im koellisch-toolkit/koellisch-core-framework auf Office365/Sharepoint umzusetzen. Dabei wird die Entwicklung einer performanten Informationstechnologie & Aufbau digitaler Plattformen für die akademische Verwaltung definiert, um durch Digitalisierung und Automatisierung schlanke und digitale Verwaltungsprozesse direkt von Beginn an zu entwickeln. Die durch den Auftragnehmer zu erbringende Leistungen beinhaltet die Entwicklung von akademischen Verwaltungsprozessen auf Basis von dem koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint. 5.1.1. zu erbringende Dienstleistungen Folgende Aufgaben sind durch das Projektteam des Auftragnehmers in den zu beauftragenden Projekten zu erbringen: - Architektur & Konzeption: Entwicklung, Implementierung und Weiterentwicklung von digitalen Verwaltungslösungen für die Universität auf Basis des koellisch-Toolkit/Core Framework in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Workflow-Entwicklung: Konzeption und Umsetzung komplexer Workflows inkl. Fristen- und Mandatsverwaltung, Abstimmungs- und Dokumentationsprozessen sowie digitale Akten mit rechtssicherer Dokumentation - Schnittstellen & Integration: Design und Realisierung von Anbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Fehleranalyse & Wartung: Analyse und Behebung von Lösungsfehlern im Ticketsystem inkl. Eskalationsmanagement - Testing & Qualitätsmanagement: Steuerung von Test- und Rollout-Phasen, Qualitätssicherung und Erstellung technischer Dokumentationen - IT-Projektleitung: Übernahme von (Teil-)Projektleitungen im Rahmen der Digitalisierungsprojekte der MUL-CT Tätigkeiten, die während der Digitalisierungsvorhaben der MUL-CT zu erwarten und von jeweiligen Entwickler:in köllisch-toolkit/köllisch-core-framework zu übernehmen sind: - Konzeption, Implementierung und Weiterentwicklung von Lösungen auf Basis des köllisch-Toolkit/Core Frameworks in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Realisierung von Workflows und digitalen Akten inkl. Fristen- und Mandatsverwaltung, rechtssicherer Dokumentation, Abstimmungs- und Sitzungsorganisation - Analyse und Behebung von Lösungsfehlern im Rahmen des Ticketsystems, inkl. Eskalationsmanagement und Support bei Fehlertickets - Mitwirkung bei Schnittstellenanbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Übernahme von (Teil-)Projektleitungen in Digitalisierungsprojekten inkl. Steuerung von Test- und Rollout-Phasen - Planung, Durchführung und Dokumentation von Test- und Qualitätssicherungsmaßnahmen (funktionales Testing, Abnahmetests, Regressionstests) - Durchführung von Schulungen und Workshops für unterschiedliche Zielgruppen (Key-User, Gremienmitglieder, Verwaltung, interne IT) - Coaching und Training interner IT-Mitarbeitender zur Förderung des nachhaltigen Kompetenzaufbaus",
-      "cpv": "72000000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-05-19",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/341636-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Microsoft Office",
-        "Office 365"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "353874-2026",
       "ref": "353874-2026",
       "acheteur": "Uniformation",
@@ -625,6 +564,37 @@
       "auto": true
     },
     {
+      "id": "366332-2026",
+      "ref": "366332-2026",
+      "acheteur": "Vlaams Instituut voor Vorming en Opleiding in de Social profit",
+      "objet": "Belgique – Services de formation – Organisatie van een opleiding maatwerkcoach / begeleider op de werkvloer maatwerkbedrijven",
+      "description": "Deze opdracht betreft een raamovereenkomst van 1 jaar met meerdere opdrachtnemers voor de organisatie en uitvoering van een opleiding maatwerkcoach / begeleider op de werkvloer binnen maatwerkbedrijven. Offertes worden elektronisch ingediend via het e-Procurementplatform. De inschrijvers die: - Voldoen aan de selectiecriteria - Een voldoende score behalen op de gunningscriteria Kunnen worden opgenomen in de raamovereenkomst. Op deze opdracht zijn de uitsluitingsgronden van toepassing zoals bepaald in de wetgeving inzake overheidsopdrachten. Door indiening van zijn offerte verklaart de inschrijver zich niet in een toestand van uitsluiting te bevinden. VIVO selecteert maximaal 2 opdrachtnemers gerangschikt volgens de eindscore. De vormingen worden georganiseerd in open aanbod (opleidingsaanbod op locatie waarvoor medewerkers van verschillende maatwerkbedrijven kunnen inschrijven), waarbij de ingeplande sessies evenredig verdeeld worden over de geselecteerde opdrachtnemers. Maatwerkbedrijven uit PC 327.01 kunnen beroep doen op deze raamovereenkomst en vormingen in company organiseren op de eigen locatie. In dat geval kiest het maatwerkbedrijf zelf de opleider uit de geselecteerden. De opname in de raamovereenkomst geeft geen recht op een minimumaantal opdrachten.",
+      "cpv": "80500000",
+      "pays": "BEL",
+      "deadline": "2026-07-03",
+      "montant": 0,
+      "publication": "2026-05-28",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/366332-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 62,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "352314-2026",
       "ref": "352314-2026",
       "acheteur": "Regisseur Studenten Reisrecht B.V.",
@@ -642,14 +612,14 @@
         "Word"
       ],
       "bureautique": true,
-      "score": 63,
+      "score": 62,
       "score_detail": {
         "fit": 30,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 1
+        "delay": 0
       },
       "score_status": "cond",
       "notes": "",

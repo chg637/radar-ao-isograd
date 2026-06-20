@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-06-19T10:25:39.922Z",
+  "generated_at": "2026-06-20T08:53:54.257Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 25,
+      "matched": 28,
       "go": 0,
-      "generated_at": "2026-06-19T10:19:07.682Z"
+      "generated_at": "2026-06-20T08:47:33.172Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-19T10:25:21.799Z"
+      "generated_at": "2026-06-20T08:53:40.845Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-19T10:25:39.871Z"
+      "generated_at": "2026-06-20T08:53:54.208Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 23,
+  "total_matched": 27,
   "total_go": 0,
-  "total_dedup_collisions": 2,
+  "total_dedup_collisions": 1,
   "dedup_breakdown": {
     "by_id": 0,
-    "fuzzy_signature": 2,
+    "fuzzy_signature": 1,
     "fuzzy_jaccard": 0
   },
   "notices": [
@@ -60,6 +60,37 @@
         "com": 5,
         "admin": 7,
         "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "370848-2026",
+      "ref": "370848-2026",
+      "acheteur": "Ministerie van Algemene Zaken",
+      "objet": "Pays-Bas – Services de campagne publicitaire – Campagnedienstverlening",
+      "description": "Het bieden van full-service campagnedienstverlening door de inzet van eigen of extern aangetrokken specialisten, die op basis van beleids- en communicatiedoelstellingen en doelgroep- en gedragsinzichten effectieve crossmediale campagnes voor de Rijksoverheid ontwikkelen, realiseren en continu optimaliseren, met een sterke focus op strategie, creatie en projectmanagement, voor campagnes die bij DPC zijn aangemeld volgens de geldende aanmeldprocedure. Opdrachtnemer moet in staat zijn om maatwerk te bieden aan een scala aan Nadere opdrachtgevers in een politiek bestuurlijke context, diverse vormen van dienstverlening, verschillende wijzen van organisatie van de samenwerking met Nadere opdrachtgever en verscheidenheid in prijs/kwaliteitverhouding. Zie voor verdere, uitgebreide beschrijving van de Opdracht het Selectiedocument/Beschrijvend document. De geraamde waarde van de raamovereenkomst is: € 52.000.000,- exclusief btw. Om te voorkomen dat de contractuele maximumwaarde tussentijds wordt overschreden en de raamovereenkomst voor het beoogde einde van de looptijd haar effect zou verliezen, sluiten we de raamovereenkomst af met een maximale opdrachtwaarde van € 70.000.000, - exclusief btw. Zie voor een verdere, uitgebreide beschrijving van de omvang/hoeveelheid het Selectiedocument en/of het Beschrijvend document.",
+      "cpv": "79341400",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 52000,
+      "publication": "2026-06-01",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/370848-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -213,6 +244,37 @@
       "score_detail": {
         "fit": 30,
         "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "371855-2026",
+      "ref": "371855-2026",
+      "acheteur": "R.E.T. N.V.",
+      "objet": "Pays-Bas – Services de développement de logiciels utilitaires d'impression – Levering van Multifunctionals, cloudbased printmanagementsoftware en all-in onderhoud en service",
+      "description": "RET is voornemens een Overeenkomst te sluiten met één Opdrachtnemer voor het leveren van printdienstverlening. Deze dienstverlening omvat de levering en huur van multifunctionals, cloudbased print- en scanmanagementsoftware, all-in onderhoud en aanverwante diensten. Binnen de scope van de Overeenkomst vallen de volgende onderdelen: - De levering van (repro)multifunctionals en printers op basis van huur. - Het beschikbaar stellen en onderhouden van print- en scanmanagementsoftware ten behoeve van autorisatie en beveiligd printen via follow-me (pull print). - De implementatie van de systemen en voorzieningen die onderdeel uitmaken van de Overeenkomst. - Het verzorgen van de eventueel benodigde opleidingen ten behoeve van gebruikers en/of beheerders. - Het verrichten van onderhoud en servicewerkzaamheden aan de geleverde apparatuur. - Het leveren van verbruiksmaterialen die direct gerelateerd zijn aan de serviceverlening, zoals tonerrestbakken. - Het centraal beheren en monitoren van de apparatuur door middel van een managementtool. - Het leveren van een maandelijkse rapportage uit deze tool Optionele dienstverlening: 1. Na afloop van het huidige plottercontract (2027/2028) kunnen er onder deze te sluiten overeenkomst ook plotters worden afgenomen. - De leverancier kan ondersteuning bieden bij de inrichting van thuiswerkplekken. - Het leveren van printer- en kopieerpapier Buiten de scope van de Opdracht vallen: - Het leveren van drukwerk. - Het leveren van labelprinters en barcodeprinters.",
+      "cpv": "72212772",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 327,
+      "publication": "2026-06-01",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/371855-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -440,6 +502,37 @@
       "auto": true
     },
     {
+      "id": "372497-2026",
+      "ref": "372497-2026",
+      "acheteur": "Provincie Noord-Holland",
+      "objet": "Pays-Bas – Services de développement de logiciels de gestion de projet – Marktconsultatie Projectbeheersysteem (PBS)",
+      "description": "De provincie Noord-Holland wil inzicht krijgen in beschikbare oplossingen, standaarden en aandachtspunten voor datamodellering en integraties tussen een nieuw Projectbeheersysteem (PBS) en het ERP‑landschap. Het ERP‑landschap bestaat in ieder geval uit AFAS (HR) en een nieuw systeem voor Finance & Inkoop dat momenteel wordt aanbesteed. Met deze consultatie nodigen wij marktpartijen uit om hun kennis, ervaring en advies te delen. De opbrengst gebruiken wij om de aanbesteding beter te laten aansluiten op de mogelijkheden in de markt.",
+      "cpv": "72212331",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-01",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/372497-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "366440-2026",
       "ref": "366440-2026",
       "acheteur": "AG Digipolis Antwerpen",
@@ -564,6 +657,37 @@
       "auto": true
     },
     {
+      "id": "370913-2026",
+      "ref": "370913-2026",
+      "acheteur": "Gemeente Nijkerk",
+      "objet": "Pays-Bas – Services relatifs aux logiciels – Financieel Systeem",
+      "description": "De gemeente Nijkerk is voornemens om een overeenkomst af te sluiten met een samenwerkingspartner voor de levering en implementatie van een financieel systeem. Op het moment maakt de gemeente gebruik van ons huidige financiële systeem van leverancier Centric, maar deze overeenkomst loopt binnenkort af. We zijn op zoek naar een samenwerkingspartner die begrijpt waar onze behoeften liggen en die samen met ons ervoor zorgt dat we worden ondersteund bij het betrouwbaar, transparant en efficiënt uitvoeren van onze financiële taken. 1",
+      "cpv": "72260000",
+      "pays": "NLD",
+      "deadline": "2026-06-15",
+      "montant": 0,
+      "publication": "2026-06-01",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/370913-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 62,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "366332-2026",
       "ref": "366332-2026",
       "acheteur": "Vlaams Instituut voor Vorming en Opleiding in de Social profit",
@@ -620,37 +744,6 @@
         "com": 5,
         "admin": 7,
         "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "343216-2026",
-      "ref": "343216-2026",
-      "acheteur": "Land Saarland",
-      "objet": "Allemagne – Services de certification de signature électronique – Signaturkarten_Saarland_2026",
-      "description": "Bei den saarländischen Gerichten und Staatsanwaltschaften ist der elektronische Rechtsverkehr nahezu flächendeckend eröffnet. In fast allen Arbeitseinheiten ist die elektronische Aktenführung ausgerollt. Darüber hinaus sind auch die weiteren Behörden des Geschäftsbereichs der saarländischen Justiz zur Teilnahme am Elektronischen Rechtsverkehr. befähigt. Im Rahmen dessen fallen – kraft bundesgesetzlicher Vorgaben – Signiervorgänge an. Erwägungen zur Einführung einer elektronischen Gefangenenpersonalakte im Justizvollzug werden möglicherweise zur Einbeziehung einer weiteren Personengruppe in den Nutzerkreis von Signaturkarten führen. Eine weitere Erhöhung könnte sich ergeben, falls es vom Auftraggeber als notwendig erachtet wird, dass bestimmte Bedienstete eine Zweitsignaturkarte erhalten. Mit diesem Rahmenvertrag sollen Signaturkarten mit integrierten qualifizierten Zertifikaten zur Erstellung einer qualifizierten elektronischen Signatur für das Ministerium der Justiz (Auftraggeber) und seinen Geschäftsbereich, umfassend insbesondere die Gerichte, Staatsanwaltschaften, Justizvollzugsanstalten und sonstigen Einrichtungen der Justiz, (Bedarfsstellen) beschafft werden. Die Signaturkarten werden im Rahmen von qualifizierten elektronischen Signaturerstellungseinheiten nach Art. 3 Nr. 23 eIDAS-Verordnung (EU) Nr. 910/2014 zum Einsatz kommen und dem schriftformersetzenden Signieren von elektronischen Dokumenten dienen. Die Feststellung der Identität des Kartenantragstellers erfolgt beim Auftraggeber über das sogenannte Behörden-Ident-Verfahren, bei welchem die Identität der Kartenantragsteller gerichts- und behördenintern von den jeweiligen Bedarfsstellen bestätigt wird. Mit Ablauf des 19.09.2026 endet der bisherige Rahmenvertrag mit dem aktuellen Zertifizierungsanbieter und mit ihm die Gültigkeit der vorhandenen Signaturkarten. Durch den jetzt ausgeschriebenen Rahmenvertrag wird die Bereitstellung von Signaturkaten inklusive qualifizierter Zertifikate für den Anschlusszeitraum beschafft. Dementsprechend muss der Auftragnehmer für die vorhandenen Inhaber von Signaturkarten rechtzeitig vor Ablauf des 19.09.2026 (spätestens zum 19. Juni 2026) neue Signaturkarten inklusive qualifizierter Zertifikaten bereitstellen, sodass ein Signieren über das Ende der Laufzeit des aktuellen Rahmenvertrags hinaus unterbrechungsfrei möglich ist. Derzeit sind in der saarländischen Justiz rund 900 Signaturkarten im Einsatz. Während der Laufzeit des Vertrages sind bedarfsabhängig ferner bereitzustellen: - neue Signaturkarten inklusive qualifizierter Zertifikate für neu hinzukommende Nutzer, - Folgesignaturkarten inklusive qualifizierter Zertifikate für vorhandene Nutzer nach Ablauf der Gültigkeit der Signaturkarten und - Ersatzsignaturkarten inklusive qualifizierter Zertifikate für vorhandene Signaturkarten, die aus nicht vom Auftragnehmer zu vertretenden Umständen (z.B. Verlust, Beschädigung) vorzeitig ungültig geworden sind. Alle weiteren relevanten Informationen sind den beigefügten Vergabeunterlagen, insbesondere Anlage 2.1, zu entnehmen. Um Beachtung wird gebeten.",
-      "cpv": "79132100",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-05-20",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/343216-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 60,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -740,6 +833,37 @@
       "score_detail": {
         "fit": 10,
         "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "370653-2026",
+      "ref": "370653-2026",
+      "acheteur": "Université de Rouen Normandie",
+      "objet": "France – Générateur à turbine à vapeur et appareillage – Fourniture d'équipements scientifiques expérimentaux pour travaux pratiques, option « Thermohydraulique des centrales nucléaires », Université de Rouen Normandie.",
+      "description": "Lot 1 Fourniture d'un logiciel de simulation et applications expérimentales pour réaliser des travaux pratiques en lien avec l'option « Thermohydraulique des centrales nucléaires » du Master Énergie, parcours FIRST, première année. / Lot 2 Fourniture d'une turbine à vapeur et générateur de vapeur électrique pour réaliser des travaux pratiques en lien avec l'option « Thermohydraulique des centrales nucléaires » du Master Énergie, parcours FIRST, première année.",
+      "cpv": "31124000",
+      "pays": "FRA",
+      "deadline": "",
+      "montant": 52,
+      "publication": "2026-05-29",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/370653-2026",
+      "segment": "ESR",
+      "keyword_hits": [
+        "VAP"
+      ],
+      "bureautique": false,
+      "score": 42,
+      "score_detail": {
+        "fit": 10,
+        "size": 5,
         "tech": 12,
         "com": 5,
         "admin": 7,

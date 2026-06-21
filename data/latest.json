@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T08:53:54.257Z",
+  "generated_at": "2026-06-21T09:48:47.064Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
@@ -7,33 +7,95 @@
       "fetched": 500,
       "matched": 28,
       "go": 0,
-      "generated_at": "2026-06-20T08:47:33.172Z"
+      "generated_at": "2026-06-21T09:42:19.390Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-20T08:53:40.845Z"
+      "generated_at": "2026-06-21T09:48:29.025Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-20T08:53:54.208Z"
+      "generated_at": "2026-06-21T09:48:47.007Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 27,
+  "total_matched": 26,
   "total_go": 0,
-  "total_dedup_collisions": 1,
+  "total_dedup_collisions": 2,
   "dedup_breakdown": {
     "by_id": 0,
-    "fuzzy_signature": 1,
+    "fuzzy_signature": 2,
     "fuzzy_jaccard": 0
   },
   "notices": [
+    {
+      "id": "373853-2026",
+      "ref": "373853-2026",
+      "acheteur": "Omgevingsdienst Zuidoost Brabant",
+      "objet": "Pays-Bas – Services de technologies de l'information – ICT-beheerdiensten ODZOB",
+      "description": "Het doel van deze aanbesteding is het borgen van een kwalitatief hoogwaardig, toekomstbestendig en efficiënt ICT-beheer, waarbij duidelijke verantwoordelijkheden zijn belegd en tegelijkertijd de samenhang binnen het ICT-landschap behouden blijft.   De aanbestedende dienst streeft naar een inrichting waarbij het technisch beheer van de ICT-omgeving op een professionele en stabiele wijze wordt uitgevoerd, terwijl de organisatie zelf de regie houdt over beleid, prioriteiten en leveranciers.",
+      "cpv": "72222300",
+      "pays": "NLD",
+      "deadline": "2026-09-17",
+      "montant": 5700,
+      "publication": "2026-06-01",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/373853-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 74,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "374555-2026",
+      "ref": "374555-2026",
+      "acheteur": "Landelijk Bureau Inning Onderhoudsbijdragen",
+      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Levering, implementatie, hosting, beheer, onderhoud en doorontwikkeling van een nieuw zaaksysteem incl. financiële stroom rondom de zaak",
+      "description": "Levering, implementatie, hosting, beheer, onderhoud en doorontwikkeling van een nieuw zaaksysteem incl. financiële stroom rondom de zaak De eenmalige kosten voor levering en implementatie worden geraamd op € 450.000,- excl. btw. De structurele, jaarlijkse kosten voor onder meer hosting, beheer, onderhoud en doorontwikkeling incl. financiële stroom worden geraamd op € 250.000,- excl. btw per jaar. Daarbij dient uitgegaan te worden van 100 benodigde licenties.",
+      "cpv": "72200000",
+      "pays": "NLD",
+      "deadline": "2026-09-07",
+      "montant": 4950,
+      "publication": "2026-06-01",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/374555-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 74,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
     {
       "id": "357299-2026",
       "ref": "357299-2026",
@@ -66,6 +128,39 @@
       "auto": true
     },
     {
+      "id": "374387-2026",
+      "ref": "374387-2026",
+      "acheteur": "Association Regionale Missions Locales",
+      "objet": "France – Services de formation professionnelle – Plan inter-Régional de Formations ML PAIO Région Ile-de-France et Corse",
+      "description": "Identifier clairement les modèles d'accompagnement du choix professionnel Identifier les impératifs de la mission d'accompagnement en insertion Identifier l'étape du projet d'un jeune en entretien d'accueil avec la grille d'identification de l'étape du projet d'un consultant en premier accueil Fonder une entente de travail avec le jeune accompagné, basée sur le partage du diagnostic et établir un plan d'action concerté Mener un entretien de développement pour aider un jeune à intégrer une expérience vécue en lien avec son parcours Connaître l'usage individuel et collectif des outils de diagnostic, savoir les adapter / Mettre en place un processus permettant de créer de la cohésion dans un groupe Connaître et agir en posture de coach Permettre à un groupe de déterminer des objectifs individuels et collectifs dans un cadre bienveillant et sécurisé Utiliser des outils issus du coaching collectif pour mieux accompagner en collectif Connaître les fondements de la motivation et les utiliser dans les accompagnements / Savoir identifier les besoins spécifiques des jeunes en crise, à partir de leurs manifestations émotionnelles et physiques et une meilleure appréhension du sujet Cerner la notion de crise, les principaux dispositifs et acteurs pour mieux faire face à la situation de jeunes en souffrance Adapter sa posture et mobiliser des outils concrets d'accompagnement de la crise et de l'agressivité Proposer un accompagnement adapté et des solutions constructives / Comprendre les mécanismes de la construction et de fonctionnement de l'image et de l'estime de soi et ses effets sur les comportements Evaluer la place de l'image de soi et de l'estime de soi auprès d'un public fragilisé Appréhender les facteurs qui influencent et affectent leur image et leur estime Adopter la posture professionnelle adéquate pour aborder des sujets touchants à l'image et l'estime de soi Elaborer des ateliers agissant positivement sur l'image et l'estime de soi / Permettre l'appropriation d'une posture d'accompagnement de mobilisation vers la mise en mouvement. S'approprier des fiches outils pour un accompagnement de mobilisation vers la mise en mouvement. / Comprendre le mécanisme et l'importance des neurosciences Savoir réaliser une introspection pour mieux s'adapter Identifier les leviers Identifier les freins et les obstacles Développer des comportements et attitudes adaptés à l'intelligence relationnelle et comprendre ses limites en tant que professionnel de l'accompagnement / Définir ce que sont l'analyse transactionnelle et ses modèles relationnel intra et interpersonnel Définir les différents cadres de référence des états du moi et leurs stratégies Distinguer et reconnaitre les émotions, les besoins, les contrats tacites Approche systémique des liens de communication des différents états et postures relationnelles Comment transformer une situation relationnelle, éviter l'enlisement / Connaître les différents softskills Comprendre les processus et modalités d'apprentissage et d'acquisition des softskills Savoir les repérer à travers la mise en place d'ateliers Savoir développer les différents softskills des publics au travers de leur accompagnement Savoir créer des ateliers spécifiques permettant de les développer / Définir les principes du bilan de compétences et quand l'utiliser Analyser les besoins en s'appuyant sur la construction, la diffusion et l'analyse d'un questionnaire sur la relation au travail et l'intérêt qu'il suscite chez le jeune Restituer les résultats des analyses Décliner/ orienter l'accompagnement en fonction des analyses / Identifier tous les troubles de santé mentale Identifier les facteurs de risques Connaître les crises en santé mentale Visualiser les gestes et attitudes adaptés à chaque situation Le formateur/ La formatrice devra être accrédité/e Premier Secours en Santé Mentale. / Lire autrement la demande et les énoncés des jeunes Analyser une situation complexe à partir d'un cas Ajuster sa posture professionnelle Soutenir l'évolution du jeune dans la durée Développer une dynamique collective d'analyse et de soutien / Comprendre les enjeux et les risques de l'intelligence artificielle Identifier les enjeux et bénéfices de l'IA Comprendre les risques et limites Accompagner le jeune pour une utilisation responsable - protection de l'identité et des données Accompagner le développement de l'esprit critique face aux contenus produits par l'IA / Comprendre les enjeux de l'accueil des jeunes en Mission Locale Organiser efficacement un dispositif d'accueil Adopter une communication professionnelle et adaptée aux jeunes pour mieux prévenir des situations sensibles Animer et valoriser l'espace d'accueil au quotidien Comprendre les enjeux d'une gestion structurée des rendez?vous - S'approprier les règles internes de planification / Organiser efficacement son action de prospection Mettre en place un tableau de suivi simple et exploitable Identifier les partenariats possibles avec le levier de l'engagement social des prospects Préparer son plan de prospection Transformer ses prospects en partenaires Savoir fidéliser ses clients à l'ère du digital et de l'IA Définir et mettre en oeuvre des actions de fidélisation / Identifier tous les leviers de la RSE sur la partie sociale essentiellement, sur lesquels, les Missions Locales peuvent accompagner et engager les partenaires Déterminer les objectifs et bénéfices de l'engagement de la démarche RSE auprès des partenaires Concrétiser la démarche RSE et avoir de l'impact à travers des actions de communication adaptées auprès des partenaires / Comprendre les bases de l'IA appliquées à la communication Produire des contenus écrits de qualité grâce à l'IA Créer des visuels impactants avec l'IA Concevoir une stratégie de communication assistée par IA Utiliser l'IA pour gagner du temps et fluidifier sa communication Développer une communication éthique et responsable / Intégrer dans ses pratiques d'accompagnement des jeunes le renforcement des compétences psychosociales Etablir les liens entre problématiques de santé des jeunes en insertion et les \" Compétences Psychosociales (CPS) \" comme stratégie d'action pour la santé, le bien être, l'insertion Valoriser et intégrer les \" CPS \" dans les pratiques professionnelles en Mission Locale / Comprendre ce que sont ces handicaps invisibles et troubles cognitifs spécifiques : comment ils se manifestent, quels mécanismes entrent en jeux Acquérir des connaissances sur les besoins des personnes concernées Avoir recourt à des pratiques adaptées face à des situations complexes Connaître les technologies adaptées et les comportements à adopter pour créer des environnements favorables Connaître la législation vis-à-vis du recrutement et du maintien dans l'emploi des personnes en situation de handicap Connaître les dispositifs, organismes et aides mobilisables / Acquérir des connaissances de base concernant les troubles psychiques Mieux appréhender les différents types de crises Développer des compétences relationnelles (écoute active, prise de recul) Mieux faire face aux comportements agressifs Tester et s'approprier un plan d'action pouvant être utiliser pour apporter un soutien immédiat sur des problèmes de troubles psychiques / Disposer de connaissances juridiques nécessaires à l'information et à l'orientation des jeunes pouvant prétendre à la délivrance d'un titre de séjour ou à la nationalité française Concevoir l'insertion professionnelle du jeune au regard de sa situation administrative Appréhender les évolutions légales relatives à l'accès à l'emploi, à l'accès à la protection sociale des jeunes ressortissants étrangers Connaître les dispositions et évolutions légales de la situation des mineurs et jeunes majeurs isolés étrangers dans l'accès au séjour et à l'insertion / Connaître davantage les mineurs non-accompagnés (MNA) et la demande d'asile Connaître la protection des mineurs et jeunes majeurs non-accompagnés Evaluer l'éloignement du territoire Identifier la prise en charge éducative et les droits des mineurs non-accompagnés Connaître la majorité et la délivrance d'un titre de séjour / Comprendre les facteurs de vulnérabilité sociale et connaître les dispositifs d'aide et d'accompagnement Identifier et repérer les besoins d'une personne en situation de vulnérabilité sociale Repérer l'impact de la précarité sur les attitudes et les comportements des personnes S'approprier des éléments issus de l'anthropologie et de l'ethnologie pour mieux saisir les enjeux de la construction identitaire des familles issues de l'immigration Sensibiliser aux outils d'écoute des besoins et de l'expression de la personne accueillie, et savoir communiquer malgré les barrières de langues Adapter sa posture et ses outils pour informer, orienter et accompagner / Situer les acteurs et les mesures judiciaires dans la chaîne pénale Identifier les contraintes qui s'imposent aux jeunes \" mineurs \" et \" majeurs \" placés sous mains de justice Adapter la prise en charge socio professionnelle du jeune Avoir connaissance du dispositif judiciaire et des contraintes sur l'accompagnement des jeunes Recevoir et accompagner le public sous-main de justice : milieu ouvert et fermé Accompagner l'élaboration du parcours d'insertion / réinsertion du jeune / Apporter des connaissances théoriques et pratiques dans le domaine du logement : sur le plan juridique et technique Identifier les acteurs du logement et les pistes de partenariats possibles Disposer d'une méthodologie et de moyens pour constituer un réseau de partenaire du logement pour les jeunes sur le territoire Identifier et s'approprier le rôle du conseiller dans l'accompagnement des jeunes sur les questions de logement transitoire et autonome en lien avec les partenaires Adapter sa posture en fonction des situations rencontrées / Identifier les principaux partenaires dans des projets de mobilité internationale et les principaux types de financements et les mobiliser Identifier et savoir résoudre les problématiques administratives Identifier la valeur ajoutée de la mobilité internationale pour chaque public Construire un projet international Préparer les jeunes à la culture locale et à l'interculturalité Accompagner les jeunes au départ en mobilité internationale / Comprendre les fondements et les enjeux de la démarche Analyser le non?recours et les freins à l'accès aux droits S'approprier les principes d'une intervention \" hors les murs \" Construire une ingénierie d'action adaptée au terrain Définir la place de l'accueil dans la démarche d' \"Aller vers \" Élaborer un mini?projet \" Aller vers \" adapté à la structure et au public ciblé / Anticiper et planifier ses activités en diagnostiquant les priorités Mettre en place une organisation personnelle efficace au quotidien Utiliser avec pertinence des outils d'organisation Agir sur le temps relationnel pour gagner du temps collectivement / Adopter un comportement et une gestuelle appropriés Maîtriser les techniques d'expression orale pour capter l'attention et convaincre Contrôler la respiration, la voix, et le stress Rythmer son allocution Savoir gérer les interruptions et les perturbations sans être déstabiliser Adopter une posture adéquate en visioconférence / Définir une stratégie de plaidoyer adaptée Cartographier et analyser les acteurs clés Choisir et utiliser les outils et tactiques d'influence Construire une feuille de route de plaidoyer opérationnelle Maîtriser la communication de plaidoyer / Préparer et structurer efficacement des ateliers collectifs Se positionner face à un groupe et travailler efficacement avec les autres Favoriser l'adhésion du groupe Identifier les différentes personnalités qui composent le groupe Gérer les comportements difficiles et les situations particulières (format hybride, à distance) Piloter la réunion pour atteindre l'objectif et garantir les résultats attendus / Reconnaître les facteurs de motivation Reconnaître les profils comportementaux Analyser ses profils personnels Appliquer la méthodologie d'analyse d'un profil DISC© Adapter la forme pour être entendu sur le fond Délivrer un message pour mettre en mouvement / La synchronisation non verbale La calibration V.A. K.O.G L'écoute active Mettre en application les 4 outils / Niveau 1 : Découvrir les principales fonctionnalités d'Excel et savoir quand et comment l'utiliser Créer, modifier et ajouter une feuille Modifier des cellules Importer des documents simples Trier et filtrer des données Créer et exploiter les calculs simples Mettre en page pour imprimer un tableau Créer des formules de bases Gérer les mises en forme conditionnelles Niveau 2 : Créer des formules adaptées au besoin et avancées Créer des tableaux croisés dynamiques et des graphiques croisés dynamiques Créer des plans, des gestionnaires de noms Utiliser des outils de données (établir des listes déroulantes, nettoyer les doublons, etc...) Utiliser les fonctions de collaboration intégrées à Excel et sécuriser les cellules, feuilles et classeurs Excel Niveau 3 (VBA) : Comprendre et maîtriser les bases du langage VBA Automatiser des tâches répétitives avec des macros avancées Manipuler les objets Excel via le modèle objet (Object Model) Développer des procédures sur mesure Concevoir des formulaires (UserForms) professionnels Gérer les événements et interactions utilisateur Structurer, documenter et sécuriser son code VBA Créer un outil VBA complet et opérationnel / Comprendre les fondamentaux de l'IA générative Maîtriser les bases du Prompt Engineering Développer des prompts avancés pour des usages professionnels Intégrer efficacement l'IA dans ses processus métier Garantir un usage responsable, éthique et sécurisé Prototyper un cas d'usage IA concret / Comprendre les apports de l'IA à l'écriture professionnelle Maîtriser les fondamentaux du prompt engineering pour l'écriture Améliorer la clarté, la cohérence et la qualité linguistique de ses écrits Structurer efficacement différents types d'écrits professionnels et développer un style professionnel cohérent et impactant Développer une pratique responsable et éthique de l'IA rédactionnelle / Appréhender les différentes étapes de développement d'un projet Savoir dresser un diagnostic de départ permettant de développer un projet cohérent Mettre en oeuvre une structuration du projet, y compris pour la planification des étapes Analyser la capacité d'une Mission Locale à porter ou non un projet et la pertinence d'un projet Acquérir une méthodologie de construction budgétaire prévisionnelle Savoir valoriser un projet auprès de financeurs Sécuriser la mise en oeuvre d'un projet Définir le cadre contractuel des différents partenaires Organiser le travail d'une équipe de partenaires au quotidien Favoriser l'implication des parties prenantes Gérer les situations délicates Evaluer l'impact d'un projet / Elaborer un système de veille sur les appels d'offres et les appels à projets Décrypter les éléments qui composent la commande Savoir rédiger une réponse intégrant les données de la commande, les orientations principales des politiques publiques Savoir se démarquer Acquérir une vision des stratégies efficaces dans les différents aspects de la négociation Maîtriser un ensemble de méthodes et d'outils pour faciliter la préparation et la conduite des négociations Conclure des accords durables et profitables Construire et suivre des indicateurs d'évaluation / Comprendre les apports de l'IA dans la gestion de projets Maîtriser les fondamentaux du prompt engineering appliqué au pilotage de projet Utiliser l'IA pour améliorer la préparation et le cadrage d'un projet Optimiser la planification, la coordination et le suivi grâce à l'IA Développer une pratique responsable, sécurisée et conforme / Intégrer une démarche de résolution de problème Intégrer et appliquer les outils de résolution de problème Définir et structurer un plan d'actions Mettre en oeuvre un diagramme d'affinité (exemple : méthode KJ) Mettre en évidence les bonnes pratiques pour mobiliser l'ensemble de la Mission Locale dans une démarche de progrès. / Mieux cerner le rôle de manager, les enjeux et les contraintes Définir les règles de fonctionnement et fixer des objectifs pertinents Favoriser l'adhésion du collectif en adoptant une bonne communication Adapter son management à chaque situation collective ou individuelle Organiser la délégation pour renforcer l'autonomie Evaluer et apprécier les performances de son équipe Gérer les situations difficiles et les conflits Partie en distanciel : Repérer les pratiques et les leviers d'action pour manager une équipe à distance Mettre en place des règles de fonctionnement pour mieux manager son équipe à distance Être capable de mieux communiquer à distance Assoir une relation de confiance renforcée dans le principe de délégation Veiller aux conditions de travail, de la bonne application des règles d'une équipe en télétravail / Comprendre les usages et les enjeux de l'IA dans le travail quotidien Définir un cadre d'usage responsable pour son équipe (déterminer ce qui peut / ne peut pas être délégué à l'IA selon les missions et les niveaux de responsabilité) Accompagner les collaborateurs dans leur utilisation de l'IA Animer la dynamique d'évolution du cadre autour des usages d'IA / Comprendre les fondements et principes du co?développement Maîtriser le déroulé structuré d'une séance de co?développement Développer une posture managériale facilitatrice adaptée Intégrer le co?développement dans ses pratiques managériales / Diagnostiquer la situation financière et les leviers de développement (dont FSE+) Construire une stratégie de diversification financière Identifier et mobiliser de nouvelles sources de financement Concevoir des dossiers et propositions de valeur convaincants Renforcer la capacité de plaidoyer auprès des financeurs Mettre en place un pilotage et un suivi durable des financements / Connaître l'imbrication de l'intelligence artificielle et la protection des données. Comprendre l'intérêt et les enjeux du recours à l'IA dans la stratégie RH d'une Mission Locale Accompagner la mise en oeuvre de solutions et d'outils basés sur l'IA au sein du service RH Identifier les applications réelles de l'IA dans le domaine des RH et celles aidantes (exemple : rédaction). Maîtriser l'impact de l'IA sur l'organisation du service RH en Mission Locale, des métiers et compétences. / Utiliser l'IA pour analyser les compétences et faire évoluer les référentiels Intégrer l'IA dans les démarches GPEC/GEPP et de gestion des talents S'appuyer sur l'IA pour concevoir des parcours de développement des compétences Utiliser l'IA comme outil RH d'analyse, de veille et de production Développer une pratique RH responsable et sécurisée de l'IA / Découvrir/renforcer l'actualité des réformes sociales entraînant des conséquences immédiates sur la gestion des RH Évaluer l'incidence pratique de ces actualités sur la gestion des RH au sein de la Mission Locale Découvrir/renforcer ses connaissances de la Convention Collective Nationale des Missions Locales PAIO (IDCC 2190). Partages et conseils pratiques entre pairs.",
+      "cpv": "80530000",
+      "pays": "FRA",
+      "deadline": "2026-06-30",
+      "montant": 0,
+      "publication": "2026-06-01",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/374387-2026",
+      "segment": "Collectivités",
+      "keyword_hits": [
+        "bilan de compétences",
+        "GPEC",
+        "Excel"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 40,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "370848-2026",
       "ref": "370848-2026",
       "acheteur": "Ministerie van Algemene Zaken",
@@ -91,39 +186,6 @@
         "com": 5,
         "admin": 7,
         "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "367815-2026",
-      "ref": "367815-2026",
-      "acheteur": "Association Regionale Missions Locales",
-      "objet": "France – Services de formation professionnelle – Plan inter-Régional de Formations ML PAIO Région Ile-de-France et Corse",
-      "description": "Identifier clairement les modèles d'accompagnement du choix professionnel Identifier les impératifs de la mission d'accompagnement en insertion Identifier l'étape du projet d'un jeune en entretien d'accueil avec la grille d'identification de l'étape du projet d'un consultant en premier accueil Fonder une entente de travail avec le jeune accompagné, basée sur le partage du diagnostic et établir un plan d'action concerté Mener un entretien de développement pour aider un jeune à intégrer une expérience vécue en lien avec son parcours Connaître l'usage individuel et collectif des outils de diagnostic, savoir les adapter / Mettre en place un processus permettant de créer de la cohésion dans un groupe Connaître et agir en posture de coach Permettre à un groupe de déterminer des objectifs individuels et collectifs dans un cadre bienveillant et sécurisé Utiliser des outils issus du coaching collectif pour mieux accompagner en collectif Connaître les fondements de la motivation et les utiliser dans les accompagnements / Savoir identifier les besoins spécifiques des jeunes en crise, à partir de leurs manifestations émotionnelles et physiques et une meilleure appréhension du sujet Cerner la notion de crise, les principaux dispositifs et acteurs pour mieux faire face à la situation de jeunes en souffrance Adapter sa posture et mobiliser des outils concrets d'accompagnement de la crise et de l'agressivité Proposer un accompagnement adapté et des solutions constructives / Comprendre les mécanismes de la construction et de fonctionnement de l'image et de l'estime de soi et ses effets sur les comportements Evaluer la place de l'image de soi et de l'estime de soi auprès d'un public fragilisé Appréhender les facteurs qui influencent et affectent leur image et leur estime Adopter la posture professionnelle adéquate pour aborder des sujets touchants à l'image et l'estime de soi Elaborer des ateliers agissant positivement sur l'image et l'estime de soi / Permettre l'appropriation d'une posture d'accompagnement de mobilisation vers la mise en mouvement. S'approprier des fiches outils pour un accompagnement de mobilisation vers la mise en mouvement. / Comprendre le mécanisme et l'importance des neurosciences Savoir réaliser une introspection pour mieux s'adapter Identifier les leviers Identifier les freins et les obstacles Développer des comportements et attitudes adaptés à l'intelligence relationnelle et comprendre ses limites en tant que professionnel de l'accompagnement / Définir ce que sont l'analyse transactionnelle et ses modèles relationnel intra et interpersonnel Définir les différents cadres de référence des états du moi et leurs stratégies Distinguer et reconnaitre les émotions, les besoins, les contrats tacites Approche systémique des liens de communication des différents états et postures relationnelles Comment transformer une situation relationnelle, éviter l'enlisement / Connaître les différents softskills Comprendre les processus et modalités d'apprentissage et d'acquisition des softskills Savoir les repérer à travers la mise en place d'ateliers Savoir développer les différents softskills des publics au travers de leur accompagnement Savoir créer des ateliers spécifiques permettant de les développer / Définir les principes du bilan de compétences et quand l'utiliser Analyser les besoins en s'appuyant sur la construction, la diffusion et l'analyse d'un questionnaire sur la relation au travail et l'intérêt qu'il suscite chez le jeune Restituer les résultats des analyses Décliner/ orienter l'accompagnement en fonction des analyses / Identifier tous les troubles de santé mentale Identifier les facteurs de risques Connaître les crises en santé mentale Visualiser les gestes et attitudes adaptés à chaque situation Le formateur/ La formatrice devra être accrédité/e Premier Secours en Santé Mentale. / Lire autrement la demande et les énoncés des jeunes Analyser une situation complexe à partir d'un cas Ajuster sa posture professionnelle Soutenir l'évolution du jeune dans la durée Développer une dynamique collective d'analyse et de soutien / Comprendre les enjeux et les risques de l'intelligence artificielle Identifier les enjeux et bénéfices de l'IA Comprendre les risques et limites Accompagner le jeune pour une utilisation responsable - protection de l'identité et des données Accompagner le développement de l'esprit critique face aux contenus produits par l'IA / Comprendre les enjeux de l'accueil des jeunes en Mission Locale Organiser efficacement un dispositif d'accueil Adopter une communication professionnelle et adaptée aux jeunes pour mieux prévenir des situations sensibles Animer et valoriser l'espace d'accueil au quotidien Comprendre les enjeux d'une gestion structurée des rendez?vous - S'approprier les règles internes de planification / Organiser efficacement son action de prospection Mettre en place un tableau de suivi simple et exploitable Identifier les partenariats possibles avec le levier de l'engagement social des prospects Préparer son plan de prospection Transformer ses prospects en partenaires Savoir fidéliser ses clients à l'ère du digital et de l'IA Définir et mettre en oeuvre des actions de fidélisation / Identifier tous les leviers de la RSE sur la partie sociale essentiellement, sur lesquels, les Missions Locales peuvent accompagner et engager les partenaires Déterminer les objectifs et bénéfices de l'engagement de la démarche RSE auprès des partenaires Concrétiser la démarche RSE et avoir de l'impact à travers des actions de communication adaptées auprès des partenaires / Comprendre les bases de l'IA appliquées à la communication Produire des contenus écrits de qualité grâce à l'IA Créer des visuels impactants avec l'IA Concevoir une stratégie de communication assistée par IA Utiliser l'IA pour gagner du temps et fluidifier sa communication Développer une communication éthique et responsable / Intégrer dans ses pratiques d'accompagnement des jeunes le renforcement des compétences psychosociales Etablir les liens entre problématiques de santé des jeunes en insertion et les \" Compétences Psychosociales (CPS) \" comme stratégie d'action pour la santé, le bien être, l'insertion Valoriser et intégrer les \" CPS \" dans les pratiques professionnelles en Mission Locale / Comprendre ce que sont ces handicaps invisibles et troubles cognitifs spécifiques : comment ils se manifestent, quels mécanismes entrent en jeux Acquérir des connaissances sur les besoins des personnes concernées Avoir recourt à des pratiques adaptées face à des situations complexes Connaître les technologies adaptées et les comportements à adopter pour créer des environnements favorables Connaître la législation vis-à-vis du recrutement et du maintien dans l'emploi des personnes en situation de handicap Connaître les dispositifs, organismes et aides mobilisables / Acquérir des connaissances de base concernant les troubles psychiques Mieux appréhender les différents types de crises Développer des compétences relationnelles (écoute active, prise de recul) Mieux faire face aux comportements agressifs Tester et s'approprier un plan d'action pouvant être utiliser pour apporter un soutien immédiat sur des problèmes de troubles psychiques / Disposer de connaissances juridiques nécessaires à l'information et à l'orientation des jeunes pouvant prétendre à la délivrance d'un titre de séjour ou à la nationalité française Concevoir l'insertion professionnelle du jeune au regard de sa situation administrative Appréhender les évolutions légales relatives à l'accès à l'emploi, à l'accès à la protection sociale des jeunes ressortissants étrangers Connaître les dispositions et évolutions légales de la situation des mineurs et jeunes majeurs isolés étrangers dans l'accès au séjour et à l'insertion / Connaître davantage les mineurs non-accompagnés (MNA) et la demande d'asile Connaître la protection des mineurs et jeunes majeurs non-accompagnés Evaluer l'éloignement du territoire Identifier la prise en charge éducative et les droits des mineurs non-accompagnés Connaître la majorité et la délivrance d'un titre de séjour / Comprendre les facteurs de vulnérabilité sociale et connaître les dispositifs d'aide et d'accompagnement Identifier et repérer les besoins d'une personne en situation de vulnérabilité sociale Repérer l'impact de la précarité sur les attitudes et les comportements des personnes S'approprier des éléments issus de l'anthropologie et de l'ethnologie pour mieux saisir les enjeux de la construction identitaire des familles issues de l'immigration Sensibiliser aux outils d'écoute des besoins et de l'expression de la personne accueillie, et savoir communiquer malgré les barrières de langues Adapter sa posture et ses outils pour informer, orienter et accompagner / Situer les acteurs et les mesures judiciaires dans la chaîne pénale Identifier les contraintes qui s'imposent aux jeunes \" mineurs \" et \" majeurs \" placés sous mains de justice Adapter la prise en charge socio professionnelle du jeune Avoir connaissance du dispositif judiciaire et des contraintes sur l'accompagnement des jeunes Recevoir et accompagner le public sous-main de justice : milieu ouvert et fermé Accompagner l'élaboration du parcours d'insertion / réinsertion du jeune / Apporter des connaissances théoriques et pratiques dans le domaine du logement : sur le plan juridique et technique Identifier les acteurs du logement et les pistes de partenariats possibles Disposer d'une méthodologie et de moyens pour constituer un réseau de partenaire du logement pour les jeunes sur le territoire Identifier et s'approprier le rôle du conseiller dans l'accompagnement des jeunes sur les questions de logement transitoire et autonome en lien avec les partenaires Adapter sa posture en fonction des situations rencontrées / Identifier les principaux partenaires dans des projets de mobilité internationale et les principaux types de financements et les mobiliser Identifier et savoir résoudre les problématiques administratives Identifier la valeur ajoutée de la mobilité internationale pour chaque public Construire un projet international Préparer les jeunes à la culture locale et à l'interculturalité Accompagner les jeunes au départ en mobilité internationale / Comprendre les fondements et les enjeux de la démarche Analyser le non?recours et les freins à l'accès aux droits S'approprier les principes d'une intervention \" hors les murs \" Construire une ingénierie d'action adaptée au terrain Définir la place de l'accueil dans la démarche d' \"Aller vers \" Élaborer un mini?projet \" Aller vers \" adapté à la structure et au public ciblé / Anticiper et planifier ses activités en diagnostiquant les priorités Mettre en place une organisation personnelle efficace au quotidien Utiliser avec pertinence des outils d'organisation Agir sur le temps relationnel pour gagner du temps collectivement / Adopter un comportement et une gestuelle appropriés Maîtriser les techniques d'expression orale pour capter l'attention et convaincre Contrôler la respiration, la voix, et le stress Rythmer son allocution Savoir gérer les interruptions et les perturbations sans être déstabiliser Adopter une posture adéquate en visioconférence / Définir une stratégie de plaidoyer adaptée Cartographier et analyser les acteurs clés Choisir et utiliser les outils et tactiques d'influence Construire une feuille de route de plaidoyer opérationnelle Maîtriser la communication de plaidoyer / Préparer et structurer efficacement des ateliers collectifs Se positionner face à un groupe et travailler efficacement avec les autres Favoriser l'adhésion du groupe Identifier les différentes personnalités qui composent le groupe Gérer les comportements difficiles et les situations particulières (format hybride, à distance) Piloter la réunion pour atteindre l'objectif et garantir les résultats attendus / Reconnaître les facteurs de motivation Reconnaître les profils comportementaux Analyser ses profils personnels Appliquer la méthodologie d'analyse d'un profil DISC© Adapter la forme pour être entendu sur le fond Délivrer un message pour mettre en mouvement / La synchronisation non verbale La calibration V.A. K.O.G L'écoute active Mettre en application les 4 outils / Niveau 1 : Découvrir les principales fonctionnalités d'Excel et savoir quand et comment l'utiliser Créer, modifier et ajouter une feuille Modifier des cellules Importer des documents simples Trier et filtrer des données Créer et exploiter les calculs simples Mettre en page pour imprimer un tableau Créer des formules de bases Gérer les mises en forme conditionnelles Niveau 2 : Créer des formules adaptées au besoin et avancées Créer des tableaux croisés dynamiques et des graphiques croisés dynamiques Créer des plans, des gestionnaires de noms Utiliser des outils de données (établir des listes déroulantes, nettoyer les doublons, etc...) Utiliser les fonctions de collaboration intégrées à Excel et sécuriser les cellules, feuilles et classeurs Excel Niveau 3 (VBA) : Comprendre et maîtriser les bases du langage VBA Automatiser des tâches répétitives avec des macros avancées Manipuler les objets Excel via le modèle objet (Object Model) Développer des procédures sur mesure Concevoir des formulaires (UserForms) professionnels Gérer les événements et interactions utilisateur Structurer, documenter et sécuriser son code VBA Créer un outil VBA complet et opérationnel / Comprendre les fondamentaux de l'IA générative Maîtriser les bases du Prompt Engineering Développer des prompts avancés pour des usages professionnels Intégrer efficacement l'IA dans ses processus métier Garantir un usage responsable, éthique et sécurisé Prototyper un cas d'usage IA concret / Comprendre les apports de l'IA à l'écriture professionnelle Maîtriser les fondamentaux du prompt engineering pour l'écriture Améliorer la clarté, la cohérence et la qualité linguistique de ses écrits Structurer efficacement différents types d'écrits professionnels et développer un style professionnel cohérent et impactant Développer une pratique responsable et éthique de l'IA rédactionnelle / Appréhender les différentes étapes de développement d'un projet Savoir dresser un diagnostic de départ permettant de développer un projet cohérent Mettre en oeuvre une structuration du projet, y compris pour la planification des étapes Analyser la capacité d'une Mission Locale à porter ou non un projet et la pertinence d'un projet Acquérir une méthodologie de construction budgétaire prévisionnelle Savoir valoriser un projet auprès de financeurs Sécuriser la mise en oeuvre d'un projet Définir le cadre contractuel des différents partenaires Organiser le travail d'une équipe de partenaires au quotidien Favoriser l'implication des parties prenantes Gérer les situations délicates Evaluer l'impact d'un projet / Elaborer un système de veille sur les appels d'offres et les appels à projets Décrypter les éléments qui composent la commande Savoir rédiger une réponse intégrant les données de la commande, les orientations principales des politiques publiques Savoir se démarquer Acquérir une vision des stratégies efficaces dans les différents aspects de la négociation Maîtriser un ensemble de méthodes et d'outils pour faciliter la préparation et la conduite des négociations Conclure des accords durables et profitables Construire et suivre des indicateurs d'évaluation / Comprendre les apports de l'IA dans la gestion de projets Maîtriser les fondamentaux du prompt engineering appliqué au pilotage de projet Utiliser l'IA pour améliorer la préparation et le cadrage d'un projet Optimiser la planification, la coordination et le suivi grâce à l'IA Développer une pratique responsable, sécurisée et conforme / Intégrer une démarche de résolution de problème Intégrer et appliquer les outils de résolution de problème Définir et structurer un plan d'actions Mettre en oeuvre un diagramme d'affinité (exemple : méthode KJ) Mettre en évidence les bonnes pratiques pour mobiliser l'ensemble de la Mission Locale dans une démarche de progrès. / Mieux cerner le rôle de manager, les enjeux et les contraintes Définir les règles de fonctionnement et fixer des objectifs pertinents Favoriser l'adhésion du collectif en adoptant une bonne communication Adapter son management à chaque situation collective ou individuelle Organiser la délégation pour renforcer l'autonomie Evaluer et apprécier les performances de son équipe Gérer les situations difficiles et les conflits Partie en distanciel : Repérer les pratiques et les leviers d'action pour manager une équipe à distance Mettre en place des règles de fonctionnement pour mieux manager son équipe à distance Être capable de mieux communiquer à distance Assoir une relation de confiance renforcée dans le principe de délégation Veiller aux conditions de travail, de la bonne application des règles d'une équipe en télétravail / Comprendre les usages et les enjeux de l'IA dans le travail quotidien Définir un cadre d'usage responsable pour son équipe (déterminer ce qui peut / ne peut pas être délégué à l'IA selon les missions et les niveaux de responsabilité) Accompagner les collaborateurs dans leur utilisation de l'IA Animer la dynamique d'évolution du cadre autour des usages d'IA / Comprendre les fondements et principes du co?développement Maîtriser le déroulé structuré d'une séance de co?développement Développer une posture managériale facilitatrice adaptée Intégrer le co?développement dans ses pratiques managériales / Diagnostiquer la situation financière et les leviers de développement (dont FSE+) Construire une stratégie de diversification financière Identifier et mobiliser de nouvelles sources de financement Concevoir des dossiers et propositions de valeur convaincants Renforcer la capacité de plaidoyer auprès des financeurs Mettre en place un pilotage et un suivi durable des financements / Connaître l'imbrication de l'intelligence artificielle et la protection des données. Comprendre l'intérêt et les enjeux du recours à l'IA dans la stratégie RH d'une Mission Locale Accompagner la mise en oeuvre de solutions et d'outils basés sur l'IA au sein du service RH Identifier les applications réelles de l'IA dans le domaine des RH et celles aidantes (exemple : rédaction). Maîtriser l'impact de l'IA sur l'organisation du service RH en Mission Locale, des métiers et compétences. / Utiliser l'IA pour analyser les compétences et faire évoluer les référentiels Intégrer l'IA dans les démarches GPEC/GEPP et de gestion des talents S'appuyer sur l'IA pour concevoir des parcours de développement des compétences Utiliser l'IA comme outil RH d'analyse, de veille et de production Développer une pratique RH responsable et sécurisée de l'IA / Découvrir/renforcer l'actualité des réformes sociales entraînant des conséquences immédiates sur la gestion des RH Évaluer l'incidence pratique de ces actualités sur la gestion des RH au sein de la Mission Locale Découvrir/renforcer ses connaissances de la Convention Collective Nationale des Missions Locales PAIO (IDCC 2190). Partages et conseils pratiques entre pairs.",
-      "cpv": "80530000",
-      "pays": "FRA",
-      "deadline": "2026-06-30",
-      "montant": 0,
-      "publication": "2026-05-29",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/367815-2026",
-      "segment": "Collectivités",
-      "keyword_hits": [
-        "bilan de compétences",
-        "GPEC",
-        "Excel"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 40,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
       },
       "score_status": "cond",
       "notes": "",
@@ -204,37 +266,6 @@
       "publication": "2026-05-26",
       "source": "TED",
       "url": "https://ted.europa.eu/fr/notice/-/detail/356013-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "348211-2026",
-      "ref": "348211-2026",
-      "acheteur": "Belastingdienst, IUC Belastingdienst",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Beheer, Onderhoud & support Oracle Exadata-omgeving",
-      "description": "De Belastingdienst maakt gebruik van een Exadata-omgeving als onderdeel van haar kritieke dataplatforminfrastructuur. Deze omgeving ondersteunt diverse bedrijfskritische applicaties en processen die essentieel zijn voor de uitvoering van haar taken. Om de continuïteit, prestaties en (Informatie)beveiliging van deze omgeving te waarborgen, wordt een aanbesteding gestart voor het onderhoud en de ondersteuning van de bestaande Exadata-stack (Installed base). De scope van deze aanbesteding omvat primair het Beheer, Onderhoud & Support van de Oracle Exadata-stack (Installed Base) en Technical Accountmanagement (TAM) die een directe relatie hebben met de Oracle Exadata-omgeving Keuze-element: Consultancy Herzieningsclausules: 1. Uitbreiding Programmatuur; 2. Nieuwe Programmatuur; 3. Technology refresh; 4. Logische opvolger; 5. Tijdelijk verlenging Overeenkomst. De opdracht betreft primair het Beheer, Onderhoud & Support op 5 Oracle Exadata X10M Engineered systems (incl Systeemsoftware en databasesoftware). De geraamde waarde van Diensten (Beheer, Onderhoud & Support) is geraamd op een waarde van 400.000 (excl. BTW) per jaar. De omvang is (mede) gebaseerd op ramingen, waar geen rechten aan kunnen worden ontleend. Deze omvang is exclusief Keuze-elementen en Herziengingen.",
-      "cpv": "72000000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 2209,
-      "publication": "2026-05-21",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/348211-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -341,37 +372,6 @@
         "com": 5,
         "admin": 7,
         "delay": 1
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "347409-2026",
-      "ref": "347409-2026",
-      "acheteur": "Waterschap Rivierenland",
-      "objet": "Pays-Bas – Travaux d'équipement électrique – Raamovereenkomst Elektrotechnische en Procesautomatisering werkzaamheden iWA2.0/ iPA2.0 2026",
-      "description": "De Raamovereenkomst Elektrotechnische en Procesautomatisering werkzaamheden iWA2.0/iPA2.0 2026-2030 is voornamelijk gebaseerd op de programma’s iWA2.0 en iPA2.0. De, niet uitputtende, werkzaamheden zijn onderverdeeld in: • Werkzaamheden aan de objecten stuwen en gemalen, krooshekreiniger, meetpunten en dergelijke objecten in het watersysteem. Deze objecten behoren tot het programma iWA2.0 • Werkzaamheden aan de objecten rioolgemalen en rioolwaterzuiveringsinstallaties (rwzi’s) in de waterketen. Deze objecten behoren tot het programma iPA2.0; • Buiten de programma’s iWA2.0 en iPA2.0 kunnen werkzaamheden op de (de)centrale locaties/kantoren van WSRL deel uitmaken van deze Raamovereenkomst. De werkzaamheden moeten wel in relatie staan met de werkzaamheden zoals in deze Aanbestedingsleidraad benoemd; • Detachering van personeel in geval van capaciteitsbehoefte bij WSRL. Voor deze objecten dienen er voornamelijk elektrotechnische installatiewerkzaamheden uitgevoerd te worden. Meestal worden de engineeringswerkzaamheden door WSRL zelf uitgevoerd. In sommige gevallen kan de engineering door Opdrachtnemer onderdeel uitmaken van de Nadere opdracht. WSRL hanteert voor het gehele programma iWA2.0 en iPA2.0 de volgende doelstellingen: • Het vervangen van de procesautomatisering eens per 12,5 jaar van de objecten waarbij enkel op elektrotechnisch en procesautomatisering vlak vervanging dient plaats te vinden; • Bij het vervangen van de procesautomatisering gelijktijdig het vervangen van de elektrotechnische componenten, welke niet meer voldoen aan de normen of aan vervanging toe zijn, inclusief de benodigde documentatie van de objecten; • Het technisch en functioneel op orde houden van de centrale hoofdposten watersysteem en waterketen.   Het doel van deze aanbesteding is tweeledig: 1. Het sluiten van een Raamovereenkomst(en) met één of meerdere ondernemingen voor Elektrotechnische installaties & Procesautomatisering werkzaamheden iWA2.0/ iPA2.0 2026-2030; 2. Het verstrekken van één Opdracht (een Nadere opdracht vanuit vakgebied B) voor werkzaamheden aan gemaal Middelkoop.",
-      "cpv": "45310000",
-      "pays": "NLD",
-      "deadline": "2026-07-02",
-      "montant": 100000,
-      "publication": "2026-05-21",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/347409-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 69,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
       },
       "score_status": "cond",
       "notes": "",
@@ -533,6 +533,37 @@
       "auto": true
     },
     {
+      "id": "373729-2026",
+      "ref": "373729-2026",
+      "acheteur": "Kreis Recklinghausen, Der Landrat",
+      "objet": "Allemagne – Séminaires de formation – Arbeitsmarktdienstleistung: Berufsausbildung in außerbetrieblichen Einrichtungen (BaE kooperativ)",
+      "description": "Leistungsgegenstand ist die Durchführung von Berufsausbildungen in außerbetrieblichen Einrichtungen (BaE) nach § 16 Abs. 1 SGB II i.V.m. § 76 SGB III und §§ 4, 5 Abs. 2 ff Berufsbildungsgesetz (BBiG)/§§ 25, 26 Abs. 2 ff Handwerksordnung (HwO) - allgemeine Berufsausbildung einschließlich Stufenausbildung - und §§ 64 ff BBiG/§§ 42 Buchst. k-m HwO. BaE nach § 76 SGB III zielen darauf ab, Auszubildenden, die aufgrund einer Lernbeeinträchtigung oder sozialer Benachteiligungen besonderer Hilfen bedürfen, durch Berufsausbildung in einer außerbetrieblichen Einrichtung die Aufnahme, Fortsetzung sowie den erfolgreichen Abschluss einer Berufsausbildung zu ermöglichen. Es sind alle Möglichkeiten wahrzunehmen, um den Übergang der Teilnehmenden auf einen betrieblichen Ausbildungsplatz zu fördern. Im kooperativen Modell werden die Ausbildungsinhalte unter Einbeziehung von Kooperationsbetrieben vermittelt, welche die Eignung nach §§ 27 ff BBiG/§§ 21 ff HwO besitzen. Die beauftragte Organisation ist neben der Gewinnung der Kooperationsbetriebe für die möglichst frühzeitige Vermittlung in betriebliche Ausbildung - vorzugsweise in den Kooperationsbetrieb-, sowie für die Koordinierung der Ausbildung mit allen beteiligten Stellen - insbesondere auch mit der Berufsschule - verantwortlich und unterstützt diese in ihrer Aufgabenwahrnehmung insbesondere durch fachtheoretische Unterweisung sowie sozialpädagogische Begleitung. Die fachpraktische Unterweisung in den betrieblichen Ausbildungsphasen wird aus-schließlich durch den Kooperationsbetrieb durchgeführt. Die beauftragte Organisation sowie die Kooperationsbetriebe haben die aktuell gültigen Ausbildungsordnungen/Ausbildungsregelungen der einzelnen Berufsausbildungen anzuwenden. Teilnehmende sind unabhängig von der erreichten Schulbildung Jugendliche und junge Erwachsene ohne berufliche Erstausbildung, die die allgemeine Schulpflicht erfüllt haben. Zum förderungsfähigen Personenkreis gehören Lernbeeinträchtigte und sozial benachteiligte Jugendliche, die wegen der in ihrer Person liegenden Gründe auch mit ausbildungsfördernden Leistungen nicht in eine Ausbildungsstelle in einem Betrieb vermittelt werden können und deswegen auf eine außerbetriebliche Einrichtung angewiesen sind. Auszubildende, deren betriebliches oder außerbetriebliches Berufsausbildungsverhältnis vorzeitig gelöst worden ist und deren Eingliederung in betriebliche Berufsausbildung auch mit ausbildungsfördernden Leistungen aussichtslos ist, können ihre Berufsausbildung in einer außerbetrieblichen Einrichtung fortsetzen, wenn zu erwarten ist, dass die Berufsausbildung erfolgreich abgeschlossen werden kann. Einzelheiten sind der Leistungsbeschreibung zu entnehmen.",
+      "cpv": "80522000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-01",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/373729-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "366440-2026",
       "ref": "366440-2026",
       "acheteur": "AG Digipolis Antwerpen",
@@ -579,37 +610,6 @@
       "segment": "Autre",
       "keyword_hits": [
         "Office 365"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "347446-2026",
-      "ref": "347446-2026",
-      "acheteur": "Medizinischer Dienst Baden-Württemberg",
-      "objet": "Allemagne – Logiciels de gestion des installations – Beschaffung und Implementierung einer CAFM-Software",
-      "description": "Für die Facility-Management-Leistungen des Medizinischen Dienstes Baden-Württemberg soll ein CAFM-System eingeführt werden, das die effiziente Verwaltung und Steuerung aller relevanten Prozesse unterstützt. Der Medizinische Dienst Baden-Württemberg betreibt rund 20 Standorte, die überwiegend als Mietobjekte genutzt werden und unterschiedliche Zuständigkeiten in der Bewirtschaftung aufweisen. Die Facility-Management-Leistungen werden zentral in der Hauptverwaltung durch ein Team von etwa zehn Mitarbeitenden erbracht. Zusätzlich sind je Standort verantwortliche Personen definiert, die standortbezogene Aufgaben und Zuständigkeiten innerhalb des Medizinischen Dienstes Baden-Württemberg wahrnehmen. Ziel der Implementierung ist es, durch den Einsatz eines CAFM-Systems Transparenz, Prozesssicherheit und Effizienz in der Bewirtschaftung der Liegenschaften zu erhöhen und eine zukunftsfähige digitale Plattform für das Facility Management bereitzustellen. Mit der Implementierung des CAFM-Systems sollen die derzeit unterschiedlichen Informationsquellen (z. B. unterschiedlichen Excel-Tabellen und Systemen) zusammengeführt und die Informationsqualität sowie -quantität durch definierte Datenmodelle vereinheitlicht werden. Die daraus entstehende konsistente Datenbasis liefert den Entscheidungsträgern künftig rechtssichere, aktuelle, vollständige und korrekte Informationen. Dies geht einher mit der Transformation von analogen zu digitalen Prozessen. Bestehende Prozesse sollen im Rahmen der Implementierung überprüft und weitestgehend an marktübliche Standards angepasst werden, mit dem Ziel einer Effizienzsteigerung.",
-      "cpv": "48421000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-05-21",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/347446-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Excel"
       ],
       "bureautique": true,
       "score": 65,
@@ -765,37 +765,6 @@
       "segment": "Autre",
       "keyword_hits": [
         "habilitation"
-      ],
-      "bureautique": false,
-      "score": 57,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "348478-2026",
-      "ref": "348478-2026",
-      "acheteur": "Chambre de Métiers et de l'Artisanat d'Ile-de-France",
-      "objet": "France – Services de formation professionnelle – Accord-cadre relatif à des prestations de formations courtes, certifiantes, diplômantes pour la CMA IDF",
-      "description": "Développement d’entreprise / Formations diplômantes RNCP / Numérique et marketing / Techniques et réglementaires / Techniques Coiffure / Techniques esthétiques",
-      "cpv": "80530000",
-      "pays": "FRA",
-      "deadline": "2026-06-22",
-      "montant": 0,
-      "publication": "2026-05-21",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/348478-2026",
-      "segment": "Consulaire",
-      "keyword_hits": [
-        "RNCP"
       ],
       "bureautique": false,
       "score": 57,

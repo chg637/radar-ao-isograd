@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-06-21T09:48:47.064Z",
+  "generated_at": "2026-06-22T11:50:28.873Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 28,
+      "matched": 26,
       "go": 0,
-      "generated_at": "2026-06-21T09:42:19.390Z"
+      "generated_at": "2026-06-22T11:43:54.620Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-21T09:48:29.025Z"
+      "generated_at": "2026-06-22T11:50:02.410Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-21T09:48:47.007Z"
+      "generated_at": "2026-06-22T11:50:28.817Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 26,
+  "total_matched": 24,
   "total_go": 0,
   "total_dedup_collisions": 2,
   "dedup_breakdown": {
@@ -122,6 +122,37 @@
         "com": 5,
         "admin": 7,
         "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "379497-2026",
+      "ref": "379497-2026",
+      "acheteur": "Ministerie van Sociale Zaken en Werkgelegenheid",
+      "objet": "Pays-Bas – Services de maintenance des systèmes et services d'assistance – DSU Managed Hosting en Beheer",
+      "description": "Het doel van deze Aanbesteding is het selecteren van één leverancier voor het leveren van ICT-dienstverlening op het gebied van managed hosting en beheer. De geraamde waarde van de Opdracht bedraagt gemiddeld € 800.000 (achthonderdduizend euro) exclusief btw per jaar, derhalve totaal € 8.000.000 (acht miljoen euro) exclusief btw over een looptijd van 10 (tien) jaar. Indien en voorzover de overeenkomst als een raamovereenkomst zou worden aangemerkt, geldt een maximale omvang van € 12.000.000 (twaalf miljoen euro).",
+      "cpv": "72250000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 12000,
+      "publication": "2026-06-03",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/379497-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -364,45 +395,14 @@
         "Word"
       ],
       "bureautique": true,
-      "score": 70,
+      "score": 69,
       "score_detail": {
         "fit": 30,
         "size": 15,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 1
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "352269-2026",
-      "ref": "352269-2026",
-      "acheteur": "Ministerie van Economische Zaken",
-      "objet": "Pays-Bas – Services d'organisation d'événements – Kenniscommunity Lage Temperatuur Aardwarmte",
-      "description": "Deze aanbesteding ziet toe op een invulling van de Kenniscommunity binnen programmalijn 3 van het versnellingsprogramma Lage Tempratuur Aardwarmte (LTA). Er wordt beoogd dat deze zal bestaan uit zowel fysieke (e.g. events, workshops) als digitale aspecten (digitaal platform) welke stakeholders stimuleren om kennis te delen en van elkaar te leren op het gebied van LTA. Zie aanbestedingsdocument paragraaf 2.4.",
-      "cpv": "79952000",
-      "pays": "NLD",
-      "deadline": "2026-07-08",
-      "montant": 255,
-      "publication": "2026-05-22",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/352269-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 68,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 1
+        "delay": 0
       },
       "score_status": "cond",
       "notes": "",
@@ -657,6 +657,37 @@
       "auto": true
     },
     {
+      "id": "377755-2026",
+      "ref": "377755-2026",
+      "acheteur": "Gemeente Groningen",
+      "objet": "Pays-Bas – Services relatifs aux logiciels – Standaard Software Reseller 2026",
+      "description": "De opdracht betreft het verwerven van (conform Gemma/gemeentelijke) standaardsoftware (licenties) welke on premise en/of als SaaS/IaaS/PaaS (Xaas) oplossingen afgenomen kunnen worden inclusief advies, vernieuwing, beheer en onderhoud. Opdrachtnemer is bereid en in staat alle op de markt verkrijgbare standaard gebruiksrechten (licenties) en onderhoud op gebruiksrechten (licenties en/of software assurance) te leveren van de eindfabrikanten of softwareleveranciers. Van de opdrachtnemer wordt geëist dat deze standaardsoftware rechtstreeks inkoopt bij fabrikant of een door de fabrikant aangewezen distributiekanaal. Het betreft nadrukkelijk géén maatwerksoftware, maar standaardsoftware, oftewel software waarvoor geen doorontwikkeling bij aanschaf voor een specifieke klant nodig is. Zie de aanbestedingsdocumenten",
+      "cpv": "72260000",
+      "pays": "NLD",
+      "deadline": "2026-06-22",
+      "montant": 0,
+      "publication": "2026-06-02",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/377755-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 62,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "370913-2026",
       "ref": "370913-2026",
       "acheteur": "Gemeente Nijkerk",
@@ -715,99 +746,6 @@
         "delay": 0
       },
       "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "352314-2026",
-      "ref": "352314-2026",
-      "acheteur": "Regisseur Studenten Reisrecht B.V.",
-      "objet": "Pays-Bas – Services de développement de logiciels de communication – Europese aanbesteding AI-chatbot",
-      "description": "De scope van de opdracht ziet op het leveren, implementeren, beheren, onderhouden en doorontwikkelen van een AI-chatbotoplossing ter vervanging van de huidige chatbot. De AI-chatbotoplossing dient studenten op een toegankelijke, betrouwbare en efficiënte wijze te ondersteunen en Sessies adequaat af te handelen. Onder de opdracht valt niet alleen de beschikbaarstelling van de oplossing zelf, maar ook de bijbehorende dienstverlening die nodig is om de AI-chatbot gedurende de looptijd goed, veilig en toekomstbestendig te laten functioneren. Deze opdracht is niet onderverdeeld in percelen. Inschrijven op een gedeelte van de opdracht is niet toegestaan en leidt tot uitsluiting van verdere deelname aan de aanbestedingsprocedure. De onderhavige opdracht in deze aanbesteding vertegenwoordigt een geschatte opdrachtwaarde van € 96.000,00 exclusief btw per jaar voor het leveren, onderhouden en beheren van de AI-chatbot en inclusief verwerken van 100.000 Sessies. Let op: Deze jaarlijkse opdrachtwaarde is tevens een prijsplafond. Een Inschrijver met een Inschrijving met een prijsindiening in Annex III Prijzenblad waarvan de jaarlijkse kosten hoger zijn dan € 96.000,00 exclusief btw wordt uitgesloten van verdere deelname aan deze aanbesteding.",
-      "cpv": "72212510",
-      "pays": "NLD",
-      "deadline": "2026-07-03",
-      "montant": 0,
-      "publication": "2026-05-22",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/352314-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "351664-2026",
-      "ref": "351664-2026",
-      "acheteur": "ALTEMED",
-      "objet": "France – Services de formation du personnel – Achat de prestations de formation pour la Société ALTEMED (ALTEMED, ACM HABITAT, SERM, SA3M et GIE SERM-SA3M)",
-      "description": "Actions de formation portant sur la GESTION LOCATIVE / Actions de formation portant sur la RELATION CLIENT / Actions de formation portant sur la VENTE HLM, GESTION DES COPROPRIETES, BAIL COMMERICAL et SYNDIC / Actions de formation portant sur l'ENTRETIEN TECHNIQUE DU PATRIMOINE / Actions de formation portant sur l'URBANISME, AMENAGEMENT, CONSTRUCTION et MAITRISE D'OUVRAGE / Actions de formation portant sur l'ENERGIE / Actions de formation portant sur la SANTE et SECURITE / Actions de formation portant sur les HABILITATIONS / Actions de formation portant sur les RISQUES PSYCHOSOCIAUX / Actions de formation portant sur les PERMIS DE CONDUIRE / Actions de formation portant sur les MARCHES PUBLICS et RESPONSABILITE JURIDIQUE / Actions de formation portant sur l'INFORMATIQUE &amp;amp; BUREAUTIQUE / Actions de formation portant sur l'INTELLIGENCE ARTIFICIELLE / Actions de formation portant sur le MANAGEMENT / Actions de formation portant sur les FINANCES ET COMPTABILITE dans un OPH et dans l'activité AMENAGEMENT, CONSTRUCTION et ENERGIE",
-      "cpv": "80511000",
-      "pays": "FRA",
-      "deadline": "2026-06-22",
-      "montant": 0,
-      "publication": "2026-05-22",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/351664-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "bureautique": false,
-      "score": 57,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "352250-2026",
-      "ref": "352250-2026",
-      "acheteur": "Invest International B.V.",
-      "objet": "Pays-Bas – Services aux entreprises: droit, marketing, conseil, recrutement, impression et sécurité – DAS for Temporary Deployment of External Professionals",
-      "description": "The interim manager is a professional operating at a strategic and/or tactical management level and is responsible for leading teams, departments, programmes or organisational units and operates with decision making authority within the scope of the assignment. The role involves responsibility for achieving agreed objectives and accountability for results, rather than merely providing advice or support. • Interim Management is typically deployed to address temporary capacity gaps, including but not limited to: o Replacement during the absence of permanent management; o Organisational change, restructuring or transformation; o Crisis or turnaround situations; o Start up, scaling or transition phases; o Implementation of strategic programmes or complex projects. 3.500.000 Euro based on a period of 4 years / The professional provides substantive legal advice, analysis, drafting and support within one or more areas of law. • The services may include, but are not limited to: o Corporate Law, Commercial Law or corporate governance matters; o Administrative Law o Public Law (including the Wet open overheid); o Procurement and Tender law; o Labour law; o Privacy and Data Protection Law; o State Aid Law; o Tax Law; o Complaints or Litigation; o M&A advisory, including advice on private equity or venture capital transactions, investments, partnerships, and transaction and corporate structures; o Review and amendment of financing arrangements, security interests and guarantees, including (LMA-style) loan documentation; o FR&R related legal matters (including insolvency law or enforcement of security). • Legal services are typically deployed to: o Support complex transactions, programmes or projects; o Advise on regulatory or compliance matters; o Draft, review or negotiate legal documents; o Provide legal input during tender procedures, disputes or organisational changes. 3.500.000 Euro based on a period of 4 years. / The professional provides financial support, analysis and advisory services in support of operations, compliance obligations, reporting requirements and decision making processes. Assignments within this category may include, but are not limited to: • Administrative and operational financial support; • Accounting and financial reporting services; • Tax related matters; • Treasury support activities; • Financial Restructuring & Recovery (FR&R) activities; • Financial control, risk and/or compliance support; • Audit related support services (excluding statutory audit functions). 1.800.000 Euro based on a period of 4 years. / The professional provides specialist, operational and/or advisory services within one or more business domains that support the effective functioning, development and transformation. • This category may include, but is not limited to, expertise in the following areas: o Human Resources Management (HRM); o Marketing and Communication; o Operations and Process Management; o Risk Management and Internal Control; o Information Technology (IT); o Change Management and Organisational Development. • Services are typically deployed to: o Support operational capacity and continuity; o Improve processes, systems or governance structures; o Support organisational change, transformation or implementation initiatives; o Provide specialist input in projects or programmes. 1.800.000 Euro based on a period of 4 years. / The services focus on the development, improvement or assessment of individual or group competencies, behaviour, skills and/or knowledge. • This category may include, but is not limited to: o Professional and personal development training; o Leadership, career or performance coaching; o Team development and collaboration programmes; o Assessments, such as competency assessments, development assessments or selection assessments; o Safety related training, awareness programmes and behavioural safety initiatives. • Services are typically delivered in the form of: o Training sessions, workshops or learning programmes; o Individual or group coaching trajectories; o Assessment tools, interviews, tests or reports. 600.000 Euro based on a period of 4 years. / The professional provides substantive technical advice, studies, analyses and design related support within specialised technical domains. • This category may include, but is not limited to, expertise in the following fields: o Agri-food (Agriculture and Sustainable Value Chains) o Energy (Renewable Energy, Green Hydrogen, Electrification) o Manufacturing (Sustainable & Circular Manufacturing, Critical Raw Materials (CRM)) o Water & Infrastructure (Water solutions, climate adaptation, green architecture, infrastructure); o Healthcare (Improving people’s health) • Technical consultancy services are typically deployed to: o Conduct feasibility studies, technical assessments or analyses; o Develop or review technical concepts, designs or specifications; o Provide independent technical advice, second opinions or reviews; o Support project preparation, appraisal, implementation or monitoring. 1.800.000 Euro based on a period of 4 years. / The project manager performs project related roles within a clearly defined project scope, timeline and set of deliverables. • This category may include, but is not limited to, the following roles: o Project Leaders or Project Managers; o Project Coordinators; o Project Support staff or Project Officers; o Project Control, planning or Reporting Specialists. • Project based professionals are typically deployed to: o Lead or support the preparation, execution or closure of projects; o Coordinate activities, stakeholders and deliverables within projects; o Monitor progress, risks, planning, quality and reporting; o Support programme or portfolio activities without assuming permanent organisational responsibility. 1.000.000 Euro based on a period of 4 years.",
-      "cpv": "79000000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-05-22",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/352250-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "competency assessment"
-      ],
-      "bureautique": false,
-      "score": 45,
-      "score_detail": {
-        "fit": 10,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "no",
       "notes": "",
       "auto": true
     },

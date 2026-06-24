@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-06-23T09:36:24.701Z",
+  "generated_at": "2026-06-24T09:05:19.307Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 26,
+      "matched": 25,
       "go": 0,
-      "generated_at": "2026-06-23T09:29:44.934Z"
+      "generated_at": "2026-06-24T08:58:46.644Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-23T09:35:57.842Z"
+      "generated_at": "2026-06-24T09:05:02.151Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-23T09:36:24.649Z"
+      "generated_at": "2026-06-24T09:05:19.254Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 24,
+  "total_matched": 23,
   "total_go": 0,
   "total_dedup_collisions": 2,
   "dedup_breakdown": {
@@ -647,37 +647,6 @@
       "score_detail": {
         "fit": 25,
         "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "377755-2026",
-      "ref": "377755-2026",
-      "acheteur": "Gemeente Groningen",
-      "objet": "Pays-Bas – Services relatifs aux logiciels – Standaard Software Reseller 2026",
-      "description": "De opdracht betreft het verwerven van (conform Gemma/gemeentelijke) standaardsoftware (licenties) welke on premise en/of als SaaS/IaaS/PaaS (Xaas) oplossingen afgenomen kunnen worden inclusief advies, vernieuwing, beheer en onderhoud. Opdrachtnemer is bereid en in staat alle op de markt verkrijgbare standaard gebruiksrechten (licenties) en onderhoud op gebruiksrechten (licenties en/of software assurance) te leveren van de eindfabrikanten of softwareleveranciers. Van de opdrachtnemer wordt geëist dat deze standaardsoftware rechtstreeks inkoopt bij fabrikant of een door de fabrikant aangewezen distributiekanaal. Het betreft nadrukkelijk géén maatwerksoftware, maar standaardsoftware, oftewel software waarvoor geen doorontwikkeling bij aanschaf voor een specifieke klant nodig is. Zie de aanbestedingsdocumenten",
-      "cpv": "72260000",
-      "pays": "NLD",
-      "deadline": "2026-06-22",
-      "montant": 0,
-      "publication": "2026-06-02",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/377755-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,

@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-06-25T09:00:19.168Z",
+  "generated_at": "2026-06-26T09:03:20.019Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 25,
+      "matched": 20,
       "go": 0,
-      "generated_at": "2026-06-25T08:53:02.587Z"
+      "generated_at": "2026-06-26T08:55:53.243Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-25T08:59:56.919Z"
+      "generated_at": "2026-06-26T09:02:58.064Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-25T09:00:19.116Z"
+      "generated_at": "2026-06-26T09:03:19.974Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 23,
+  "total_matched": 18,
   "total_go": 0,
   "total_dedup_collisions": 2,
   "dedup_breakdown": {
@@ -97,39 +97,8 @@
       "auto": true
     },
     {
-      "id": "357299-2026",
-      "ref": "357299-2026",
-      "acheteur": "Bedrijfsvoeringseenheid Bommelerwaard",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Softwarebroker",
-      "description": "BVEB beoogt met deze aanbesteding te komen tot het sluiten van een overeenkomst met één (1) opdrachtnemer voor de levering van softwarelicenties en het verzorgen van bijbehorende dienstverlening in de vorm van softwarebrokerage. BVEB wenst te worden ontzorgd op het gebied van softwarelicentiebeheer, waarbij transparantie, rechtmatigheid en doelmatigheid centraal staan. Daarnaast wordt van Opdrachtnemer verwacht dat deze Opdrachtgever actief ondersteunt met strategisch en tactisch advies ten aanzien van het gebruik, de inrichting en de optimalisatie van het softwarelandschap. 1.000.000,00 over een periode van vijf jaar.",
-      "cpv": "72000000",
-      "pays": "NLD",
-      "deadline": "2026-07-31",
-      "montant": 1000,
-      "publication": "2026-05-26",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/357299-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 74,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "379497-2026",
-      "ref": "379497-2026",
+      "id": "382695-2026",
+      "ref": "382695-2026",
       "acheteur": "Ministerie van Sociale Zaken en Werkgelegenheid",
       "objet": "Pays-Bas – Services de maintenance des systèmes et services d'assistance – DSU Managed Hosting en Beheer",
       "description": "Het doel van deze Aanbesteding is het selecteren van één leverancier voor het leveren van ICT-dienstverlening op het gebied van managed hosting en beheer. De geraamde waarde van de Opdracht bedraagt gemiddeld € 800.000 (achthonderdduizend euro) exclusief btw per jaar, derhalve totaal € 8.000.000 (acht miljoen euro) exclusief btw over een looptijd van 10 (tien) jaar. Indien en voorzover de overeenkomst als een raamovereenkomst zou worden aangemerkt, geldt een maximale omvang van € 12.000.000 (twaalf miljoen euro).",
@@ -137,9 +106,9 @@
       "pays": "NLD",
       "deadline": "",
       "montant": 12000,
-      "publication": "2026-06-03",
+      "publication": "2026-06-04",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/379497-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/382695-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -285,37 +254,6 @@
       "auto": true
     },
     {
-      "id": "356013-2026",
-      "ref": "356013-2026",
-      "acheteur": "Ministerie van Defensie",
-      "objet": "Pays-Bas – Services de formation en matière de sécurité – Perceel 1 : Aanvullende instructie voor opleiding Documentenonderzoek en opleiding Documentendeskundige en Perceel 2: Ontwikkelen en verzorgen van opleiding RFID-chiptechnologie",
-      "description": "De opdrachten betreffen het verrichten van aanvullende instructie ten behoeve van opleiding Documentenonderzoek en opleiding Documentendeskundige. Meer informatie vindt u in de aanbestedingsdocumenten. / Het OTCKMar zoekt een opdrachtnemer die een gespecialiseerde verdieping, verbreding en aanvulling kan geven op de bestaande opleiding Documentdeskundige . De opleiding is bedoeld voor documentdeskundigen werkzaam bij een publieke organisatie. De opleiding wordt geheel ontwikkeld, gefaciliteerd en verzorgd door de opdrachtnemer. De opdrachtnemer is in staat om deelnemers te trainen in het herkennen van afwijkingen en het beoordelen van de authenticiteit van RFID-chips, alsmede het onderbouwd vastleggen van bevindingen, bijvoorbeeld in een proces-verbaal of een rapport. Voor meer info, zie de aanbestedingsdocumenten.",
-      "cpv": "80330000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 3182,
-      "publication": "2026-05-26",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/356013-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "371855-2026",
       "ref": "371855-2026",
       "acheteur": "R.E.T. N.V.",
@@ -378,37 +316,6 @@
       "auto": true
     },
     {
-      "id": "354700-2026",
-      "ref": "354700-2026",
-      "acheteur": "Ministerie van Defensie",
-      "objet": "Pays-Bas – Services de formation professionnelle – EA NEN-opleidingen 3140/3840 - 2026",
-      "description": "Defensie conformeert zich aan het ARBO-besluit ten aanzien van de NEN 3140 en NEN 3840 bepalingen. Dit betekent dat de medewerkers van Defensie die in aanraking komen met elektrotechnische installaties opgeleid moeten worden conform de NEN 3140 en/of NEN 3840. De Opdracht betreft het ten behoeve van Cursisten verzorgen van Opleidingen NEN-3140/3840 en het afnemen van de daarbij behorende (her)examen, of hertoetsingen in het geval van de opleiding NEN 3140 VOP praktijkgericht, op een locatie van/namens Opdrachtnemer zoals beschreven in de Bijlage Programma van eisen. De volgende Opleidingen NEN-3140/3840 maken onderdeel uit van de Opdracht: NEN 3140 VOP; NEN 3140 VOP praktijkgericht; NEN 3140 VP; NEN 3140 IV/WV; NEN 3840 VOP; NEN 3840 VP; NEN 3840 IV/WV. Cursisten voor deze opleiding melden zich individueel aan en mogen ingedeeld worden bij cursisten van andere organisaties. De Opleidingen NEN-3140/3840 hoeven dus niet exclusief voor Defensiemedewerkers verzorgd te worden.",
-      "cpv": "80530000",
-      "pays": "NLD",
-      "deadline": "2026-07-06",
-      "montant": 1911,
-      "publication": "2026-05-26",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/354700-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 69,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "368552-2026",
       "ref": "368552-2026",
       "acheteur": "Stichting Connekt",
@@ -434,37 +341,6 @@
         "com": 5,
         "admin": 7,
         "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "362734-2026",
-      "ref": "362734-2026",
-      "acheteur": "Gemeente Tilburg",
-      "objet": "Pays-Bas – Services de gestion relatifs à l'informatique – Multifunctionele printers & printers inclusief toebehoren, beheer en onderhoud",
-      "description": "Aanbestedende dienst is op zoek naar één Opdrachtnemer om een Overeenkomst mee te sluiten die toeziet op: Het contracteren van een dienstverlening in de vorm van Managed Print Services (MPS) voor de gemeente Tilburg en deelnemende organisatie gemeente Dongen. In het kader van deze dienstverlening stelt de opdrachtnemer multifunctionele printers en printers inclusief toebehoren ter beschikking en draagt zorg voor het beheer, onderhoud en de ondersteuning daarvan als onderdeel van een doorlopende ICT-prestatie. De dienstverlening omvat onder meer het ter beschikking stellen van apparatuur, het verzorgen van de implementatie, beheer en onderhoud, het leveren van ondersteunende software en het voldoen aan de eisen zoals opgenomen in het Programma van Eisen Multifunctionele printers & printers inclusief toebehoren, beheer en onderhoud. Er is geen sprake van koop, levering, huur, lease of eigendomsoverdracht van appratuur. De apparatuur maakt integraal onderdeel uit van de dienstverleni De opdracht omvat het leveren van Managed Print Services (MPS) ten behoeve van de gemeente Tilburg (en deelnemende organisatie gemeente Dongen), waaronder het ter beschikking stellen, beheren en onderhouden van multifunctionele printers en printers inclusief bijbehorende dienstverlening. De huidige omvang betreft indicatief: circa 94 apparaten, verdeeld over verschillende typen printers en multifunctionele apparaten; een jaarlijks afdrukvolume van circa 2,3 miljoen zwart-wit afdrukken en circa 0,95 miljoen kleurenafdrukken. Deze aantallen en volumes zijn gebaseerd op historische gegevens en dienen uitsluitend ter indicatie. Hieraan kunnen geen rechten of afnameverplichtingen worden ontleend. Gedurende de looptijd van de overeenkomst kan de omvang van de dienstverlening wijzigen binnen de contractueel vastgestelde bandbreedtes, waaronder opschaling en afschaling van het aantal apparaten. De overeenkomst wordt aangegaan voor een initiële looptijd van vijf (5) jaar met de mogelijkheid tot verlenging van maximaal vijf (5) maal één (1) jaar.",
-      "cpv": "72510000",
-      "pays": "NLD",
-      "deadline": "2026-08-18",
-      "montant": 0,
-      "publication": "2026-05-27",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/362734-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 67,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
       },
       "score_status": "cond",
       "notes": "",
@@ -502,31 +378,31 @@
       "auto": true
     },
     {
-      "id": "372497-2026",
-      "ref": "372497-2026",
-      "acheteur": "Provincie Noord-Holland",
-      "objet": "Pays-Bas – Services de développement de logiciels de gestion de projet – Marktconsultatie Projectbeheersysteem (PBS)",
-      "description": "De provincie Noord-Holland wil inzicht krijgen in beschikbare oplossingen, standaarden en aandachtspunten voor datamodellering en integraties tussen een nieuw Projectbeheersysteem (PBS) en het ERP‑landschap. Het ERP‑landschap bestaat in ieder geval uit AFAS (HR) en een nieuw systeem voor Finance & Inkoop dat momenteel wordt aanbesteed. Met deze consultatie nodigen wij marktpartijen uit om hun kennis, ervaring en advies te delen. De opbrengst gebruiken wij om de aanbesteding beter te laten aansluiten op de mogelijkheden in de markt.",
-      "cpv": "72212331",
+      "id": "362734-2026",
+      "ref": "362734-2026",
+      "acheteur": "Gemeente Tilburg",
+      "objet": "Pays-Bas – Services de gestion relatifs à l'informatique – Multifunctionele printers & printers inclusief toebehoren, beheer en onderhoud",
+      "description": "Aanbestedende dienst is op zoek naar één Opdrachtnemer om een Overeenkomst mee te sluiten die toeziet op: Het contracteren van een dienstverlening in de vorm van Managed Print Services (MPS) voor de gemeente Tilburg en deelnemende organisatie gemeente Dongen. In het kader van deze dienstverlening stelt de opdrachtnemer multifunctionele printers en printers inclusief toebehoren ter beschikking en draagt zorg voor het beheer, onderhoud en de ondersteuning daarvan als onderdeel van een doorlopende ICT-prestatie. De dienstverlening omvat onder meer het ter beschikking stellen van apparatuur, het verzorgen van de implementatie, beheer en onderhoud, het leveren van ondersteunende software en het voldoen aan de eisen zoals opgenomen in het Programma van Eisen Multifunctionele printers & printers inclusief toebehoren, beheer en onderhoud. Er is geen sprake van koop, levering, huur, lease of eigendomsoverdracht van appratuur. De apparatuur maakt integraal onderdeel uit van de dienstverleni De opdracht omvat het leveren van Managed Print Services (MPS) ten behoeve van de gemeente Tilburg (en deelnemende organisatie gemeente Dongen), waaronder het ter beschikking stellen, beheren en onderhouden van multifunctionele printers en printers inclusief bijbehorende dienstverlening. De huidige omvang betreft indicatief: circa 94 apparaten, verdeeld over verschillende typen printers en multifunctionele apparaten; een jaarlijks afdrukvolume van circa 2,3 miljoen zwart-wit afdrukken en circa 0,95 miljoen kleurenafdrukken. Deze aantallen en volumes zijn gebaseerd op historische gegevens en dienen uitsluitend ter indicatie. Hieraan kunnen geen rechten of afnameverplichtingen worden ontleend. Gedurende de looptijd van de overeenkomst kan de omvang van de dienstverlening wijzigen binnen de contractueel vastgestelde bandbreedtes, waaronder opschaling en afschaling van het aantal apparaten. De overeenkomst wordt aangegaan voor een initiële looptijd van vijf (5) jaar met de mogelijkheid tot verlenging van maximaal vijf (5) maal één (1) jaar.",
+      "cpv": "72510000",
       "pays": "NLD",
-      "deadline": "",
+      "deadline": "2026-08-18",
       "montant": 0,
-      "publication": "2026-06-01",
+      "publication": "2026-05-27",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/372497-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/362734-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
       "bureautique": true,
-      "score": 65,
+      "score": 67,
       "score_detail": {
         "fit": 30,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 3
+        "delay": 5
       },
       "score_status": "cond",
       "notes": "",
@@ -620,37 +496,6 @@
         "com": 5,
         "admin": 7,
         "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "353874-2026",
-      "ref": "353874-2026",
-      "acheteur": "Uniformation",
-      "objet": "France – Services de formation professionnelle – Catalogue de formation à destination des personnels des Entreprises sociales pour l'habitat (ESH)",
-      "description": "Maitriser la fiscalité des opérations immobilières d'une esh / Maitriser visial web / Prospective financière à l'aide de l'outil visial / Enjeux financiers pour les esh / Prévenir les situations de surendettement / Assurer un traitement social des impayés / Sensibilisation au vieillissement - communication seniors et détection des situations à risque / Connaitre et gérer la relation avec les locataires souffrant de troubles psychiques et mentaux / Maitriser la gestion de coproprieté au sein d'une esh / Actualité de la MOA et du bâtiment / Le montage d'opération en construction et en réhabilitation face aux nouvelles règlementations / Actualités sociales / Le rôle des managers et des RH dans la prévention des RPS / Le rôle des représentants du personnel des ESH dans la prévention des RPS / Maitriser le financement du prêt social de location accession / Maitriser le dispositif OFS - BRS / Les fondamentaux de la vente HLM : cadre juridique et négociations commerciales / La vente HLM « avancée » : stratégie patrimoniale, marketing et performance commerciale / Déployer l'IA dans son esh : conformité, législation et sensibilisation",
-      "cpv": "80530000",
-      "pays": "FRA",
-      "deadline": "2026-06-18",
-      "montant": 1430,
-      "publication": "2026-05-26",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/353874-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "bureautique": false,
-      "score": 64,
-      "score_detail": {
-        "fit": 25,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
       },
       "score_status": "cond",
       "notes": "",

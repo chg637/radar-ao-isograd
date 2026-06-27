@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-06-26T09:03:20.019Z",
+  "generated_at": "2026-06-27T08:37:51.029Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 20,
+      "matched": 21,
       "go": 0,
-      "generated_at": "2026-06-26T08:55:53.243Z"
+      "generated_at": "2026-06-27T08:30:43.986Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-26T09:02:58.064Z"
+      "generated_at": "2026-06-27T08:37:26.241Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-26T09:03:19.974Z"
+      "generated_at": "2026-06-27T08:37:50.976Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 18,
+  "total_matched": 19,
   "total_go": 0,
   "total_dedup_collisions": 2,
   "dedup_breakdown": {
@@ -34,6 +34,37 @@
     "fuzzy_jaccard": 0
   },
   "notices": [
+    {
+      "id": "387150-2026",
+      "ref": "387150-2026",
+      "acheteur": "Stichting Routerings Instituut (Inter)Nationale Informatiestromen (Stichting Rinis)",
+      "objet": "Pays-Bas – Systèmes d'information et serveurs – Datacenter en Netwerk Hardware",
+      "description": "Stichting Routerings Instituut (Inter)Nationale Informatiestromen zoekt twee (2) marktpartijen om een raamovereenkomst mee af te sluiten ten behoeve van de levering van datacenter en netwerk hardware, specifiek ten aanzien van servers en storage, inclusief bijbehorende dienstverlening. De opdrachtwaarde wordt geraamd op circa € 4.500.000,- (excl. BTW) per jaar en de totale waarde van de opdracht over vier (4) jaar wordt geraamd op circa € 18.000.000,- (excl. BTW). Ingeval RINIS op meer dan 200% van de door haar hierboven genoemde totale contractwaarde uitkomt zal er een nieuwe aanbesteding worden opgezet. De maximale afname onder de raamovereenkomst bedraagt daarmee €36.000.000,- (excl. BTW).",
+      "cpv": "48800000",
+      "pays": "NLD",
+      "deadline": "2026-08-24",
+      "montant": 18000,
+      "publication": "2026-06-05",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/387150-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 74,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
     {
       "id": "373853-2026",
       "ref": "373853-2026",
@@ -192,58 +223,27 @@
       "auto": true
     },
     {
-      "id": "358889-2026",
-      "ref": "358889-2026",
-      "acheteur": "Gemeente Amsterdam",
-      "objet": "Pays-Bas – Services d'enseignement et de formation – Financiële coaching 18-/18+ op VSO, PRO en ISK onderwijs",
-      "description": "In het kader van deze Aanbesteding is Opdrachtgever voornemens financiële coaching 18-/18+ voor het PRO/VSO en ISK in te kopen. De Opdracht wordt geplaatst door de gemeente Amsterdam en Samenwerkingsverband voortgezet onderwijs Amsterdam-Diemen gezamenlijk. De gemeente is voor deze aanbesteding aanspreekpunt. De gemeente Amsterdam vindt het belangrijk dat jongeren voldoende voorbereid zijn op de financiële verantwoordelijkheden die zij krijgen wanneer zij 18 jaar worden. Gemeente Amsterdam beoogt een opdracht te verstrekken aan één aanbieder voor het geven van financiële coaching op het PRO/VSO en ISK. Zij zoekt daartoe een partner die Financiële coaching kan bieden aan kwetsbare leerlingen bij de overgang van 18- naar 18+. Het gaat daarbij in ieder geval om het delen van kennis over en de ondersteuning bij het aanvragen van:  Zorgverzekering  Toeslagen, waaronder zorgtoeslag  DigiD   Bankpas (zaken)  Vergunningen  Tegemoetkoming scholieren  Studiefinanciering  OV- producten  BSN  Woningnet  Kennis vergroten sociale kaart (onder andere buurtteam, jongerenpunt, etc)  Basiskennis over juridische zaken zoals boetes en fraude ….. Naast het ondersteunen/ coachen bij het aanvragen bij bovenstaande is het doel ook om de jongeren financieel zelfredzamer te maken door het vergroten van het netwerk van jongeren en waar mogelijk ook een warme overdracht. Buiten de scope van deze opdracht valt: Budgetcoaching op mbo-scholen (hier is een andere raamovereenkomst voor); Financiële educatie op VO-scholen (hier is een andere raamovereenkomst voor).",
-      "cpv": "80000000",
+      "id": "387509-2026",
+      "ref": "387509-2026",
+      "acheteur": "Gemeente Leidschendam-Voorburg",
+      "objet": "Pays-Bas – Services informatiques – Netwerk- en securitybeheer",
+      "description": "De gemeente Leidschendam‑Voorburg is voornemens een opdracht te gunnen aan KPN voor het treffen van tijdelijke overbruggingsmaatregelen in de netwerk- en securityomgeving. Deze maatregelen omvatten onder meer de vervanging van het externe firewallcluster, de tijdelijke verlenging van licenties en support voor netwerkcomponenten en de implementatie van een oplossing voor e‑mailbeveiliging. De gemeente past voor deze gunning de onderhandelingsprocedure zonder voorafgaande aankondiging toe op grond van artikel 2.32 lid 1 van de Aanbestedingswet 2012, wegens dwingende spoed die niet aan de aanbestedende dienst is te wijten, in combinatie met technische en operationele afhankelijkheden binnen de bestaande ICT‑omgeving. De betreffende systemen bereiken in 2026 hun End of Life / End of Support. Het gebruik van niet‑ondersteunde systemen is niet verenigbaar met geldende wet- en regelgeving (BIO en NIS2) en brengt onaanvaardbare risico’s met zich mee voor de continuïteit en beveiliging van de gemeentelijke dienstverlening. Gelijktijdig loopt een aanbestedingstraject voor het structurele ICT‑beheer, waardoor de benodigde maatregelen niet tijdig via een reguliere aanbestedingsprocedure kunnen worden gerealiseerd. KPN is als huidige leverancier en beheerpartij volledig bekend met de bestaande infrastructuur en configuraties. De gevraagde maatregelen sluiten direct aan op deze omgeving. Inschakeling van een andere partij zou leiden tot aanzienlijke implementatierisico’s, vertraging en hogere kosten, en daarmee tot een verhoogd risico voor de continuïteit en beveiliging van de dienstverlening. Op basis van deze omstandigheden is de gemeente van oordeel dat alleen KPN de opdracht kan uitvoeren zonder disproportionele risico’s. De opdracht heeft een tijdelijk en strikt noodzakelijk overbruggend karakter. Na publicatie van dit bericht wordt een wachttijd van tien kalenderdagen gehanteerd alvorens tot definitieve gunning wordt overgegaan.",
+      "cpv": "72500000",
       "pays": "NLD",
       "deadline": "",
-      "montant": 1740,
-      "publication": "2026-05-27",
+      "montant": 258,
+      "publication": "2026-06-05",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/358889-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/387509-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
       "bureautique": true,
-      "score": 72,
+      "score": 70,
       "score_detail": {
         "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "361560-2026",
-      "ref": "361560-2026",
-      "acheteur": "Stedin",
-      "objet": "Pays-Bas – Services de formation de personnel – Leermanagementsysteem en Opleidingsintermediair",
-      "description": "Van Gegadigden wordt gevraagd dat zij Stedin op een kwalitatief uitstekend niveau ondersteunen middels het leveren van een leermanagementsysteem en/of het verzorgen van opleidingsintermediairdienstverlening, tegen marktconforme tarieven. / Zie aanbestedingsdocumenten",
-      "cpv": "79632000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 80000,
-      "publication": "2026-05-27",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/361560-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
+        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -316,6 +316,37 @@
       "auto": true
     },
     {
+      "id": "386399-2026",
+      "ref": "386399-2026",
+      "acheteur": "Provincie Noord-Brabant",
+      "objet": "Pays-Bas – Services relatifs aux logiciels – Online Leerplatform",
+      "description": "De levering van een leerplatform voor de Provincie Noord-Brabant (PNB), waarmee aanjagen, organiseren en sturen van leren, ontwikkelen en innoveren in de organisatie kan worden gerealiseerd. Hierbij dient inschrijver een user based licentiemodel (inclusief coulanceregeling van 5% – 10% afwijking) aan te bieden met een minimale afname van 1500 licenties. Het aantal gebruikers kan gedurende de looptijd van de overeenkomst fluctueren door personeelswisselingen. Het aantal licenties wordt jaarlijks gebaseerd op het aantal medewerkers die werkzaam zijn bij de provincie (momenteel zijn dit er 1750).",
+      "cpv": "72260000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 210,
+      "publication": "2026-06-05",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/386399-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 67,
+      "score_detail": {
+        "fit": 30,
+        "size": 10,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "368552-2026",
       "ref": "368552-2026",
       "acheteur": "Stichting Connekt",
@@ -347,62 +378,93 @@
       "auto": true
     },
     {
-      "id": "359586-2026",
-      "ref": "359586-2026",
-      "acheteur": "Rijkswaterstaat Centrale Informatievoorziening",
-      "objet": "Pays-Bas – Services de programmation de logiciels d'application – C-ITS-applicaties Rijkswaterstaat 2026",
-      "description": "Dit is een C-ITS-applicatie op basis van CCOL die lokaal wordt gehost waarin de beleidsdoelen middels het instellen van parameters, schakelaars en (tijd)instellingen worden vertaald naar de regeling. De C-ITS-applicatie uit dit perceel is Ivera-georiënteerd. Parameters kan Rijkswaterstaat via de VRI-beheercentrale (momenteel MobiMaestro) zelf grotendeels beheren. Hierdoor worden voor dit type applicatie minder verkeerskundige diensten uitgevraagd. Deze C-ITS-applicatie lijkt het meest op de in conventionele VRI’s toegepaste applicaties aangevuld met de use cases voor de iVRI. Voor dit perceel wordt maximaal één leverancier geselecteerd. Voor nadere informatie zie het Beschrijvend document. zie het Beschrijvend document. / Dit is een C-ITS-applicatie die lokaal of in de cloud wordt gehost waarin de beleidsdoelen op kruispunt- of netwerkniveau in de C-ITS-applicatie kunnen worden geconfigureerd. Op basis van de geconfigureerde beleidsdoelen optimaliseert de C-ITS-applicatie. Voor de werking worden in deze uitvraag (verkeerskundige) diensten uitgevraagd. Op welke wijze de configuratie en optimalisatie wordt uitgevoerd is de verantwoordelijkheid van de Opdrachtnemer. Voor dit perceel wordt maximaal één leverancier geselecteerd. zie verder het Beschrijvend document Zie beschrijvend document",
-      "cpv": "72212000",
+      "id": "385888-2026",
+      "ref": "385888-2026",
+      "acheteur": "Rijksuniversiteit Groningen",
+      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Marktconsultatie GBS melding 24/7, Functioneel Beheer en systeem Consignatie",
+      "description": "De Rijksuniversiteit Groningen (RUG) beschikt over een omvangrijke en technisch diverse vastgoedportefeuille waarin gebouwgebonden installaties een cruciale rol spelen voor continuïteit, veiligheid, comfort en duurzaamheid. Het Gebouwbeheersysteem (GBS) vormt hierbij een centrale schakel voor monitoring, besturing en signalering van installaties binnen zowel werktuigbouwkundige (W) als elektrotechnische (E) disciplines. De complexiteit van het GBS-landschap is de afgelopen jaren toegenomen door schaalvergroting, diversiteit aan leveranciers en een groeiend aantal meldingen, zowel binnen als buiten reguliere werktijden. Dit leidt tot een verhoogde belasting van interne medewerkers en externe onderhoudspartijen, terwijl niet alle meldingen vooraf inhoudelijk worden beoordeeld op urgentie, oorzaak en contractuele opvolging. Daarnaast constateert de Vastgoedorganisatie dat structurele ondersteuning gewenst is op het gebied van functioneel beheer en consignatie van kritische vastgoedinstallaties. Om deze redenen verkent de RUG via deze marktconsultatie welke mogelijkheden de markt biedt om deze taken (gedeeltelijk) extern te organiseren, op een wijze die duurzaam inpasbaar is binnen de organisatie.",
+      "cpv": "72200000",
       "pays": "NLD",
-      "deadline": "2026-09-07",
+      "deadline": "",
       "montant": 0,
-      "publication": "2026-05-27",
+      "publication": "2026-06-05",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/359586-2026",
-      "segment": "Autre",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/385888-2026",
+      "segment": "ESR",
       "keyword_hits": [
         "Word"
       ],
       "bureautique": true,
-      "score": 67,
+      "score": 65,
       "score_detail": {
         "fit": 30,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
       "auto": true
     },
     {
-      "id": "362734-2026",
-      "ref": "362734-2026",
-      "acheteur": "Gemeente Tilburg",
-      "objet": "Pays-Bas – Services de gestion relatifs à l'informatique – Multifunctionele printers & printers inclusief toebehoren, beheer en onderhoud",
-      "description": "Aanbestedende dienst is op zoek naar één Opdrachtnemer om een Overeenkomst mee te sluiten die toeziet op: Het contracteren van een dienstverlening in de vorm van Managed Print Services (MPS) voor de gemeente Tilburg en deelnemende organisatie gemeente Dongen. In het kader van deze dienstverlening stelt de opdrachtnemer multifunctionele printers en printers inclusief toebehoren ter beschikking en draagt zorg voor het beheer, onderhoud en de ondersteuning daarvan als onderdeel van een doorlopende ICT-prestatie. De dienstverlening omvat onder meer het ter beschikking stellen van apparatuur, het verzorgen van de implementatie, beheer en onderhoud, het leveren van ondersteunende software en het voldoen aan de eisen zoals opgenomen in het Programma van Eisen Multifunctionele printers & printers inclusief toebehoren, beheer en onderhoud. Er is geen sprake van koop, levering, huur, lease of eigendomsoverdracht van appratuur. De apparatuur maakt integraal onderdeel uit van de dienstverleni De opdracht omvat het leveren van Managed Print Services (MPS) ten behoeve van de gemeente Tilburg (en deelnemende organisatie gemeente Dongen), waaronder het ter beschikking stellen, beheren en onderhouden van multifunctionele printers en printers inclusief bijbehorende dienstverlening. De huidige omvang betreft indicatief: circa 94 apparaten, verdeeld over verschillende typen printers en multifunctionele apparaten; een jaarlijks afdrukvolume van circa 2,3 miljoen zwart-wit afdrukken en circa 0,95 miljoen kleurenafdrukken. Deze aantallen en volumes zijn gebaseerd op historische gegevens en dienen uitsluitend ter indicatie. Hieraan kunnen geen rechten of afnameverplichtingen worden ontleend. Gedurende de looptijd van de overeenkomst kan de omvang van de dienstverlening wijzigen binnen de contractueel vastgestelde bandbreedtes, waaronder opschaling en afschaling van het aantal apparaten. De overeenkomst wordt aangegaan voor een initiële looptijd van vijf (5) jaar met de mogelijkheid tot verlenging van maximaal vijf (5) maal één (1) jaar.",
-      "cpv": "72510000",
-      "pays": "NLD",
-      "deadline": "2026-08-18",
+      "id": "386129-2026",
+      "ref": "386129-2026",
+      "acheteur": "Stadt Rosbach vor der Höhe",
+      "objet": "Allemagne – Services d'appui aux pouvoirs publics – Stadt Rosbach vor der Höhe - Fördergebietsmanagement",
+      "description": "Die Stadt Rosbach v. d. Höhe ist in das Förderprogramm \"Wachstum und nachhaltige Erneuerung\" aufgenommen worden, dessen Förderzeitraum gemäß RiLiSE grundsätzlich zehn Jahre nicht über-schreiten soll. Spätestens ein Jahr vor Ablauf des Förderzeitraums ist ein Steuerungskonzept zur nachhaltigen Wirkung über den Förderzeitraum hinaus zu erstellen. Die ausgeschriebene Leistung dient der Steuerung, Koordination und förderkonformen Umsetzung der Gesamtmaßnahme inner-halb des Förderzeitraums sowie - soweit beauftragt - der Vorbereitung und Begleitung der Verstetigung. Zur Umsetzung der Gesamtmaßnahme \"Verbunden. Zukunftsstark. Gerecht.\" ist gemäß RiLiSE Nr. 6.5 eine leistungsfähige Steuerungsstruktur aufzubauen. Das Fördergebiet umfasst die historischen Ortskerne von Ober- und Nieder-Rosbach sowie das da-zwischenliegende Gewerbe- und Bahnhofsumfeld. Das Fördergebietsmanagement stellt die zentrale operative Steuerungs- und Koordinierungsstruktur für die gesamte Programmlaufzeit dar. Das Fördergebietsmanagement übernimmt insbesondere die operative Steuerung, Koordination, Umsetzungsbegleitung und Fördermittelkoordination der Ge-samtmaßnahme. Es ist sicherzustellen, dass eine strukturierte, wirtschaftliche, transparente und förderkonforme Umsetzung der Gesamtmaßnahme gewährleistet wird.",
+      "cpv": "75130000",
+      "pays": "DEU",
+      "deadline": "",
       "montant": 0,
-      "publication": "2026-05-27",
+      "publication": "2026-06-05",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/362734-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/386129-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
       "bureautique": true,
-      "score": 67,
+      "score": 65,
       "score_detail": {
         "fit": 30,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "388217-2026",
+      "ref": "388217-2026",
+      "acheteur": "Bundesministerium für Wirtschaft und Energie",
+      "objet": "Allemagne – Services des pouvoirs publics – Projektträgerschaft für die „Industrielle Gemeinschaftsforschung (IGF)“",
+      "description": "Das BMWE hat einen Projektträger mit der Übernahme und Durchführung von Projektträgeraufgaben für die \"Industrielle Gemeinschaftsforschung (IGF)\" beauftrag. Mit dem themenoffenen BMWE-Förderprogramm „Industrielle Gemeinschaftsforschung“ (IGF) werden vorwettbewerbliche Forschungsvorhaben gefördert. Insbesondere kleinen und mittleren Unternehmen (KMU), die sich keine eigene Forschung leisten können, soll durch die IGF ein erleichterter Zugang zu praxisorientierter Forschung verschafft werden.Die Projektträgerschaft soll durch eine sorgfältige fachliche und administrative Planung, Durchführung und Kontrolle einen effizienten Einsatz der Fördermittel gewährleisten und das Bundesministerium für Wirtschaft und Energie (BMWE) von Aufgaben nichtministerieller Art entlasten. Der Projektträger übernimmt insbesondere folgende Aufgaben: Fachliche und administrative Abwicklung der Förderfälle, Berichterstattung, Unterstützung der BMWE-Öffentlichkeitsarbeit zum Förderprogramm, Unterstützung bei der Weiterentwicklung des Förderprogramms und sonstige fachspezifische Unterstützung. Der Projektträger soll gemäß § 44 Abs. 3 BHO beliehen und zugleich gemäß § 44 Abs. 2 BHO mit der treuhänderischen Verwaltung der ihm vom AG zur Verfügung gestellten Mittel beauftragt werden. Auch im Falle einer späteren Beleihung untersteht der AN der Rechts- und Fachaufsicht des BMWE. Im Rahmen der Programmübernahme von der vorhergehenden administrierenden Stelle zum derzeitigen AN sind sowohl ein mengenmäßiger Mehraufwand als auch zusätzliche Leistungen, die nicht in den ursprünglichen Vergabeunterlagen vorgesehen waren, erforderlich geworden, ohne die die Programmübernahme nicht hätte durchgeführt werden können.",
+      "cpv": "75131000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-05",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/388217-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -455,37 +517,6 @@
       "segment": "Autre",
       "keyword_hits": [
         "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "362245-2026",
-      "ref": "362245-2026",
-      "acheteur": "Medizinisches Zentrum für Gesundheit Bad Lippspringe gGmbH (MZG) / Karl-Hansen-Klinik GmbH",
-      "objet": "Allemagne – Imprimantes et traceurs – Outputmanagement / KDF-Systeme",
-      "description": "Der Auftragnehmer ist ein IT-Dienstleister mit weitgehender Erfahrung im Bereich der Bereitstellung von Dokumentenverarbeitungsgeräten und der Erbringung von Full-Service-Dienstleistungen. Der Auftragnehmer übernimmt die Gesamtverantwortung für die Funktionalität und die volle Integrationsfähigkeit der Dokumentenverarbeitungsgeräte in die vorhandene und geplante EDV-Landschaft der Auftraggeber. Ebenso sichert er die Betriebssicherheit der Dokumentenverarbeitungsgeräte zu und garantiert deren Einsatzbereitschaft im vorgegebenen Zeitrahmen. Erfüllungsort für alle Leistungen sind die Standorte der Auftraggeber, die beim jeweiligen Abruf aus der Rahmenvereinbarung benannt werden. Alle Hauptstandorte der Auftraggeber sind per Glasfasernetz untereinander verbunden. Es ist ein Hauptprint Server mit Win 2022 vor Ort installiert. Alle Desktop PCs und Latops arbeiten mit Windows 11 64bit. Alle PC-Arbeitsplätze müssen mit MS Office 365, Standard Drittanbietersoftware, Klinikinformationssystem Orbis, Meditec, div. drucken. Alle Leistungen erfolgen nach Vorgaben des MZG frei Haus. Das Transportrisiko geht zu Lasten des Auftragnehmers. Transport- und Verpackungsmaterial sind auf Anforderung sofort bei Lieferung aus den Räumlichkeiten des Bedarfsträgers zu entfernen und umweltgerecht zu verwerten / entsorgen; eine Zwischenlagerung ist nicht möglich. Der Auftragnehmer übernimmt die Organisation sowie die Kosten der Rücknahme und der Entsorgung. Für die vorgenannten Leistungen wird keine zusätzliche Gebühr berechnet, die entsprechenden Kosten sind in den Angebotspreisen berücksichtigt. Die Rahmenvereinbarung hat eine Laufzeit von 48 Monaten. Eine Vertragsverlängerung ist nicht vorgesehen. Die Abrufe aus der Rahmenvereinbarung werden in schriftlicher Form durch die Auftraggeber in Form einer Bestellung ausgelöst. Die weiteren Details sind der Rahmenvereinbarung (Teil C) zu entnehmen. Da bei der Durchführung der Rahmenvereinbarung personenbezogene Daten im Sinne des Art. 4 Nr. 1 der Datenschutzgrundverordnung (DSGVO) verarbeitet werden, muss sich der Auftragnehmer zur Einhaltung der jeweils einschlägigen datenschutzrechtlichen Bestimmungen der Europäischen Union (insb. der DSGVO), des Bundes (Bundesdatenschutzgesetz - BDSG) sowie des Landes Nordrhein-Westfalen (Datenschutzgesetz Nordrhein-Westfalen - DSG NRW) verpflichten. Zu diesem Zweck schließt er einen Vertrag zur Auftragsverarbeitung nach Art. 28 DSGVO mit den Auftraggebern. Auf Grundlage der Rahmenvereinbarung können die Auftraggeber während deren Laufzeit einzelne Bestellungen über die mietweise Überlassung der Dokumentenverarbeitungsgeräte einschließlich der jeweils zugehörigen Serviceleistungen abrufen (nachfolgend jeweils \"Einzelbestellung\"). Die Auftraggeber sind berechtigt, jede Einzelbestellung einschließlich der zugehörigen Serviceleistungen erstmals zum Ablauf von 24 Monaten ab dem in der jeweiligen Einzelbestellung bestimmten Leistungsbeginn ordentlich zu kündigen. Die Kündigung ist mit einer Frist von drei (3) Monaten zum Monatsende in Textform zulässig. Die Kündigung einer Einzelbestellung beendet ausschließlich die hiervon erfasste Einzelbestellung einschließlich der zugehörigen Serviceleistungen. Die Ausstattung der einzelnen Standorte mit den vertraglich vereinbarten Druck- und Multifunktionssystemen erfolgt im Rahmen eines abgestimmten Roll-out-Prozesses. Der Roll-out-Prozess beginnt unverzüglich nach Zuschlagserteilung. Der Roll-out wird jeweils durch eine schriftliche Einzelbestellung des Auftraggebers ausgelöst. Der Auftragnehmer verpflichtet sich, den durch die jeweilige Bestellung initiierten Roll-out-Prozess spätestens innerhalb von 6 Wochen nach Zugang der vollständigen Bestellung abzuschließen. Als abgeschlossen gilt der Roll-out, sobald die Systeme am jeweiligen Standort angeliefert, installiert, konfiguriert, betriebsbereit übergeben und durch den Auftraggeber abgenommen wurden. Verzögerungen, die ausschließlich auf fehlende oder verspätete Mitwirkungshandlungen des Auftraggebers zurückzuführen sind, verlängern die Frist entsprechend. Die im Preisblatt gem. Vordruck Anlage B.1 zu Teil B ausgewiesenen Mengenangaben basieren auf der statistischen Auswertung der Auftraggeber, die für den Zeitraum der Leistungserbringung repräsentativ sind, aber lediglich als Anhaltspunkt für die tatsächlich anfallenden Mengen dient. Es ist in jedem Fall der komplette Bedarf zu decken. Aus der Angabe des geschätzten Gesamtwerts sowie des dort geschätzten Leistungsumfangs pro Jahr kann keine Verpflichtung der Auftraggeber zur Beauftragung eines bestimmten Leistungsumfangs oder Mindestumfang der Dienstleistungen abgeleitet werden. Der Auftragnehmer kann aus dem Nichtabruf des geschätzten Gesamtwerts und des geschätzten Leistungsumfangs pro Jahr keine Ansprüche auf Schadensersatz oder sonstige Ansprüche ableiten. Die Auftraggeber sind insbesondere berechtigt, im erforderlichen und in einem den Rahmenvereinbarungspartnern zumutbaren Umfang und innerhalb ihrer Leistungsfähigkeit das geschätzte Auftragsvolumen der Rahmenvereinbarung gemäß EU-Bekanntmachung um maximal 50% des ursprünglich geschätzten Auftragsvolumens jeweils positionsspezifisch zu erhöhen, wenn a) dies zur fachgerechten Erbringung der von der Rahmenvereinbarung erfassten Leistungen im Geltungsbereich und während der Laufzeit der Rahmenvereinbarung erforderlich ist oder b) für die Leistungserbringung relevante rechtliche oder regulatorische Vorgaben, einschließlich Feststellungen oder Anordnungen der die Auftraggeber beaufsichtigenden Stellen, eine Änderung des Bedarfs der Auftraggeber nach sich ziehen oder c) grundlegende betriebliche Entscheidungen der Auftraggeber über Erweiterungen der Klinikabschnitte zu einem erhöhten Patientenaufkommen und damit zu einer Anpassung des Beschaffungsbedarfs führen. Wegen der weiteren Einzelheiten wird auf die Vergabeunterlagen, insbesondere die Leistungsbeschreibung (Teil B) und die Vertragsunterlagen (Teil C) verwiesen.",
-      "cpv": "30232100",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-05-27",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/362245-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Office 365"
       ],
       "bureautique": true,
       "score": 65,

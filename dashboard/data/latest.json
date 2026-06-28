@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T08:37:51.029Z",
+  "generated_at": "2026-06-28T08:52:12.290Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
@@ -7,21 +7,21 @@
       "fetched": 500,
       "matched": 21,
       "go": 0,
-      "generated_at": "2026-06-27T08:30:43.986Z"
+      "generated_at": "2026-06-28T08:45:14.857Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-27T08:37:26.241Z"
+      "generated_at": "2026-06-28T08:51:55.404Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-27T08:37:50.976Z"
+      "generated_at": "2026-06-28T08:52:12.236Z"
     }
   },
   "total_fetched": 3500,
@@ -378,6 +378,68 @@
       "auto": true
     },
     {
+      "id": "389238-2026",
+      "ref": "389238-2026",
+      "acheteur": "Stromnetz Berlin GmbH",
+      "objet": "Allemagne – Logiciels et systèmes d'information – Einführung einer SaaS-Lösung für das Lieferantenmanagement",
+      "description": "Der aktuelle IST-Zustand des Lieferantenmanagements ist geprägt von einer veralteten, technisch begrenzten Systemlandschaft, die den heutigen Anforderungen an Transparenz, Effizienz und Compliance nicht mehr entspricht. Das bestehende Lieferantenmanagement -Tool (VFM-Portal), das unternehmensintern entwickelte wurde, gilt sowohl funktional als auch technologisch als nicht mehr zeitgemäß. Es verfügt über keine ausreichende Prozessintegration, bietet nur eingeschränkte Benutzerfreundlichkeit und ist in seinem Betrieb zunehmend aufwendig. Zudem besteht keine umfassende und durchgängige SAP-Anbindung, wodurch viele Daten manuell gepflegt und aus verschiedenen Quellen wie Excel und Share Point Listen zusammengestellt werden müssen. Ein ganzheitliches, unternehmensweites Konzept für das Lieferantenmanagement, sowohl systemisch als auch prozessual, liegt derzeit nicht vor. Das neue Lieferantenmanagement-Tool verfolgt das Ziel, das unternehmensweite Lieferantenmanagement zu modernisieren, zu standardisieren und zukunftsfähig auszurichten. Im Mittelpunkt steht die durchgängige Abbildung des gesamten Lieferantenlebenszyklus – von der Registrierung über Qualifizierung, Bewertung und Entwicklung bis hin zur Steuerung und Beendigung von Lieferantenbeziehungen. Durch die Ablösung des bestehenden VFM-Portals sollen medienbruchfreie, systemgestützte Prozesse geschaffen werden, die eine höhere Datenqualität, reduzierte manuelle Aufwände und klar definierte Zuständigkeiten ermöglichen. Beim Vergabegegenstand handelt es sich um ein Lieferantenmanagement-Tool zum Verwalten von Lieferanten. Gegenstand der Ausschreibung ist die Einführung und Nutzung eines unternehmensweiten Lieferantenmanagement-Tools, mindestens in den Bereichen: Einkauf, IT, Arbeitssicherheit und den technischen Bereichen, dass die strukturierte Erfassung, Bewertung und Verwaltung von Lieferanten unterstützt. Der Vertrag hat eine Grundlaufzeit bis 31.12.2031 mit zwei Verlängerungsoptionen um jeweils zwei Jahre.",
+      "cpv": "48000000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-08",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/389238-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Excel"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "389391-2026",
+      "ref": "389391-2026",
+      "acheteur": "Nederlands Instituut Publieke Veiligheid",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – SOC/MDR-diensten voor samenwerkende Veiligheidsregio's en NIPV",
+      "description": "De opdracht betreft het continu monitoren, detecteren en alarmeren van cyberdreigingen binnen de IT-omgevingen van de deelnemers, inclusief implementatie, beheer en doorontwikkeling van security use cases. De baseline dienstverlening bestaat uit Managed Endpoint Detection & Response (M-EDR), aangevuld met optionele diensten zoals SIEM en NDR. De opdracht wordt gegund via een raamovereenkomst met één opdrachtnemer, op basis van de beste prijs-kwaliteitsverhouding. Raamovereenkomst met één opdrachtnemer voor maximaal 12 jaar; maximale opdrachtwaarde €20.150.000 excl. btw",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-08",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/389391-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "385888-2026",
       "ref": "385888-2026",
       "acheteur": "Rijksuniversiteit Groningen",
@@ -502,37 +564,6 @@
       "auto": true
     },
     {
-      "id": "366440-2026",
-      "ref": "366440-2026",
-      "acheteur": "AG Digipolis Antwerpen",
-      "objet": "Belgique – Services d'assistance relative aux logiciels – SAP Partner",
-      "description": "Dit perceel omvat het beheer, onderhoud, de optimalisatie en de gerelateerde opdrachten met betrekking tot SAP SuccessFactors en de daaronder vallende HR-processen en -oplossingen. De dienstverlening omvat zowel operationeel en projectmatig beheer als operationele ondersteuning, adviesverlening, configuratie, wijzigingsbeheer en optimalisatie binnen de scope van SAP SuccessFactors. / Dit perceel omvat het beheer, onderhoud, de optimalisatie en de gerelateerde opdrachten met betrekking tot S/4HANA ERP Core (alle kernprocessen behalve HR) en SAP Ariba. Het perceel omvat zowel operationeel en projectmatig beheer als operationele ondersteuning, adviesverlening, configuratie, wijzigingsbeheer en optimalisatie binnen deze componenten en hun onderlinge samenhang. (FI/CO, Treasury, Asset Accounting, MM, SD, PS, EWM, SAP Ariba) / Dit perceel omvat twee onderscheiden maar samenhangende domeinen: - Applicatiebeheer • het beheer, onderhoud, de optimalisatie en gerelateerde opdrachten met betrekking tot de applicaties OTAS, SAP Datasphere, SAP Enable Now en SAP Analytics Cloud - Technisch platformbeheer (SAP BTP) • het beheer, de configuratie en de operationele ondersteuning van platformdiensten binnen SAP BTP, waaronder: o applicatieontwikkelingsdiensten (incl. low-code/no-code omgevingen zoals BTP Build) o integratiediensten, waaronder SAP Integration Suite o datadiensten en analytische platformcomponenten o Identity & Access Management (IAM), inclusief authenticatie, autorisatie en identity provisioning • Het technisch platformbeheer omvat eveneens: o het beheer en de installatie van certificaten (incl. lifecycle management en renewals) o het beheer, de configuratie en het patchen van connectivitycomponenten, waaronder SAP Cloud Connector en gelijkaardige integratiecomponenten o het waarborgen van veilige communicatie tussen platform en gekoppelde systemen Beide domeinen maken integraal deel uit van dit perceel en worden uitgevoerd door dezelfde opdrachtnemer. De opdrachtnemer waarborgt de samenhang tussen beide lagen en staat in voor een geïntegreerde dienstverlening. Hij treedt op als end-to-end verantwoordelijke voor zowel applicatie- als platformbeheer binnen dit perceel. / Dit perceel beoogt de samenstelling van een pool van opdrachtnemers voor de uitvoering van toekomstige SAP-gerelateerde projecten en opdrachten die niet expliciet vervat zijn binnen de scope van de overige percelen binnen deze opdracht. Het betreft zowel technische als functionele opdrachten, waaronder maar niet beperkt tot implementaties, uitbreidingen, optimalisaties en ad-hoc projectmatige ondersteuning binnen het SAP-landschap.",
-      "cpv": "72261000",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-05-28",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/366440-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "370913-2026",
       "ref": "370913-2026",
       "acheteur": "Gemeente Nijkerk",
@@ -545,37 +576,6 @@
       "publication": "2026-06-01",
       "source": "TED",
       "url": "https://ted.europa.eu/fr/notice/-/detail/370913-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "366332-2026",
-      "ref": "366332-2026",
-      "acheteur": "Vlaams Instituut voor Vorming en Opleiding in de Social profit",
-      "objet": "Belgique – Services de formation – Organisatie van een opleiding maatwerkcoach / begeleider op de werkvloer maatwerkbedrijven",
-      "description": "Deze opdracht betreft een raamovereenkomst van 1 jaar met meerdere opdrachtnemers voor de organisatie en uitvoering van een opleiding maatwerkcoach / begeleider op de werkvloer binnen maatwerkbedrijven. Offertes worden elektronisch ingediend via het e-Procurementplatform. De inschrijvers die: - Voldoen aan de selectiecriteria - Een voldoende score behalen op de gunningscriteria Kunnen worden opgenomen in de raamovereenkomst. Op deze opdracht zijn de uitsluitingsgronden van toepassing zoals bepaald in de wetgeving inzake overheidsopdrachten. Door indiening van zijn offerte verklaart de inschrijver zich niet in een toestand van uitsluiting te bevinden. VIVO selecteert maximaal 2 opdrachtnemers gerangschikt volgens de eindscore. De vormingen worden georganiseerd in open aanbod (opleidingsaanbod op locatie waarvoor medewerkers van verschillende maatwerkbedrijven kunnen inschrijven), waarbij de ingeplande sessies evenredig verdeeld worden over de geselecteerde opdrachtnemers. Maatwerkbedrijven uit PC 327.01 kunnen beroep doen op deze raamovereenkomst en vormingen in company organiseren op de eigen locatie. In dat geval kiest het maatwerkbedrijf zelf de opleider uit de geselecteerden. De opname in de raamovereenkomst geeft geen recht op een minimumaantal opdrachten.",
-      "cpv": "80500000",
-      "pays": "BEL",
-      "deadline": "2026-07-03",
-      "montant": 0,
-      "publication": "2026-05-28",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/366332-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"

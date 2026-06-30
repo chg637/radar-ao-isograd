@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T10:54:56.122Z",
+  "generated_at": "2026-06-30T09:32:36.860Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
@@ -7,21 +7,21 @@
       "fetched": 500,
       "matched": 24,
       "go": 1,
-      "generated_at": "2026-06-29T10:47:04.709Z"
+      "generated_at": "2026-06-30T09:24:57.199Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-29T10:53:52.754Z"
+      "generated_at": "2026-06-30T09:31:54.821Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-06-29T10:54:56.077Z"
+      "generated_at": "2026-06-30T09:32:36.807Z"
     }
   },
   "total_fetched": 3500,

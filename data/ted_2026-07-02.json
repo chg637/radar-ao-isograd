@@ -1,38 +1,10 @@
 {
-  "generated_at": "2026-07-02T08:57:00.158Z",
-  "source": "MERGE",
-  "sources_summary": {
-    "TED": {
-      "present": true,
-      "fetched": 500,
-      "matched": 17,
-      "go": 1,
-      "generated_at": "2026-07-02T08:48:46.712Z"
-    },
-    "BOAMP": {
-      "present": true,
-      "fetched": 3000,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-07-02T08:55:43.399Z"
-    },
-    "Profil": {
-      "present": true,
-      "fetched": 0,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-07-02T08:57:00.106Z"
-    }
-  },
-  "total_fetched": 3500,
-  "total_matched": 16,
+  "generated_at": "2026-07-02T08:48:46.712Z",
+  "source": "TED",
+  "window_days": 30,
+  "total_fetched": 500,
+  "total_matched": 17,
   "total_go": 1,
-  "total_dedup_collisions": 1,
-  "dedup_breakdown": {
-    "by_id": 0,
-    "fuzzy_signature": 1,
-    "fuzzy_jaccard": 0
-  },
   "notices": [
     {
       "id": "391880-2026",
@@ -63,37 +35,6 @@
         "delay": 5
       },
       "score_status": "go",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "392191-2026",
-      "ref": "392191-2026",
-      "acheteur": "Gemeente Breda",
-      "objet": "Pays-Bas – Services de formation dans le domaine de la sécurité – BHV en EHBO opleidingen en advies 2026 en verder",
-      "description": "Procedure Aanbesteding middels de Europees openbare procedure conform de (gewijzigde) aanbestedingswet 2012. Opdrachtgever De opdrachtgever bij deze aanbesteding is de Gemeente Breda.  Voor meer informatie over de Gemeente Breda verwijzen wij u naar de website van de gemeente: www.breda.nl. Scope van de opdracht  De scope van de opdracht omvat meerdere dienstverleningscomponenten en kent een wisselende organisatorische inzet. De opdracht betreft het verzorgen van:  BHV‑opleidingen en BHV‑advies;  EHBO‑opleidingen en EHBO‑advies.  Zie voor nadere informatie de onderstaande bijlagen:  'Gewenste situatie BHV en EHBO Opleidingen en Advies'; 'Toelichting organisatie en doelgroepen BHV en EHBO Opleidingen en Advies'; Buiten de scope valt:  verbruiksmiddelen BHV en EHBO;  AED' s. Percelen Deze opdracht is niet verdeeld in percelen. Doel  De raamovereenkomst, met als ingangsdatum 1 november 2026, wordt aangegaan voor een initiële looptijd van twee (2) jaar.  De opdrachtgever heeft, met wederzijds goedvinden van partijen, het recht deze raamovereenkomst twee (2) maal te verlengen, telkens voor de duur van twee (2) jaar. De maximale looptijd van de raamovereenkomst bedraagt derhalve zes (6) jaar.  De besluitvorming ten aanzien van deze verlenging(en) geschiedt op basis van evaluatie van de geleverde prestaties van de dienstverlening.  Maximale contractwaarde  De maximale opdrachtwaarde in het kader van deze raamovereenkomst wordt gesteld op € 250.000 per jaar exclusief BTW, bezien over de looptijd van de raamovereenkomst, inclusief verlengingsopties. Aan het genoemde bedrag kunnen geen rechten worden ontleend. Voor opdrachtgever geldt geen afnameverplichting. Mocht gedurende de looptijd van de raamovereenkomst de maximale opdrachtwaarde worden overschreden dan zal de raamovereenkomst (eerder) worden beëindigd. Mercell Deze aanbesteding zal uitsluitend en geheel digitaal online worden afgehandeld via het Mercell platform (www.mercell.com). Een uitgebreide instructie met betrekking tot digitaal aanbesteden treft u aan in de Vragenlijsten.",
-      "cpv": "80550000",
-      "pays": "NLD",
-      "deadline": "2026-08-10",
-      "montant": 1500,
-      "publication": "2026-06-09",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/392191-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 74,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
       "notes": "",
       "auto": true
     },
@@ -129,49 +70,49 @@
       "auto": true
     },
     {
-      "id": "393362-2026",
-      "ref": "393362-2026",
-      "acheteur": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
-      "objet": "Pays-Bas – Fournisseurs de services applicatifs – Collectie Informatie Systeem Kunstbeheer 2026",
-      "description": "De Opdracht is integrale dienstverlening (Software as a Service ofwel SaaS) van één leverancier die zorgt voor de software, implementatie, beheer en onderhoud van de applicatie en de databases voor de registratie van de kunst in de Rijksgebouwen. Essentieel is dat het een Nederlandstalige applicatie voor collectiebeheer betreft die in één versie als een onlinedienst aangeboden kan worden aan gebruikers in verschillende organisaties met verschillende digitale werkomgevingen, waarbij de leverancier zorgt voor de aansluiting van de gebruikers en de conversie van gegevens, voor het onderhoud en beheer van het systeem (applicatie en databases), en voor instructie en ondersteuning van de gebruikers in de Nederlandse taal. €1,-",
-      "cpv": "72416000",
+      "id": "392191-2026",
+      "ref": "392191-2026",
+      "acheteur": "Gemeente Breda",
+      "objet": "Pays-Bas – Services de formation dans le domaine de la sécurité – BHV en EHBO opleidingen en advies 2026 en verder",
+      "description": "Procedure Aanbesteding middels de Europees openbare procedure conform de (gewijzigde) aanbestedingswet 2012. Opdrachtgever De opdrachtgever bij deze aanbesteding is de Gemeente Breda.  Voor meer informatie over de Gemeente Breda verwijzen wij u naar de website van de gemeente: www.breda.nl. Scope van de opdracht  De scope van de opdracht omvat meerdere dienstverleningscomponenten en kent een wisselende organisatorische inzet. De opdracht betreft het verzorgen van:  BHV‑opleidingen en BHV‑advies;  EHBO‑opleidingen en EHBO‑advies.  Zie voor nadere informatie de onderstaande bijlagen:  'Gewenste situatie BHV en EHBO Opleidingen en Advies'; 'Toelichting organisatie en doelgroepen BHV en EHBO Opleidingen en Advies'; Buiten de scope valt:  verbruiksmiddelen BHV en EHBO;  AED' s. Percelen Deze opdracht is niet verdeeld in percelen. Doel  De raamovereenkomst, met als ingangsdatum 1 november 2026, wordt aangegaan voor een initiële looptijd van twee (2) jaar.  De opdrachtgever heeft, met wederzijds goedvinden van partijen, het recht deze raamovereenkomst twee (2) maal te verlengen, telkens voor de duur van twee (2) jaar. De maximale looptijd van de raamovereenkomst bedraagt derhalve zes (6) jaar.  De besluitvorming ten aanzien van deze verlenging(en) geschiedt op basis van evaluatie van de geleverde prestaties van de dienstverlening.  Maximale contractwaarde  De maximale opdrachtwaarde in het kader van deze raamovereenkomst wordt gesteld op € 250.000 per jaar exclusief BTW, bezien over de looptijd van de raamovereenkomst, inclusief verlengingsopties. Aan het genoemde bedrag kunnen geen rechten worden ontleend. Voor opdrachtgever geldt geen afnameverplichting. Mocht gedurende de looptijd van de raamovereenkomst de maximale opdrachtwaarde worden overschreden dan zal de raamovereenkomst (eerder) worden beëindigd. Mercell Deze aanbesteding zal uitsluitend en geheel digitaal online worden afgehandeld via het Mercell platform (www.mercell.com). Een uitgebreide instructie met betrekking tot digitaal aanbesteden treft u aan in de Vragenlijsten.",
+      "cpv": "80550000",
       "pays": "NLD",
-      "deadline": "",
-      "montant": 188,
+      "deadline": "2026-08-10",
+      "montant": 1500,
       "publication": "2026-06-09",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/393362-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/392191-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
       "bureautique": true,
-      "score": 72,
+      "score": 74,
       "score_detail": {
-        "fit": 35,
-        "size": 10,
+        "fit": 30,
+        "size": 15,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 3
+        "delay": 5
       },
       "score_status": "cond",
       "notes": "",
       "auto": true
     },
     {
-      "id": "391689-2026",
-      "ref": "391689-2026",
-      "acheteur": "Coöperatie Samen Innoveren/Inkopen/Ict voor Onderwijs Nederland UA",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Open keuzecatalogus Leermiddelen",
-      "description": "SIVON beoogt een opdracht in de markt te zetten voor de ontwikkeling, doorontwikkeling en het onderhouden van een open keuzecatalogus leermiddelen. Deze keuzecatalogustool is bedoeld om vaksecties te ondersteunen bij hun keuzeproces voor lesmethoden. De opdracht betreft het ontwikkelen, doorontwikkelen en onderhouden van een keuzecatalogustool voor SIVON en haar leden. SIVON identificeert binnen de opdracht twee hoofdfasen van uitvoering, waarvoor separate overeenkomsten zullen worden afgesloten: * Ontwikkelfase (ontwikkeling en vullen tool) * Onderhoudsfase (doorontwikkeling en onderhoud) - 5 jaar, waarbij SIVON zich het recht voorbehoudt om de overeenkomst 5 keer met 1 jaar te verlengen.",
-      "cpv": "72000000",
+      "id": "379497-2026",
+      "ref": "379497-2026",
+      "acheteur": "Ministerie van Sociale Zaken en Werkgelegenheid",
+      "objet": "Pays-Bas – Services de maintenance des systèmes et services d'assistance – DSU Managed Hosting en Beheer",
+      "description": "Het doel van deze Aanbesteding is het selecteren van één leverancier voor het leveren van ICT-dienstverlening op het gebied van managed hosting en beheer. De geraamde waarde van de Opdracht bedraagt gemiddeld € 800.000 (achthonderdduizend euro) exclusief btw per jaar, derhalve totaal € 8.000.000 (acht miljoen euro) exclusief btw over een looptijd van 10 (tien) jaar. Indien en voorzover de overeenkomst als een raamovereenkomst zou worden aangemerkt, geldt een maximale omvang van € 12.000.000 (twaalf miljoen euro).",
+      "cpv": "72250000",
       "pays": "NLD",
       "deadline": "",
-      "montant": 1195,
-      "publication": "2026-06-08",
+      "montant": 12000,
+      "publication": "2026-06-03",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/391689-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/379497-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -222,31 +163,62 @@
       "auto": true
     },
     {
-      "id": "392494-2026",
-      "ref": "392494-2026",
-      "acheteur": "Ministerium für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz des Landes Brandenburg",
-      "objet": "Allemagne – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Projektmanagement für Leistungen zur Umsetzung des Maßnahmenplans des Landesniedrigwasserkonzeptes 2.0",
-      "description": "Die Leistung setzt sich insbesondere aus folgenden Punkten zusammen: 1) Projektmanagement Das Projektmanagement, steuert und koordiniert aktiv die nachfolgend unter Punkt 2 und ggf. 3 genannten Leistungen über die gesamte Vertragslaufzeit. 2) Weiterführung Flussgebietsarbeit Durch eine intensive Kommunikation des Themas \"Niedrigwasser\" konnte eine breite Aufmerksamkeit und ein Problembewusstsein bei allen lokalen Akteuren erzeugt werden. Die Entscheidungsträger (Wasser-, Naturschutz- und tlw. Landwirtschaftsbehörden der Landkreise / kreisfreien Städte, LfU, einschließlich Großschutzgebiete), die das Wassermanagement operativ steuernden GUV und ggf. weitere Institutionen (Naturschutzverbände, Landschaftspflegeverbände, Natura2000-Teams, VLF, Kommunen, engagierte Einzelpersonen usw.) sind involviert und arbeiten unterschiedlich intensiv an der Thematik mit. 3) Erarbeitung flussgebietsbezogener Bewirtschaftungskonzepte Die sich in der Ideenphase befindlichen 16 Konzepte (Phase 1 und 2) sind gemeinsam mit den Trägern bis zur Antragsreife (Richtlinie LWH) zu entwickeln und die Antragstellung bei der ILB zu begleiten. Weitere mindestes 10 Konzepte sollen - eine erfolgreiche Antragstellung und Mittelverfügbarkeit vorausgesetzt - bei der Bearbeitung begleitet werden. Es bestehen bisher nicht weiterverfolgte weitere Ideen der Akteure zu potenziellen Bewirtschaftungs- bzw. Staukonzepten in allen Flussgebieten tlw. auch von Seiten des LfU für Gewässer 1. Ordnung. Aufgrund einer derzeit nicht genau bekannten Anzahl o.g. Ideen ist die Leistung für 10 Konzepte anzubieten. 4) Qualifizierung und Weiterentwicklung LWH-Vorhaben und Leuchttürmen Mit LWH-Vorhaben sind Vorhaben gemeint, die den Fördergegenständen der Richtlinien LWH (GAK und ELER) des MLEUV entsprechen und die von den Antragstellern zur Förderung aus Drittmitteln vorgesehen sind. Entwicklung von Projekten aus Initiierungsphase (50) bis zu antragsreifer Projektskizze. Entwicklung fortgeschrittene Projekte (100) bis zu antragsreifer Projektskizze . Begleitung abgeschlossener (20) Projekte Begleitung der laufenden Leuchtturmprojekte Initiiierung von neuen Leuchtturmprojekte (z.B. Dränagen) 5) Fachübergreifende Anforderungen Im Rahmen des Erstauftrages wurden bereits diverse fachübergreifende Treffen, Gespräche etc. initiiert und ausgewertet). Diese sog. fachübergreifenden Gespräche mit Akteuren z.B. der Landwirtschaft, des Naturschutzes, der Forst, der Flurneuordnung sowie der Landes- und Regionalplanung sollen federführend durch den Auftragnehmer weitergeführt und im Bereich Siedlungs- und Gewerbegebietsentwicklung / Bau- und Stadtplanung aufgegriffen werden. Vertieft werden soll der Themenbereich Schifffahrt und Wassertourismus hinsichtlich der Wasserbewirtschaftung und möglicher Handlungsspielräume und Entwicklungsperspektiven hin zur Klimaanpassung und zu einem verringerten Wasserdargebot. Im Zusammenhang mit dem Umbau eines Staubauwerkes wurde im Rahmen des Erstauftrages ein umfangreiches, modellgestütztes Werkzeug entwickelt, welches die Auswirkungen veränderter Stauhaltungen auf den Wasserrückhalt quantifiziert. Das Werkzeug erlaubt darüber hinaus eine grafische Darstellung der flächigen Auswirkungen veränderter Wasserstände oberhalb eines Staubauwerkes. Für das Werkzeug wurden vorhandene Modellansätze in die kommerzielle Rechensoftware MS Excel überführt. Ferner wurde eine Schnittstelle programmiert, die eine Darstellung der Ergebnisse in einem GIS-System erlaubt. Die Anwendung des sog. Excel-Tools (Anlage 5: Dokumentation) wurde sowohl durch das LfU als auch durch die NW-Koordinatoren für weitere Projekte in anderen Flussgebieten testweise durchgeführt. Es ist gewünscht, das Excel-Tool (oder ein vergleichbares Instrument) künftig als Werkzeug zur Folgenabschätzung und Visualisierung stärker systematisch einzubinden. 6) Verknüpfung mit dem Moorschutz Moorschutz und Wassermanagement sind inhaltlich eng verwoben, dementsprechend erfolgt MLEUV-intern eine enge organisatorisch-inhaltliche Abstimmung zur Thematik Moorschutz. Bei der Umsetzung des Landesniedrigwasserkonzeptes ist auch auf ein nachhaltiges Moorbodenmanagement zu setzen. Das Moorschutzprogramm Brandenburg bildet den Rahmen für alle Aktivitäten im Zusammenhang mit Mooren. Um eine Synchronisation der Ziele von Moorschutz und Niedrigwasservorsorge bei der Projektentwicklung vor Ort und insbesondere bei der Erarbeitung von Bewirtschaftungskonzepten zu gewährleisten, ist ein fachkundiger Ansprechpartner zu benennen. Dieser sammelt und koordiniert alle moorbezogenen Fragen, begleitet ggf. Ortstermine und steht als zentraler Ansprechpartner zur Verfügung. Die o.g. Flussgebietssteckbriefe sind in enger Zusammenarbeit mit dem LfU um ein Kapitel zum Moorschutz zu ergänzen. 7) Öffentlichkeitsarbeit Ziel des Leistungspunktes ist daher die Entwicklung einer zielgruppenorientierten Kommunikationsstrategie zur Unterstützung der Umsetzung des LNWK 2.0. Die Kommunikationsstrategie soll dazu beitragen, Verständnis, Akzeptanz und Mitwirkung zentraler Akteure bei Maßnahmen der Niedrigwasservorsorge und der -bewältigung zu stärken. Dabei sollen insbesondere Informationsbedarfe, Entscheidungsstrukturen und mögliche Hemmnisse in den relevanten Zielgruppen berücksichtigt werden. Auf Basis der strategischen Konzeption sollen geeignete Kommunikationsmaßnahmen entwickelt, priorisiert und in einem Umsetzungsplan dargestellt werden. Optionale Leistungen: 1) Verbindung wasserbaulicher Maßnahmen mit Agrar-, Umwelt- und Klimamaßnahmen (AUKM) 2) Durchführung ausgewählter Maßnahmen des im Rahmen der Öffentlichkeitsarbeit entwickelten Umsetzungsplanes aus Nr. 7) Im Detail siehe Vergabeunterlagen Teil B - Leistungsbeschreibung Nr. 2 und 3.",
-      "cpv": "71000000",
-      "pays": "DEU",
-      "deadline": "2026-08-07",
-      "montant": 0,
-      "publication": "2026-06-09",
+      "id": "391689-2026",
+      "ref": "391689-2026",
+      "acheteur": "Coöperatie Samen Innoveren/Inkopen/Ict voor Onderwijs Nederland UA",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Open keuzecatalogus Leermiddelen",
+      "description": "SIVON beoogt een opdracht in de markt te zetten voor de ontwikkeling, doorontwikkeling en het onderhouden van een open keuzecatalogus leermiddelen. Deze keuzecatalogustool is bedoeld om vaksecties te ondersteunen bij hun keuzeproces voor lesmethoden. De opdracht betreft het ontwikkelen, doorontwikkelen en onderhouden van een keuzecatalogustool voor SIVON en haar leden. SIVON identificeert binnen de opdracht twee hoofdfasen van uitvoering, waarvoor separate overeenkomsten zullen worden afgesloten: * Ontwikkelfase (ontwikkeling en vullen tool) * Onderhoudsfase (doorontwikkeling en onderhoud) - 5 jaar, waarbij SIVON zich het recht voorbehoudt om de overeenkomst 5 keer met 1 jaar te verlengen.",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 1195,
+      "publication": "2026-06-08",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/392494-2026",
-      "segment": "FPH",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/391689-2026",
+      "segment": "Autre",
       "keyword_hits": [
-        "Excel"
+        "Word"
       ],
       "bureautique": true,
-      "score": 67,
+      "score": 72,
       "score_detail": {
         "fit": 30,
-        "size": 8,
+        "size": 15,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "393362-2026",
+      "ref": "393362-2026",
+      "acheteur": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
+      "objet": "Pays-Bas – Fournisseurs de services applicatifs – Collectie Informatie Systeem Kunstbeheer 2026",
+      "description": "De Opdracht is integrale dienstverlening (Software as a Service ofwel SaaS) van één leverancier die zorgt voor de software, implementatie, beheer en onderhoud van de applicatie en de databases voor de registratie van de kunst in de Rijksgebouwen. Essentieel is dat het een Nederlandstalige applicatie voor collectiebeheer betreft die in één versie als een onlinedienst aangeboden kan worden aan gebruikers in verschillende organisaties met verschillende digitale werkomgevingen, waarbij de leverancier zorgt voor de aansluiting van de gebruikers en de conversie van gegevens, voor het onderhoud en beheer van het systeem (applicatie en databases), en voor instructie en ondersteuning van de gebruikers in de Nederlandse taal. €1,-",
+      "cpv": "72416000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 188,
+      "publication": "2026-06-09",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/393362-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 35,
+        "size": 10,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -284,156 +256,31 @@
       "auto": true
     },
     {
-      "id": "396279-2026",
-      "ref": "396279-2026",
-      "acheteur": "Medizinische Universität Lausitz - Carl Thiem KdöR",
-      "objet": "Allemagne – Services de développement de logiciels – Beschaffung von Entwicklungsleistungen für die Digita-lisierung der akademischen Verwaltung auf Basis des koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint.",
-      "description": "Die MUL-CT strebt beim Aufbau der digitalen Universität an, akademische Verwaltungsprozesse zukünftig im koellisch-toolkit/koellisch-core-framework auf Office365/Sharepoint umzusetzen. Dabei wird die Entwicklung einer performanten Informationstechnologie & Aufbau digitaler Plattformen für die akademische Verwaltung definiert, um durch Digitalisierung und Automatisierung schlanke und digitale Verwaltungsprozesse direkt von Beginn an zu entwickeln. Die durch den Auftragnehmer zu erbringende Leistungen beinhaltet die Entwicklung von akademischen Verwaltungsprozessen auf Basis von dem koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint. Folgende Aufgaben sind durch das Projektteam des Auftragnehmers in den zu beauftragenden Projekten zu erbringen: - Architektur & Konzeption: Entwicklung, Implementierung und Weiterentwicklung von digitalen Verwaltungslösungen für die Universität auf Basis des koellisch-Toolkit/Core Framework in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Workflow-Entwicklung: Konzeption und Umsetzung komplexer Workflows inkl. Fristen- und Mandatsverwaltung, Abstimmungs- und Dokumentationsprozessen sowie digitale Akten mit rechtssicherer Dokumentation - Schnittstellen & Integration: Design und Realisierung von Anbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Fehleranalyse & Wartung: Analyse und Behebung von Lösungsfehlern im Ticketsystem inkl. Eskalationsmanagement - Testing & Qualitätsmanagement: Steuerung von Test- und Rollout-Phasen, Qualitätssicherung und Erstellung technischer Dokumentationen - IT-Projektleitung: Übernahme von (Teil-)Projektleitungen im Rahmen der Digitalisierungsprojekte der MUL-CT Tätigkeiten, die während der Digitalisierungsvorhaben der MUL-CT zu erwarten und von jeweiligen Entwickler:in köllisch-toolkit/köllisch-core-framework zu übernehmen sind: - Konzeption, Implementierung und Weiterentwicklung von Lösungen auf Basis des köllisch-Toolkit/Core Frameworks in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Realisierung von Workflows und digitalen Akten inkl. Fristen- und Mandatsverwaltung, rechtssicherer Dokumentation, Abstimmungs- und Sitzungsorganisation - Analyse und Behebung von Lösungsfehlern im Rahmen des Ticketsystems, inkl. Eskalationsmanagement und Support bei Fehlertickets - Mitwirkung bei Schnittstellenanbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Übernahme von (Teil-)Projektleitungen in Digitalisierungsprojekten inkl. Steuerung von Test- und Rollout-Phasen - Planung, Durchführung und Dokumentation von Test- und Qualitätssicherungsmaßnahmen (funktionales Testing, Abnahmetests, Regressionstests) - Durchführung von Schulungen und Workshops für unterschiedliche Zielgruppen (Key-User, Gremienmitglieder, Verwaltung, interne IT) - Coaching und Training interner IT-Mitarbeitender zur Förderung des nachhaltigen Kompetenzaufbaus",
-      "cpv": "72262000",
+      "id": "392494-2026",
+      "ref": "392494-2026",
+      "acheteur": "Ministerium für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz des Landes Brandenburg",
+      "objet": "Allemagne – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Projektmanagement für Leistungen zur Umsetzung des Maßnahmenplans des Landesniedrigwasserkonzeptes 2.0",
+      "description": "Die Leistung setzt sich insbesondere aus folgenden Punkten zusammen: 1) Projektmanagement Das Projektmanagement, steuert und koordiniert aktiv die nachfolgend unter Punkt 2 und ggf. 3 genannten Leistungen über die gesamte Vertragslaufzeit. 2) Weiterführung Flussgebietsarbeit Durch eine intensive Kommunikation des Themas \"Niedrigwasser\" konnte eine breite Aufmerksamkeit und ein Problembewusstsein bei allen lokalen Akteuren erzeugt werden. Die Entscheidungsträger (Wasser-, Naturschutz- und tlw. Landwirtschaftsbehörden der Landkreise / kreisfreien Städte, LfU, einschließlich Großschutzgebiete), die das Wassermanagement operativ steuernden GUV und ggf. weitere Institutionen (Naturschutzverbände, Landschaftspflegeverbände, Natura2000-Teams, VLF, Kommunen, engagierte Einzelpersonen usw.) sind involviert und arbeiten unterschiedlich intensiv an der Thematik mit. 3) Erarbeitung flussgebietsbezogener Bewirtschaftungskonzepte Die sich in der Ideenphase befindlichen 16 Konzepte (Phase 1 und 2) sind gemeinsam mit den Trägern bis zur Antragsreife (Richtlinie LWH) zu entwickeln und die Antragstellung bei der ILB zu begleiten. Weitere mindestes 10 Konzepte sollen - eine erfolgreiche Antragstellung und Mittelverfügbarkeit vorausgesetzt - bei der Bearbeitung begleitet werden. Es bestehen bisher nicht weiterverfolgte weitere Ideen der Akteure zu potenziellen Bewirtschaftungs- bzw. Staukonzepten in allen Flussgebieten tlw. auch von Seiten des LfU für Gewässer 1. Ordnung. Aufgrund einer derzeit nicht genau bekannten Anzahl o.g. Ideen ist die Leistung für 10 Konzepte anzubieten. 4) Qualifizierung und Weiterentwicklung LWH-Vorhaben und Leuchttürmen Mit LWH-Vorhaben sind Vorhaben gemeint, die den Fördergegenständen der Richtlinien LWH (GAK und ELER) des MLEUV entsprechen und die von den Antragstellern zur Förderung aus Drittmitteln vorgesehen sind. Entwicklung von Projekten aus Initiierungsphase (50) bis zu antragsreifer Projektskizze. Entwicklung fortgeschrittene Projekte (100) bis zu antragsreifer Projektskizze . Begleitung abgeschlossener (20) Projekte Begleitung der laufenden Leuchtturmprojekte Initiiierung von neuen Leuchtturmprojekte (z.B. Dränagen) 5) Fachübergreifende Anforderungen Im Rahmen des Erstauftrages wurden bereits diverse fachübergreifende Treffen, Gespräche etc. initiiert und ausgewertet). Diese sog. fachübergreifenden Gespräche mit Akteuren z.B. der Landwirtschaft, des Naturschutzes, der Forst, der Flurneuordnung sowie der Landes- und Regionalplanung sollen federführend durch den Auftragnehmer weitergeführt und im Bereich Siedlungs- und Gewerbegebietsentwicklung / Bau- und Stadtplanung aufgegriffen werden. Vertieft werden soll der Themenbereich Schifffahrt und Wassertourismus hinsichtlich der Wasserbewirtschaftung und möglicher Handlungsspielräume und Entwicklungsperspektiven hin zur Klimaanpassung und zu einem verringerten Wasserdargebot. Im Zusammenhang mit dem Umbau eines Staubauwerkes wurde im Rahmen des Erstauftrages ein umfangreiches, modellgestütztes Werkzeug entwickelt, welches die Auswirkungen veränderter Stauhaltungen auf den Wasserrückhalt quantifiziert. Das Werkzeug erlaubt darüber hinaus eine grafische Darstellung der flächigen Auswirkungen veränderter Wasserstände oberhalb eines Staubauwerkes. Für das Werkzeug wurden vorhandene Modellansätze in die kommerzielle Rechensoftware MS Excel überführt. Ferner wurde eine Schnittstelle programmiert, die eine Darstellung der Ergebnisse in einem GIS-System erlaubt. Die Anwendung des sog. Excel-Tools (Anlage 5: Dokumentation) wurde sowohl durch das LfU als auch durch die NW-Koordinatoren für weitere Projekte in anderen Flussgebieten testweise durchgeführt. Es ist gewünscht, das Excel-Tool (oder ein vergleichbares Instrument) künftig als Werkzeug zur Folgenabschätzung und Visualisierung stärker systematisch einzubinden. 6) Verknüpfung mit dem Moorschutz Moorschutz und Wassermanagement sind inhaltlich eng verwoben, dementsprechend erfolgt MLEUV-intern eine enge organisatorisch-inhaltliche Abstimmung zur Thematik Moorschutz. Bei der Umsetzung des Landesniedrigwasserkonzeptes ist auch auf ein nachhaltiges Moorbodenmanagement zu setzen. Das Moorschutzprogramm Brandenburg bildet den Rahmen für alle Aktivitäten im Zusammenhang mit Mooren. Um eine Synchronisation der Ziele von Moorschutz und Niedrigwasservorsorge bei der Projektentwicklung vor Ort und insbesondere bei der Erarbeitung von Bewirtschaftungskonzepten zu gewährleisten, ist ein fachkundiger Ansprechpartner zu benennen. Dieser sammelt und koordiniert alle moorbezogenen Fragen, begleitet ggf. Ortstermine und steht als zentraler Ansprechpartner zur Verfügung. Die o.g. Flussgebietssteckbriefe sind in enger Zusammenarbeit mit dem LfU um ein Kapitel zum Moorschutz zu ergänzen. 7) Öffentlichkeitsarbeit Ziel des Leistungspunktes ist daher die Entwicklung einer zielgruppenorientierten Kommunikationsstrategie zur Unterstützung der Umsetzung des LNWK 2.0. Die Kommunikationsstrategie soll dazu beitragen, Verständnis, Akzeptanz und Mitwirkung zentraler Akteure bei Maßnahmen der Niedrigwasservorsorge und der -bewältigung zu stärken. Dabei sollen insbesondere Informationsbedarfe, Entscheidungsstrukturen und mögliche Hemmnisse in den relevanten Zielgruppen berücksichtigt werden. Auf Basis der strategischen Konzeption sollen geeignete Kommunikationsmaßnahmen entwickelt, priorisiert und in einem Umsetzungsplan dargestellt werden. Optionale Leistungen: 1) Verbindung wasserbaulicher Maßnahmen mit Agrar-, Umwelt- und Klimamaßnahmen (AUKM) 2) Durchführung ausgewählter Maßnahmen des im Rahmen der Öffentlichkeitsarbeit entwickelten Umsetzungsplanes aus Nr. 7) Im Detail siehe Vergabeunterlagen Teil B - Leistungsbeschreibung Nr. 2 und 3.",
+      "cpv": "71000000",
       "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-06-10",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/396279-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Microsoft Office",
-        "Office 365"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "392788-2026",
-      "ref": "392788-2026",
-      "acheteur": "Handwerkskammer Braunschweig-Lüneburg-Stade",
-      "objet": "Allemagne – Ordinateurs portables – VgV, TZH Lüneburg, Digitalisierung BAFA, Block 1, LV 1, 3, 5",
-      "description": "Los 1 (LV 1): 56 Stück Notebook mit Installation und Microsoft Office vorinstalliert, 1x Notebook/Ultrabook, 1x Monitor 27 Zoll, 2x Grafiktablet / Los 2 (LV 3): 56 Stück PC-SHERRIFF Premium Schul-/ Behörden Lizenz, 2x Mythware Klassenraum Management Win. Dozent, 54 Stück Mythware Klassenraum Management Win. Teilnehmer, 1x Volllizenz Video-/ Fotobearbeitung / Los 3 (LV 5): 4x Notebook-Ladewagen",
-      "cpv": "30213100",
-      "pays": "DEU",
-      "deadline": "",
+      "deadline": "2026-08-07",
       "montant": 0,
       "publication": "2026-06-09",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/392788-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Microsoft Office"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "393012-2026",
-      "ref": "393012-2026",
-      "acheteur": "Deutsche Gesetzliche Unfallversicherung e.V.",
-      "objet": "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – SAP-Beratung",
-      "description": "In einem weiteren Schritt sollen Dienstleistungen zur Erstellung von Pflichtenheften zu den späteren konkreten Projekten sowie Dienstleistungen zur Projektumsetzung angeboten werden. Im Einzelnen kann es sich insbesondere um folgende Leistungen handeln: - Durchführen von Machbarkeitsstudien - Erstellung von Umsetzungskonzeptionen - Erstellen von Pflichtenheften - Umsetzungsleistungen auf Basis der erstellten Pflichtenhefte - Mitwirkung bei der Inbetriebnahme, einschließlich aller die für eine Inbetriebnahme von Ände-rungen notwendigen Maßnahmen (Schulungsunterlagen, Schulungen, Handbücher usw.) und Wissenstransfer im Sinne der Implementierungsbegleitung - Aufbau einer zentralen Steuerungsinstanz innerhalb der Organisation des AG im Sinne eines SAP Center of Excellence mit besonderem Schwerpunkt eines BTP Center of Excellence ge-mäß den Empfehlungen der SAP SE und Unterstützung in der Überführung in den Routinebe-trieb - Beratung der Führungsebene 1 der Bereiche Finanzen und Revision, IT und Digitalisierung, Per-sonal und Organisation sowie Verwaltung Bau Beschaffung zur strategischen Weiterentwicklung der SAP Anwendungen nach Kriterien des wirtschaftlichen Systembetriebs unter Beachtung der Rahmenbedingungen der DGUV e.V. (Die DGUV möchte weg von einer rein technischen SAP-Betreuung und hin zu einer fachlich gesteuerten SAP-Governance kommen.) - Steuerung der technischen Dienstleister und des SAP-Betreibers Leistungsanforderungen, Mitarbeiterkontinuität, Fachberatung Die Fachberatung umfasst insbesondere folgende Aufgaben: - Geschäftsprozessspezifische Beratungsleistungen für die eingesetzten Module, Pro-gramme, Systeme und zugehörigen Instrumente - am SAP Standard ausgerichtete Beratung - konzeptionelle Tätigkeiten (Machbarkeitsstudien, Konzepterstellungen) - Beratung zu vorhandenen kundeneigenen Lösungen und, wenn nicht im SAP Standard enthal-ten, zu neuen kundeneigenen Lösungen - Wissenstransfer für andere Dienstleister - Marktbeobachtung / Neue Technologien und Anwendungen der SAP - Systemvorführungen o. ä., z. B. Vorstellung neuer Module (auch in Form von Webkonferenzen) - Begleitung und Unterstützung des produktiven Betriebs aus Anwendersicht Vorgehensmodell Projekt Grundsätzlich ist ein Phasenmodell nach Empfehlungen des Softwareherstellers SAP anzulegen, da die Organisation und Abwicklung in der Applikationsbetreuung des Auftraggebers im Standard ITIL etabliert ist. Die Begleitung durch den Auftragnehmer ist auf Verlangen des Auftraggebers grundsätzlich an den Standorten des Auftraggebers, vor allem in Sankt Augustin und Berlin vor Ort sicher zu stellen. Eine Beratung mittels hybrider Gesprächsformate erfolgt nur in Absprache mit dem Auftraggeber und ist nicht als grundsätzliche Kommunikationsvariante während der Zusammenarbeit zwischen Auftraggeber und Auftragnehmer gewünscht. Hauptaugenmerk der Projektschritte a) liegt auf Analyse- und Konzeptionstätigkeiten, mit dem Ziel, dem SAP System der DGUV neue Lösungen zuzuführen. b) liegt darin, dass nach Abnahme der zu a) genannten Tätigkeiten der Auftragnehmer aufgefordert wer-den kann, ein detailliertes Pflichtenheft zu erstellen. c) liegt darin, dass nach Abnahme und Bestätigung dieses Pflichtenheftes der Auftragnehmer zur Umsetzung aufgefordert werden kann. Dabei ist zu beachten, dass Umsetzungsprojekte den regulären Betrieb nur minimal beeinflussen dürfen. Einheitlicher Gesamtprojektleiter Für alle Projekte aus dem Rahmenvertrag ist seitens des Auftragnehmers zusätzlich zur jeweiligen Projektleitung ein einheitlicher Ansprechpartner namentlich zu benennen (einheitlicher Gesamtprojektleiter). Dieser ist für die Klärung organisatorischer Rahmenbedingungen sowie für die Koordination aller für die erfolgreiche Durchführung des Auftrags notwendigen Tätigkeiten verantwortlich. Er soll die zentrale Schnittstelle zwischen der Projektleitung des Auftraggebers und dem Auftragnehmer darstellen. Der einheitliche Gesamtprojektleiter muss über die notwendige Entscheidungskompetenz innerhalb der Organisation des Auftragnehmer verfügen, um auftauchende Fragestellungen schnell und verbindlich beantworten und ggf. auch vor Ort entscheiden zu können. Für Fälle der Abwesenheit des einheitlichen Gesamtprojektleiters ist ein Vertreter namentlich zu benennen. Die telefonische und schriftliche Erreichbarkeit des einheitlichen Gesamtprojektleiters oder seines Vertreters ist sicherzustellen.",
-      "cpv": "72000000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-06-09",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/393012-2026",
-      "segment": "Autre",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/392494-2026",
+      "segment": "FPH",
       "keyword_hits": [
         "Excel"
       ],
       "bureautique": true,
-      "score": 65,
+      "score": 67,
       "score_detail": {
         "fit": 30,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "389238-2026",
-      "ref": "389238-2026",
-      "acheteur": "Stromnetz Berlin GmbH",
-      "objet": "Allemagne – Logiciels et systèmes d'information – Einführung einer SaaS-Lösung für das Lieferantenmanagement",
-      "description": "Der aktuelle IST-Zustand des Lieferantenmanagements ist geprägt von einer veralteten, technisch begrenzten Systemlandschaft, die den heutigen Anforderungen an Transparenz, Effizienz und Compliance nicht mehr entspricht. Das bestehende Lieferantenmanagement -Tool (VFM-Portal), das unternehmensintern entwickelte wurde, gilt sowohl funktional als auch technologisch als nicht mehr zeitgemäß. Es verfügt über keine ausreichende Prozessintegration, bietet nur eingeschränkte Benutzerfreundlichkeit und ist in seinem Betrieb zunehmend aufwendig. Zudem besteht keine umfassende und durchgängige SAP-Anbindung, wodurch viele Daten manuell gepflegt und aus verschiedenen Quellen wie Excel und Share Point Listen zusammengestellt werden müssen. Ein ganzheitliches, unternehmensweites Konzept für das Lieferantenmanagement, sowohl systemisch als auch prozessual, liegt derzeit nicht vor. Das neue Lieferantenmanagement-Tool verfolgt das Ziel, das unternehmensweite Lieferantenmanagement zu modernisieren, zu standardisieren und zukunftsfähig auszurichten. Im Mittelpunkt steht die durchgängige Abbildung des gesamten Lieferantenlebenszyklus – von der Registrierung über Qualifizierung, Bewertung und Entwicklung bis hin zur Steuerung und Beendigung von Lieferantenbeziehungen. Durch die Ablösung des bestehenden VFM-Portals sollen medienbruchfreie, systemgestützte Prozesse geschaffen werden, die eine höhere Datenqualität, reduzierte manuelle Aufwände und klar definierte Zuständigkeiten ermöglichen. Beim Vergabegegenstand handelt es sich um ein Lieferantenmanagement-Tool zum Verwalten von Lieferanten. Gegenstand der Ausschreibung ist die Einführung und Nutzung eines unternehmensweiten Lieferantenmanagement-Tools, mindestens in den Bereichen: Einkauf, IT, Arbeitssicherheit und den technischen Bereichen, dass die strukturierte Erfassung, Bewertung und Verwaltung von Lieferanten unterstützt. Der Vertrag hat eine Grundlaufzeit bis 31.12.2031 mit zwei Verlängerungsoptionen um jeweils zwei Jahre.",
-      "cpv": "48000000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-06-08",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/389238-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Excel"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "389391-2026",
-      "ref": "389391-2026",
-      "acheteur": "Nederlands Instituut Publieke Veiligheid",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – SOC/MDR-diensten voor samenwerkende Veiligheidsregio's en NIPV",
-      "description": "De opdracht betreft het continu monitoren, detecteren en alarmeren van cyberdreigingen binnen de IT-omgevingen van de deelnemers, inclusief implementatie, beheer en doorontwikkeling van security use cases. De baseline dienstverlening bestaat uit Managed Endpoint Detection & Response (M-EDR), aangevuld met optionele diensten zoals SIEM en NDR. De opdracht wordt gegund via een raamovereenkomst met één opdrachtnemer, op basis van de beste prijs-kwaliteitsverhouding. Raamovereenkomst met één opdrachtnemer voor maximaal 12 jaar; maximale opdrachtwaarde €20.150.000 excl. btw",
-      "cpv": "72000000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-06-08",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/389391-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
+        "delay": 5
       },
       "score_status": "cond",
       "notes": "",
@@ -517,6 +364,162 @@
       "segment": "Autre",
       "keyword_hits": [
         "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "389238-2026",
+      "ref": "389238-2026",
+      "acheteur": "Stromnetz Berlin GmbH",
+      "objet": "Allemagne – Logiciels et systèmes d'information – Einführung einer SaaS-Lösung für das Lieferantenmanagement",
+      "description": "Der aktuelle IST-Zustand des Lieferantenmanagements ist geprägt von einer veralteten, technisch begrenzten Systemlandschaft, die den heutigen Anforderungen an Transparenz, Effizienz und Compliance nicht mehr entspricht. Das bestehende Lieferantenmanagement -Tool (VFM-Portal), das unternehmensintern entwickelte wurde, gilt sowohl funktional als auch technologisch als nicht mehr zeitgemäß. Es verfügt über keine ausreichende Prozessintegration, bietet nur eingeschränkte Benutzerfreundlichkeit und ist in seinem Betrieb zunehmend aufwendig. Zudem besteht keine umfassende und durchgängige SAP-Anbindung, wodurch viele Daten manuell gepflegt und aus verschiedenen Quellen wie Excel und Share Point Listen zusammengestellt werden müssen. Ein ganzheitliches, unternehmensweites Konzept für das Lieferantenmanagement, sowohl systemisch als auch prozessual, liegt derzeit nicht vor. Das neue Lieferantenmanagement-Tool verfolgt das Ziel, das unternehmensweite Lieferantenmanagement zu modernisieren, zu standardisieren und zukunftsfähig auszurichten. Im Mittelpunkt steht die durchgängige Abbildung des gesamten Lieferantenlebenszyklus – von der Registrierung über Qualifizierung, Bewertung und Entwicklung bis hin zur Steuerung und Beendigung von Lieferantenbeziehungen. Durch die Ablösung des bestehenden VFM-Portals sollen medienbruchfreie, systemgestützte Prozesse geschaffen werden, die eine höhere Datenqualität, reduzierte manuelle Aufwände und klar definierte Zuständigkeiten ermöglichen. Beim Vergabegegenstand handelt es sich um ein Lieferantenmanagement-Tool zum Verwalten von Lieferanten. Gegenstand der Ausschreibung ist die Einführung und Nutzung eines unternehmensweiten Lieferantenmanagement-Tools, mindestens in den Bereichen: Einkauf, IT, Arbeitssicherheit und den technischen Bereichen, dass die strukturierte Erfassung, Bewertung und Verwaltung von Lieferanten unterstützt. Der Vertrag hat eine Grundlaufzeit bis 31.12.2031 mit zwei Verlängerungsoptionen um jeweils zwei Jahre.",
+      "cpv": "48000000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-08",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/389238-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Excel"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "389391-2026",
+      "ref": "389391-2026",
+      "acheteur": "Nederlands Instituut Publieke Veiligheid",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – SOC/MDR-diensten voor samenwerkende Veiligheidsregio's en NIPV",
+      "description": "De opdracht betreft het continu monitoren, detecteren en alarmeren van cyberdreigingen binnen de IT-omgevingen van de deelnemers, inclusief implementatie, beheer en doorontwikkeling van security use cases. De baseline dienstverlening bestaat uit Managed Endpoint Detection & Response (M-EDR), aangevuld met optionele diensten zoals SIEM en NDR. De opdracht wordt gegund via een raamovereenkomst met één opdrachtnemer, op basis van de beste prijs-kwaliteitsverhouding. Raamovereenkomst met één opdrachtnemer voor maximaal 12 jaar; maximale opdrachtwaarde €20.150.000 excl. btw",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-08",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/389391-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "392788-2026",
+      "ref": "392788-2026",
+      "acheteur": "Handwerkskammer Braunschweig-Lüneburg-Stade",
+      "objet": "Allemagne – Ordinateurs portables – VgV, TZH Lüneburg, Digitalisierung BAFA, Block 1, LV 1, 3, 5",
+      "description": "Los 1 (LV 1): 56 Stück Notebook mit Installation und Microsoft Office vorinstalliert, 1x Notebook/Ultrabook, 1x Monitor 27 Zoll, 2x Grafiktablet / Los 2 (LV 3): 56 Stück PC-SHERRIFF Premium Schul-/ Behörden Lizenz, 2x Mythware Klassenraum Management Win. Dozent, 54 Stück Mythware Klassenraum Management Win. Teilnehmer, 1x Volllizenz Video-/ Fotobearbeitung / Los 3 (LV 5): 4x Notebook-Ladewagen",
+      "cpv": "30213100",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-09",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/392788-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Microsoft Office"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "393012-2026",
+      "ref": "393012-2026",
+      "acheteur": "Deutsche Gesetzliche Unfallversicherung e.V.",
+      "objet": "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – SAP-Beratung",
+      "description": "In einem weiteren Schritt sollen Dienstleistungen zur Erstellung von Pflichtenheften zu den späteren konkreten Projekten sowie Dienstleistungen zur Projektumsetzung angeboten werden. Im Einzelnen kann es sich insbesondere um folgende Leistungen handeln: - Durchführen von Machbarkeitsstudien - Erstellung von Umsetzungskonzeptionen - Erstellen von Pflichtenheften - Umsetzungsleistungen auf Basis der erstellten Pflichtenhefte - Mitwirkung bei der Inbetriebnahme, einschließlich aller die für eine Inbetriebnahme von Ände-rungen notwendigen Maßnahmen (Schulungsunterlagen, Schulungen, Handbücher usw.) und Wissenstransfer im Sinne der Implementierungsbegleitung - Aufbau einer zentralen Steuerungsinstanz innerhalb der Organisation des AG im Sinne eines SAP Center of Excellence mit besonderem Schwerpunkt eines BTP Center of Excellence ge-mäß den Empfehlungen der SAP SE und Unterstützung in der Überführung in den Routinebe-trieb - Beratung der Führungsebene 1 der Bereiche Finanzen und Revision, IT und Digitalisierung, Per-sonal und Organisation sowie Verwaltung Bau Beschaffung zur strategischen Weiterentwicklung der SAP Anwendungen nach Kriterien des wirtschaftlichen Systembetriebs unter Beachtung der Rahmenbedingungen der DGUV e.V. (Die DGUV möchte weg von einer rein technischen SAP-Betreuung und hin zu einer fachlich gesteuerten SAP-Governance kommen.) - Steuerung der technischen Dienstleister und des SAP-Betreibers Leistungsanforderungen, Mitarbeiterkontinuität, Fachberatung Die Fachberatung umfasst insbesondere folgende Aufgaben: - Geschäftsprozessspezifische Beratungsleistungen für die eingesetzten Module, Pro-gramme, Systeme und zugehörigen Instrumente - am SAP Standard ausgerichtete Beratung - konzeptionelle Tätigkeiten (Machbarkeitsstudien, Konzepterstellungen) - Beratung zu vorhandenen kundeneigenen Lösungen und, wenn nicht im SAP Standard enthal-ten, zu neuen kundeneigenen Lösungen - Wissenstransfer für andere Dienstleister - Marktbeobachtung / Neue Technologien und Anwendungen der SAP - Systemvorführungen o. ä., z. B. Vorstellung neuer Module (auch in Form von Webkonferenzen) - Begleitung und Unterstützung des produktiven Betriebs aus Anwendersicht Vorgehensmodell Projekt Grundsätzlich ist ein Phasenmodell nach Empfehlungen des Softwareherstellers SAP anzulegen, da die Organisation und Abwicklung in der Applikationsbetreuung des Auftraggebers im Standard ITIL etabliert ist. Die Begleitung durch den Auftragnehmer ist auf Verlangen des Auftraggebers grundsätzlich an den Standorten des Auftraggebers, vor allem in Sankt Augustin und Berlin vor Ort sicher zu stellen. Eine Beratung mittels hybrider Gesprächsformate erfolgt nur in Absprache mit dem Auftraggeber und ist nicht als grundsätzliche Kommunikationsvariante während der Zusammenarbeit zwischen Auftraggeber und Auftragnehmer gewünscht. Hauptaugenmerk der Projektschritte a) liegt auf Analyse- und Konzeptionstätigkeiten, mit dem Ziel, dem SAP System der DGUV neue Lösungen zuzuführen. b) liegt darin, dass nach Abnahme der zu a) genannten Tätigkeiten der Auftragnehmer aufgefordert wer-den kann, ein detailliertes Pflichtenheft zu erstellen. c) liegt darin, dass nach Abnahme und Bestätigung dieses Pflichtenheftes der Auftragnehmer zur Umsetzung aufgefordert werden kann. Dabei ist zu beachten, dass Umsetzungsprojekte den regulären Betrieb nur minimal beeinflussen dürfen. Einheitlicher Gesamtprojektleiter Für alle Projekte aus dem Rahmenvertrag ist seitens des Auftragnehmers zusätzlich zur jeweiligen Projektleitung ein einheitlicher Ansprechpartner namentlich zu benennen (einheitlicher Gesamtprojektleiter). Dieser ist für die Klärung organisatorischer Rahmenbedingungen sowie für die Koordination aller für die erfolgreiche Durchführung des Auftrags notwendigen Tätigkeiten verantwortlich. Er soll die zentrale Schnittstelle zwischen der Projektleitung des Auftraggebers und dem Auftragnehmer darstellen. Der einheitliche Gesamtprojektleiter muss über die notwendige Entscheidungskompetenz innerhalb der Organisation des Auftragnehmer verfügen, um auftauchende Fragestellungen schnell und verbindlich beantworten und ggf. auch vor Ort entscheiden zu können. Für Fälle der Abwesenheit des einheitlichen Gesamtprojektleiters ist ein Vertreter namentlich zu benennen. Die telefonische und schriftliche Erreichbarkeit des einheitlichen Gesamtprojektleiters oder seines Vertreters ist sicherzustellen.",
+      "cpv": "72000000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-09",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/393012-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Excel"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "396279-2026",
+      "ref": "396279-2026",
+      "acheteur": "Medizinische Universität Lausitz - Carl Thiem KdöR",
+      "objet": "Allemagne – Services de développement de logiciels – Beschaffung von Entwicklungsleistungen für die Digita-lisierung der akademischen Verwaltung auf Basis des koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint.",
+      "description": "Die MUL-CT strebt beim Aufbau der digitalen Universität an, akademische Verwaltungsprozesse zukünftig im koellisch-toolkit/koellisch-core-framework auf Office365/Sharepoint umzusetzen. Dabei wird die Entwicklung einer performanten Informationstechnologie & Aufbau digitaler Plattformen für die akademische Verwaltung definiert, um durch Digitalisierung und Automatisierung schlanke und digitale Verwaltungsprozesse direkt von Beginn an zu entwickeln. Die durch den Auftragnehmer zu erbringende Leistungen beinhaltet die Entwicklung von akademischen Verwaltungsprozessen auf Basis von dem koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint. Folgende Aufgaben sind durch das Projektteam des Auftragnehmers in den zu beauftragenden Projekten zu erbringen: - Architektur & Konzeption: Entwicklung, Implementierung und Weiterentwicklung von digitalen Verwaltungslösungen für die Universität auf Basis des koellisch-Toolkit/Core Framework in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Workflow-Entwicklung: Konzeption und Umsetzung komplexer Workflows inkl. Fristen- und Mandatsverwaltung, Abstimmungs- und Dokumentationsprozessen sowie digitale Akten mit rechtssicherer Dokumentation - Schnittstellen & Integration: Design und Realisierung von Anbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Fehleranalyse & Wartung: Analyse und Behebung von Lösungsfehlern im Ticketsystem inkl. Eskalationsmanagement - Testing & Qualitätsmanagement: Steuerung von Test- und Rollout-Phasen, Qualitätssicherung und Erstellung technischer Dokumentationen - IT-Projektleitung: Übernahme von (Teil-)Projektleitungen im Rahmen der Digitalisierungsprojekte der MUL-CT Tätigkeiten, die während der Digitalisierungsvorhaben der MUL-CT zu erwarten und von jeweiligen Entwickler:in köllisch-toolkit/köllisch-core-framework zu übernehmen sind: - Konzeption, Implementierung und Weiterentwicklung von Lösungen auf Basis des köllisch-Toolkit/Core Frameworks in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Realisierung von Workflows und digitalen Akten inkl. Fristen- und Mandatsverwaltung, rechtssicherer Dokumentation, Abstimmungs- und Sitzungsorganisation - Analyse und Behebung von Lösungsfehlern im Rahmen des Ticketsystems, inkl. Eskalationsmanagement und Support bei Fehlertickets - Mitwirkung bei Schnittstellenanbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Übernahme von (Teil-)Projektleitungen in Digitalisierungsprojekten inkl. Steuerung von Test- und Rollout-Phasen - Planung, Durchführung und Dokumentation von Test- und Qualitätssicherungsmaßnahmen (funktionales Testing, Abnahmetests, Regressionstests) - Durchführung von Schulungen und Workshops für unterschiedliche Zielgruppen (Key-User, Gremienmitglieder, Verwaltung, interne IT) - Coaching und Training interner IT-Mitarbeitender zur Förderung des nachhaltigen Kompetenzaufbaus",
+      "cpv": "72262000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-10",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/396279-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Microsoft Office",
+        "Office 365"
       ],
       "bureautique": true,
       "score": 65,

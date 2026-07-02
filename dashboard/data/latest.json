@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-07-01T09:44:12.108Z",
+  "generated_at": "2026-07-02T08:57:00.158Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 23,
+      "matched": 17,
       "go": 1,
-      "generated_at": "2026-07-01T09:37:05.836Z"
+      "generated_at": "2026-07-02T08:48:46.712Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-01T09:43:55.098Z"
+      "generated_at": "2026-07-02T08:55:43.399Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-01T09:44:12.057Z"
+      "generated_at": "2026-07-02T08:57:00.106Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 22,
+  "total_matched": 16,
   "total_go": 1,
   "total_dedup_collisions": 1,
   "dedup_breakdown": {
@@ -110,68 +110,6 @@
       "publication": "2026-06-05",
       "source": "TED",
       "url": "https://ted.europa.eu/fr/notice/-/detail/387150-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 74,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "373853-2026",
-      "ref": "373853-2026",
-      "acheteur": "Omgevingsdienst Zuidoost Brabant",
-      "objet": "Pays-Bas – Services de technologies de l'information – ICT-beheerdiensten ODZOB",
-      "description": "Het doel van deze aanbesteding is het borgen van een kwalitatief hoogwaardig, toekomstbestendig en efficiënt ICT-beheer, waarbij duidelijke verantwoordelijkheden zijn belegd en tegelijkertijd de samenhang binnen het ICT-landschap behouden blijft.   De aanbestedende dienst streeft naar een inrichting waarbij het technisch beheer van de ICT-omgeving op een professionele en stabiele wijze wordt uitgevoerd, terwijl de organisatie zelf de regie houdt over beleid, prioriteiten en leveranciers.",
-      "cpv": "72222300",
-      "pays": "NLD",
-      "deadline": "2026-09-17",
-      "montant": 5700,
-      "publication": "2026-06-01",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/373853-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 74,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "374555-2026",
-      "ref": "374555-2026",
-      "acheteur": "Landelijk Bureau Inning Onderhoudsbijdragen",
-      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Levering, implementatie, hosting, beheer, onderhoud en doorontwikkeling van een nieuw zaaksysteem incl. financiële stroom rondom de zaak",
-      "description": "Levering, implementatie, hosting, beheer, onderhoud en doorontwikkeling van een nieuw zaaksysteem incl. financiële stroom rondom de zaak De eenmalige kosten voor levering en implementatie worden geraamd op € 450.000,- excl. btw. De structurele, jaarlijkse kosten voor onder meer hosting, beheer, onderhoud en doorontwikkeling incl. financiële stroom worden geraamd op € 250.000,- excl. btw per jaar. Daarbij dient uitgegaan te worden van 100 benodigde licenties.",
-      "cpv": "72200000",
-      "pays": "NLD",
-      "deadline": "2026-09-07",
-      "montant": 4950,
-      "publication": "2026-06-01",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/374555-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -284,99 +222,6 @@
       "auto": true
     },
     {
-      "id": "370848-2026",
-      "ref": "370848-2026",
-      "acheteur": "Ministerie van Algemene Zaken",
-      "objet": "Pays-Bas – Services de campagne publicitaire – Campagnedienstverlening",
-      "description": "Het bieden van full-service campagnedienstverlening door de inzet van eigen of extern aangetrokken specialisten, die op basis van beleids- en communicatiedoelstellingen en doelgroep- en gedragsinzichten effectieve crossmediale campagnes voor de Rijksoverheid ontwikkelen, realiseren en continu optimaliseren, met een sterke focus op strategie, creatie en projectmanagement, voor campagnes die bij DPC zijn aangemeld volgens de geldende aanmeldprocedure. Opdrachtnemer moet in staat zijn om maatwerk te bieden aan een scala aan Nadere opdrachtgevers in een politiek bestuurlijke context, diverse vormen van dienstverlening, verschillende wijzen van organisatie van de samenwerking met Nadere opdrachtgever en verscheidenheid in prijs/kwaliteitverhouding. Zie voor verdere, uitgebreide beschrijving van de Opdracht het Selectiedocument/Beschrijvend document. De geraamde waarde van de raamovereenkomst is: € 52.000.000,- exclusief btw. Om te voorkomen dat de contractuele maximumwaarde tussentijds wordt overschreden en de raamovereenkomst voor het beoogde einde van de looptijd haar effect zou verliezen, sluiten we de raamovereenkomst af met een maximale opdrachtwaarde van € 70.000.000, - exclusief btw. Zie voor een verdere, uitgebreide beschrijving van de omvang/hoeveelheid het Selectiedocument en/of het Beschrijvend document.",
-      "cpv": "79341400",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 52000,
-      "publication": "2026-06-01",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/370848-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "387509-2026",
-      "ref": "387509-2026",
-      "acheteur": "Gemeente Leidschendam-Voorburg",
-      "objet": "Pays-Bas – Services informatiques – Netwerk- en securitybeheer",
-      "description": "De gemeente Leidschendam‑Voorburg is voornemens een opdracht te gunnen aan KPN voor het treffen van tijdelijke overbruggingsmaatregelen in de netwerk- en securityomgeving. Deze maatregelen omvatten onder meer de vervanging van het externe firewallcluster, de tijdelijke verlenging van licenties en support voor netwerkcomponenten en de implementatie van een oplossing voor e‑mailbeveiliging. De gemeente past voor deze gunning de onderhandelingsprocedure zonder voorafgaande aankondiging toe op grond van artikel 2.32 lid 1 van de Aanbestedingswet 2012, wegens dwingende spoed die niet aan de aanbestedende dienst is te wijten, in combinatie met technische en operationele afhankelijkheden binnen de bestaande ICT‑omgeving. De betreffende systemen bereiken in 2026 hun End of Life / End of Support. Het gebruik van niet‑ondersteunde systemen is niet verenigbaar met geldende wet- en regelgeving (BIO en NIS2) en brengt onaanvaardbare risico’s met zich mee voor de continuïteit en beveiliging van de gemeentelijke dienstverlening. Gelijktijdig loopt een aanbestedingstraject voor het structurele ICT‑beheer, waardoor de benodigde maatregelen niet tijdig via een reguliere aanbestedingsprocedure kunnen worden gerealiseerd. KPN is als huidige leverancier en beheerpartij volledig bekend met de bestaande infrastructuur en configuraties. De gevraagde maatregelen sluiten direct aan op deze omgeving. Inschakeling van een andere partij zou leiden tot aanzienlijke implementatierisico’s, vertraging en hogere kosten, en daarmee tot een verhoogd risico voor de continuïteit en beveiliging van de dienstverlening. Op basis van deze omstandigheden is de gemeente van oordeel dat alleen KPN de opdracht kan uitvoeren zonder disproportionele risico’s. De opdracht heeft een tijdelijk en strikt noodzakelijk overbruggend karakter. Na publicatie van dit bericht wordt een wachttijd van tien kalenderdagen gehanteerd alvorens tot definitieve gunning wordt overgegaan.",
-      "cpv": "72500000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 258,
-      "publication": "2026-06-05",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/387509-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "371855-2026",
-      "ref": "371855-2026",
-      "acheteur": "R.E.T. N.V.",
-      "objet": "Pays-Bas – Services de développement de logiciels utilitaires d'impression – Levering van Multifunctionals, cloudbased printmanagementsoftware en all-in onderhoud en service",
-      "description": "RET is voornemens een Overeenkomst te sluiten met één Opdrachtnemer voor het leveren van printdienstverlening. Deze dienstverlening omvat de levering en huur van multifunctionals, cloudbased print- en scanmanagementsoftware, all-in onderhoud en aanverwante diensten. Binnen de scope van de Overeenkomst vallen de volgende onderdelen: - De levering van (repro)multifunctionals en printers op basis van huur. - Het beschikbaar stellen en onderhouden van print- en scanmanagementsoftware ten behoeve van autorisatie en beveiligd printen via follow-me (pull print). - De implementatie van de systemen en voorzieningen die onderdeel uitmaken van de Overeenkomst. - Het verzorgen van de eventueel benodigde opleidingen ten behoeve van gebruikers en/of beheerders. - Het verrichten van onderhoud en servicewerkzaamheden aan de geleverde apparatuur. - Het leveren van verbruiksmaterialen die direct gerelateerd zijn aan de serviceverlening, zoals tonerrestbakken. - Het centraal beheren en monitoren van de apparatuur door middel van een managementtool. - Het leveren van een maandelijkse rapportage uit deze tool Optionele dienstverlening: 1. Na afloop van het huidige plottercontract (2027/2028) kunnen er onder deze te sluiten overeenkomst ook plotters worden afgenomen. - De leverancier kan ondersteuning bieden bij de inrichting van thuiswerkplekken. - Het leveren van printer- en kopieerpapier Buiten de scope van de Opdracht vallen: - Het leveren van drukwerk. - Het leveren van labelprinters en barcodeprinters.",
-      "cpv": "72212772",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 327,
-      "publication": "2026-06-01",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/371855-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "392494-2026",
       "ref": "392494-2026",
       "acheteur": "Ministerium für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz des Landes Brandenburg",
@@ -429,6 +274,38 @@
       "score_detail": {
         "fit": 30,
         "size": 10,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "396279-2026",
+      "ref": "396279-2026",
+      "acheteur": "Medizinische Universität Lausitz - Carl Thiem KdöR",
+      "objet": "Allemagne – Services de développement de logiciels – Beschaffung von Entwicklungsleistungen für die Digita-lisierung der akademischen Verwaltung auf Basis des koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint.",
+      "description": "Die MUL-CT strebt beim Aufbau der digitalen Universität an, akademische Verwaltungsprozesse zukünftig im koellisch-toolkit/koellisch-core-framework auf Office365/Sharepoint umzusetzen. Dabei wird die Entwicklung einer performanten Informationstechnologie & Aufbau digitaler Plattformen für die akademische Verwaltung definiert, um durch Digitalisierung und Automatisierung schlanke und digitale Verwaltungsprozesse direkt von Beginn an zu entwickeln. Die durch den Auftragnehmer zu erbringende Leistungen beinhaltet die Entwicklung von akademischen Verwaltungsprozessen auf Basis von dem koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint. Folgende Aufgaben sind durch das Projektteam des Auftragnehmers in den zu beauftragenden Projekten zu erbringen: - Architektur & Konzeption: Entwicklung, Implementierung und Weiterentwicklung von digitalen Verwaltungslösungen für die Universität auf Basis des koellisch-Toolkit/Core Framework in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Workflow-Entwicklung: Konzeption und Umsetzung komplexer Workflows inkl. Fristen- und Mandatsverwaltung, Abstimmungs- und Dokumentationsprozessen sowie digitale Akten mit rechtssicherer Dokumentation - Schnittstellen & Integration: Design und Realisierung von Anbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Fehleranalyse & Wartung: Analyse und Behebung von Lösungsfehlern im Ticketsystem inkl. Eskalationsmanagement - Testing & Qualitätsmanagement: Steuerung von Test- und Rollout-Phasen, Qualitätssicherung und Erstellung technischer Dokumentationen - IT-Projektleitung: Übernahme von (Teil-)Projektleitungen im Rahmen der Digitalisierungsprojekte der MUL-CT Tätigkeiten, die während der Digitalisierungsvorhaben der MUL-CT zu erwarten und von jeweiligen Entwickler:in köllisch-toolkit/köllisch-core-framework zu übernehmen sind: - Konzeption, Implementierung und Weiterentwicklung von Lösungen auf Basis des köllisch-Toolkit/Core Frameworks in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Realisierung von Workflows und digitalen Akten inkl. Fristen- und Mandatsverwaltung, rechtssicherer Dokumentation, Abstimmungs- und Sitzungsorganisation - Analyse und Behebung von Lösungsfehlern im Rahmen des Ticketsystems, inkl. Eskalationsmanagement und Support bei Fehlertickets - Mitwirkung bei Schnittstellenanbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Übernahme von (Teil-)Projektleitungen in Digitalisierungsprojekten inkl. Steuerung von Test- und Rollout-Phasen - Planung, Durchführung und Dokumentation von Test- und Qualitätssicherungsmaßnahmen (funktionales Testing, Abnahmetests, Regressionstests) - Durchführung von Schulungen und Workshops für unterschiedliche Zielgruppen (Key-User, Gremienmitglieder, Verwaltung, interne IT) - Coaching und Training interner IT-Mitarbeitender zur Förderung des nachhaltigen Kompetenzaufbaus",
+      "cpv": "72262000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-10",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/396279-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Microsoft Office",
+        "Office 365"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -650,68 +527,6 @@
         "com": 5,
         "admin": 7,
         "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "373729-2026",
-      "ref": "373729-2026",
-      "acheteur": "Kreis Recklinghausen, Der Landrat",
-      "objet": "Allemagne – Séminaires de formation – Arbeitsmarktdienstleistung: Berufsausbildung in außerbetrieblichen Einrichtungen (BaE kooperativ)",
-      "description": "Leistungsgegenstand ist die Durchführung von Berufsausbildungen in außerbetrieblichen Einrichtungen (BaE) nach § 16 Abs. 1 SGB II i.V.m. § 76 SGB III und §§ 4, 5 Abs. 2 ff Berufsbildungsgesetz (BBiG)/§§ 25, 26 Abs. 2 ff Handwerksordnung (HwO) - allgemeine Berufsausbildung einschließlich Stufenausbildung - und §§ 64 ff BBiG/§§ 42 Buchst. k-m HwO. BaE nach § 76 SGB III zielen darauf ab, Auszubildenden, die aufgrund einer Lernbeeinträchtigung oder sozialer Benachteiligungen besonderer Hilfen bedürfen, durch Berufsausbildung in einer außerbetrieblichen Einrichtung die Aufnahme, Fortsetzung sowie den erfolgreichen Abschluss einer Berufsausbildung zu ermöglichen. Es sind alle Möglichkeiten wahrzunehmen, um den Übergang der Teilnehmenden auf einen betrieblichen Ausbildungsplatz zu fördern. Im kooperativen Modell werden die Ausbildungsinhalte unter Einbeziehung von Kooperationsbetrieben vermittelt, welche die Eignung nach §§ 27 ff BBiG/§§ 21 ff HwO besitzen. Die beauftragte Organisation ist neben der Gewinnung der Kooperationsbetriebe für die möglichst frühzeitige Vermittlung in betriebliche Ausbildung - vorzugsweise in den Kooperationsbetrieb-, sowie für die Koordinierung der Ausbildung mit allen beteiligten Stellen - insbesondere auch mit der Berufsschule - verantwortlich und unterstützt diese in ihrer Aufgabenwahrnehmung insbesondere durch fachtheoretische Unterweisung sowie sozialpädagogische Begleitung. Die fachpraktische Unterweisung in den betrieblichen Ausbildungsphasen wird aus-schließlich durch den Kooperationsbetrieb durchgeführt. Die beauftragte Organisation sowie die Kooperationsbetriebe haben die aktuell gültigen Ausbildungsordnungen/Ausbildungsregelungen der einzelnen Berufsausbildungen anzuwenden. Teilnehmende sind unabhängig von der erreichten Schulbildung Jugendliche und junge Erwachsene ohne berufliche Erstausbildung, die die allgemeine Schulpflicht erfüllt haben. Zum förderungsfähigen Personenkreis gehören Lernbeeinträchtigte und sozial benachteiligte Jugendliche, die wegen der in ihrer Person liegenden Gründe auch mit ausbildungsfördernden Leistungen nicht in eine Ausbildungsstelle in einem Betrieb vermittelt werden können und deswegen auf eine außerbetriebliche Einrichtung angewiesen sind. Auszubildende, deren betriebliches oder außerbetriebliches Berufsausbildungsverhältnis vorzeitig gelöst worden ist und deren Eingliederung in betriebliche Berufsausbildung auch mit ausbildungsfördernden Leistungen aussichtslos ist, können ihre Berufsausbildung in einer außerbetrieblichen Einrichtung fortsetzen, wenn zu erwarten ist, dass die Berufsausbildung erfolgreich abgeschlossen werden kann. Einzelheiten sind der Leistungsbeschreibung zu entnehmen.",
-      "cpv": "80522000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-06-01",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/373729-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "370913-2026",
-      "ref": "370913-2026",
-      "acheteur": "Gemeente Nijkerk",
-      "objet": "Pays-Bas – Services relatifs aux logiciels – Financieel Systeem",
-      "description": "De gemeente Nijkerk is voornemens om een overeenkomst af te sluiten met een samenwerkingspartner voor de levering en implementatie van een financieel systeem. Op het moment maakt de gemeente gebruik van ons huidige financiële systeem van leverancier Centric, maar deze overeenkomst loopt binnenkort af. We zijn op zoek naar een samenwerkingspartner die begrijpt waar onze behoeften liggen en die samen met ons ervoor zorgt dat we worden ondersteund bij het betrouwbaar, transparant en efficiënt uitvoeren van onze financiële taken. 1",
-      "cpv": "72260000",
-      "pays": "NLD",
-      "deadline": "2026-06-15",
-      "montant": 0,
-      "publication": "2026-06-01",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/370913-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
       },
       "score_status": "cond",
       "notes": "",

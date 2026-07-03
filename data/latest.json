@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-07-02T08:57:00.158Z",
+  "generated_at": "2026-07-03T09:02:42.220Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 17,
+      "matched": 18,
       "go": 1,
-      "generated_at": "2026-07-02T08:48:46.712Z"
+      "generated_at": "2026-07-03T08:55:05.125Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-02T08:55:43.399Z"
+      "generated_at": "2026-07-03T09:02:11.049Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-02T08:57:00.106Z"
+      "generated_at": "2026-07-03T09:02:42.167Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 16,
+  "total_matched": 17,
   "total_go": 1,
   "total_dedup_collisions": 1,
   "dedup_breakdown": {
@@ -123,6 +123,37 @@
         "com": 5,
         "admin": 7,
         "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "399649-2026",
+      "ref": "399649-2026",
+      "acheteur": "AG Digipolis Antwerpen",
+      "objet": "Belgique – Services de programmation et de conseil en logiciels – Raamovereenkomst voor de aankoop van gebruiksrechten op Software",
+      "description": "Google softwarelicenties / Salesforce softwarelicenties / Diverse softwarelicenties – een softwarebroker, waarbij de aanbestedende overheid op een snelle en efficiënte manier software kan aankopen en ondersteund wordt in het operationeel beheer hiervan, inclusief renewals met alle administratieve ondersteuning (waaronder b.v. het bijhouden van een inventaris). Momenteel worden er meer dan 140 tal verschillende softwares aangeschaft binnen Digipolis en Groep Antwerpen. De huidige top 11 voor dit perceel zijn volgende: • Atlassian • Kong • Redgate SQL Monitor • Elephantastic • Hoxhunt • ClickUp Enterprise • Graykey • Elastic Platinum • Odoo • Canva Enterprise • Freshworks Naast deze software van de grote softwarefabrikanten zijn er ook nog vele middelgrote softwares als kleine meer niche software in scope, waarbij sommigen alleen via een creditcard moeten aangekocht worden.",
+      "cpv": "72200000",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 32000,
+      "publication": "2026-06-11",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/399649-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",

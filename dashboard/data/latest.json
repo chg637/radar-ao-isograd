@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-07-03T09:02:42.220Z",
+  "generated_at": "2026-07-04T08:36:50.368Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 18,
+      "matched": 21,
       "go": 1,
-      "generated_at": "2026-07-03T08:55:05.125Z"
+      "generated_at": "2026-07-04T08:29:55.994Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-03T09:02:11.049Z"
+      "generated_at": "2026-07-04T08:36:49.727Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-03T09:02:42.167Z"
+      "generated_at": "2026-07-04T08:36:50.239Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 17,
+  "total_matched": 21,
   "total_go": 1,
-  "total_dedup_collisions": 1,
+  "total_dedup_collisions": 0,
   "dedup_breakdown": {
     "by_id": 0,
-    "fuzzy_signature": 1,
+    "fuzzy_signature": 0,
     "fuzzy_jaccard": 0
   },
   "notices": [
@@ -63,6 +63,37 @@
         "delay": 5
       },
       "score_status": "go",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "403850-2026",
+      "ref": "403850-2026",
+      "acheteur": "Gemeente Epe",
+      "objet": "Pays-Bas – Logiciels et systèmes d'information – Europees openbare aanbesteding - Vakapplicatie Sociaal Domein",
+      "description": "De opdracht betreft de levering, implementatie en het beheer van een vakapplicatie voor het sociaal domein waarmee de gemeente Epe de uitvoering van de Wmo en Jeugdwet integraal wil ondersteunen. Met de inschrijver die als tweede eindigt wordt een wachtkamerovereenkomst gesloten. Deze opdracht is een overheidsopdracht voor diensten met een geraamde waarde van € 1.250.000,- exclusief BTW, gebaseerd op de maximale looptijd van 12 jaar.",
+      "cpv": "48000000",
+      "pays": "NLD",
+      "deadline": "2026-09-03",
+      "montant": 1250,
+      "publication": "2026-06-12",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/403850-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 74,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
       "notes": "",
       "auto": true
     },
@@ -123,6 +154,68 @@
         "com": 5,
         "admin": 7,
         "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "404140-2026",
+      "ref": "404140-2026",
+      "acheteur": "Gemeente Amsterdam",
+      "objet": "Pays-Bas – Services d'enseignement et de formation – Financiële coaching 18-/18+ op VSO, PRO en ISK onderwijs",
+      "description": "In het kader van deze Aanbesteding is Opdrachtgever voornemens financiële coaching 18-/18+ voor het PRO/VSO en ISK in te kopen. De Opdracht wordt geplaatst door de gemeente Amsterdam en Samenwerkingsverband voortgezet onderwijs Amsterdam-Diemen gezamenlijk. De gemeente is voor deze aanbesteding aanspreekpunt. De gemeente Amsterdam vindt het belangrijk dat jongeren voldoende voorbereid zijn op de financiële verantwoordelijkheden die zij krijgen wanneer zij 18 jaar worden. Gemeente Amsterdam beoogt een opdracht te verstrekken aan één aanbieder voor het geven van financiële coaching op het PRO/VSO en ISK. Zij zoekt daartoe een partner die Financiële coaching kan bieden aan kwetsbare leerlingen bij de overgang van 18- naar 18+. Het gaat daarbij in ieder geval om het delen van kennis over en de ondersteuning bij het aanvragen van:  Zorgverzekering  Toeslagen, waaronder zorgtoeslag  DigiD   Bankpas (zaken)  Vergunningen  Tegemoetkoming scholieren  Studiefinanciering  OV- producten  BSN  Woningnet  Kennis vergroten sociale kaart (onder andere buurtteam, jongerenpunt, etc)  Basiskennis over juridische zaken zoals boetes en fraude ….. Naast het ondersteunen/ coachen bij het aanvragen bij bovenstaande is het doel ook om de jongeren financieel zelfredzamer te maken door het vergroten van het netwerk van jongeren en waar mogelijk ook een warme overdracht. Buiten de scope van deze opdracht valt: Budgetcoaching op mbo-scholen (hier is een andere raamovereenkomst voor); Financiële educatie op VO-scholen (hier is een andere raamovereenkomst voor).",
+      "cpv": "80000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 2000,
+      "publication": "2026-06-12",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/404140-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "404378-2026",
+      "ref": "404378-2026",
+      "acheteur": "Anculus B.V. / SPO Utrecht",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – SPO Utrecht- Raamovereenkomst voor ICT dienstverlening",
+      "description": "SPO Utrecht is voornemens een opdrachtnemer te selecteren waarmee een raamovereenkomst wordt gesloten voor het verzorgen van ICT-dienstverlening",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 1320,
+      "publication": "2026-06-12",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/404378-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -243,6 +336,37 @@
       "score_detail": {
         "fit": 30,
         "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "404978-2026",
+      "ref": "404978-2026",
+      "acheteur": "Gemeente Huizen",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Telefonie oplossing",
+      "description": "De doelstelling van deze Europese openbare aanbesteding is het selecteren en contracteren van een Inschrijver voor het leveren, implementeren en onderhouden van een Software-as-a Service applicatie ten behoeve van telefonie. Huidige situatie De gemeente Huizen gebruikt geruime tijd een telefooncentrale van Mitel. In 2022 zijn we overgestapt van vaste toestellen naar het gebruik van mobiele toestellen in combinatie met de mobiele app MiCollab. Dit was een stap vooruit ten opzichte van de eerdere situatie. Recent is gebleken dat de huidige oplossing een aantal nadelen heeft: • De huidige telefooncentralesoftware Mitel draait on-premises en is afhankelijk van een lokale domeinserver. Het huidige systeem past niet binnen de eisen die we hebben gesteld aan onze nieuwe ICT-dienstverlener. Vervanging is daarom noodzakelijk. • De agenda-integratie tussen Mitel en Microsoft 365 is niet betrouwbaar en gebruikers moeten deze vaak handmatig herstellen om up-to-date agenda informatie te delen. • De huidige mobiele app is dusdanig gebruikersonvriendelijk, dat deze omzeilt wordt door medewerkers. Hierdoor wordt het telefoniebeleid van de gemeente niet nageleefd. • Het gebruik van deze mobiele app is noodzakelijk om uit te bellen met het vaste telefoonnummer (035 – 528 1X XX). Omdat veel gebruikers de app niet gebruiken, bellen zij uit met hun 06-nummer. Ook dit gaat in tegen het telefoniebeleid van de gemeente. • De gemeente heeft een overeenkomst voor vaste telefonie via GT Vast met Vodafone Ziggo. Het betreft +/- 450 telefoonnummers. • De gemeente heeft een overeenkomst voor mobiele telefonie via GT Mobiel 3 met Odido. Het betreft +/- 450 telefoonnummers.",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 300,
+      "publication": "2026-06-12",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/404978-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,

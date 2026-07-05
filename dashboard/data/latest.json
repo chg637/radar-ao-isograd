@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-07-04T08:36:50.368Z",
+  "generated_at": "2026-07-05T08:52:54.965Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 21,
+      "matched": 23,
       "go": 1,
-      "generated_at": "2026-07-04T08:29:55.994Z"
+      "generated_at": "2026-07-05T08:46:12.949Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-04T08:36:49.727Z"
+      "generated_at": "2026-07-05T08:52:54.571Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-04T08:36:50.239Z"
+      "generated_at": "2026-07-05T08:52:54.834Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 21,
+  "total_matched": 23,
   "total_go": 1,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -53,14 +53,14 @@
         "DigComp"
       ],
       "bureautique": false,
-      "score": 77,
+      "score": 75,
       "score_detail": {
         "fit": 40,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 3
       },
       "score_status": "go",
       "notes": "",
@@ -315,27 +315,27 @@
       "auto": true
     },
     {
-      "id": "382695-2026",
-      "ref": "382695-2026",
-      "acheteur": "Ministerie van Sociale Zaken en Werkgelegenheid",
-      "objet": "Pays-Bas – Services de maintenance des systèmes et services d'assistance – DSU Managed Hosting en Beheer",
-      "description": "Het doel van deze Aanbesteding is het selecteren van één leverancier voor het leveren van ICT-dienstverlening op het gebied van managed hosting en beheer. De geraamde waarde van de Opdracht bedraagt gemiddeld € 800.000 (achthonderdduizend euro) exclusief btw per jaar, derhalve totaal € 8.000.000 (acht miljoen euro) exclusief btw over een looptijd van 10 (tien) jaar. Indien en voorzover de overeenkomst als een raamovereenkomst zou worden aangemerkt, geldt een maximale omvang van € 12.000.000 (twaalf miljoen euro).",
-      "cpv": "72250000",
+      "id": "407819-2026",
+      "ref": "407819-2026",
+      "acheteur": "Gemeente Utrecht",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – End users perspective",
+      "description": "De gemeente Utrecht wil een overeenkomst afsluiten voor een ICT-prestatie ten behoeve van ketenmonitoring vanuit de End User Perspective, inclusief implementatie door de leverancier en ondersteuning bij eventuele migraties en hulpvragen. Omvang wordt bepaald door aantal uit te voeren testen; jaarlijks maximaal 2.2 miljoen testen.",
+      "cpv": "72000000",
       "pays": "NLD",
       "deadline": "",
-      "montant": 12000,
-      "publication": "2026-06-04",
+      "montant": 221,
+      "publication": "2026-06-15",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/382695-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/407819-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
       "bureautique": true,
-      "score": 72,
+      "score": 70,
       "score_detail": {
         "fit": 30,
-        "size": 15,
+        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -371,6 +371,37 @@
         "com": 5,
         "admin": 7,
         "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "406109-2026",
+      "ref": "406109-2026",
+      "acheteur": "Presidencia de la Diputación Provincial de Pontevedra",
+      "objet": "Espagne – Logiciels et systèmes d'information – Suministro de licencias Microsoft y servicios asociados a productos de Microsoft para la Diputación de Pontevedra",
+      "description": "Suministro de licencias Microsoft. / Servicio de migración del sistema de correo electrónico Microsoft Exchange a Office 365 en Cloud de Microsoft Azure.",
+      "cpv": "48000000",
+      "pays": "ESP",
+      "deadline": "2026-07-13",
+      "montant": 1129,
+      "publication": "2026-06-12",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/406109-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Office 365"
+      ],
+      "bureautique": true,
+      "score": 69,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
       },
       "score_status": "cond",
       "notes": "",
@@ -679,6 +710,37 @@
         "fit": 30,
         "size": 8,
         "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "407042-2026",
+      "ref": "407042-2026",
+      "acheteur": "ORES SC",
+      "objet": "Belgique – Services de logiciels de gestion de réseau – Marché de services relatifs à un système de Gouvernance et Administration des Identités (IGA)",
+      "description": "Ce dossier d’achat a pour objet les services relatifs à un système IGA (Identity Governance & Administration) . Un système IGA est un dispositif centralisé permettant de gérer, contrôler et sécuriser les accès des collaborateurs aux outils numériques de l’entreprise. Il constitue un pilier essentiel de la cybersécurité, de la conformité réglementaire et de l’efficacité opérationnelle. Périmètre fonctionnel visé Le système IGA attendu devra couvrir les fonctions suivantes, considérées comme socle de gouvernance des identités et des accès : • Gestion du cycle de vie des identités (processus Joiner / Mover / Leaver) ; • Portail d’accès ergonomique pour les utilisateurs métiers (demandes, validations, campagnes) ; • Gestion des demandes d’accès et du catalogue d’habilitations ; • Campagnes de revue de droits (recertifications périodiques) ; • Gestion des règles de séparation des tâches (SoD) et des accès sensibles ; • Journalisation exhaustive et génération de rapports d’audit ; • Connecteurs standards vers les systèmes cibles (ex : Active Directory / Entra ID, Microsoft 365, ITSM, SAP4ANA, Success Factors) ; • Gestion des identités non humaines (comptes techniques, services, API, etc.) ; • Modélisation des rôles, gestion des attributions, reprise des objets SAP IDM existants ; • Support des exigences de conformité (NIS2, RGPD, contrôles internes) ; • Capacité à s’intégrer dans un environnement IT/OT segmenté, avec contraintes de connectivité, de sécurité et de souveraineté. Ce périmètre fonctionnel constitue la base des exigences attendues.",
+      "cpv": "72511000",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-15",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/407042-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "habilitation"
+      ],
+      "bureautique": false,
+      "score": 62,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 14,
         "com": 5,
         "admin": 7,
         "delay": 3

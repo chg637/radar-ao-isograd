@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-07-05T08:52:54.965Z",
+  "generated_at": "2026-07-06T10:14:47.199Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 23,
+      "matched": 21,
       "go": 1,
-      "generated_at": "2026-07-05T08:46:12.949Z"
+      "generated_at": "2026-07-06T10:07:35.845Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-05T08:52:54.571Z"
+      "generated_at": "2026-07-06T10:14:46.599Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-05T08:52:54.834Z"
+      "generated_at": "2026-07-06T10:14:47.096Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 23,
+  "total_matched": 21,
   "total_go": 1,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -129,31 +129,31 @@
       "auto": true
     },
     {
-      "id": "387150-2026",
-      "ref": "387150-2026",
-      "acheteur": "Stichting Routerings Instituut (Inter)Nationale Informatiestromen (Stichting Rinis)",
-      "objet": "Pays-Bas – Systèmes d'information et serveurs – Datacenter en Netwerk Hardware",
-      "description": "Stichting Routerings Instituut (Inter)Nationale Informatiestromen zoekt twee (2) marktpartijen om een raamovereenkomst mee af te sluiten ten behoeve van de levering van datacenter en netwerk hardware, specifiek ten aanzien van servers en storage, inclusief bijbehorende dienstverlening. De opdrachtwaarde wordt geraamd op circa € 4.500.000,- (excl. BTW) per jaar en de totale waarde van de opdracht over vier (4) jaar wordt geraamd op circa € 18.000.000,- (excl. BTW). Ingeval RINIS op meer dan 200% van de door haar hierboven genoemde totale contractwaarde uitkomt zal er een nieuwe aanbesteding worden opgezet. De maximale afname onder de raamovereenkomst bedraagt daarmee €36.000.000,- (excl. BTW).",
-      "cpv": "48800000",
+      "id": "410053-2026",
+      "ref": "410053-2026",
+      "acheteur": "Waterschap Rivierenland",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Raamovereenkomst dataplatformpartner",
+      "description": "Dit betreft een Europese aanbesteding voor het sluiten van een raamovereenkomst met één deskundige partner voor de technische ontwikkeling, uitbreiding, integratie, ondersteuning en het beheer van het SAS‑Dataplatform. De opdracht omvat het verder professionaliseren van het dataplatform, het realiseren van veilige en toekomstbestendige koppelingen met diverse bronsystemen, en het ondersteunen van Opdrachtgever in datagedreven werken. De raamovereenkomst heeft een initiële looptijd van drie jaar, met de mogelijkheid tot twee keer één jaar verlenging. Hiermee beoogt WSRL een duurzame samenwerking die bijdraagt aan stabiliteit, schaalbaarheid en doorontwikkeling van het dataplatform. Zie aanbestedingsleidraad voor de inhoudelijke beschrijving. De Algemene waterschapsinkoopvoorwaarden voor diensten (AWVODI-2018)  zijn van toepassing. Voorwaarden van de Inschrijver of andere algemene voorwaarden worden uitdrukkelijk van de hand gewezen. De Inschrijver dient zich volledig aan de door Waterschap Rivierenland gestelde voorwaarden te conformeren. Door het doen van een inschrijving gaat de Inschrijver daarmee akkoord.",
+      "cpv": "72000000",
       "pays": "NLD",
-      "deadline": "2026-08-24",
-      "montant": 18000,
-      "publication": "2026-06-05",
+      "deadline": "2026-07-27",
+      "montant": 1000,
+      "publication": "2026-06-15",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/387150-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/410053-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
       "bureautique": true,
-      "score": 74,
+      "score": 72,
       "score_detail": {
         "fit": 30,
         "size": 15,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -346,6 +346,37 @@
       "auto": true
     },
     {
+      "id": "409730-2026",
+      "ref": "409730-2026",
+      "acheteur": "Stichting Elektronisch Loket Kernprocedure Amsterdam",
+      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Aankondiging vrijwillige transparantie vooraf - licentie, hosting en ondersteuning van de applicatie Elektronisch Loket Kernprocedure",
+      "description": "Ieder jaar maken in Amsterdam circa 8.000 kinderen de overstap van het primair onderwijs (PO) naar het voortgezet onderwijs (VO). Een kwetsbaar proces dat maatschappelijk en politiek onder een vergrootglas ligt. Het proces van deze overstap is vastgelegd in een zogenoemde kernprocedure. Stichting ELK coördineert jaarlijks het opstellen van de procedure en voert deze uit. Daarbij maakt Stichting ELK gebruik van de applicatie Elektronisch Loket Kernprocedure (ELK). ELK is een beveiligde webapplicatie die het logistieke en onderwijskundige proces van de kernprocedure voor alle scholen in Amsterdam ondersteunt. In het kader van de kernprocedure wisselen basisscholen en scholen in het voortgezet onderwijs via ELK informatie uit over leerlingen die overstappen, zoals basisschooladvies, onderwijskundige informatie, informatie over de ondersteuningsbehoefte van leerlingen, de doorstroomtoetsscores en de doorstroomtoetsrapportages zelf. Ook loopt de oriëntatiefase en aanmelding voor praktijkonderwijs (PrO) en kleinschalig ondersteunend voortgezet onderwijs (kovo) via ELK. De praktijkscholen kunnen de Toelaatbaarheidsverklaringen (TLV’s) vervolgens aanvragen en volgen in ELK vanwege een koppeling met Indigo. ELK wordt gebruikt door ongeveer 230 PO-scholen en meer dan 90 VO-scholen in de regio Amsterdam en Diemen. ELK is gekoppeld aan het centraal loting- en matchingssysteem (MEPS) aan de hand waarvan leerlingen op basis van de door hen ingevulde voorkeuren worden geplaatst op een VO-school in Amsterdam. ELK vormt aldus een onmisbare en cruciale schakel in de jaarlijkse overstap van circa 8.000 basisschoolleerlingen naar het voortgezet (speciaal) onderwijs, het praktijkonderwijs, het kleinschalig ondersteunend voortgezet onderwijs, de internationale schakelklassen en kopklassen. Het is dan ook van het grootste belang dat er in dit overstapproces niets misgaat. De kwaliteit en continuïteit van dit proces zijn cruciaal en moeten te allen tijde worden gegarandeerd. Overeenkomst voor vier jaar, met 2 opties tot verlengen met 2 jaar",
+      "cpv": "72200000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 428,
+      "publication": "2026-06-15",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/409730-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "404978-2026",
       "ref": "404978-2026",
       "acheteur": "Gemeente Huizen",
@@ -439,27 +470,27 @@
       "auto": true
     },
     {
-      "id": "386399-2026",
-      "ref": "386399-2026",
-      "acheteur": "Provincie Noord-Brabant",
-      "objet": "Pays-Bas – Services relatifs aux logiciels – Online Leerplatform",
-      "description": "De levering van een leerplatform voor de Provincie Noord-Brabant (PNB), waarmee aanjagen, organiseren en sturen van leren, ontwikkelen en innoveren in de organisatie kan worden gerealiseerd. Hierbij dient inschrijver een user based licentiemodel (inclusief coulanceregeling van 5% – 10% afwijking) aan te bieden met een minimale afname van 1500 licenties. Het aantal gebruikers kan gedurende de looptijd van de overeenkomst fluctueren door personeelswisselingen. Het aantal licenties wordt jaarlijks gebaseerd op het aantal medewerkers die werkzaam zijn bij de provincie (momenteel zijn dit er 1750).",
-      "cpv": "72260000",
+      "id": "409963-2026",
+      "ref": "409963-2026",
+      "acheteur": "Universiteit Maastricht",
+      "objet": "Pays-Bas – Services d'enseignement supérieur – Huur Toetsmeubilair",
+      "description": "Algemene informatie De Universiteit Maastricht (UM) staat in binnen- en buitenland bekend om haar unieke onderwijssysteem: het probleemgestuurde onderwijs (PGO). Bovendien profileert de UM zich door de sterk internationale oriëntatie. Een toenemend aantal studenten uit zowel heel Nederland als ook het buitenland kiest voor het Maastrichtse systeem.   De UM is de jongste universiteit van Nederland en groeit snel. Er zijn momenteel ruim 23.000 studenten en 5.000 medewerkers. Onderwijs en onderzoek van de UM is voornamelijk georganiseerd op basis van faculteiten en schools.   Meer informatie over de UM is te vinden op de internetsite www.maastrichtuniversity.nl. Inhoud van de Tender Deze aanbesteding richt zich op het in huur leveren, plaatsen en verwijderen van toetsmeubilair en aanverwante dienstverlening. Het toetsmeubilair bestaat uit tafels en stoelen welke volgens een vooraf bekend schema en opstelling van examens en toetsen, tot een maximum van ca. 2000 sets per dag wordt geplaatst. Bovendien dient er een inspectieronde uitgevoerd te worden op het einde van iedere dag dat de opstelling van het toetsmeubilair in de toetshal staat – en dus niet op- of afgebouwd wordt. In het UM Sportcentrum dienen er bovendien matjes onder de stoelen geplaatst te worden ter bescherming van de sportvloer. Tenslotte dienen er UM blokpalen bij de blokken geplaatst te worden t.b.v. informatievoorziening studenten. Doel en beoogd resultaat van de Tender Het doel van deze Offerteaanvraag is het aangaan van een Overeenkomst met één partij. De ingangsdatum van deze overeenkomst is voorzien op 1 oktober 2026 en eindigt, behoudens verlenging, van rechtswege op 30 september 2027. Deze Overeenkomst kan met maximaal 2 maal 1 jaar en 1 maal 1 jaar en 11 mnd worden verlengd. De maximale duur van de Overeenkomst is derhalve 5 jaar en 11 mnd.",
+      "cpv": "80300000",
       "pays": "NLD",
-      "deadline": "",
-      "montant": 210,
-      "publication": "2026-06-05",
+      "deadline": "2026-07-27",
+      "montant": 0,
+      "publication": "2026-06-15",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/386399-2026",
-      "segment": "Autre",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/409963-2026",
+      "segment": "ESR",
       "keyword_hits": [
         "Word"
       ],
       "bureautique": true,
-      "score": 67,
+      "score": 65,
       "score_detail": {
         "fit": 30,
-        "size": 10,
+        "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -607,99 +638,6 @@
       "publication": "2026-06-08",
       "source": "TED",
       "url": "https://ted.europa.eu/fr/notice/-/detail/389391-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "385888-2026",
-      "ref": "385888-2026",
-      "acheteur": "Rijksuniversiteit Groningen",
-      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Marktconsultatie GBS melding 24/7, Functioneel Beheer en systeem Consignatie",
-      "description": "De Rijksuniversiteit Groningen (RUG) beschikt over een omvangrijke en technisch diverse vastgoedportefeuille waarin gebouwgebonden installaties een cruciale rol spelen voor continuïteit, veiligheid, comfort en duurzaamheid. Het Gebouwbeheersysteem (GBS) vormt hierbij een centrale schakel voor monitoring, besturing en signalering van installaties binnen zowel werktuigbouwkundige (W) als elektrotechnische (E) disciplines. De complexiteit van het GBS-landschap is de afgelopen jaren toegenomen door schaalvergroting, diversiteit aan leveranciers en een groeiend aantal meldingen, zowel binnen als buiten reguliere werktijden. Dit leidt tot een verhoogde belasting van interne medewerkers en externe onderhoudspartijen, terwijl niet alle meldingen vooraf inhoudelijk worden beoordeeld op urgentie, oorzaak en contractuele opvolging. Daarnaast constateert de Vastgoedorganisatie dat structurele ondersteuning gewenst is op het gebied van functioneel beheer en consignatie van kritische vastgoedinstallaties. Om deze redenen verkent de RUG via deze marktconsultatie welke mogelijkheden de markt biedt om deze taken (gedeeltelijk) extern te organiseren, op een wijze die duurzaam inpasbaar is binnen de organisatie.",
-      "cpv": "72200000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-06-05",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/385888-2026",
-      "segment": "ESR",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "386129-2026",
-      "ref": "386129-2026",
-      "acheteur": "Stadt Rosbach vor der Höhe",
-      "objet": "Allemagne – Services d'appui aux pouvoirs publics – Stadt Rosbach vor der Höhe - Fördergebietsmanagement",
-      "description": "Die Stadt Rosbach v. d. Höhe ist in das Förderprogramm \"Wachstum und nachhaltige Erneuerung\" aufgenommen worden, dessen Förderzeitraum gemäß RiLiSE grundsätzlich zehn Jahre nicht über-schreiten soll. Spätestens ein Jahr vor Ablauf des Förderzeitraums ist ein Steuerungskonzept zur nachhaltigen Wirkung über den Förderzeitraum hinaus zu erstellen. Die ausgeschriebene Leistung dient der Steuerung, Koordination und förderkonformen Umsetzung der Gesamtmaßnahme inner-halb des Förderzeitraums sowie - soweit beauftragt - der Vorbereitung und Begleitung der Verstetigung. Zur Umsetzung der Gesamtmaßnahme \"Verbunden. Zukunftsstark. Gerecht.\" ist gemäß RiLiSE Nr. 6.5 eine leistungsfähige Steuerungsstruktur aufzubauen. Das Fördergebiet umfasst die historischen Ortskerne von Ober- und Nieder-Rosbach sowie das da-zwischenliegende Gewerbe- und Bahnhofsumfeld. Das Fördergebietsmanagement stellt die zentrale operative Steuerungs- und Koordinierungsstruktur für die gesamte Programmlaufzeit dar. Das Fördergebietsmanagement übernimmt insbesondere die operative Steuerung, Koordination, Umsetzungsbegleitung und Fördermittelkoordination der Ge-samtmaßnahme. Es ist sicherzustellen, dass eine strukturierte, wirtschaftliche, transparente und förderkonforme Umsetzung der Gesamtmaßnahme gewährleistet wird.",
-      "cpv": "75130000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-06-05",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/386129-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "388217-2026",
-      "ref": "388217-2026",
-      "acheteur": "Bundesministerium für Wirtschaft und Energie",
-      "objet": "Allemagne – Services des pouvoirs publics – Projektträgerschaft für die „Industrielle Gemeinschaftsforschung (IGF)“",
-      "description": "Das BMWE hat einen Projektträger mit der Übernahme und Durchführung von Projektträgeraufgaben für die \"Industrielle Gemeinschaftsforschung (IGF)\" beauftrag. Mit dem themenoffenen BMWE-Förderprogramm „Industrielle Gemeinschaftsforschung“ (IGF) werden vorwettbewerbliche Forschungsvorhaben gefördert. Insbesondere kleinen und mittleren Unternehmen (KMU), die sich keine eigene Forschung leisten können, soll durch die IGF ein erleichterter Zugang zu praxisorientierter Forschung verschafft werden.Die Projektträgerschaft soll durch eine sorgfältige fachliche und administrative Planung, Durchführung und Kontrolle einen effizienten Einsatz der Fördermittel gewährleisten und das Bundesministerium für Wirtschaft und Energie (BMWE) von Aufgaben nichtministerieller Art entlasten. Der Projektträger übernimmt insbesondere folgende Aufgaben: Fachliche und administrative Abwicklung der Förderfälle, Berichterstattung, Unterstützung der BMWE-Öffentlichkeitsarbeit zum Förderprogramm, Unterstützung bei der Weiterentwicklung des Förderprogramms und sonstige fachspezifische Unterstützung. Der Projektträger soll gemäß § 44 Abs. 3 BHO beliehen und zugleich gemäß § 44 Abs. 2 BHO mit der treuhänderischen Verwaltung der ihm vom AG zur Verfügung gestellten Mittel beauftragt werden. Auch im Falle einer späteren Beleihung untersteht der AN der Rechts- und Fachaufsicht des BMWE. Im Rahmen der Programmübernahme von der vorhergehenden administrierenden Stelle zum derzeitigen AN sind sowohl ein mengenmäßiger Mehraufwand als auch zusätzliche Leistungen, die nicht in den ursprünglichen Vergabeunterlagen vorgesehen waren, erforderlich geworden, ohne die die Programmübernahme nicht hätte durchgeführt werden können.",
-      "cpv": "75131000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-06-05",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/388217-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"

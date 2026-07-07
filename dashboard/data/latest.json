@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T10:14:47.199Z",
+  "generated_at": "2026-07-07T09:39:02.623Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
@@ -7,21 +7,21 @@
       "fetched": 500,
       "matched": 21,
       "go": 1,
-      "generated_at": "2026-07-06T10:07:35.845Z"
+      "generated_at": "2026-07-07T09:32:14.993Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-06T10:14:46.599Z"
+      "generated_at": "2026-07-07T09:39:02.163Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-06T10:14:47.096Z"
+      "generated_at": "2026-07-07T09:39:02.491Z"
     }
   },
   "total_fetched": 3500,
@@ -305,6 +305,37 @@
       "score_detail": {
         "fit": 30,
         "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "413613-2026",
+      "ref": "413613-2026",
+      "acheteur": "Hoogheemraadschap van Delfland",
+      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Proces Informatie Management Systeem (PIMS)",
+      "description": "Het inrichten van een PIMS voor Delfland op basis van AVEVA PI technologie voor één van de zuiveringsinstallaties (te weten AWZI De Groote Lucht) met daarbij een drietal toepasbare use cases, teneinde te kunnen evalueren of deze opzet van meerwaarde is voor Delfland in het verbeteren van de informatiestromen binnen de organisatie. Delfland heeft het voornemen om procesdata van haar installaties en objecten van het watersysteem en de waterketen te gaan verzamelen en centraal op te slaan. Om hierin een eerste stap te nemen gaat Delfland een pilotproject uitvoeren voor het opzetten van een Proces Informatie Management Systeem (PIMS) voor één van haar zuiveringsinstallaties (AWZI De Groote Lucht), gebaseerd op AVEVA PI Systeem technologie. Voor deze installatie zal tijdens het pilotproject een AVEVA PI Systeem ingericht dienen te worden van maximaal 1.000 meetsignalen (tags) en 10 gebruikers. Tevens zullen een drietal use cases uitgewerkt dienen te worden: • Het beschikbaar stellen van gevalideerde procesdata voor de monitoring van lachgas emissies (te gebruiken door procestechnologen); • Het ontwikkelen van een dashboard in PI Vision voor de monitoring van een beperkt aantal trends en KPI’s (te gebruiken in de regelkamer); • Het opstellen van een rapport met daarin de draaiuren van alle afzonderlijke pompen (te gebruiken door onderhoudspersoneel).",
+      "cpv": "72200000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 331,
+      "publication": "2026-06-17",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/413613-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -610,37 +641,6 @@
       "segment": "Autre",
       "keyword_hits": [
         "Excel"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "389391-2026",
-      "ref": "389391-2026",
-      "acheteur": "Nederlands Instituut Publieke Veiligheid",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – SOC/MDR-diensten voor samenwerkende Veiligheidsregio's en NIPV",
-      "description": "De opdracht betreft het continu monitoren, detecteren en alarmeren van cyberdreigingen binnen de IT-omgevingen van de deelnemers, inclusief implementatie, beheer en doorontwikkeling van security use cases. De baseline dienstverlening bestaat uit Managed Endpoint Detection & Response (M-EDR), aangevuld met optionele diensten zoals SIEM en NDR. De opdracht wordt gegund via een raamovereenkomst met één opdrachtnemer, op basis van de beste prijs-kwaliteitsverhouding. Raamovereenkomst met één opdrachtnemer voor maximaal 12 jaar; maximale opdrachtwaarde €20.150.000 excl. btw",
-      "cpv": "72000000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-06-08",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/389391-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
       ],
       "bureautique": true,
       "score": 65,

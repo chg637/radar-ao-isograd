@@ -1,38 +1,10 @@
 {
-  "generated_at": "2026-07-07T09:39:02.623Z",
-  "source": "MERGE",
-  "sources_summary": {
-    "TED": {
-      "present": true,
-      "fetched": 500,
-      "matched": 21,
-      "go": 1,
-      "generated_at": "2026-07-07T09:32:14.993Z"
-    },
-    "BOAMP": {
-      "present": true,
-      "fetched": 3000,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-07-07T09:39:02.163Z"
-    },
-    "Profil": {
-      "present": true,
-      "fetched": 0,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-07-07T09:39:02.491Z"
-    }
-  },
-  "total_fetched": 3500,
+  "generated_at": "2026-07-07T09:32:14.993Z",
+  "source": "TED",
+  "window_days": 30,
+  "total_fetched": 500,
   "total_matched": 21,
   "total_go": 1,
-  "total_dedup_collisions": 0,
-  "dedup_breakdown": {
-    "by_id": 0,
-    "fuzzy_signature": 0,
-    "fuzzy_jaccard": 0
-  },
   "notices": [
     {
       "id": "391880-2026",
@@ -63,37 +35,6 @@
         "delay": 3
       },
       "score_status": "go",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "403850-2026",
-      "ref": "403850-2026",
-      "acheteur": "Gemeente Epe",
-      "objet": "Pays-Bas – Logiciels et systèmes d'information – Europees openbare aanbesteding - Vakapplicatie Sociaal Domein",
-      "description": "De opdracht betreft de levering, implementatie en het beheer van een vakapplicatie voor het sociaal domein waarmee de gemeente Epe de uitvoering van de Wmo en Jeugdwet integraal wil ondersteunen. Met de inschrijver die als tweede eindigt wordt een wachtkamerovereenkomst gesloten. Deze opdracht is een overheidsopdracht voor diensten met een geraamde waarde van € 1.250.000,- exclusief BTW, gebaseerd op de maximale looptijd van 12 jaar.",
-      "cpv": "48000000",
-      "pays": "NLD",
-      "deadline": "2026-09-03",
-      "montant": 1250,
-      "publication": "2026-06-12",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/403850-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 74,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
       "notes": "",
       "auto": true
     },
@@ -129,18 +70,111 @@
       "auto": true
     },
     {
-      "id": "410053-2026",
-      "ref": "410053-2026",
-      "acheteur": "Waterschap Rivierenland",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Raamovereenkomst dataplatformpartner",
-      "description": "Dit betreft een Europese aanbesteding voor het sluiten van een raamovereenkomst met één deskundige partner voor de technische ontwikkeling, uitbreiding, integratie, ondersteuning en het beheer van het SAS‑Dataplatform. De opdracht omvat het verder professionaliseren van het dataplatform, het realiseren van veilige en toekomstbestendige koppelingen met diverse bronsystemen, en het ondersteunen van Opdrachtgever in datagedreven werken. De raamovereenkomst heeft een initiële looptijd van drie jaar, met de mogelijkheid tot twee keer één jaar verlenging. Hiermee beoogt WSRL een duurzame samenwerking die bijdraagt aan stabiliteit, schaalbaarheid en doorontwikkeling van het dataplatform. Zie aanbestedingsleidraad voor de inhoudelijke beschrijving. De Algemene waterschapsinkoopvoorwaarden voor diensten (AWVODI-2018)  zijn van toepassing. Voorwaarden van de Inschrijver of andere algemene voorwaarden worden uitdrukkelijk van de hand gewezen. De Inschrijver dient zich volledig aan de door Waterschap Rivierenland gestelde voorwaarden te conformeren. Door het doen van een inschrijving gaat de Inschrijver daarmee akkoord.",
+      "id": "403850-2026",
+      "ref": "403850-2026",
+      "acheteur": "Gemeente Epe",
+      "objet": "Pays-Bas – Logiciels et systèmes d'information – Europees openbare aanbesteding - Vakapplicatie Sociaal Domein",
+      "description": "De opdracht betreft de levering, implementatie en het beheer van een vakapplicatie voor het sociaal domein waarmee de gemeente Epe de uitvoering van de Wmo en Jeugdwet integraal wil ondersteunen. Met de inschrijver die als tweede eindigt wordt een wachtkamerovereenkomst gesloten. Deze opdracht is een overheidsopdracht voor diensten met een geraamde waarde van € 1.250.000,- exclusief BTW, gebaseerd op de maximale looptijd van 12 jaar.",
+      "cpv": "48000000",
+      "pays": "NLD",
+      "deadline": "2026-09-03",
+      "montant": 1250,
+      "publication": "2026-06-12",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/403850-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 74,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "391689-2026",
+      "ref": "391689-2026",
+      "acheteur": "Coöperatie Samen Innoveren/Inkopen/Ict voor Onderwijs Nederland UA",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Open keuzecatalogus Leermiddelen",
+      "description": "SIVON beoogt een opdracht in de markt te zetten voor de ontwikkeling, doorontwikkeling en het onderhouden van een open keuzecatalogus leermiddelen. Deze keuzecatalogustool is bedoeld om vaksecties te ondersteunen bij hun keuzeproces voor lesmethoden. De opdracht betreft het ontwikkelen, doorontwikkelen en onderhouden van een keuzecatalogustool voor SIVON en haar leden. SIVON identificeert binnen de opdracht twee hoofdfasen van uitvoering, waarvoor separate overeenkomsten zullen worden afgesloten: * Ontwikkelfase (ontwikkeling en vullen tool) * Onderhoudsfase (doorontwikkeling en onderhoud) - 5 jaar, waarbij SIVON zich het recht voorbehoudt om de overeenkomst 5 keer met 1 jaar te verlengen.",
       "cpv": "72000000",
       "pays": "NLD",
-      "deadline": "2026-07-27",
-      "montant": 1000,
-      "publication": "2026-06-15",
+      "deadline": "",
+      "montant": 1195,
+      "publication": "2026-06-08",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/410053-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/391689-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "393362-2026",
+      "ref": "393362-2026",
+      "acheteur": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
+      "objet": "Pays-Bas – Fournisseurs de services applicatifs – Collectie Informatie Systeem Kunstbeheer 2026",
+      "description": "De Opdracht is integrale dienstverlening (Software as a Service ofwel SaaS) van één leverancier die zorgt voor de software, implementatie, beheer en onderhoud van de applicatie en de databases voor de registratie van de kunst in de Rijksgebouwen. Essentieel is dat het een Nederlandstalige applicatie voor collectiebeheer betreft die in één versie als een onlinedienst aangeboden kan worden aan gebruikers in verschillende organisaties met verschillende digitale werkomgevingen, waarbij de leverancier zorgt voor de aansluiting van de gebruikers en de conversie van gegevens, voor het onderhoud en beheer van het systeem (applicatie en databases), en voor instructie en ondersteuning van de gebruikers in de Nederlandse taal. €1,-",
+      "cpv": "72416000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 188,
+      "publication": "2026-06-09",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/393362-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 35,
+        "size": 10,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "399649-2026",
+      "ref": "399649-2026",
+      "acheteur": "AG Digipolis Antwerpen",
+      "objet": "Belgique – Services de programmation et de conseil en logiciels – Raamovereenkomst voor de aankoop van gebruiksrechten op Software",
+      "description": "Google softwarelicenties / Salesforce softwarelicenties / Diverse softwarelicenties – een softwarebroker, waarbij de aanbestedende overheid op een snelle en efficiënte manier software kan aankopen en ondersteund wordt in het operationeel beheer hiervan, inclusief renewals met alle administratieve ondersteuning (waaronder b.v. het bijhouden van een inventaris). Momenteel worden er meer dan 140 tal verschillende softwares aangeschaft binnen Digipolis en Groep Antwerpen. De huidige top 11 voor dit perceel zijn volgende: • Atlassian • Kong • Redgate SQL Monitor • Elephantastic • Hoxhunt • ClickUp Enterprise • Graykey • Elastic Platinum • Odoo • Canva Enterprise • Freshworks Naast deze software van de grote softwarefabrikanten zijn er ook nog vele middelgrote softwares als kleine meer niche software in scope, waarbij sommigen alleen via een creditcard moeten aangekocht worden.",
+      "cpv": "72200000",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 32000,
+      "publication": "2026-06-11",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/399649-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -222,18 +256,18 @@
       "auto": true
     },
     {
-      "id": "399649-2026",
-      "ref": "399649-2026",
-      "acheteur": "AG Digipolis Antwerpen",
-      "objet": "Belgique – Services de programmation et de conseil en logiciels – Raamovereenkomst voor de aankoop van gebruiksrechten op Software",
-      "description": "Google softwarelicenties / Salesforce softwarelicenties / Diverse softwarelicenties – een softwarebroker, waarbij de aanbestedende overheid op een snelle en efficiënte manier software kan aankopen en ondersteund wordt in het operationeel beheer hiervan, inclusief renewals met alle administratieve ondersteuning (waaronder b.v. het bijhouden van een inventaris). Momenteel worden er meer dan 140 tal verschillende softwares aangeschaft binnen Digipolis en Groep Antwerpen. De huidige top 11 voor dit perceel zijn volgende: • Atlassian • Kong • Redgate SQL Monitor • Elephantastic • Hoxhunt • ClickUp Enterprise • Graykey • Elastic Platinum • Odoo • Canva Enterprise • Freshworks Naast deze software van de grote softwarefabrikanten zijn er ook nog vele middelgrote softwares als kleine meer niche software in scope, waarbij sommigen alleen via een creditcard moeten aangekocht worden.",
-      "cpv": "72200000",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 32000,
-      "publication": "2026-06-11",
+      "id": "410053-2026",
+      "ref": "410053-2026",
+      "acheteur": "Waterschap Rivierenland",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Raamovereenkomst dataplatformpartner",
+      "description": "Dit betreft een Europese aanbesteding voor het sluiten van een raamovereenkomst met één deskundige partner voor de technische ontwikkeling, uitbreiding, integratie, ondersteuning en het beheer van het SAS‑Dataplatform. De opdracht omvat het verder professionaliseren van het dataplatform, het realiseren van veilige en toekomstbestendige koppelingen met diverse bronsystemen, en het ondersteunen van Opdrachtgever in datagedreven werken. De raamovereenkomst heeft een initiële looptijd van drie jaar, met de mogelijkheid tot twee keer één jaar verlenging. Hiermee beoogt WSRL een duurzame samenwerking die bijdraagt aan stabiliteit, schaalbaarheid en doorontwikkeling van het dataplatform. Zie aanbestedingsleidraad voor de inhoudelijke beschrijving. De Algemene waterschapsinkoopvoorwaarden voor diensten (AWVODI-2018)  zijn van toepassing. Voorwaarden van de Inschrijver of andere algemene voorwaarden worden uitdrukkelijk van de hand gewezen. De Inschrijver dient zich volledig aan de door Waterschap Rivierenland gestelde voorwaarden te conformeren. Door het doen van een inschrijving gaat de Inschrijver daarmee akkoord.",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "2026-07-27",
+      "montant": 1000,
+      "publication": "2026-06-15",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/399649-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/410053-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -253,80 +287,18 @@
       "auto": true
     },
     {
-      "id": "393362-2026",
-      "ref": "393362-2026",
-      "acheteur": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
-      "objet": "Pays-Bas – Fournisseurs de services applicatifs – Collectie Informatie Systeem Kunstbeheer 2026",
-      "description": "De Opdracht is integrale dienstverlening (Software as a Service ofwel SaaS) van één leverancier die zorgt voor de software, implementatie, beheer en onderhoud van de applicatie en de databases voor de registratie van de kunst in de Rijksgebouwen. Essentieel is dat het een Nederlandstalige applicatie voor collectiebeheer betreft die in één versie als een onlinedienst aangeboden kan worden aan gebruikers in verschillende organisaties met verschillende digitale werkomgevingen, waarbij de leverancier zorgt voor de aansluiting van de gebruikers en de conversie van gegevens, voor het onderhoud en beheer van het systeem (applicatie en databases), en voor instructie en ondersteuning van de gebruikers in de Nederlandse taal. €1,-",
-      "cpv": "72416000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 188,
-      "publication": "2026-06-09",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/393362-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 35,
-        "size": 10,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "391689-2026",
-      "ref": "391689-2026",
-      "acheteur": "Coöperatie Samen Innoveren/Inkopen/Ict voor Onderwijs Nederland UA",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Open keuzecatalogus Leermiddelen",
-      "description": "SIVON beoogt een opdracht in de markt te zetten voor de ontwikkeling, doorontwikkeling en het onderhouden van een open keuzecatalogus leermiddelen. Deze keuzecatalogustool is bedoeld om vaksecties te ondersteunen bij hun keuzeproces voor lesmethoden. De opdracht betreft het ontwikkelen, doorontwikkelen en onderhouden van een keuzecatalogustool voor SIVON en haar leden. SIVON identificeert binnen de opdracht twee hoofdfasen van uitvoering, waarvoor separate overeenkomsten zullen worden afgesloten: * Ontwikkelfase (ontwikkeling en vullen tool) * Onderhoudsfase (doorontwikkeling en onderhoud) - 5 jaar, waarbij SIVON zich het recht voorbehoudt om de overeenkomst 5 keer met 1 jaar te verlengen.",
+      "id": "404978-2026",
+      "ref": "404978-2026",
+      "acheteur": "Gemeente Huizen",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Telefonie oplossing",
+      "description": "De doelstelling van deze Europese openbare aanbesteding is het selecteren en contracteren van een Inschrijver voor het leveren, implementeren en onderhouden van een Software-as-a Service applicatie ten behoeve van telefonie. Huidige situatie De gemeente Huizen gebruikt geruime tijd een telefooncentrale van Mitel. In 2022 zijn we overgestapt van vaste toestellen naar het gebruik van mobiele toestellen in combinatie met de mobiele app MiCollab. Dit was een stap vooruit ten opzichte van de eerdere situatie. Recent is gebleken dat de huidige oplossing een aantal nadelen heeft: • De huidige telefooncentralesoftware Mitel draait on-premises en is afhankelijk van een lokale domeinserver. Het huidige systeem past niet binnen de eisen die we hebben gesteld aan onze nieuwe ICT-dienstverlener. Vervanging is daarom noodzakelijk. • De agenda-integratie tussen Mitel en Microsoft 365 is niet betrouwbaar en gebruikers moeten deze vaak handmatig herstellen om up-to-date agenda informatie te delen. • De huidige mobiele app is dusdanig gebruikersonvriendelijk, dat deze omzeilt wordt door medewerkers. Hierdoor wordt het telefoniebeleid van de gemeente niet nageleefd. • Het gebruik van deze mobiele app is noodzakelijk om uit te bellen met het vaste telefoonnummer (035 – 528 1X XX). Omdat veel gebruikers de app niet gebruiken, bellen zij uit met hun 06-nummer. Ook dit gaat in tegen het telefoniebeleid van de gemeente. • De gemeente heeft een overeenkomst voor vaste telefonie via GT Vast met Vodafone Ziggo. Het betreft +/- 450 telefoonnummers. • De gemeente heeft een overeenkomst voor mobiele telefonie via GT Mobiel 3 met Odido. Het betreft +/- 450 telefoonnummers.",
       "cpv": "72000000",
       "pays": "NLD",
       "deadline": "",
-      "montant": 1195,
-      "publication": "2026-06-08",
+      "montant": 300,
+      "publication": "2026-06-12",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/391689-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "413613-2026",
-      "ref": "413613-2026",
-      "acheteur": "Hoogheemraadschap van Delfland",
-      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Proces Informatie Management Systeem (PIMS)",
-      "description": "Het inrichten van een PIMS voor Delfland op basis van AVEVA PI technologie voor één van de zuiveringsinstallaties (te weten AWZI De Groote Lucht) met daarbij een drietal toepasbare use cases, teneinde te kunnen evalueren of deze opzet van meerwaarde is voor Delfland in het verbeteren van de informatiestromen binnen de organisatie. Delfland heeft het voornemen om procesdata van haar installaties en objecten van het watersysteem en de waterketen te gaan verzamelen en centraal op te slaan. Om hierin een eerste stap te nemen gaat Delfland een pilotproject uitvoeren voor het opzetten van een Proces Informatie Management Systeem (PIMS) voor één van haar zuiveringsinstallaties (AWZI De Groote Lucht), gebaseerd op AVEVA PI Systeem technologie. Voor deze installatie zal tijdens het pilotproject een AVEVA PI Systeem ingericht dienen te worden van maximaal 1.000 meetsignalen (tags) en 10 gebruikers. Tevens zullen een drietal use cases uitgewerkt dienen te worden: • Het beschikbaar stellen van gevalideerde procesdata voor de monitoring van lachgas emissies (te gebruiken door procestechnologen); • Het ontwikkelen van een dashboard in PI Vision voor de monitoring van een beperkt aantal trends en KPI’s (te gebruiken in de regelkamer); • Het opstellen van een rapport met daarin de draaiuren van alle afzonderlijke pompen (te gebruiken door onderhoudspersoneel).",
-      "cpv": "72200000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 331,
-      "publication": "2026-06-17",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/413613-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/404978-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -408,18 +380,18 @@
       "auto": true
     },
     {
-      "id": "404978-2026",
-      "ref": "404978-2026",
-      "acheteur": "Gemeente Huizen",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Telefonie oplossing",
-      "description": "De doelstelling van deze Europese openbare aanbesteding is het selecteren en contracteren van een Inschrijver voor het leveren, implementeren en onderhouden van een Software-as-a Service applicatie ten behoeve van telefonie. Huidige situatie De gemeente Huizen gebruikt geruime tijd een telefooncentrale van Mitel. In 2022 zijn we overgestapt van vaste toestellen naar het gebruik van mobiele toestellen in combinatie met de mobiele app MiCollab. Dit was een stap vooruit ten opzichte van de eerdere situatie. Recent is gebleken dat de huidige oplossing een aantal nadelen heeft: • De huidige telefooncentralesoftware Mitel draait on-premises en is afhankelijk van een lokale domeinserver. Het huidige systeem past niet binnen de eisen die we hebben gesteld aan onze nieuwe ICT-dienstverlener. Vervanging is daarom noodzakelijk. • De agenda-integratie tussen Mitel en Microsoft 365 is niet betrouwbaar en gebruikers moeten deze vaak handmatig herstellen om up-to-date agenda informatie te delen. • De huidige mobiele app is dusdanig gebruikersonvriendelijk, dat deze omzeilt wordt door medewerkers. Hierdoor wordt het telefoniebeleid van de gemeente niet nageleefd. • Het gebruik van deze mobiele app is noodzakelijk om uit te bellen met het vaste telefoonnummer (035 – 528 1X XX). Omdat veel gebruikers de app niet gebruiken, bellen zij uit met hun 06-nummer. Ook dit gaat in tegen het telefoniebeleid van de gemeente. • De gemeente heeft een overeenkomst voor vaste telefonie via GT Vast met Vodafone Ziggo. Het betreft +/- 450 telefoonnummers. • De gemeente heeft een overeenkomst voor mobiele telefonie via GT Mobiel 3 met Odido. Het betreft +/- 450 telefoonnummers.",
-      "cpv": "72000000",
+      "id": "413613-2026",
+      "ref": "413613-2026",
+      "acheteur": "Hoogheemraadschap van Delfland",
+      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Proces Informatie Management Systeem (PIMS)",
+      "description": "Het inrichten van een PIMS voor Delfland op basis van AVEVA PI technologie voor één van de zuiveringsinstallaties (te weten AWZI De Groote Lucht) met daarbij een drietal toepasbare use cases, teneinde te kunnen evalueren of deze opzet van meerwaarde is voor Delfland in het verbeteren van de informatiestromen binnen de organisatie. Delfland heeft het voornemen om procesdata van haar installaties en objecten van het watersysteem en de waterketen te gaan verzamelen en centraal op te slaan. Om hierin een eerste stap te nemen gaat Delfland een pilotproject uitvoeren voor het opzetten van een Proces Informatie Management Systeem (PIMS) voor één van haar zuiveringsinstallaties (AWZI De Groote Lucht), gebaseerd op AVEVA PI Systeem technologie. Voor deze installatie zal tijdens het pilotproject een AVEVA PI Systeem ingericht dienen te worden van maximaal 1.000 meetsignalen (tags) en 10 gebruikers. Tevens zullen een drietal use cases uitgewerkt dienen te worden: • Het beschikbaar stellen van gevalideerde procesdata voor de monitoring van lachgas emissies (te gebruiken door procestechnologen); • Het ontwikkelen van een dashboard in PI Vision voor de monitoring van een beperkt aantal trends en KPI’s (te gebruiken in de regelkamer); • Het opstellen van een rapport met daarin de draaiuren van alle afzonderlijke pompen (te gebruiken door onderhoudspersoneel).",
+      "cpv": "72200000",
       "pays": "NLD",
       "deadline": "",
-      "montant": 300,
-      "publication": "2026-06-12",
+      "montant": 331,
+      "publication": "2026-06-17",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/404978-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/413613-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -501,53 +473,21 @@
       "auto": true
     },
     {
-      "id": "409963-2026",
-      "ref": "409963-2026",
-      "acheteur": "Universiteit Maastricht",
-      "objet": "Pays-Bas – Services d'enseignement supérieur – Huur Toetsmeubilair",
-      "description": "Algemene informatie De Universiteit Maastricht (UM) staat in binnen- en buitenland bekend om haar unieke onderwijssysteem: het probleemgestuurde onderwijs (PGO). Bovendien profileert de UM zich door de sterk internationale oriëntatie. Een toenemend aantal studenten uit zowel heel Nederland als ook het buitenland kiest voor het Maastrichtse systeem.   De UM is de jongste universiteit van Nederland en groeit snel. Er zijn momenteel ruim 23.000 studenten en 5.000 medewerkers. Onderwijs en onderzoek van de UM is voornamelijk georganiseerd op basis van faculteiten en schools.   Meer informatie over de UM is te vinden op de internetsite www.maastrichtuniversity.nl. Inhoud van de Tender Deze aanbesteding richt zich op het in huur leveren, plaatsen en verwijderen van toetsmeubilair en aanverwante dienstverlening. Het toetsmeubilair bestaat uit tafels en stoelen welke volgens een vooraf bekend schema en opstelling van examens en toetsen, tot een maximum van ca. 2000 sets per dag wordt geplaatst. Bovendien dient er een inspectieronde uitgevoerd te worden op het einde van iedere dag dat de opstelling van het toetsmeubilair in de toetshal staat – en dus niet op- of afgebouwd wordt. In het UM Sportcentrum dienen er bovendien matjes onder de stoelen geplaatst te worden ter bescherming van de sportvloer. Tenslotte dienen er UM blokpalen bij de blokken geplaatst te worden t.b.v. informatievoorziening studenten. Doel en beoogd resultaat van de Tender Het doel van deze Offerteaanvraag is het aangaan van een Overeenkomst met één partij. De ingangsdatum van deze overeenkomst is voorzien op 1 oktober 2026 en eindigt, behoudens verlenging, van rechtswege op 30 september 2027. Deze Overeenkomst kan met maximaal 2 maal 1 jaar en 1 maal 1 jaar en 11 mnd worden verlengd. De maximale duur van de Overeenkomst is derhalve 5 jaar en 11 mnd.",
-      "cpv": "80300000",
-      "pays": "NLD",
-      "deadline": "2026-07-27",
-      "montant": 0,
-      "publication": "2026-06-15",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/409963-2026",
-      "segment": "ESR",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "396279-2026",
-      "ref": "396279-2026",
-      "acheteur": "Medizinische Universität Lausitz - Carl Thiem KdöR",
-      "objet": "Allemagne – Services de développement de logiciels – Beschaffung von Entwicklungsleistungen für die Digita-lisierung der akademischen Verwaltung auf Basis des koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint.",
-      "description": "Die MUL-CT strebt beim Aufbau der digitalen Universität an, akademische Verwaltungsprozesse zukünftig im koellisch-toolkit/koellisch-core-framework auf Office365/Sharepoint umzusetzen. Dabei wird die Entwicklung einer performanten Informationstechnologie & Aufbau digitaler Plattformen für die akademische Verwaltung definiert, um durch Digitalisierung und Automatisierung schlanke und digitale Verwaltungsprozesse direkt von Beginn an zu entwickeln. Die durch den Auftragnehmer zu erbringende Leistungen beinhaltet die Entwicklung von akademischen Verwaltungsprozessen auf Basis von dem koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint. Folgende Aufgaben sind durch das Projektteam des Auftragnehmers in den zu beauftragenden Projekten zu erbringen: - Architektur & Konzeption: Entwicklung, Implementierung und Weiterentwicklung von digitalen Verwaltungslösungen für die Universität auf Basis des koellisch-Toolkit/Core Framework in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Workflow-Entwicklung: Konzeption und Umsetzung komplexer Workflows inkl. Fristen- und Mandatsverwaltung, Abstimmungs- und Dokumentationsprozessen sowie digitale Akten mit rechtssicherer Dokumentation - Schnittstellen & Integration: Design und Realisierung von Anbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Fehleranalyse & Wartung: Analyse und Behebung von Lösungsfehlern im Ticketsystem inkl. Eskalationsmanagement - Testing & Qualitätsmanagement: Steuerung von Test- und Rollout-Phasen, Qualitätssicherung und Erstellung technischer Dokumentationen - IT-Projektleitung: Übernahme von (Teil-)Projektleitungen im Rahmen der Digitalisierungsprojekte der MUL-CT Tätigkeiten, die während der Digitalisierungsvorhaben der MUL-CT zu erwarten und von jeweiligen Entwickler:in köllisch-toolkit/köllisch-core-framework zu übernehmen sind: - Konzeption, Implementierung und Weiterentwicklung von Lösungen auf Basis des köllisch-Toolkit/Core Frameworks in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Realisierung von Workflows und digitalen Akten inkl. Fristen- und Mandatsverwaltung, rechtssicherer Dokumentation, Abstimmungs- und Sitzungsorganisation - Analyse und Behebung von Lösungsfehlern im Rahmen des Ticketsystems, inkl. Eskalationsmanagement und Support bei Fehlertickets - Mitwirkung bei Schnittstellenanbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Übernahme von (Teil-)Projektleitungen in Digitalisierungsprojekten inkl. Steuerung von Test- und Rollout-Phasen - Planung, Durchführung und Dokumentation von Test- und Qualitätssicherungsmaßnahmen (funktionales Testing, Abnahmetests, Regressionstests) - Durchführung von Schulungen und Workshops für unterschiedliche Zielgruppen (Key-User, Gremienmitglieder, Verwaltung, interne IT) - Coaching und Training interner IT-Mitarbeitender zur Förderung des nachhaltigen Kompetenzaufbaus",
-      "cpv": "72262000",
+      "id": "389238-2026",
+      "ref": "389238-2026",
+      "acheteur": "Stromnetz Berlin GmbH",
+      "objet": "Allemagne – Logiciels et systèmes d'information – Einführung einer SaaS-Lösung für das Lieferantenmanagement",
+      "description": "Der aktuelle IST-Zustand des Lieferantenmanagements ist geprägt von einer veralteten, technisch begrenzten Systemlandschaft, die den heutigen Anforderungen an Transparenz, Effizienz und Compliance nicht mehr entspricht. Das bestehende Lieferantenmanagement -Tool (VFM-Portal), das unternehmensintern entwickelte wurde, gilt sowohl funktional als auch technologisch als nicht mehr zeitgemäß. Es verfügt über keine ausreichende Prozessintegration, bietet nur eingeschränkte Benutzerfreundlichkeit und ist in seinem Betrieb zunehmend aufwendig. Zudem besteht keine umfassende und durchgängige SAP-Anbindung, wodurch viele Daten manuell gepflegt und aus verschiedenen Quellen wie Excel und Share Point Listen zusammengestellt werden müssen. Ein ganzheitliches, unternehmensweites Konzept für das Lieferantenmanagement, sowohl systemisch als auch prozessual, liegt derzeit nicht vor. Das neue Lieferantenmanagement-Tool verfolgt das Ziel, das unternehmensweite Lieferantenmanagement zu modernisieren, zu standardisieren und zukunftsfähig auszurichten. Im Mittelpunkt steht die durchgängige Abbildung des gesamten Lieferantenlebenszyklus – von der Registrierung über Qualifizierung, Bewertung und Entwicklung bis hin zur Steuerung und Beendigung von Lieferantenbeziehungen. Durch die Ablösung des bestehenden VFM-Portals sollen medienbruchfreie, systemgestützte Prozesse geschaffen werden, die eine höhere Datenqualität, reduzierte manuelle Aufwände und klar definierte Zuständigkeiten ermöglichen. Beim Vergabegegenstand handelt es sich um ein Lieferantenmanagement-Tool zum Verwalten von Lieferanten. Gegenstand der Ausschreibung ist die Einführung und Nutzung eines unternehmensweiten Lieferantenmanagement-Tools, mindestens in den Bereichen: Einkauf, IT, Arbeitssicherheit und den technischen Bereichen, dass die strukturierte Erfassung, Bewertung und Verwaltung von Lieferanten unterstützt. Der Vertrag hat eine Grundlaufzeit bis 31.12.2031 mit zwei Verlängerungsoptionen um jeweils zwei Jahre.",
+      "cpv": "48000000",
       "pays": "DEU",
       "deadline": "",
       "montant": 0,
-      "publication": "2026-06-10",
+      "publication": "2026-06-08",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/396279-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/389238-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Microsoft Office",
-        "Office 365"
+        "Excel"
       ],
       "bureautique": true,
       "score": 65,
@@ -626,21 +566,53 @@
       "auto": true
     },
     {
-      "id": "389238-2026",
-      "ref": "389238-2026",
-      "acheteur": "Stromnetz Berlin GmbH",
-      "objet": "Allemagne – Logiciels et systèmes d'information – Einführung einer SaaS-Lösung für das Lieferantenmanagement",
-      "description": "Der aktuelle IST-Zustand des Lieferantenmanagements ist geprägt von einer veralteten, technisch begrenzten Systemlandschaft, die den heutigen Anforderungen an Transparenz, Effizienz und Compliance nicht mehr entspricht. Das bestehende Lieferantenmanagement -Tool (VFM-Portal), das unternehmensintern entwickelte wurde, gilt sowohl funktional als auch technologisch als nicht mehr zeitgemäß. Es verfügt über keine ausreichende Prozessintegration, bietet nur eingeschränkte Benutzerfreundlichkeit und ist in seinem Betrieb zunehmend aufwendig. Zudem besteht keine umfassende und durchgängige SAP-Anbindung, wodurch viele Daten manuell gepflegt und aus verschiedenen Quellen wie Excel und Share Point Listen zusammengestellt werden müssen. Ein ganzheitliches, unternehmensweites Konzept für das Lieferantenmanagement, sowohl systemisch als auch prozessual, liegt derzeit nicht vor. Das neue Lieferantenmanagement-Tool verfolgt das Ziel, das unternehmensweite Lieferantenmanagement zu modernisieren, zu standardisieren und zukunftsfähig auszurichten. Im Mittelpunkt steht die durchgängige Abbildung des gesamten Lieferantenlebenszyklus – von der Registrierung über Qualifizierung, Bewertung und Entwicklung bis hin zur Steuerung und Beendigung von Lieferantenbeziehungen. Durch die Ablösung des bestehenden VFM-Portals sollen medienbruchfreie, systemgestützte Prozesse geschaffen werden, die eine höhere Datenqualität, reduzierte manuelle Aufwände und klar definierte Zuständigkeiten ermöglichen. Beim Vergabegegenstand handelt es sich um ein Lieferantenmanagement-Tool zum Verwalten von Lieferanten. Gegenstand der Ausschreibung ist die Einführung und Nutzung eines unternehmensweiten Lieferantenmanagement-Tools, mindestens in den Bereichen: Einkauf, IT, Arbeitssicherheit und den technischen Bereichen, dass die strukturierte Erfassung, Bewertung und Verwaltung von Lieferanten unterstützt. Der Vertrag hat eine Grundlaufzeit bis 31.12.2031 mit zwei Verlängerungsoptionen um jeweils zwei Jahre.",
-      "cpv": "48000000",
+      "id": "396279-2026",
+      "ref": "396279-2026",
+      "acheteur": "Medizinische Universität Lausitz - Carl Thiem KdöR",
+      "objet": "Allemagne – Services de développement de logiciels – Beschaffung von Entwicklungsleistungen für die Digita-lisierung der akademischen Verwaltung auf Basis des koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint.",
+      "description": "Die MUL-CT strebt beim Aufbau der digitalen Universität an, akademische Verwaltungsprozesse zukünftig im koellisch-toolkit/koellisch-core-framework auf Office365/Sharepoint umzusetzen. Dabei wird die Entwicklung einer performanten Informationstechnologie & Aufbau digitaler Plattformen für die akademische Verwaltung definiert, um durch Digitalisierung und Automatisierung schlanke und digitale Verwaltungsprozesse direkt von Beginn an zu entwickeln. Die durch den Auftragnehmer zu erbringende Leistungen beinhaltet die Entwicklung von akademischen Verwaltungsprozessen auf Basis von dem koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint. Folgende Aufgaben sind durch das Projektteam des Auftragnehmers in den zu beauftragenden Projekten zu erbringen: - Architektur & Konzeption: Entwicklung, Implementierung und Weiterentwicklung von digitalen Verwaltungslösungen für die Universität auf Basis des koellisch-Toolkit/Core Framework in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Workflow-Entwicklung: Konzeption und Umsetzung komplexer Workflows inkl. Fristen- und Mandatsverwaltung, Abstimmungs- und Dokumentationsprozessen sowie digitale Akten mit rechtssicherer Dokumentation - Schnittstellen & Integration: Design und Realisierung von Anbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Fehleranalyse & Wartung: Analyse und Behebung von Lösungsfehlern im Ticketsystem inkl. Eskalationsmanagement - Testing & Qualitätsmanagement: Steuerung von Test- und Rollout-Phasen, Qualitätssicherung und Erstellung technischer Dokumentationen - IT-Projektleitung: Übernahme von (Teil-)Projektleitungen im Rahmen der Digitalisierungsprojekte der MUL-CT Tätigkeiten, die während der Digitalisierungsvorhaben der MUL-CT zu erwarten und von jeweiligen Entwickler:in köllisch-toolkit/köllisch-core-framework zu übernehmen sind: - Konzeption, Implementierung und Weiterentwicklung von Lösungen auf Basis des köllisch-Toolkit/Core Frameworks in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Realisierung von Workflows und digitalen Akten inkl. Fristen- und Mandatsverwaltung, rechtssicherer Dokumentation, Abstimmungs- und Sitzungsorganisation - Analyse und Behebung von Lösungsfehlern im Rahmen des Ticketsystems, inkl. Eskalationsmanagement und Support bei Fehlertickets - Mitwirkung bei Schnittstellenanbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Übernahme von (Teil-)Projektleitungen in Digitalisierungsprojekten inkl. Steuerung von Test- und Rollout-Phasen - Planung, Durchführung und Dokumentation von Test- und Qualitätssicherungsmaßnahmen (funktionales Testing, Abnahmetests, Regressionstests) - Durchführung von Schulungen und Workshops für unterschiedliche Zielgruppen (Key-User, Gremienmitglieder, Verwaltung, interne IT) - Coaching und Training interner IT-Mitarbeitender zur Förderung des nachhaltigen Kompetenzaufbaus",
+      "cpv": "72262000",
       "pays": "DEU",
       "deadline": "",
       "montant": 0,
-      "publication": "2026-06-08",
+      "publication": "2026-06-10",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/389238-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/396279-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Excel"
+        "Microsoft Office",
+        "Office 365"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "409963-2026",
+      "ref": "409963-2026",
+      "acheteur": "Universiteit Maastricht",
+      "objet": "Pays-Bas – Services d'enseignement supérieur – Huur Toetsmeubilair",
+      "description": "Algemene informatie De Universiteit Maastricht (UM) staat in binnen- en buitenland bekend om haar unieke onderwijssysteem: het probleemgestuurde onderwijs (PGO). Bovendien profileert de UM zich door de sterk internationale oriëntatie. Een toenemend aantal studenten uit zowel heel Nederland als ook het buitenland kiest voor het Maastrichtse systeem.   De UM is de jongste universiteit van Nederland en groeit snel. Er zijn momenteel ruim 23.000 studenten en 5.000 medewerkers. Onderwijs en onderzoek van de UM is voornamelijk georganiseerd op basis van faculteiten en schools.   Meer informatie over de UM is te vinden op de internetsite www.maastrichtuniversity.nl. Inhoud van de Tender Deze aanbesteding richt zich op het in huur leveren, plaatsen en verwijderen van toetsmeubilair en aanverwante dienstverlening. Het toetsmeubilair bestaat uit tafels en stoelen welke volgens een vooraf bekend schema en opstelling van examens en toetsen, tot een maximum van ca. 2000 sets per dag wordt geplaatst. Bovendien dient er een inspectieronde uitgevoerd te worden op het einde van iedere dag dat de opstelling van het toetsmeubilair in de toetshal staat – en dus niet op- of afgebouwd wordt. In het UM Sportcentrum dienen er bovendien matjes onder de stoelen geplaatst te worden ter bescherming van de sportvloer. Tenslotte dienen er UM blokpalen bij de blokken geplaatst te worden t.b.v. informatievoorziening studenten. Doel en beoogd resultaat van de Tender Het doel van deze Offerteaanvraag is het aangaan van een Overeenkomst met één partij. De ingangsdatum van deze overeenkomst is voorzien op 1 oktober 2026 en eindigt, behoudens verlenging, van rechtswege op 30 september 2027. Deze Overeenkomst kan met maximaal 2 maal 1 jaar en 1 maal 1 jaar en 11 mnd worden verlengd. De maximale duur van de Overeenkomst is derhalve 5 jaar en 11 mnd.",
+      "cpv": "80300000",
+      "pays": "NLD",
+      "deadline": "2026-07-27",
+      "montant": 0,
+      "publication": "2026-06-15",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/409963-2026",
+      "segment": "ESR",
+      "keyword_hits": [
+        "Word"
       ],
       "bureautique": true,
       "score": 65,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T09:39:02.623Z",
+  "generated_at": "2026-07-08T08:25:11.855Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
@@ -7,21 +7,21 @@
       "fetched": 500,
       "matched": 21,
       "go": 1,
-      "generated_at": "2026-07-07T09:32:14.993Z"
+      "generated_at": "2026-07-08T08:18:00.342Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-07T09:39:02.163Z"
+      "generated_at": "2026-07-08T08:25:11.237Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-07T09:39:02.491Z"
+      "generated_at": "2026-07-08T08:25:11.731Z"
     }
   },
   "total_fetched": 3500,
@@ -123,37 +123,6 @@
         "com": 5,
         "admin": 7,
         "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "410053-2026",
-      "ref": "410053-2026",
-      "acheteur": "Waterschap Rivierenland",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Raamovereenkomst dataplatformpartner",
-      "description": "Dit betreft een Europese aanbesteding voor het sluiten van een raamovereenkomst met één deskundige partner voor de technische ontwikkeling, uitbreiding, integratie, ondersteuning en het beheer van het SAS‑Dataplatform. De opdracht omvat het verder professionaliseren van het dataplatform, het realiseren van veilige en toekomstbestendige koppelingen met diverse bronsystemen, en het ondersteunen van Opdrachtgever in datagedreven werken. De raamovereenkomst heeft een initiële looptijd van drie jaar, met de mogelijkheid tot twee keer één jaar verlenging. Hiermee beoogt WSRL een duurzame samenwerking die bijdraagt aan stabiliteit, schaalbaarheid en doorontwikkeling van het dataplatform. Zie aanbestedingsleidraad voor de inhoudelijke beschrijving. De Algemene waterschapsinkoopvoorwaarden voor diensten (AWVODI-2018)  zijn van toepassing. Voorwaarden van de Inschrijver of andere algemene voorwaarden worden uitdrukkelijk van de hand gewezen. De Inschrijver dient zich volledig aan de door Waterschap Rivierenland gestelde voorwaarden te conformeren. Door het doen van een inschrijving gaat de Inschrijver daarmee akkoord.",
-      "cpv": "72000000",
-      "pays": "NLD",
-      "deadline": "2026-07-27",
-      "montant": 1000,
-      "publication": "2026-06-15",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/410053-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -408,6 +377,37 @@
       "auto": true
     },
     {
+      "id": "410053-2026",
+      "ref": "410053-2026",
+      "acheteur": "Waterschap Rivierenland",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Raamovereenkomst dataplatformpartner",
+      "description": "Dit betreft een Europese aanbesteding voor het sluiten van een raamovereenkomst met één deskundige partner voor de technische ontwikkeling, uitbreiding, integratie, ondersteuning en het beheer van het SAS‑Dataplatform. De opdracht omvat het verder professionaliseren van het dataplatform, het realiseren van veilige en toekomstbestendige koppelingen met diverse bronsystemen, en het ondersteunen van Opdrachtgever in datagedreven werken. De raamovereenkomst heeft een initiële looptijd van drie jaar, met de mogelijkheid tot twee keer één jaar verlenging. Hiermee beoogt WSRL een duurzame samenwerking die bijdraagt aan stabiliteit, schaalbaarheid en doorontwikkeling van het dataplatform. Zie aanbestedingsleidraad voor de inhoudelijke beschrijving. De Algemene waterschapsinkoopvoorwaarden voor diensten (AWVODI-2018)  zijn van toepassing. Voorwaarden van de Inschrijver of andere algemene voorwaarden worden uitdrukkelijk van de hand gewezen. De Inschrijver dient zich volledig aan de door Waterschap Rivierenland gestelde voorwaarden te conformeren. Door het doen van een inschrijving gaat de Inschrijver daarmee akkoord.",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "2026-07-27",
+      "montant": 1000,
+      "publication": "2026-06-15",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/410053-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 1
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "404978-2026",
       "ref": "404978-2026",
       "acheteur": "Gemeente Huizen",
@@ -470,68 +470,6 @@
       "auto": true
     },
     {
-      "id": "392494-2026",
-      "ref": "392494-2026",
-      "acheteur": "Ministerium für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz des Landes Brandenburg",
-      "objet": "Allemagne – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Projektmanagement für Leistungen zur Umsetzung des Maßnahmenplans des Landesniedrigwasserkonzeptes 2.0",
-      "description": "Die Leistung setzt sich insbesondere aus folgenden Punkten zusammen: 1) Projektmanagement Das Projektmanagement, steuert und koordiniert aktiv die nachfolgend unter Punkt 2 und ggf. 3 genannten Leistungen über die gesamte Vertragslaufzeit. 2) Weiterführung Flussgebietsarbeit Durch eine intensive Kommunikation des Themas \"Niedrigwasser\" konnte eine breite Aufmerksamkeit und ein Problembewusstsein bei allen lokalen Akteuren erzeugt werden. Die Entscheidungsträger (Wasser-, Naturschutz- und tlw. Landwirtschaftsbehörden der Landkreise / kreisfreien Städte, LfU, einschließlich Großschutzgebiete), die das Wassermanagement operativ steuernden GUV und ggf. weitere Institutionen (Naturschutzverbände, Landschaftspflegeverbände, Natura2000-Teams, VLF, Kommunen, engagierte Einzelpersonen usw.) sind involviert und arbeiten unterschiedlich intensiv an der Thematik mit. 3) Erarbeitung flussgebietsbezogener Bewirtschaftungskonzepte Die sich in der Ideenphase befindlichen 16 Konzepte (Phase 1 und 2) sind gemeinsam mit den Trägern bis zur Antragsreife (Richtlinie LWH) zu entwickeln und die Antragstellung bei der ILB zu begleiten. Weitere mindestes 10 Konzepte sollen - eine erfolgreiche Antragstellung und Mittelverfügbarkeit vorausgesetzt - bei der Bearbeitung begleitet werden. Es bestehen bisher nicht weiterverfolgte weitere Ideen der Akteure zu potenziellen Bewirtschaftungs- bzw. Staukonzepten in allen Flussgebieten tlw. auch von Seiten des LfU für Gewässer 1. Ordnung. Aufgrund einer derzeit nicht genau bekannten Anzahl o.g. Ideen ist die Leistung für 10 Konzepte anzubieten. 4) Qualifizierung und Weiterentwicklung LWH-Vorhaben und Leuchttürmen Mit LWH-Vorhaben sind Vorhaben gemeint, die den Fördergegenständen der Richtlinien LWH (GAK und ELER) des MLEUV entsprechen und die von den Antragstellern zur Förderung aus Drittmitteln vorgesehen sind. Entwicklung von Projekten aus Initiierungsphase (50) bis zu antragsreifer Projektskizze. Entwicklung fortgeschrittene Projekte (100) bis zu antragsreifer Projektskizze . Begleitung abgeschlossener (20) Projekte Begleitung der laufenden Leuchtturmprojekte Initiiierung von neuen Leuchtturmprojekte (z.B. Dränagen) 5) Fachübergreifende Anforderungen Im Rahmen des Erstauftrages wurden bereits diverse fachübergreifende Treffen, Gespräche etc. initiiert und ausgewertet). Diese sog. fachübergreifenden Gespräche mit Akteuren z.B. der Landwirtschaft, des Naturschutzes, der Forst, der Flurneuordnung sowie der Landes- und Regionalplanung sollen federführend durch den Auftragnehmer weitergeführt und im Bereich Siedlungs- und Gewerbegebietsentwicklung / Bau- und Stadtplanung aufgegriffen werden. Vertieft werden soll der Themenbereich Schifffahrt und Wassertourismus hinsichtlich der Wasserbewirtschaftung und möglicher Handlungsspielräume und Entwicklungsperspektiven hin zur Klimaanpassung und zu einem verringerten Wasserdargebot. Im Zusammenhang mit dem Umbau eines Staubauwerkes wurde im Rahmen des Erstauftrages ein umfangreiches, modellgestütztes Werkzeug entwickelt, welches die Auswirkungen veränderter Stauhaltungen auf den Wasserrückhalt quantifiziert. Das Werkzeug erlaubt darüber hinaus eine grafische Darstellung der flächigen Auswirkungen veränderter Wasserstände oberhalb eines Staubauwerkes. Für das Werkzeug wurden vorhandene Modellansätze in die kommerzielle Rechensoftware MS Excel überführt. Ferner wurde eine Schnittstelle programmiert, die eine Darstellung der Ergebnisse in einem GIS-System erlaubt. Die Anwendung des sog. Excel-Tools (Anlage 5: Dokumentation) wurde sowohl durch das LfU als auch durch die NW-Koordinatoren für weitere Projekte in anderen Flussgebieten testweise durchgeführt. Es ist gewünscht, das Excel-Tool (oder ein vergleichbares Instrument) künftig als Werkzeug zur Folgenabschätzung und Visualisierung stärker systematisch einzubinden. 6) Verknüpfung mit dem Moorschutz Moorschutz und Wassermanagement sind inhaltlich eng verwoben, dementsprechend erfolgt MLEUV-intern eine enge organisatorisch-inhaltliche Abstimmung zur Thematik Moorschutz. Bei der Umsetzung des Landesniedrigwasserkonzeptes ist auch auf ein nachhaltiges Moorbodenmanagement zu setzen. Das Moorschutzprogramm Brandenburg bildet den Rahmen für alle Aktivitäten im Zusammenhang mit Mooren. Um eine Synchronisation der Ziele von Moorschutz und Niedrigwasservorsorge bei der Projektentwicklung vor Ort und insbesondere bei der Erarbeitung von Bewirtschaftungskonzepten zu gewährleisten, ist ein fachkundiger Ansprechpartner zu benennen. Dieser sammelt und koordiniert alle moorbezogenen Fragen, begleitet ggf. Ortstermine und steht als zentraler Ansprechpartner zur Verfügung. Die o.g. Flussgebietssteckbriefe sind in enger Zusammenarbeit mit dem LfU um ein Kapitel zum Moorschutz zu ergänzen. 7) Öffentlichkeitsarbeit Ziel des Leistungspunktes ist daher die Entwicklung einer zielgruppenorientierten Kommunikationsstrategie zur Unterstützung der Umsetzung des LNWK 2.0. Die Kommunikationsstrategie soll dazu beitragen, Verständnis, Akzeptanz und Mitwirkung zentraler Akteure bei Maßnahmen der Niedrigwasservorsorge und der -bewältigung zu stärken. Dabei sollen insbesondere Informationsbedarfe, Entscheidungsstrukturen und mögliche Hemmnisse in den relevanten Zielgruppen berücksichtigt werden. Auf Basis der strategischen Konzeption sollen geeignete Kommunikationsmaßnahmen entwickelt, priorisiert und in einem Umsetzungsplan dargestellt werden. Optionale Leistungen: 1) Verbindung wasserbaulicher Maßnahmen mit Agrar-, Umwelt- und Klimamaßnahmen (AUKM) 2) Durchführung ausgewählter Maßnahmen des im Rahmen der Öffentlichkeitsarbeit entwickelten Umsetzungsplanes aus Nr. 7) Im Detail siehe Vergabeunterlagen Teil B - Leistungsbeschreibung Nr. 2 und 3.",
-      "cpv": "71000000",
-      "pays": "DEU",
-      "deadline": "2026-08-07",
-      "montant": 0,
-      "publication": "2026-06-09",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/392494-2026",
-      "segment": "FPH",
-      "keyword_hits": [
-        "Excel"
-      ],
-      "bureautique": true,
-      "score": 67,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "409963-2026",
-      "ref": "409963-2026",
-      "acheteur": "Universiteit Maastricht",
-      "objet": "Pays-Bas – Services d'enseignement supérieur – Huur Toetsmeubilair",
-      "description": "Algemene informatie De Universiteit Maastricht (UM) staat in binnen- en buitenland bekend om haar unieke onderwijssysteem: het probleemgestuurde onderwijs (PGO). Bovendien profileert de UM zich door de sterk internationale oriëntatie. Een toenemend aantal studenten uit zowel heel Nederland als ook het buitenland kiest voor het Maastrichtse systeem.   De UM is de jongste universiteit van Nederland en groeit snel. Er zijn momenteel ruim 23.000 studenten en 5.000 medewerkers. Onderwijs en onderzoek van de UM is voornamelijk georganiseerd op basis van faculteiten en schools.   Meer informatie over de UM is te vinden op de internetsite www.maastrichtuniversity.nl. Inhoud van de Tender Deze aanbesteding richt zich op het in huur leveren, plaatsen en verwijderen van toetsmeubilair en aanverwante dienstverlening. Het toetsmeubilair bestaat uit tafels en stoelen welke volgens een vooraf bekend schema en opstelling van examens en toetsen, tot een maximum van ca. 2000 sets per dag wordt geplaatst. Bovendien dient er een inspectieronde uitgevoerd te worden op het einde van iedere dag dat de opstelling van het toetsmeubilair in de toetshal staat – en dus niet op- of afgebouwd wordt. In het UM Sportcentrum dienen er bovendien matjes onder de stoelen geplaatst te worden ter bescherming van de sportvloer. Tenslotte dienen er UM blokpalen bij de blokken geplaatst te worden t.b.v. informatievoorziening studenten. Doel en beoogd resultaat van de Tender Het doel van deze Offerteaanvraag is het aangaan van een Overeenkomst met één partij. De ingangsdatum van deze overeenkomst is voorzien op 1 oktober 2026 en eindigt, behoudens verlenging, van rechtswege op 30 september 2027. Deze Overeenkomst kan met maximaal 2 maal 1 jaar en 1 maal 1 jaar en 11 mnd worden verlengd. De maximale duur van de Overeenkomst is derhalve 5 jaar en 11 mnd.",
-      "cpv": "80300000",
-      "pays": "NLD",
-      "deadline": "2026-07-27",
-      "montant": 0,
-      "publication": "2026-06-15",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/409963-2026",
-      "segment": "ESR",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "396279-2026",
       "ref": "396279-2026",
       "acheteur": "Medizinische Universität Lausitz - Carl Thiem KdöR",
@@ -548,6 +486,37 @@
       "keyword_hits": [
         "Microsoft Office",
         "Office 365"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "392494-2026",
+      "ref": "392494-2026",
+      "acheteur": "Ministerium für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz des Landes Brandenburg",
+      "objet": "Allemagne – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Projektmanagement für Leistungen zur Umsetzung des Maßnahmenplans des Landesniedrigwasserkonzeptes 2.0",
+      "description": "Die Leistung setzt sich insbesondere aus folgenden Punkten zusammen: 1) Projektmanagement Das Projektmanagement, steuert und koordiniert aktiv die nachfolgend unter Punkt 2 und ggf. 3 genannten Leistungen über die gesamte Vertragslaufzeit. 2) Weiterführung Flussgebietsarbeit Durch eine intensive Kommunikation des Themas \"Niedrigwasser\" konnte eine breite Aufmerksamkeit und ein Problembewusstsein bei allen lokalen Akteuren erzeugt werden. Die Entscheidungsträger (Wasser-, Naturschutz- und tlw. Landwirtschaftsbehörden der Landkreise / kreisfreien Städte, LfU, einschließlich Großschutzgebiete), die das Wassermanagement operativ steuernden GUV und ggf. weitere Institutionen (Naturschutzverbände, Landschaftspflegeverbände, Natura2000-Teams, VLF, Kommunen, engagierte Einzelpersonen usw.) sind involviert und arbeiten unterschiedlich intensiv an der Thematik mit. 3) Erarbeitung flussgebietsbezogener Bewirtschaftungskonzepte Die sich in der Ideenphase befindlichen 16 Konzepte (Phase 1 und 2) sind gemeinsam mit den Trägern bis zur Antragsreife (Richtlinie LWH) zu entwickeln und die Antragstellung bei der ILB zu begleiten. Weitere mindestes 10 Konzepte sollen - eine erfolgreiche Antragstellung und Mittelverfügbarkeit vorausgesetzt - bei der Bearbeitung begleitet werden. Es bestehen bisher nicht weiterverfolgte weitere Ideen der Akteure zu potenziellen Bewirtschaftungs- bzw. Staukonzepten in allen Flussgebieten tlw. auch von Seiten des LfU für Gewässer 1. Ordnung. Aufgrund einer derzeit nicht genau bekannten Anzahl o.g. Ideen ist die Leistung für 10 Konzepte anzubieten. 4) Qualifizierung und Weiterentwicklung LWH-Vorhaben und Leuchttürmen Mit LWH-Vorhaben sind Vorhaben gemeint, die den Fördergegenständen der Richtlinien LWH (GAK und ELER) des MLEUV entsprechen und die von den Antragstellern zur Förderung aus Drittmitteln vorgesehen sind. Entwicklung von Projekten aus Initiierungsphase (50) bis zu antragsreifer Projektskizze. Entwicklung fortgeschrittene Projekte (100) bis zu antragsreifer Projektskizze . Begleitung abgeschlossener (20) Projekte Begleitung der laufenden Leuchtturmprojekte Initiiierung von neuen Leuchtturmprojekte (z.B. Dränagen) 5) Fachübergreifende Anforderungen Im Rahmen des Erstauftrages wurden bereits diverse fachübergreifende Treffen, Gespräche etc. initiiert und ausgewertet). Diese sog. fachübergreifenden Gespräche mit Akteuren z.B. der Landwirtschaft, des Naturschutzes, der Forst, der Flurneuordnung sowie der Landes- und Regionalplanung sollen federführend durch den Auftragnehmer weitergeführt und im Bereich Siedlungs- und Gewerbegebietsentwicklung / Bau- und Stadtplanung aufgegriffen werden. Vertieft werden soll der Themenbereich Schifffahrt und Wassertourismus hinsichtlich der Wasserbewirtschaftung und möglicher Handlungsspielräume und Entwicklungsperspektiven hin zur Klimaanpassung und zu einem verringerten Wasserdargebot. Im Zusammenhang mit dem Umbau eines Staubauwerkes wurde im Rahmen des Erstauftrages ein umfangreiches, modellgestütztes Werkzeug entwickelt, welches die Auswirkungen veränderter Stauhaltungen auf den Wasserrückhalt quantifiziert. Das Werkzeug erlaubt darüber hinaus eine grafische Darstellung der flächigen Auswirkungen veränderter Wasserstände oberhalb eines Staubauwerkes. Für das Werkzeug wurden vorhandene Modellansätze in die kommerzielle Rechensoftware MS Excel überführt. Ferner wurde eine Schnittstelle programmiert, die eine Darstellung der Ergebnisse in einem GIS-System erlaubt. Die Anwendung des sog. Excel-Tools (Anlage 5: Dokumentation) wurde sowohl durch das LfU als auch durch die NW-Koordinatoren für weitere Projekte in anderen Flussgebieten testweise durchgeführt. Es ist gewünscht, das Excel-Tool (oder ein vergleichbares Instrument) künftig als Werkzeug zur Folgenabschätzung und Visualisierung stärker systematisch einzubinden. 6) Verknüpfung mit dem Moorschutz Moorschutz und Wassermanagement sind inhaltlich eng verwoben, dementsprechend erfolgt MLEUV-intern eine enge organisatorisch-inhaltliche Abstimmung zur Thematik Moorschutz. Bei der Umsetzung des Landesniedrigwasserkonzeptes ist auch auf ein nachhaltiges Moorbodenmanagement zu setzen. Das Moorschutzprogramm Brandenburg bildet den Rahmen für alle Aktivitäten im Zusammenhang mit Mooren. Um eine Synchronisation der Ziele von Moorschutz und Niedrigwasservorsorge bei der Projektentwicklung vor Ort und insbesondere bei der Erarbeitung von Bewirtschaftungskonzepten zu gewährleisten, ist ein fachkundiger Ansprechpartner zu benennen. Dieser sammelt und koordiniert alle moorbezogenen Fragen, begleitet ggf. Ortstermine und steht als zentraler Ansprechpartner zur Verfügung. Die o.g. Flussgebietssteckbriefe sind in enger Zusammenarbeit mit dem LfU um ein Kapitel zum Moorschutz zu ergänzen. 7) Öffentlichkeitsarbeit Ziel des Leistungspunktes ist daher die Entwicklung einer zielgruppenorientierten Kommunikationsstrategie zur Unterstützung der Umsetzung des LNWK 2.0. Die Kommunikationsstrategie soll dazu beitragen, Verständnis, Akzeptanz und Mitwirkung zentraler Akteure bei Maßnahmen der Niedrigwasservorsorge und der -bewältigung zu stärken. Dabei sollen insbesondere Informationsbedarfe, Entscheidungsstrukturen und mögliche Hemmnisse in den relevanten Zielgruppen berücksichtigt werden. Auf Basis der strategischen Konzeption sollen geeignete Kommunikationsmaßnahmen entwickelt, priorisiert und in einem Umsetzungsplan dargestellt werden. Optionale Leistungen: 1) Verbindung wasserbaulicher Maßnahmen mit Agrar-, Umwelt- und Klimamaßnahmen (AUKM) 2) Durchführung ausgewählter Maßnahmen des im Rahmen der Öffentlichkeitsarbeit entwickelten Umsetzungsplanes aus Nr. 7) Im Detail siehe Vergabeunterlagen Teil B - Leistungsbeschreibung Nr. 2 und 3.",
+      "cpv": "71000000",
+      "pays": "DEU",
+      "deadline": "2026-08-07",
+      "montant": 0,
+      "publication": "2026-06-09",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/392494-2026",
+      "segment": "FPH",
+      "keyword_hits": [
+        "Excel"
       ],
       "bureautique": true,
       "score": 65,
@@ -651,6 +620,37 @@
         "com": 5,
         "admin": 7,
         "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "409963-2026",
+      "ref": "409963-2026",
+      "acheteur": "Universiteit Maastricht",
+      "objet": "Pays-Bas – Services d'enseignement supérieur – Huur Toetsmeubilair",
+      "description": "Algemene informatie De Universiteit Maastricht (UM) staat in binnen- en buitenland bekend om haar unieke onderwijssysteem: het probleemgestuurde onderwijs (PGO). Bovendien profileert de UM zich door de sterk internationale oriëntatie. Een toenemend aantal studenten uit zowel heel Nederland als ook het buitenland kiest voor het Maastrichtse systeem.   De UM is de jongste universiteit van Nederland en groeit snel. Er zijn momenteel ruim 23.000 studenten en 5.000 medewerkers. Onderwijs en onderzoek van de UM is voornamelijk georganiseerd op basis van faculteiten en schools.   Meer informatie over de UM is te vinden op de internetsite www.maastrichtuniversity.nl. Inhoud van de Tender Deze aanbesteding richt zich op het in huur leveren, plaatsen en verwijderen van toetsmeubilair en aanverwante dienstverlening. Het toetsmeubilair bestaat uit tafels en stoelen welke volgens een vooraf bekend schema en opstelling van examens en toetsen, tot een maximum van ca. 2000 sets per dag wordt geplaatst. Bovendien dient er een inspectieronde uitgevoerd te worden op het einde van iedere dag dat de opstelling van het toetsmeubilair in de toetshal staat – en dus niet op- of afgebouwd wordt. In het UM Sportcentrum dienen er bovendien matjes onder de stoelen geplaatst te worden ter bescherming van de sportvloer. Tenslotte dienen er UM blokpalen bij de blokken geplaatst te worden t.b.v. informatievoorziening studenten. Doel en beoogd resultaat van de Tender Het doel van deze Offerteaanvraag is het aangaan van een Overeenkomst met één partij. De ingangsdatum van deze overeenkomst is voorzien op 1 oktober 2026 en eindigt, behoudens verlenging, van rechtswege op 30 september 2027. Deze Overeenkomst kan met maximaal 2 maal 1 jaar en 1 maal 1 jaar en 11 mnd worden verlengd. De maximale duur van de Overeenkomst is derhalve 5 jaar en 11 mnd.",
+      "cpv": "80300000",
+      "pays": "NLD",
+      "deadline": "2026-07-27",
+      "montant": 0,
+      "publication": "2026-06-15",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/409963-2026",
+      "segment": "ESR",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 63,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 1
       },
       "score_status": "cond",
       "notes": "",

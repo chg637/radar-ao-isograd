@@ -1,38 +1,10 @@
 {
-  "generated_at": "2026-07-09T09:45:59.560Z",
-  "source": "MERGE",
-  "sources_summary": {
-    "TED": {
-      "present": true,
-      "fetched": 500,
-      "matched": 21,
-      "go": 1,
-      "generated_at": "2026-07-09T09:39:09.045Z"
-    },
-    "BOAMP": {
-      "present": true,
-      "fetched": 3000,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-07-09T09:45:58.949Z"
-    },
-    "Profil": {
-      "present": true,
-      "fetched": 0,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-07-09T09:45:59.417Z"
-    }
-  },
-  "total_fetched": 3500,
+  "generated_at": "2026-07-09T09:39:09.045Z",
+  "source": "TED",
+  "window_days": 30,
+  "total_fetched": 500,
   "total_matched": 21,
   "total_go": 1,
-  "total_dedup_collisions": 0,
-  "dedup_breakdown": {
-    "by_id": 0,
-    "fuzzy_signature": 0,
-    "fuzzy_jaccard": 0
-  },
   "notices": [
     {
       "id": "391880-2026",
@@ -67,18 +39,18 @@
       "auto": true
     },
     {
-      "id": "416167-2026",
-      "ref": "416167-2026",
-      "acheteur": "HeiligHartziekenhuis Lier",
-      "objet": "Belgique – Services de développement de logiciels médicaux – Aanschaf en installatie van een geïntegreerde EPD-oplossing.",
-      "description": "Aanschaf en installatie van een geïntegreerde EPD-oplossing die aan de gebruikers (eerste – en tweedelijn zorg- en zorgondersteunende diensten) ter beschikking gesteld zal worden met het oog op een efficiënte werking van alle zorgprocessen en dit door en voor alle betrokken zorgactoren. De opdracht omvat de: levering, implementatie, het onderhoud (inclusief wettelijk onderhoud, correctief, preventief en evolutief onderhoud) en de ondersteuning van de gebruikers. Voorwerp van deze diensten: Realisatie, implementatie & onderhoud van een geïntegreerd elektronisch patiëntendossier (EPD). Plaats van dienstverlening: HH Ziekenhuis Lier (Mechelsestraat 24, 2500 Lier) Toelichting: Het voorwerp van de opdracht is de realisatie, implementatie en onderhoud van een geïntegreerd elektronisch patiëntendossier (EPD) – hierna EPD en EPD software genoemd – met volgende kenmerken:    er is reeds een bestaande EPD-software in gebruik. Deze zal vervangen worden; bijgevolg maakt de datamigratie en het realiseren van de nodige koppelingen een essentieel onderdeel uit van de opdracht;  de EPD-software faciliteert en garandeert de samenwerking binnen het ziekenhuis zowel als tussen ziekenhuizen en overige stakeholders;  de EPD-software is (maximaal) compatibel en interoperabel met de softwareprogramma’s die niet in het voorwerp van de opdracht zijn omvat, doch binnen HH Ziekenhuis Lier worden gebruikt.  De opdrachtgever wenst een multidisciplinair elektronisch dossier waarin alle patiëntengegevens worden bewaard en beschikbaar worden gesteld voor alle actoren in het zorgproces waarin de patiënt centraal staat van bij de opname tot en met het ontslag. Via een portaal wordt het dossier uitgebreid tot de pre- en posthospitaal periode waarin de patiënt toegang heeft tot de eigen gegevens en deze kan delen en (mits de nodige validaties) aanvullen. Het dossier ondersteunt de workflow en de registraties door een uniforme manier van werken over alle specialismes heen. De patiëntengegevens dienen conform de wetgeving op een eenvoudige elektronische manier te worden gedeeld met extramurale partners. Het EPD dient een tool zijn voor samenwerking en continue kwaliteitsverbetering/meting binnen het ziekenhuis en met partnerziekenhuizen binnen ons ziekenhuisnetwerk, de huisartsen, thuisverpleging en andere zorgverstrekkers in onze zorgregio. Tevens wil HH Ziekenhuis Lier gegevens delen via eHealth of andere aangeboden kanalen. HH Ziekenhuis Lier wil informatie halen uit de opgeslagen gegevens van het EPD met als doel de kwaliteit van het zorgproces te monitoren, te verbeteren en te toetsen t.o.v. andere zorgaanbieders. De gegevens dienen bij voorkeur via automatische rapportage een antwoord geven op verplichte registraties van de overheden. In scope van deze opdracht Medisch dossier met verslaggeving, workflowsturing en clinical decision support. Verpleegkundig dossier (spoedgevallen, anesthesie, IZ, verloskwartier, (dag) hospitalisatie …) met verslaggeving, zorgplanning, screening, briefingtool, alerting, MVG extractie. Paramedisch dossier met planning, verslaggeving en prefacturatie. Medicatiebeheer inclusief chemotherapie met optie voor bedside scanning, naadloos gekoppeld aan het apotheekbeheer (ZORGI, Apotheek). Resultaat rapportering en ordercommunicatie die naadloos communiceert met bestaande applicaties (o.a. MIPS, Cyberlab – AFGA PACS, …). OK planning CSA Agenda en afspraken module voor consulterende artsen Opnameplanning, actuele en toekomstige bedbezetting Decentrale tarificatie (pre facturatie). Data extractie voor interne beleidsinformatie (gebaseerd op IQVIA datawarehouse) en rapportering aan de overheid. Organisatie intern patiëntentransport. (De)centrale scanning. Voedingsmanagement. Patiëntenportaal voor het maken en raadplegen van online afspraken, invullen van vragenlijsten, opvragen van resultaten, … Inclusief veilige authenticatie (itsme e.a.). Integratie met bestaande patiëntenadministratie (Oazis) en facturatie (ZORGI, Tarfac 3.0). Datamigratie vanuit reeds aanwezige EPD software (PrimUZ). Koppeling met diverse medical devices. RIS (Radiologie Informatica Systeem). Out of scope voor deze opdracht (excl. koppelingen met EPD software) Patiëntenadministratie (ADT + facturatie). LIS (Labo Informatica Systeem). PACS Er wordt veel belang gehecht aan de verschillende deelaspecten, die terugkomen onder III. Technische specificaties De totale duur van de volledige opdracht is afhankelijk van de duur van implementatie en de duur van gebruik. De concrete duur zal bepaald worden in de overeenkomst opgesteld na gunning door de opdrachtgever. De inschrijver geeft bij zijn offerte de termijn op die nodig is voor deze opdracht, m.a.w. hij zal een concreet aanschaf-, installatie-, migratie/koppelingen-, implementatie- en onderhoudsplan voorzien. De productspecificaties worden nader omschreven in hoofdstuk III. Technische Specificaties. De opdrachtgever kiest de economisch meest voordelige offerte, vastgesteld rekening houdend met de beste prijs-kwaliteitsverhouding.",
-      "cpv": "72212180",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 8688,
-      "publication": "2026-06-17",
+      "id": "392191-2026",
+      "ref": "392191-2026",
+      "acheteur": "Gemeente Breda",
+      "objet": "Pays-Bas – Services de formation dans le domaine de la sécurité – BHV en EHBO opleidingen en advies 2026 en verder",
+      "description": "Procedure Aanbesteding middels de Europees openbare procedure conform de (gewijzigde) aanbestedingswet 2012. Opdrachtgever De opdrachtgever bij deze aanbesteding is de Gemeente Breda.  Voor meer informatie over de Gemeente Breda verwijzen wij u naar de website van de gemeente: www.breda.nl. Scope van de opdracht  De scope van de opdracht omvat meerdere dienstverleningscomponenten en kent een wisselende organisatorische inzet. De opdracht betreft het verzorgen van:  BHV‑opleidingen en BHV‑advies;  EHBO‑opleidingen en EHBO‑advies.  Zie voor nadere informatie de onderstaande bijlagen:  'Gewenste situatie BHV en EHBO Opleidingen en Advies'; 'Toelichting organisatie en doelgroepen BHV en EHBO Opleidingen en Advies'; Buiten de scope valt:  verbruiksmiddelen BHV en EHBO;  AED' s. Percelen Deze opdracht is niet verdeeld in percelen. Doel  De raamovereenkomst, met als ingangsdatum 1 november 2026, wordt aangegaan voor een initiële looptijd van twee (2) jaar.  De opdrachtgever heeft, met wederzijds goedvinden van partijen, het recht deze raamovereenkomst twee (2) maal te verlengen, telkens voor de duur van twee (2) jaar. De maximale looptijd van de raamovereenkomst bedraagt derhalve zes (6) jaar.  De besluitvorming ten aanzien van deze verlenging(en) geschiedt op basis van evaluatie van de geleverde prestaties van de dienstverlening.  Maximale contractwaarde  De maximale opdrachtwaarde in het kader van deze raamovereenkomst wordt gesteld op € 250.000 per jaar exclusief BTW, bezien over de looptijd van de raamovereenkomst, inclusief verlengingsopties. Aan het genoemde bedrag kunnen geen rechten worden ontleend. Voor opdrachtgever geldt geen afnameverplichting. Mocht gedurende de looptijd van de raamovereenkomst de maximale opdrachtwaarde worden overschreden dan zal de raamovereenkomst (eerder) worden beëindigd. Mercell Deze aanbesteding zal uitsluitend en geheel digitaal online worden afgehandeld via het Mercell platform (www.mercell.com). Een uitgebreide instructie met betrekking tot digitaal aanbesteden treft u aan in de Vragenlijsten.",
+      "cpv": "80550000",
+      "pays": "NLD",
+      "deadline": "2026-08-10",
+      "montant": 1500,
+      "publication": "2026-06-09",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/416167-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/392191-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -88,10 +60,10 @@
       "score_detail": {
         "fit": 30,
         "size": 15,
-        "tech": 14,
+        "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 3
+        "delay": 5
       },
       "score_status": "cond",
       "notes": "",
@@ -129,18 +101,18 @@
       "auto": true
     },
     {
-      "id": "392191-2026",
-      "ref": "392191-2026",
-      "acheteur": "Gemeente Breda",
-      "objet": "Pays-Bas – Services de formation dans le domaine de la sécurité – BHV en EHBO opleidingen en advies 2026 en verder",
-      "description": "Procedure Aanbesteding middels de Europees openbare procedure conform de (gewijzigde) aanbestedingswet 2012. Opdrachtgever De opdrachtgever bij deze aanbesteding is de Gemeente Breda.  Voor meer informatie over de Gemeente Breda verwijzen wij u naar de website van de gemeente: www.breda.nl. Scope van de opdracht  De scope van de opdracht omvat meerdere dienstverleningscomponenten en kent een wisselende organisatorische inzet. De opdracht betreft het verzorgen van:  BHV‑opleidingen en BHV‑advies;  EHBO‑opleidingen en EHBO‑advies.  Zie voor nadere informatie de onderstaande bijlagen:  'Gewenste situatie BHV en EHBO Opleidingen en Advies'; 'Toelichting organisatie en doelgroepen BHV en EHBO Opleidingen en Advies'; Buiten de scope valt:  verbruiksmiddelen BHV en EHBO;  AED' s. Percelen Deze opdracht is niet verdeeld in percelen. Doel  De raamovereenkomst, met als ingangsdatum 1 november 2026, wordt aangegaan voor een initiële looptijd van twee (2) jaar.  De opdrachtgever heeft, met wederzijds goedvinden van partijen, het recht deze raamovereenkomst twee (2) maal te verlengen, telkens voor de duur van twee (2) jaar. De maximale looptijd van de raamovereenkomst bedraagt derhalve zes (6) jaar.  De besluitvorming ten aanzien van deze verlenging(en) geschiedt op basis van evaluatie van de geleverde prestaties van de dienstverlening.  Maximale contractwaarde  De maximale opdrachtwaarde in het kader van deze raamovereenkomst wordt gesteld op € 250.000 per jaar exclusief BTW, bezien over de looptijd van de raamovereenkomst, inclusief verlengingsopties. Aan het genoemde bedrag kunnen geen rechten worden ontleend. Voor opdrachtgever geldt geen afnameverplichting. Mocht gedurende de looptijd van de raamovereenkomst de maximale opdrachtwaarde worden overschreden dan zal de raamovereenkomst (eerder) worden beëindigd. Mercell Deze aanbesteding zal uitsluitend en geheel digitaal online worden afgehandeld via het Mercell platform (www.mercell.com). Een uitgebreide instructie met betrekking tot digitaal aanbesteden treft u aan in de Vragenlijsten.",
-      "cpv": "80550000",
-      "pays": "NLD",
-      "deadline": "2026-08-10",
-      "montant": 1500,
-      "publication": "2026-06-09",
+      "id": "416167-2026",
+      "ref": "416167-2026",
+      "acheteur": "HeiligHartziekenhuis Lier",
+      "objet": "Belgique – Services de développement de logiciels médicaux – Aanschaf en installatie van een geïntegreerde EPD-oplossing.",
+      "description": "Aanschaf en installatie van een geïntegreerde EPD-oplossing die aan de gebruikers (eerste – en tweedelijn zorg- en zorgondersteunende diensten) ter beschikking gesteld zal worden met het oog op een efficiënte werking van alle zorgprocessen en dit door en voor alle betrokken zorgactoren. De opdracht omvat de: levering, implementatie, het onderhoud (inclusief wettelijk onderhoud, correctief, preventief en evolutief onderhoud) en de ondersteuning van de gebruikers. Voorwerp van deze diensten: Realisatie, implementatie & onderhoud van een geïntegreerd elektronisch patiëntendossier (EPD). Plaats van dienstverlening: HH Ziekenhuis Lier (Mechelsestraat 24, 2500 Lier) Toelichting: Het voorwerp van de opdracht is de realisatie, implementatie en onderhoud van een geïntegreerd elektronisch patiëntendossier (EPD) – hierna EPD en EPD software genoemd – met volgende kenmerken:    er is reeds een bestaande EPD-software in gebruik. Deze zal vervangen worden; bijgevolg maakt de datamigratie en het realiseren van de nodige koppelingen een essentieel onderdeel uit van de opdracht;  de EPD-software faciliteert en garandeert de samenwerking binnen het ziekenhuis zowel als tussen ziekenhuizen en overige stakeholders;  de EPD-software is (maximaal) compatibel en interoperabel met de softwareprogramma’s die niet in het voorwerp van de opdracht zijn omvat, doch binnen HH Ziekenhuis Lier worden gebruikt.  De opdrachtgever wenst een multidisciplinair elektronisch dossier waarin alle patiëntengegevens worden bewaard en beschikbaar worden gesteld voor alle actoren in het zorgproces waarin de patiënt centraal staat van bij de opname tot en met het ontslag. Via een portaal wordt het dossier uitgebreid tot de pre- en posthospitaal periode waarin de patiënt toegang heeft tot de eigen gegevens en deze kan delen en (mits de nodige validaties) aanvullen. Het dossier ondersteunt de workflow en de registraties door een uniforme manier van werken over alle specialismes heen. De patiëntengegevens dienen conform de wetgeving op een eenvoudige elektronische manier te worden gedeeld met extramurale partners. Het EPD dient een tool zijn voor samenwerking en continue kwaliteitsverbetering/meting binnen het ziekenhuis en met partnerziekenhuizen binnen ons ziekenhuisnetwerk, de huisartsen, thuisverpleging en andere zorgverstrekkers in onze zorgregio. Tevens wil HH Ziekenhuis Lier gegevens delen via eHealth of andere aangeboden kanalen. HH Ziekenhuis Lier wil informatie halen uit de opgeslagen gegevens van het EPD met als doel de kwaliteit van het zorgproces te monitoren, te verbeteren en te toetsen t.o.v. andere zorgaanbieders. De gegevens dienen bij voorkeur via automatische rapportage een antwoord geven op verplichte registraties van de overheden. In scope van deze opdracht Medisch dossier met verslaggeving, workflowsturing en clinical decision support. Verpleegkundig dossier (spoedgevallen, anesthesie, IZ, verloskwartier, (dag) hospitalisatie …) met verslaggeving, zorgplanning, screening, briefingtool, alerting, MVG extractie. Paramedisch dossier met planning, verslaggeving en prefacturatie. Medicatiebeheer inclusief chemotherapie met optie voor bedside scanning, naadloos gekoppeld aan het apotheekbeheer (ZORGI, Apotheek). Resultaat rapportering en ordercommunicatie die naadloos communiceert met bestaande applicaties (o.a. MIPS, Cyberlab – AFGA PACS, …). OK planning CSA Agenda en afspraken module voor consulterende artsen Opnameplanning, actuele en toekomstige bedbezetting Decentrale tarificatie (pre facturatie). Data extractie voor interne beleidsinformatie (gebaseerd op IQVIA datawarehouse) en rapportering aan de overheid. Organisatie intern patiëntentransport. (De)centrale scanning. Voedingsmanagement. Patiëntenportaal voor het maken en raadplegen van online afspraken, invullen van vragenlijsten, opvragen van resultaten, … Inclusief veilige authenticatie (itsme e.a.). Integratie met bestaande patiëntenadministratie (Oazis) en facturatie (ZORGI, Tarfac 3.0). Datamigratie vanuit reeds aanwezige EPD software (PrimUZ). Koppeling met diverse medical devices. RIS (Radiologie Informatica Systeem). Out of scope voor deze opdracht (excl. koppelingen met EPD software) Patiëntenadministratie (ADT + facturatie). LIS (Labo Informatica Systeem). PACS Er wordt veel belang gehecht aan de verschillende deelaspecten, die terugkomen onder III. Technische specificaties De totale duur van de volledige opdracht is afhankelijk van de duur van implementatie en de duur van gebruik. De concrete duur zal bepaald worden in de overeenkomst opgesteld na gunning door de opdrachtgever. De inschrijver geeft bij zijn offerte de termijn op die nodig is voor deze opdracht, m.a.w. hij zal een concreet aanschaf-, installatie-, migratie/koppelingen-, implementatie- en onderhoudsplan voorzien. De productspecificaties worden nader omschreven in hoofdstuk III. Technische Specificaties. De opdrachtgever kiest de economisch meest voordelige offerte, vastgesteld rekening houdend met de beste prijs-kwaliteitsverhouding.",
+      "cpv": "72212180",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 8688,
+      "publication": "2026-06-17",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/392191-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/416167-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -150,10 +122,72 @@
       "score_detail": {
         "fit": 30,
         "size": 15,
+        "tech": 14,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "393362-2026",
+      "ref": "393362-2026",
+      "acheteur": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
+      "objet": "Pays-Bas – Fournisseurs de services applicatifs – Collectie Informatie Systeem Kunstbeheer 2026",
+      "description": "De Opdracht is integrale dienstverlening (Software as a Service ofwel SaaS) van één leverancier die zorgt voor de software, implementatie, beheer en onderhoud van de applicatie en de databases voor de registratie van de kunst in de Rijksgebouwen. Essentieel is dat het een Nederlandstalige applicatie voor collectiebeheer betreft die in één versie als een onlinedienst aangeboden kan worden aan gebruikers in verschillende organisaties met verschillende digitale werkomgevingen, waarbij de leverancier zorgt voor de aansluiting van de gebruikers en de conversie van gegevens, voor het onderhoud en beheer van het systeem (applicatie en databases), en voor instructie en ondersteuning van de gebruikers in de Nederlandse taal. €1,-",
+      "cpv": "72416000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 188,
+      "publication": "2026-06-09",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/393362-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 35,
+        "size": 10,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "399649-2026",
+      "ref": "399649-2026",
+      "acheteur": "AG Digipolis Antwerpen",
+      "objet": "Belgique – Services de programmation et de conseil en logiciels – Raamovereenkomst voor de aankoop van gebruiksrechten op Software",
+      "description": "Google softwarelicenties / Salesforce softwarelicenties / Diverse softwarelicenties – een softwarebroker, waarbij de aanbestedende overheid op een snelle en efficiënte manier software kan aankopen en ondersteund wordt in het operationeel beheer hiervan, inclusief renewals met alle administratieve ondersteuning (waaronder b.v. het bijhouden van een inventaris). Momenteel worden er meer dan 140 tal verschillende softwares aangeschaft binnen Digipolis en Groep Antwerpen. De huidige top 11 voor dit perceel zijn volgende: • Atlassian • Kong • Redgate SQL Monitor • Elephantastic • Hoxhunt • ClickUp Enterprise • Graykey • Elastic Platinum • Odoo • Canva Enterprise • Freshworks Naast deze software van de grote softwarefabrikanten zijn er ook nog vele middelgrote softwares als kleine meer niche software in scope, waarbij sommigen alleen via een creditcard moeten aangekocht worden.",
+      "cpv": "72200000",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 32000,
+      "publication": "2026-06-11",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/399649-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -222,80 +256,18 @@
       "auto": true
     },
     {
-      "id": "399649-2026",
-      "ref": "399649-2026",
-      "acheteur": "AG Digipolis Antwerpen",
-      "objet": "Belgique – Services de programmation et de conseil en logiciels – Raamovereenkomst voor de aankoop van gebruiksrechten op Software",
-      "description": "Google softwarelicenties / Salesforce softwarelicenties / Diverse softwarelicenties – een softwarebroker, waarbij de aanbestedende overheid op een snelle en efficiënte manier software kan aankopen en ondersteund wordt in het operationeel beheer hiervan, inclusief renewals met alle administratieve ondersteuning (waaronder b.v. het bijhouden van een inventaris). Momenteel worden er meer dan 140 tal verschillende softwares aangeschaft binnen Digipolis en Groep Antwerpen. De huidige top 11 voor dit perceel zijn volgende: • Atlassian • Kong • Redgate SQL Monitor • Elephantastic • Hoxhunt • ClickUp Enterprise • Graykey • Elastic Platinum • Odoo • Canva Enterprise • Freshworks Naast deze software van de grote softwarefabrikanten zijn er ook nog vele middelgrote softwares als kleine meer niche software in scope, waarbij sommigen alleen via een creditcard moeten aangekocht worden.",
-      "cpv": "72200000",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 32000,
-      "publication": "2026-06-11",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/399649-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "393362-2026",
-      "ref": "393362-2026",
-      "acheteur": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
-      "objet": "Pays-Bas – Fournisseurs de services applicatifs – Collectie Informatie Systeem Kunstbeheer 2026",
-      "description": "De Opdracht is integrale dienstverlening (Software as a Service ofwel SaaS) van één leverancier die zorgt voor de software, implementatie, beheer en onderhoud van de applicatie en de databases voor de registratie van de kunst in de Rijksgebouwen. Essentieel is dat het een Nederlandstalige applicatie voor collectiebeheer betreft die in één versie als een onlinedienst aangeboden kan worden aan gebruikers in verschillende organisaties met verschillende digitale werkomgevingen, waarbij de leverancier zorgt voor de aansluiting van de gebruikers en de conversie van gegevens, voor het onderhoud en beheer van het systeem (applicatie en databases), en voor instructie en ondersteuning van de gebruikers in de Nederlandse taal. €1,-",
-      "cpv": "72416000",
+      "id": "404978-2026",
+      "ref": "404978-2026",
+      "acheteur": "Gemeente Huizen",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Telefonie oplossing",
+      "description": "De doelstelling van deze Europese openbare aanbesteding is het selecteren en contracteren van een Inschrijver voor het leveren, implementeren en onderhouden van een Software-as-a Service applicatie ten behoeve van telefonie. Huidige situatie De gemeente Huizen gebruikt geruime tijd een telefooncentrale van Mitel. In 2022 zijn we overgestapt van vaste toestellen naar het gebruik van mobiele toestellen in combinatie met de mobiele app MiCollab. Dit was een stap vooruit ten opzichte van de eerdere situatie. Recent is gebleken dat de huidige oplossing een aantal nadelen heeft: • De huidige telefooncentralesoftware Mitel draait on-premises en is afhankelijk van een lokale domeinserver. Het huidige systeem past niet binnen de eisen die we hebben gesteld aan onze nieuwe ICT-dienstverlener. Vervanging is daarom noodzakelijk. • De agenda-integratie tussen Mitel en Microsoft 365 is niet betrouwbaar en gebruikers moeten deze vaak handmatig herstellen om up-to-date agenda informatie te delen. • De huidige mobiele app is dusdanig gebruikersonvriendelijk, dat deze omzeilt wordt door medewerkers. Hierdoor wordt het telefoniebeleid van de gemeente niet nageleefd. • Het gebruik van deze mobiele app is noodzakelijk om uit te bellen met het vaste telefoonnummer (035 – 528 1X XX). Omdat veel gebruikers de app niet gebruiken, bellen zij uit met hun 06-nummer. Ook dit gaat in tegen het telefoniebeleid van de gemeente. • De gemeente heeft een overeenkomst voor vaste telefonie via GT Vast met Vodafone Ziggo. Het betreft +/- 450 telefoonnummers. • De gemeente heeft een overeenkomst voor mobiele telefonie via GT Mobiel 3 met Odido. Het betreft +/- 450 telefoonnummers.",
+      "cpv": "72000000",
       "pays": "NLD",
       "deadline": "",
-      "montant": 188,
-      "publication": "2026-06-09",
+      "montant": 300,
+      "publication": "2026-06-12",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/393362-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 35,
-        "size": 10,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "413613-2026",
-      "ref": "413613-2026",
-      "acheteur": "Hoogheemraadschap van Delfland",
-      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Proces Informatie Management Systeem (PIMS)",
-      "description": "Het inrichten van een PIMS voor Delfland op basis van AVEVA PI technologie voor één van de zuiveringsinstallaties (te weten AWZI De Groote Lucht) met daarbij een drietal toepasbare use cases, teneinde te kunnen evalueren of deze opzet van meerwaarde is voor Delfland in het verbeteren van de informatiestromen binnen de organisatie. Delfland heeft het voornemen om procesdata van haar installaties en objecten van het watersysteem en de waterketen te gaan verzamelen en centraal op te slaan. Om hierin een eerste stap te nemen gaat Delfland een pilotproject uitvoeren voor het opzetten van een Proces Informatie Management Systeem (PIMS) voor één van haar zuiveringsinstallaties (AWZI De Groote Lucht), gebaseerd op AVEVA PI Systeem technologie. Voor deze installatie zal tijdens het pilotproject een AVEVA PI Systeem ingericht dienen te worden van maximaal 1.000 meetsignalen (tags) en 10 gebruikers. Tevens zullen een drietal use cases uitgewerkt dienen te worden: • Het beschikbaar stellen van gevalideerde procesdata voor de monitoring van lachgas emissies (te gebruiken door procestechnologen); • Het ontwikkelen van een dashboard in PI Vision voor de monitoring van een beperkt aantal trends en KPI’s (te gebruiken in de regelkamer); • Het opstellen van een rapport met daarin de draaiuren van alle afzonderlijke pompen (te gebruiken door onderhoudspersoneel).",
-      "cpv": "72200000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 331,
-      "publication": "2026-06-17",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/413613-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/404978-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -408,18 +380,18 @@
       "auto": true
     },
     {
-      "id": "404978-2026",
-      "ref": "404978-2026",
-      "acheteur": "Gemeente Huizen",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Telefonie oplossing",
-      "description": "De doelstelling van deze Europese openbare aanbesteding is het selecteren en contracteren van een Inschrijver voor het leveren, implementeren en onderhouden van een Software-as-a Service applicatie ten behoeve van telefonie. Huidige situatie De gemeente Huizen gebruikt geruime tijd een telefooncentrale van Mitel. In 2022 zijn we overgestapt van vaste toestellen naar het gebruik van mobiele toestellen in combinatie met de mobiele app MiCollab. Dit was een stap vooruit ten opzichte van de eerdere situatie. Recent is gebleken dat de huidige oplossing een aantal nadelen heeft: • De huidige telefooncentralesoftware Mitel draait on-premises en is afhankelijk van een lokale domeinserver. Het huidige systeem past niet binnen de eisen die we hebben gesteld aan onze nieuwe ICT-dienstverlener. Vervanging is daarom noodzakelijk. • De agenda-integratie tussen Mitel en Microsoft 365 is niet betrouwbaar en gebruikers moeten deze vaak handmatig herstellen om up-to-date agenda informatie te delen. • De huidige mobiele app is dusdanig gebruikersonvriendelijk, dat deze omzeilt wordt door medewerkers. Hierdoor wordt het telefoniebeleid van de gemeente niet nageleefd. • Het gebruik van deze mobiele app is noodzakelijk om uit te bellen met het vaste telefoonnummer (035 – 528 1X XX). Omdat veel gebruikers de app niet gebruiken, bellen zij uit met hun 06-nummer. Ook dit gaat in tegen het telefoniebeleid van de gemeente. • De gemeente heeft een overeenkomst voor vaste telefonie via GT Vast met Vodafone Ziggo. Het betreft +/- 450 telefoonnummers. • De gemeente heeft een overeenkomst voor mobiele telefonie via GT Mobiel 3 met Odido. Het betreft +/- 450 telefoonnummers.",
-      "cpv": "72000000",
+      "id": "413613-2026",
+      "ref": "413613-2026",
+      "acheteur": "Hoogheemraadschap van Delfland",
+      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Proces Informatie Management Systeem (PIMS)",
+      "description": "Het inrichten van een PIMS voor Delfland op basis van AVEVA PI technologie voor één van de zuiveringsinstallaties (te weten AWZI De Groote Lucht) met daarbij een drietal toepasbare use cases, teneinde te kunnen evalueren of deze opzet van meerwaarde is voor Delfland in het verbeteren van de informatiestromen binnen de organisatie. Delfland heeft het voornemen om procesdata van haar installaties en objecten van het watersysteem en de waterketen te gaan verzamelen en centraal op te slaan. Om hierin een eerste stap te nemen gaat Delfland een pilotproject uitvoeren voor het opzetten van een Proces Informatie Management Systeem (PIMS) voor één van haar zuiveringsinstallaties (AWZI De Groote Lucht), gebaseerd op AVEVA PI Systeem technologie. Voor deze installatie zal tijdens het pilotproject een AVEVA PI Systeem ingericht dienen te worden van maximaal 1.000 meetsignalen (tags) en 10 gebruikers. Tevens zullen een drietal use cases uitgewerkt dienen te worden: • Het beschikbaar stellen van gevalideerde procesdata voor de monitoring van lachgas emissies (te gebruiken door procestechnologen); • Het ontwikkelen van een dashboard in PI Vision voor de monitoring van een beperkt aantal trends en KPI’s (te gebruiken in de regelkamer); • Het opstellen van een rapport met daarin de draaiuren van alle afzonderlijke pompen (te gebruiken door onderhoudspersoneel).",
+      "cpv": "72200000",
       "pays": "NLD",
       "deadline": "",
-      "montant": 300,
-      "publication": "2026-06-12",
+      "montant": 331,
+      "publication": "2026-06-17",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/404978-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/413613-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -496,38 +468,6 @@
         "com": 5,
         "admin": 7,
         "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "396279-2026",
-      "ref": "396279-2026",
-      "acheteur": "Medizinische Universität Lausitz - Carl Thiem KdöR",
-      "objet": "Allemagne – Services de développement de logiciels – Beschaffung von Entwicklungsleistungen für die Digita-lisierung der akademischen Verwaltung auf Basis des koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint.",
-      "description": "Die MUL-CT strebt beim Aufbau der digitalen Universität an, akademische Verwaltungsprozesse zukünftig im koellisch-toolkit/koellisch-core-framework auf Office365/Sharepoint umzusetzen. Dabei wird die Entwicklung einer performanten Informationstechnologie & Aufbau digitaler Plattformen für die akademische Verwaltung definiert, um durch Digitalisierung und Automatisierung schlanke und digitale Verwaltungsprozesse direkt von Beginn an zu entwickeln. Die durch den Auftragnehmer zu erbringende Leistungen beinhaltet die Entwicklung von akademischen Verwaltungsprozessen auf Basis von dem koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint. Folgende Aufgaben sind durch das Projektteam des Auftragnehmers in den zu beauftragenden Projekten zu erbringen: - Architektur & Konzeption: Entwicklung, Implementierung und Weiterentwicklung von digitalen Verwaltungslösungen für die Universität auf Basis des koellisch-Toolkit/Core Framework in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Workflow-Entwicklung: Konzeption und Umsetzung komplexer Workflows inkl. Fristen- und Mandatsverwaltung, Abstimmungs- und Dokumentationsprozessen sowie digitale Akten mit rechtssicherer Dokumentation - Schnittstellen & Integration: Design und Realisierung von Anbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Fehleranalyse & Wartung: Analyse und Behebung von Lösungsfehlern im Ticketsystem inkl. Eskalationsmanagement - Testing & Qualitätsmanagement: Steuerung von Test- und Rollout-Phasen, Qualitätssicherung und Erstellung technischer Dokumentationen - IT-Projektleitung: Übernahme von (Teil-)Projektleitungen im Rahmen der Digitalisierungsprojekte der MUL-CT Tätigkeiten, die während der Digitalisierungsvorhaben der MUL-CT zu erwarten und von jeweiligen Entwickler:in köllisch-toolkit/köllisch-core-framework zu übernehmen sind: - Konzeption, Implementierung und Weiterentwicklung von Lösungen auf Basis des köllisch-Toolkit/Core Frameworks in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Realisierung von Workflows und digitalen Akten inkl. Fristen- und Mandatsverwaltung, rechtssicherer Dokumentation, Abstimmungs- und Sitzungsorganisation - Analyse und Behebung von Lösungsfehlern im Rahmen des Ticketsystems, inkl. Eskalationsmanagement und Support bei Fehlertickets - Mitwirkung bei Schnittstellenanbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Übernahme von (Teil-)Projektleitungen in Digitalisierungsprojekten inkl. Steuerung von Test- und Rollout-Phasen - Planung, Durchführung und Dokumentation von Test- und Qualitätssicherungsmaßnahmen (funktionales Testing, Abnahmetests, Regressionstests) - Durchführung von Schulungen und Workshops für unterschiedliche Zielgruppen (Key-User, Gremienmitglieder, Verwaltung, interne IT) - Coaching und Training interner IT-Mitarbeitender zur Förderung des nachhaltigen Kompetenzaufbaus",
-      "cpv": "72262000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-06-10",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/396279-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Microsoft Office",
-        "Office 365"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -611,6 +551,38 @@
       "segment": "Autre",
       "keyword_hits": [
         "Excel"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "396279-2026",
+      "ref": "396279-2026",
+      "acheteur": "Medizinische Universität Lausitz - Carl Thiem KdöR",
+      "objet": "Allemagne – Services de développement de logiciels – Beschaffung von Entwicklungsleistungen für die Digita-lisierung der akademischen Verwaltung auf Basis des koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint.",
+      "description": "Die MUL-CT strebt beim Aufbau der digitalen Universität an, akademische Verwaltungsprozesse zukünftig im koellisch-toolkit/koellisch-core-framework auf Office365/Sharepoint umzusetzen. Dabei wird die Entwicklung einer performanten Informationstechnologie & Aufbau digitaler Plattformen für die akademische Verwaltung definiert, um durch Digitalisierung und Automatisierung schlanke und digitale Verwaltungsprozesse direkt von Beginn an zu entwickeln. Die durch den Auftragnehmer zu erbringende Leistungen beinhaltet die Entwicklung von akademischen Verwaltungsprozessen auf Basis von dem koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint. Folgende Aufgaben sind durch das Projektteam des Auftragnehmers in den zu beauftragenden Projekten zu erbringen: - Architektur & Konzeption: Entwicklung, Implementierung und Weiterentwicklung von digitalen Verwaltungslösungen für die Universität auf Basis des koellisch-Toolkit/Core Framework in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Workflow-Entwicklung: Konzeption und Umsetzung komplexer Workflows inkl. Fristen- und Mandatsverwaltung, Abstimmungs- und Dokumentationsprozessen sowie digitale Akten mit rechtssicherer Dokumentation - Schnittstellen & Integration: Design und Realisierung von Anbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Fehleranalyse & Wartung: Analyse und Behebung von Lösungsfehlern im Ticketsystem inkl. Eskalationsmanagement - Testing & Qualitätsmanagement: Steuerung von Test- und Rollout-Phasen, Qualitätssicherung und Erstellung technischer Dokumentationen - IT-Projektleitung: Übernahme von (Teil-)Projektleitungen im Rahmen der Digitalisierungsprojekte der MUL-CT Tätigkeiten, die während der Digitalisierungsvorhaben der MUL-CT zu erwarten und von jeweiligen Entwickler:in köllisch-toolkit/köllisch-core-framework zu übernehmen sind: - Konzeption, Implementierung und Weiterentwicklung von Lösungen auf Basis des köllisch-Toolkit/Core Frameworks in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Realisierung von Workflows und digitalen Akten inkl. Fristen- und Mandatsverwaltung, rechtssicherer Dokumentation, Abstimmungs- und Sitzungsorganisation - Analyse und Behebung von Lösungsfehlern im Rahmen des Ticketsystems, inkl. Eskalationsmanagement und Support bei Fehlertickets - Mitwirkung bei Schnittstellenanbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Übernahme von (Teil-)Projektleitungen in Digitalisierungsprojekten inkl. Steuerung von Test- und Rollout-Phasen - Planung, Durchführung und Dokumentation von Test- und Qualitätssicherungsmaßnahmen (funktionales Testing, Abnahmetests, Regressionstests) - Durchführung von Schulungen und Workshops für unterschiedliche Zielgruppen (Key-User, Gremienmitglieder, Verwaltung, interne IT) - Coaching und Training interner IT-Mitarbeitender zur Förderung des nachhaltigen Kompetenzaufbaus",
+      "cpv": "72262000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-10",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/396279-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Microsoft Office",
+        "Office 365"
       ],
       "bureautique": true,
       "score": 65,

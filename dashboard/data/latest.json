@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T08:25:11.855Z",
+  "generated_at": "2026-07-09T09:45:59.560Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
@@ -7,21 +7,21 @@
       "fetched": 500,
       "matched": 21,
       "go": 1,
-      "generated_at": "2026-07-08T08:18:00.342Z"
+      "generated_at": "2026-07-09T09:39:09.045Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-08T08:25:11.237Z"
+      "generated_at": "2026-07-09T09:45:58.949Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-08T08:25:11.731Z"
+      "generated_at": "2026-07-09T09:45:59.417Z"
     }
   },
   "total_fetched": 3500,
@@ -63,6 +63,37 @@
         "delay": 3
       },
       "score_status": "go",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "416167-2026",
+      "ref": "416167-2026",
+      "acheteur": "HeiligHartziekenhuis Lier",
+      "objet": "Belgique – Services de développement de logiciels médicaux – Aanschaf en installatie van een geïntegreerde EPD-oplossing.",
+      "description": "Aanschaf en installatie van een geïntegreerde EPD-oplossing die aan de gebruikers (eerste – en tweedelijn zorg- en zorgondersteunende diensten) ter beschikking gesteld zal worden met het oog op een efficiënte werking van alle zorgprocessen en dit door en voor alle betrokken zorgactoren. De opdracht omvat de: levering, implementatie, het onderhoud (inclusief wettelijk onderhoud, correctief, preventief en evolutief onderhoud) en de ondersteuning van de gebruikers. Voorwerp van deze diensten: Realisatie, implementatie & onderhoud van een geïntegreerd elektronisch patiëntendossier (EPD). Plaats van dienstverlening: HH Ziekenhuis Lier (Mechelsestraat 24, 2500 Lier) Toelichting: Het voorwerp van de opdracht is de realisatie, implementatie en onderhoud van een geïntegreerd elektronisch patiëntendossier (EPD) – hierna EPD en EPD software genoemd – met volgende kenmerken:    er is reeds een bestaande EPD-software in gebruik. Deze zal vervangen worden; bijgevolg maakt de datamigratie en het realiseren van de nodige koppelingen een essentieel onderdeel uit van de opdracht;  de EPD-software faciliteert en garandeert de samenwerking binnen het ziekenhuis zowel als tussen ziekenhuizen en overige stakeholders;  de EPD-software is (maximaal) compatibel en interoperabel met de softwareprogramma’s die niet in het voorwerp van de opdracht zijn omvat, doch binnen HH Ziekenhuis Lier worden gebruikt.  De opdrachtgever wenst een multidisciplinair elektronisch dossier waarin alle patiëntengegevens worden bewaard en beschikbaar worden gesteld voor alle actoren in het zorgproces waarin de patiënt centraal staat van bij de opname tot en met het ontslag. Via een portaal wordt het dossier uitgebreid tot de pre- en posthospitaal periode waarin de patiënt toegang heeft tot de eigen gegevens en deze kan delen en (mits de nodige validaties) aanvullen. Het dossier ondersteunt de workflow en de registraties door een uniforme manier van werken over alle specialismes heen. De patiëntengegevens dienen conform de wetgeving op een eenvoudige elektronische manier te worden gedeeld met extramurale partners. Het EPD dient een tool zijn voor samenwerking en continue kwaliteitsverbetering/meting binnen het ziekenhuis en met partnerziekenhuizen binnen ons ziekenhuisnetwerk, de huisartsen, thuisverpleging en andere zorgverstrekkers in onze zorgregio. Tevens wil HH Ziekenhuis Lier gegevens delen via eHealth of andere aangeboden kanalen. HH Ziekenhuis Lier wil informatie halen uit de opgeslagen gegevens van het EPD met als doel de kwaliteit van het zorgproces te monitoren, te verbeteren en te toetsen t.o.v. andere zorgaanbieders. De gegevens dienen bij voorkeur via automatische rapportage een antwoord geven op verplichte registraties van de overheden. In scope van deze opdracht Medisch dossier met verslaggeving, workflowsturing en clinical decision support. Verpleegkundig dossier (spoedgevallen, anesthesie, IZ, verloskwartier, (dag) hospitalisatie …) met verslaggeving, zorgplanning, screening, briefingtool, alerting, MVG extractie. Paramedisch dossier met planning, verslaggeving en prefacturatie. Medicatiebeheer inclusief chemotherapie met optie voor bedside scanning, naadloos gekoppeld aan het apotheekbeheer (ZORGI, Apotheek). Resultaat rapportering en ordercommunicatie die naadloos communiceert met bestaande applicaties (o.a. MIPS, Cyberlab – AFGA PACS, …). OK planning CSA Agenda en afspraken module voor consulterende artsen Opnameplanning, actuele en toekomstige bedbezetting Decentrale tarificatie (pre facturatie). Data extractie voor interne beleidsinformatie (gebaseerd op IQVIA datawarehouse) en rapportering aan de overheid. Organisatie intern patiëntentransport. (De)centrale scanning. Voedingsmanagement. Patiëntenportaal voor het maken en raadplegen van online afspraken, invullen van vragenlijsten, opvragen van resultaten, … Inclusief veilige authenticatie (itsme e.a.). Integratie met bestaande patiëntenadministratie (Oazis) en facturatie (ZORGI, Tarfac 3.0). Datamigratie vanuit reeds aanwezige EPD software (PrimUZ). Koppeling met diverse medical devices. RIS (Radiologie Informatica Systeem). Out of scope voor deze opdracht (excl. koppelingen met EPD software) Patiëntenadministratie (ADT + facturatie). LIS (Labo Informatica Systeem). PACS Er wordt veel belang gehecht aan de verschillende deelaspecten, die terugkomen onder III. Technische specificaties De totale duur van de volledige opdracht is afhankelijk van de duur van implementatie en de duur van gebruik. De concrete duur zal bepaald worden in de overeenkomst opgesteld na gunning door de opdrachtgever. De inschrijver geeft bij zijn offerte de termijn op die nodig is voor deze opdracht, m.a.w. hij zal een concreet aanschaf-, installatie-, migratie/koppelingen-, implementatie- en onderhoudsplan voorzien. De productspecificaties worden nader omschreven in hoofdstuk III. Technische Specificaties. De opdrachtgever kiest de economisch meest voordelige offerte, vastgesteld rekening houdend met de beste prijs-kwaliteitsverhouding.",
+      "cpv": "72212180",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 8688,
+      "publication": "2026-06-17",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/416167-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 74,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 14,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
       "notes": "",
       "auto": true
     },
@@ -243,37 +274,6 @@
       "score_detail": {
         "fit": 35,
         "size": 10,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "391689-2026",
-      "ref": "391689-2026",
-      "acheteur": "Coöperatie Samen Innoveren/Inkopen/Ict voor Onderwijs Nederland UA",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Open keuzecatalogus Leermiddelen",
-      "description": "SIVON beoogt een opdracht in de markt te zetten voor de ontwikkeling, doorontwikkeling en het onderhouden van een open keuzecatalogus leermiddelen. Deze keuzecatalogustool is bedoeld om vaksecties te ondersteunen bij hun keuzeproces voor lesmethoden. De opdracht betreft het ontwikkelen, doorontwikkelen en onderhouden van een keuzecatalogustool voor SIVON en haar leden. SIVON identificeert binnen de opdracht twee hoofdfasen van uitvoering, waarvoor separate overeenkomsten zullen worden afgesloten: * Ontwikkelfase (ontwikkeling en vullen tool) * Onderhoudsfase (doorontwikkeling en onderhoud) - 5 jaar, waarbij SIVON zich het recht voorbehoudt om de overeenkomst 5 keer met 1 jaar te verlengen.",
-      "cpv": "72000000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 1195,
-      "publication": "2026-06-08",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/391689-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -470,6 +470,38 @@
       "auto": true
     },
     {
+      "id": "414484-2026",
+      "ref": "414484-2026",
+      "acheteur": "Instituto Politécnico de Lisboa / Instituto Superior de Engenharia de Lisboa",
+      "objet": "Portugal – Services de fourniture de logiciels – Renovação do Licenciamento Microsoft Office 365 A3 para o Instituto Politécnico de Lisboa",
+      "description": "Renovação do Licenciamento Microsoft Office 365 A3 para o Instituto Politécnico de Lisboa Vocabulário CPV: 722680001 Serviços de fornecimento de software / Renovação do Licenciamento Microsoft Office 365 A3 para o Instituto Politécnico de Lisboa",
+      "cpv": "72268000",
+      "pays": "PRT",
+      "deadline": "2026-07-12",
+      "montant": 400,
+      "publication": "2026-06-17",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/414484-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Microsoft Office",
+        "Office 365"
+      ],
+      "bureautique": true,
+      "score": 67,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "396279-2026",
       "ref": "396279-2026",
       "acheteur": "Medizinische Universität Lausitz - Carl Thiem KdöR",
@@ -576,37 +608,6 @@
       "publication": "2026-06-09",
       "source": "TED",
       "url": "https://ted.europa.eu/fr/notice/-/detail/393012-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Excel"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "389238-2026",
-      "ref": "389238-2026",
-      "acheteur": "Stromnetz Berlin GmbH",
-      "objet": "Allemagne – Logiciels et systèmes d'information – Einführung einer SaaS-Lösung für das Lieferantenmanagement",
-      "description": "Der aktuelle IST-Zustand des Lieferantenmanagements ist geprägt von einer veralteten, technisch begrenzten Systemlandschaft, die den heutigen Anforderungen an Transparenz, Effizienz und Compliance nicht mehr entspricht. Das bestehende Lieferantenmanagement -Tool (VFM-Portal), das unternehmensintern entwickelte wurde, gilt sowohl funktional als auch technologisch als nicht mehr zeitgemäß. Es verfügt über keine ausreichende Prozessintegration, bietet nur eingeschränkte Benutzerfreundlichkeit und ist in seinem Betrieb zunehmend aufwendig. Zudem besteht keine umfassende und durchgängige SAP-Anbindung, wodurch viele Daten manuell gepflegt und aus verschiedenen Quellen wie Excel und Share Point Listen zusammengestellt werden müssen. Ein ganzheitliches, unternehmensweites Konzept für das Lieferantenmanagement, sowohl systemisch als auch prozessual, liegt derzeit nicht vor. Das neue Lieferantenmanagement-Tool verfolgt das Ziel, das unternehmensweite Lieferantenmanagement zu modernisieren, zu standardisieren und zukunftsfähig auszurichten. Im Mittelpunkt steht die durchgängige Abbildung des gesamten Lieferantenlebenszyklus – von der Registrierung über Qualifizierung, Bewertung und Entwicklung bis hin zur Steuerung und Beendigung von Lieferantenbeziehungen. Durch die Ablösung des bestehenden VFM-Portals sollen medienbruchfreie, systemgestützte Prozesse geschaffen werden, die eine höhere Datenqualität, reduzierte manuelle Aufwände und klar definierte Zuständigkeiten ermöglichen. Beim Vergabegegenstand handelt es sich um ein Lieferantenmanagement-Tool zum Verwalten von Lieferanten. Gegenstand der Ausschreibung ist die Einführung und Nutzung eines unternehmensweiten Lieferantenmanagement-Tools, mindestens in den Bereichen: Einkauf, IT, Arbeitssicherheit und den technischen Bereichen, dass die strukturierte Erfassung, Bewertung und Verwaltung von Lieferanten unterstützt. Der Vertrag hat eine Grundlaufzeit bis 31.12.2031 mit zwei Verlängerungsoptionen um jeweils zwei Jahre.",
-      "cpv": "48000000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-06-08",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/389238-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Excel"

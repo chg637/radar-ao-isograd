@@ -1,70 +1,11 @@
 {
-  "generated_at": "2026-07-10T09:32:18.460Z",
-  "source": "MERGE",
-  "sources_summary": {
-    "TED": {
-      "present": true,
-      "fetched": 500,
-      "matched": 18,
-      "go": 0,
-      "generated_at": "2026-07-10T09:25:28.078Z"
-    },
-    "BOAMP": {
-      "present": true,
-      "fetched": 3000,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-07-10T09:32:18.082Z"
-    },
-    "Profil": {
-      "present": true,
-      "fetched": 0,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-07-10T09:32:18.334Z"
-    }
-  },
-  "total_fetched": 3500,
+  "generated_at": "2026-07-10T09:25:28.078Z",
+  "source": "TED",
+  "window_days": 30,
+  "total_fetched": 500,
   "total_matched": 18,
   "total_go": 0,
-  "total_dedup_collisions": 0,
-  "dedup_breakdown": {
-    "by_id": 0,
-    "fuzzy_signature": 0,
-    "fuzzy_jaccard": 0
-  },
   "notices": [
-    {
-      "id": "416167-2026",
-      "ref": "416167-2026",
-      "acheteur": "HeiligHartziekenhuis Lier",
-      "objet": "Belgique – Services de développement de logiciels médicaux – Aanschaf en installatie van een geïntegreerde EPD-oplossing.",
-      "description": "Aanschaf en installatie van een geïntegreerde EPD-oplossing die aan de gebruikers (eerste – en tweedelijn zorg- en zorgondersteunende diensten) ter beschikking gesteld zal worden met het oog op een efficiënte werking van alle zorgprocessen en dit door en voor alle betrokken zorgactoren. De opdracht omvat de: levering, implementatie, het onderhoud (inclusief wettelijk onderhoud, correctief, preventief en evolutief onderhoud) en de ondersteuning van de gebruikers. Voorwerp van deze diensten: Realisatie, implementatie & onderhoud van een geïntegreerd elektronisch patiëntendossier (EPD). Plaats van dienstverlening: HH Ziekenhuis Lier (Mechelsestraat 24, 2500 Lier) Toelichting: Het voorwerp van de opdracht is de realisatie, implementatie en onderhoud van een geïntegreerd elektronisch patiëntendossier (EPD) – hierna EPD en EPD software genoemd – met volgende kenmerken:    er is reeds een bestaande EPD-software in gebruik. Deze zal vervangen worden; bijgevolg maakt de datamigratie en het realiseren van de nodige koppelingen een essentieel onderdeel uit van de opdracht;  de EPD-software faciliteert en garandeert de samenwerking binnen het ziekenhuis zowel als tussen ziekenhuizen en overige stakeholders;  de EPD-software is (maximaal) compatibel en interoperabel met de softwareprogramma’s die niet in het voorwerp van de opdracht zijn omvat, doch binnen HH Ziekenhuis Lier worden gebruikt.  De opdrachtgever wenst een multidisciplinair elektronisch dossier waarin alle patiëntengegevens worden bewaard en beschikbaar worden gesteld voor alle actoren in het zorgproces waarin de patiënt centraal staat van bij de opname tot en met het ontslag. Via een portaal wordt het dossier uitgebreid tot de pre- en posthospitaal periode waarin de patiënt toegang heeft tot de eigen gegevens en deze kan delen en (mits de nodige validaties) aanvullen. Het dossier ondersteunt de workflow en de registraties door een uniforme manier van werken over alle specialismes heen. De patiëntengegevens dienen conform de wetgeving op een eenvoudige elektronische manier te worden gedeeld met extramurale partners. Het EPD dient een tool zijn voor samenwerking en continue kwaliteitsverbetering/meting binnen het ziekenhuis en met partnerziekenhuizen binnen ons ziekenhuisnetwerk, de huisartsen, thuisverpleging en andere zorgverstrekkers in onze zorgregio. Tevens wil HH Ziekenhuis Lier gegevens delen via eHealth of andere aangeboden kanalen. HH Ziekenhuis Lier wil informatie halen uit de opgeslagen gegevens van het EPD met als doel de kwaliteit van het zorgproces te monitoren, te verbeteren en te toetsen t.o.v. andere zorgaanbieders. De gegevens dienen bij voorkeur via automatische rapportage een antwoord geven op verplichte registraties van de overheden. In scope van deze opdracht Medisch dossier met verslaggeving, workflowsturing en clinical decision support. Verpleegkundig dossier (spoedgevallen, anesthesie, IZ, verloskwartier, (dag) hospitalisatie …) met verslaggeving, zorgplanning, screening, briefingtool, alerting, MVG extractie. Paramedisch dossier met planning, verslaggeving en prefacturatie. Medicatiebeheer inclusief chemotherapie met optie voor bedside scanning, naadloos gekoppeld aan het apotheekbeheer (ZORGI, Apotheek). Resultaat rapportering en ordercommunicatie die naadloos communiceert met bestaande applicaties (o.a. MIPS, Cyberlab – AFGA PACS, …). OK planning CSA Agenda en afspraken module voor consulterende artsen Opnameplanning, actuele en toekomstige bedbezetting Decentrale tarificatie (pre facturatie). Data extractie voor interne beleidsinformatie (gebaseerd op IQVIA datawarehouse) en rapportering aan de overheid. Organisatie intern patiëntentransport. (De)centrale scanning. Voedingsmanagement. Patiëntenportaal voor het maken en raadplegen van online afspraken, invullen van vragenlijsten, opvragen van resultaten, … Inclusief veilige authenticatie (itsme e.a.). Integratie met bestaande patiëntenadministratie (Oazis) en facturatie (ZORGI, Tarfac 3.0). Datamigratie vanuit reeds aanwezige EPD software (PrimUZ). Koppeling met diverse medical devices. RIS (Radiologie Informatica Systeem). Out of scope voor deze opdracht (excl. koppelingen met EPD software) Patiëntenadministratie (ADT + facturatie). LIS (Labo Informatica Systeem). PACS Er wordt veel belang gehecht aan de verschillende deelaspecten, die terugkomen onder III. Technische specificaties De totale duur van de volledige opdracht is afhankelijk van de duur van implementatie en de duur van gebruik. De concrete duur zal bepaald worden in de overeenkomst opgesteld na gunning door de opdrachtgever. De inschrijver geeft bij zijn offerte de termijn op die nodig is voor deze opdracht, m.a.w. hij zal een concreet aanschaf-, installatie-, migratie/koppelingen-, implementatie- en onderhoudsplan voorzien. De productspecificaties worden nader omschreven in hoofdstuk III. Technische Specificaties. De opdrachtgever kiest de economisch meest voordelige offerte, vastgesteld rekening houdend met de beste prijs-kwaliteitsverhouding.",
-      "cpv": "72212180",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 8688,
-      "publication": "2026-06-17",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/416167-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 74,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 14,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
     {
       "id": "403850-2026",
       "ref": "403850-2026",
@@ -97,49 +38,49 @@
       "auto": true
     },
     {
-      "id": "418150-2026",
-      "ref": "418150-2026",
-      "acheteur": "SSC IUC DJI",
-      "objet": "Pays-Bas – Services de développement de logiciels de gestion des systèmes, de stockage et de contenu – Compact geautomatiseerd opslagsysteem +4 graden Celsius t.b.v. het NFI",
-      "description": "De opdracht betreft de levering, installatie en het onderhoud van een compact, geautomatiseerd opslagsysteem +4 Celsius ten behoeve van het Nederlands Forensisch Instituut (NFI) te Den Haag, Nederland. Het opslagsysteem heeft ongeveer een koelkastformaat en er worden minimaal 500 AutoLys-tubes met DNA-sporen en minimaal 6000 FluidX-tubes met DNA-extracten in opgeslagen bij een temperatuur van 4 °Celsius. Aansluitend aan een garantietermijn van minimaal 1 jaar volgt 10 jaar onderhoud en daarna de optie het onderhoud voort te zetten tot uiterlijk het einde van de technische levensduur van het opslagsysteem. Daarnaast geldt een optie om een tweede, identiek opslagsysteem af te nemen, inclusief onderhoud tot uiterlijk het einde van de technische levensduur. Er wordt beoogd één overeenkomst te sluiten met een opdrachtnemer die de levering, installatie en het onderhoud verzorgt, ook voor het optionele tweede opslagsysteem. Aanbestedende dienst gaat uit van een geraamde totale opdrachtwaarde, inclusief ALLE opties, van € 940.000,-.",
-      "cpv": "72212780",
-      "pays": "NLD",
-      "deadline": "2026-08-24",
-      "montant": 940,
-      "publication": "2026-06-18",
+      "id": "416167-2026",
+      "ref": "416167-2026",
+      "acheteur": "HeiligHartziekenhuis Lier",
+      "objet": "Belgique – Services de développement de logiciels médicaux – Aanschaf en installatie van een geïntegreerde EPD-oplossing.",
+      "description": "Aanschaf en installatie van een geïntegreerde EPD-oplossing die aan de gebruikers (eerste – en tweedelijn zorg- en zorgondersteunende diensten) ter beschikking gesteld zal worden met het oog op een efficiënte werking van alle zorgprocessen en dit door en voor alle betrokken zorgactoren. De opdracht omvat de: levering, implementatie, het onderhoud (inclusief wettelijk onderhoud, correctief, preventief en evolutief onderhoud) en de ondersteuning van de gebruikers. Voorwerp van deze diensten: Realisatie, implementatie & onderhoud van een geïntegreerd elektronisch patiëntendossier (EPD). Plaats van dienstverlening: HH Ziekenhuis Lier (Mechelsestraat 24, 2500 Lier) Toelichting: Het voorwerp van de opdracht is de realisatie, implementatie en onderhoud van een geïntegreerd elektronisch patiëntendossier (EPD) – hierna EPD en EPD software genoemd – met volgende kenmerken:    er is reeds een bestaande EPD-software in gebruik. Deze zal vervangen worden; bijgevolg maakt de datamigratie en het realiseren van de nodige koppelingen een essentieel onderdeel uit van de opdracht;  de EPD-software faciliteert en garandeert de samenwerking binnen het ziekenhuis zowel als tussen ziekenhuizen en overige stakeholders;  de EPD-software is (maximaal) compatibel en interoperabel met de softwareprogramma’s die niet in het voorwerp van de opdracht zijn omvat, doch binnen HH Ziekenhuis Lier worden gebruikt.  De opdrachtgever wenst een multidisciplinair elektronisch dossier waarin alle patiëntengegevens worden bewaard en beschikbaar worden gesteld voor alle actoren in het zorgproces waarin de patiënt centraal staat van bij de opname tot en met het ontslag. Via een portaal wordt het dossier uitgebreid tot de pre- en posthospitaal periode waarin de patiënt toegang heeft tot de eigen gegevens en deze kan delen en (mits de nodige validaties) aanvullen. Het dossier ondersteunt de workflow en de registraties door een uniforme manier van werken over alle specialismes heen. De patiëntengegevens dienen conform de wetgeving op een eenvoudige elektronische manier te worden gedeeld met extramurale partners. Het EPD dient een tool zijn voor samenwerking en continue kwaliteitsverbetering/meting binnen het ziekenhuis en met partnerziekenhuizen binnen ons ziekenhuisnetwerk, de huisartsen, thuisverpleging en andere zorgverstrekkers in onze zorgregio. Tevens wil HH Ziekenhuis Lier gegevens delen via eHealth of andere aangeboden kanalen. HH Ziekenhuis Lier wil informatie halen uit de opgeslagen gegevens van het EPD met als doel de kwaliteit van het zorgproces te monitoren, te verbeteren en te toetsen t.o.v. andere zorgaanbieders. De gegevens dienen bij voorkeur via automatische rapportage een antwoord geven op verplichte registraties van de overheden. In scope van deze opdracht Medisch dossier met verslaggeving, workflowsturing en clinical decision support. Verpleegkundig dossier (spoedgevallen, anesthesie, IZ, verloskwartier, (dag) hospitalisatie …) met verslaggeving, zorgplanning, screening, briefingtool, alerting, MVG extractie. Paramedisch dossier met planning, verslaggeving en prefacturatie. Medicatiebeheer inclusief chemotherapie met optie voor bedside scanning, naadloos gekoppeld aan het apotheekbeheer (ZORGI, Apotheek). Resultaat rapportering en ordercommunicatie die naadloos communiceert met bestaande applicaties (o.a. MIPS, Cyberlab – AFGA PACS, …). OK planning CSA Agenda en afspraken module voor consulterende artsen Opnameplanning, actuele en toekomstige bedbezetting Decentrale tarificatie (pre facturatie). Data extractie voor interne beleidsinformatie (gebaseerd op IQVIA datawarehouse) en rapportering aan de overheid. Organisatie intern patiëntentransport. (De)centrale scanning. Voedingsmanagement. Patiëntenportaal voor het maken en raadplegen van online afspraken, invullen van vragenlijsten, opvragen van resultaten, … Inclusief veilige authenticatie (itsme e.a.). Integratie met bestaande patiëntenadministratie (Oazis) en facturatie (ZORGI, Tarfac 3.0). Datamigratie vanuit reeds aanwezige EPD software (PrimUZ). Koppeling met diverse medical devices. RIS (Radiologie Informatica Systeem). Out of scope voor deze opdracht (excl. koppelingen met EPD software) Patiëntenadministratie (ADT + facturatie). LIS (Labo Informatica Systeem). PACS Er wordt veel belang gehecht aan de verschillende deelaspecten, die terugkomen onder III. Technische specificaties De totale duur van de volledige opdracht is afhankelijk van de duur van implementatie en de duur van gebruik. De concrete duur zal bepaald worden in de overeenkomst opgesteld na gunning door de opdrachtgever. De inschrijver geeft bij zijn offerte de termijn op die nodig is voor deze opdracht, m.a.w. hij zal een concreet aanschaf-, installatie-, migratie/koppelingen-, implementatie- en onderhoudsplan voorzien. De productspecificaties worden nader omschreven in hoofdstuk III. Technische Specificaties. De opdrachtgever kiest de economisch meest voordelige offerte, vastgesteld rekening houdend met de beste prijs-kwaliteitsverhouding.",
+      "cpv": "72212180",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 8688,
+      "publication": "2026-06-17",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/418150-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/416167-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
       "bureautique": true,
-      "score": 72,
+      "score": 74,
       "score_detail": {
         "fit": 30,
-        "size": 13,
-        "tech": 12,
+        "size": 15,
+        "tech": 14,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
       "auto": true
     },
     {
-      "id": "420754-2026",
-      "ref": "420754-2026",
-      "acheteur": "Gemeente Dordrecht | Bedrijfsvoering Drechtsteden",
-      "objet": "Pays-Bas – Services de formation – Talentenfonds Drechtsteden 2026-2027",
-      "description": "Sectoren Zorg en Welzijn, Techniek en Bouw, en Transport en Logistiek en Maritiem De opdracht omvat één geïntegreerde opdracht voor het leveren van opleidingen in alle vier sectoren, met een totaalbudget van € 2.200.000 incl. btw. Opleiders kunnen inschrijven voor een of meerdere sectoren, maar worden beloond voor veelzijdigheid in hun aanbod. De opleidingen moeten: • Direct aansluiten op de actuele arbeidsmarktvraag in de Drechtsteden. • (Basis)-beroepsvaardigheden ontwikkelen, afgestemd op de doelgroep. • Kosteloos en laagdrempelig zijn voor deelnemers, mede door een minimale cofinancieringsbijdrage van 25% door opleiders.",
-      "cpv": "80500000",
-      "pays": "NLD",
+      "id": "399649-2026",
+      "ref": "399649-2026",
+      "acheteur": "AG Digipolis Antwerpen",
+      "objet": "Belgique – Services de programmation et de conseil en logiciels – Raamovereenkomst voor de aankoop van gebruiksrechten op Software",
+      "description": "Google softwarelicenties / Salesforce softwarelicenties / Diverse softwarelicenties – een softwarebroker, waarbij de aanbestedende overheid op een snelle en efficiënte manier software kan aankopen en ondersteund wordt in het operationeel beheer hiervan, inclusief renewals met alle administratieve ondersteuning (waaronder b.v. het bijhouden van een inventaris). Momenteel worden er meer dan 140 tal verschillende softwares aangeschaft binnen Digipolis en Groep Antwerpen. De huidige top 11 voor dit perceel zijn volgende: • Atlassian • Kong • Redgate SQL Monitor • Elephantastic • Hoxhunt • ClickUp Enterprise • Graykey • Elastic Platinum • Odoo • Canva Enterprise • Freshworks Naast deze software van de grote softwarefabrikanten zijn er ook nog vele middelgrote softwares als kleine meer niche software in scope, waarbij sommigen alleen via een creditcard moeten aangekocht worden.",
+      "cpv": "72200000",
+      "pays": "BEL",
       "deadline": "",
-      "montant": 2200,
-      "publication": "2026-06-18",
+      "montant": 32000,
+      "publication": "2026-06-11",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/420754-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/399649-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -221,18 +162,49 @@
       "auto": true
     },
     {
-      "id": "399649-2026",
-      "ref": "399649-2026",
-      "acheteur": "AG Digipolis Antwerpen",
-      "objet": "Belgique – Services de programmation et de conseil en logiciels – Raamovereenkomst voor de aankoop van gebruiksrechten op Software",
-      "description": "Google softwarelicenties / Salesforce softwarelicenties / Diverse softwarelicenties – een softwarebroker, waarbij de aanbestedende overheid op een snelle en efficiënte manier software kan aankopen en ondersteund wordt in het operationeel beheer hiervan, inclusief renewals met alle administratieve ondersteuning (waaronder b.v. het bijhouden van een inventaris). Momenteel worden er meer dan 140 tal verschillende softwares aangeschaft binnen Digipolis en Groep Antwerpen. De huidige top 11 voor dit perceel zijn volgende: • Atlassian • Kong • Redgate SQL Monitor • Elephantastic • Hoxhunt • ClickUp Enterprise • Graykey • Elastic Platinum • Odoo • Canva Enterprise • Freshworks Naast deze software van de grote softwarefabrikanten zijn er ook nog vele middelgrote softwares als kleine meer niche software in scope, waarbij sommigen alleen via een creditcard moeten aangekocht worden.",
-      "cpv": "72200000",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 32000,
-      "publication": "2026-06-11",
+      "id": "418150-2026",
+      "ref": "418150-2026",
+      "acheteur": "SSC IUC DJI",
+      "objet": "Pays-Bas – Services de développement de logiciels de gestion des systèmes, de stockage et de contenu – Compact geautomatiseerd opslagsysteem +4 graden Celsius t.b.v. het NFI",
+      "description": "De opdracht betreft de levering, installatie en het onderhoud van een compact, geautomatiseerd opslagsysteem +4 Celsius ten behoeve van het Nederlands Forensisch Instituut (NFI) te Den Haag, Nederland. Het opslagsysteem heeft ongeveer een koelkastformaat en er worden minimaal 500 AutoLys-tubes met DNA-sporen en minimaal 6000 FluidX-tubes met DNA-extracten in opgeslagen bij een temperatuur van 4 °Celsius. Aansluitend aan een garantietermijn van minimaal 1 jaar volgt 10 jaar onderhoud en daarna de optie het onderhoud voort te zetten tot uiterlijk het einde van de technische levensduur van het opslagsysteem. Daarnaast geldt een optie om een tweede, identiek opslagsysteem af te nemen, inclusief onderhoud tot uiterlijk het einde van de technische levensduur. Er wordt beoogd één overeenkomst te sluiten met een opdrachtnemer die de levering, installatie en het onderhoud verzorgt, ook voor het optionele tweede opslagsysteem. Aanbestedende dienst gaat uit van een geraamde totale opdrachtwaarde, inclusief ALLE opties, van € 940.000,-.",
+      "cpv": "72212780",
+      "pays": "NLD",
+      "deadline": "2026-08-24",
+      "montant": 940,
+      "publication": "2026-06-18",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/399649-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/418150-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "420754-2026",
+      "ref": "420754-2026",
+      "acheteur": "Gemeente Dordrecht | Bedrijfsvoering Drechtsteden",
+      "objet": "Pays-Bas – Services de formation – Talentenfonds Drechtsteden 2026-2027",
+      "description": "Sectoren Zorg en Welzijn, Techniek en Bouw, en Transport en Logistiek en Maritiem De opdracht omvat één geïntegreerde opdracht voor het leveren van opleidingen in alle vier sectoren, met een totaalbudget van € 2.200.000 incl. btw. Opleiders kunnen inschrijven voor een of meerdere sectoren, maar worden beloond voor veelzijdigheid in hun aanbod. De opleidingen moeten: • Direct aansluiten op de actuele arbeidsmarktvraag in de Drechtsteden. • (Basis)-beroepsvaardigheden ontwikkelen, afgestemd op de doelgroep. • Kosteloos en laagdrempelig zijn voor deelnemers, mede door een minimale cofinancieringsbijdrage van 25% door opleiders.",
+      "cpv": "80500000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 2200,
+      "publication": "2026-06-18",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/420754-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -252,18 +224,18 @@
       "auto": true
     },
     {
-      "id": "413613-2026",
-      "ref": "413613-2026",
-      "acheteur": "Hoogheemraadschap van Delfland",
-      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Proces Informatie Management Systeem (PIMS)",
-      "description": "Het inrichten van een PIMS voor Delfland op basis van AVEVA PI technologie voor één van de zuiveringsinstallaties (te weten AWZI De Groote Lucht) met daarbij een drietal toepasbare use cases, teneinde te kunnen evalueren of deze opzet van meerwaarde is voor Delfland in het verbeteren van de informatiestromen binnen de organisatie. Delfland heeft het voornemen om procesdata van haar installaties en objecten van het watersysteem en de waterketen te gaan verzamelen en centraal op te slaan. Om hierin een eerste stap te nemen gaat Delfland een pilotproject uitvoeren voor het opzetten van een Proces Informatie Management Systeem (PIMS) voor één van haar zuiveringsinstallaties (AWZI De Groote Lucht), gebaseerd op AVEVA PI Systeem technologie. Voor deze installatie zal tijdens het pilotproject een AVEVA PI Systeem ingericht dienen te worden van maximaal 1.000 meetsignalen (tags) en 10 gebruikers. Tevens zullen een drietal use cases uitgewerkt dienen te worden: • Het beschikbaar stellen van gevalideerde procesdata voor de monitoring van lachgas emissies (te gebruiken door procestechnologen); • Het ontwikkelen van een dashboard in PI Vision voor de monitoring van een beperkt aantal trends en KPI’s (te gebruiken in de regelkamer); • Het opstellen van een rapport met daarin de draaiuren van alle afzonderlijke pompen (te gebruiken door onderhoudspersoneel).",
-      "cpv": "72200000",
+      "id": "404978-2026",
+      "ref": "404978-2026",
+      "acheteur": "Gemeente Huizen",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Telefonie oplossing",
+      "description": "De doelstelling van deze Europese openbare aanbesteding is het selecteren en contracteren van een Inschrijver voor het leveren, implementeren en onderhouden van een Software-as-a Service applicatie ten behoeve van telefonie. Huidige situatie De gemeente Huizen gebruikt geruime tijd een telefooncentrale van Mitel. In 2022 zijn we overgestapt van vaste toestellen naar het gebruik van mobiele toestellen in combinatie met de mobiele app MiCollab. Dit was een stap vooruit ten opzichte van de eerdere situatie. Recent is gebleken dat de huidige oplossing een aantal nadelen heeft: • De huidige telefooncentralesoftware Mitel draait on-premises en is afhankelijk van een lokale domeinserver. Het huidige systeem past niet binnen de eisen die we hebben gesteld aan onze nieuwe ICT-dienstverlener. Vervanging is daarom noodzakelijk. • De agenda-integratie tussen Mitel en Microsoft 365 is niet betrouwbaar en gebruikers moeten deze vaak handmatig herstellen om up-to-date agenda informatie te delen. • De huidige mobiele app is dusdanig gebruikersonvriendelijk, dat deze omzeilt wordt door medewerkers. Hierdoor wordt het telefoniebeleid van de gemeente niet nageleefd. • Het gebruik van deze mobiele app is noodzakelijk om uit te bellen met het vaste telefoonnummer (035 – 528 1X XX). Omdat veel gebruikers de app niet gebruiken, bellen zij uit met hun 06-nummer. Ook dit gaat in tegen het telefoniebeleid van de gemeente. • De gemeente heeft een overeenkomst voor vaste telefonie via GT Vast met Vodafone Ziggo. Het betreft +/- 450 telefoonnummers. • De gemeente heeft een overeenkomst voor mobiele telefonie via GT Mobiel 3 met Odido. Het betreft +/- 450 telefoonnummers.",
+      "cpv": "72000000",
       "pays": "NLD",
       "deadline": "",
-      "montant": 331,
-      "publication": "2026-06-17",
+      "montant": 300,
+      "publication": "2026-06-12",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/413613-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/404978-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -376,18 +348,18 @@
       "auto": true
     },
     {
-      "id": "404978-2026",
-      "ref": "404978-2026",
-      "acheteur": "Gemeente Huizen",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Telefonie oplossing",
-      "description": "De doelstelling van deze Europese openbare aanbesteding is het selecteren en contracteren van een Inschrijver voor het leveren, implementeren en onderhouden van een Software-as-a Service applicatie ten behoeve van telefonie. Huidige situatie De gemeente Huizen gebruikt geruime tijd een telefooncentrale van Mitel. In 2022 zijn we overgestapt van vaste toestellen naar het gebruik van mobiele toestellen in combinatie met de mobiele app MiCollab. Dit was een stap vooruit ten opzichte van de eerdere situatie. Recent is gebleken dat de huidige oplossing een aantal nadelen heeft: • De huidige telefooncentralesoftware Mitel draait on-premises en is afhankelijk van een lokale domeinserver. Het huidige systeem past niet binnen de eisen die we hebben gesteld aan onze nieuwe ICT-dienstverlener. Vervanging is daarom noodzakelijk. • De agenda-integratie tussen Mitel en Microsoft 365 is niet betrouwbaar en gebruikers moeten deze vaak handmatig herstellen om up-to-date agenda informatie te delen. • De huidige mobiele app is dusdanig gebruikersonvriendelijk, dat deze omzeilt wordt door medewerkers. Hierdoor wordt het telefoniebeleid van de gemeente niet nageleefd. • Het gebruik van deze mobiele app is noodzakelijk om uit te bellen met het vaste telefoonnummer (035 – 528 1X XX). Omdat veel gebruikers de app niet gebruiken, bellen zij uit met hun 06-nummer. Ook dit gaat in tegen het telefoniebeleid van de gemeente. • De gemeente heeft een overeenkomst voor vaste telefonie via GT Vast met Vodafone Ziggo. Het betreft +/- 450 telefoonnummers. • De gemeente heeft een overeenkomst voor mobiele telefonie via GT Mobiel 3 met Odido. Het betreft +/- 450 telefoonnummers.",
-      "cpv": "72000000",
+      "id": "413613-2026",
+      "ref": "413613-2026",
+      "acheteur": "Hoogheemraadschap van Delfland",
+      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Proces Informatie Management Systeem (PIMS)",
+      "description": "Het inrichten van een PIMS voor Delfland op basis van AVEVA PI technologie voor één van de zuiveringsinstallaties (te weten AWZI De Groote Lucht) met daarbij een drietal toepasbare use cases, teneinde te kunnen evalueren of deze opzet van meerwaarde is voor Delfland in het verbeteren van de informatiestromen binnen de organisatie. Delfland heeft het voornemen om procesdata van haar installaties en objecten van het watersysteem en de waterketen te gaan verzamelen en centraal op te slaan. Om hierin een eerste stap te nemen gaat Delfland een pilotproject uitvoeren voor het opzetten van een Proces Informatie Management Systeem (PIMS) voor één van haar zuiveringsinstallaties (AWZI De Groote Lucht), gebaseerd op AVEVA PI Systeem technologie. Voor deze installatie zal tijdens het pilotproject een AVEVA PI Systeem ingericht dienen te worden van maximaal 1.000 meetsignalen (tags) en 10 gebruikers. Tevens zullen een drietal use cases uitgewerkt dienen te worden: • Het beschikbaar stellen van gevalideerde procesdata voor de monitoring van lachgas emissies (te gebruiken door procestechnologen); • Het ontwikkelen van een dashboard in PI Vision voor de monitoring van een beperkt aantal trends en KPI’s (te gebruiken in de regelkamer); • Het opstellen van een rapport met daarin de draaiuren van alle afzonderlijke pompen (te gebruiken door onderhoudspersoneel).",
+      "cpv": "72200000",
       "pays": "NLD",
       "deadline": "",
-      "montant": 300,
-      "publication": "2026-06-12",
+      "montant": 331,
+      "publication": "2026-06-17",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/404978-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/413613-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -438,37 +410,6 @@
       "auto": true
     },
     {
-      "id": "418283-2026",
-      "ref": "418283-2026",
-      "acheteur": "Gemeente Hilversum",
-      "objet": "Pays-Bas – Services relatifs aux logiciels – Enterprise Service Bus applicatie (2026)",
-      "description": "De gemeente Hilversum is op zoek naar een integratieplatform/-partner om de integratie-uitdagingen binnen de gemeente Hilversum op een moderne manier op te lossen. Het integratieplatform waarin deze aanbesteding over gesproken wordt bevat minimaal de volgende componenten: • Routeren van services/Integraties; • Transleren en transformeren van services/Integraties; • Loggen van services/Integraties. De gemeente Hilversum wenst hiervoor een open source-oplossing te verwerven. De opdracht omvat: • Het hosten van de aan te bieden Oplossing; • Het bouwen/beschikbaar stellen van alle benodigde services/Integraties; • Het onderhouden/aanpassen van alle benodigde services/Integraties; • Het leveren van service en ondersteuning op de Oplossing. Zie aanbestedingsdocumenten",
-      "cpv": "72260000",
-      "pays": "NLD",
-      "deadline": "2026-06-26",
-      "montant": 790,
-      "publication": "2026-06-18",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/418283-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 67,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "414484-2026",
       "ref": "414484-2026",
       "acheteur": "Instituto Politécnico de Lisboa / Instituto Superior de Engenharia de Lisboa",
@@ -485,6 +426,37 @@
       "keyword_hits": [
         "Microsoft Office",
         "Office 365"
+      ],
+      "bureautique": true,
+      "score": 67,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "418283-2026",
+      "ref": "418283-2026",
+      "acheteur": "Gemeente Hilversum",
+      "objet": "Pays-Bas – Services relatifs aux logiciels – Enterprise Service Bus applicatie (2026)",
+      "description": "De gemeente Hilversum is op zoek naar een integratieplatform/-partner om de integratie-uitdagingen binnen de gemeente Hilversum op een moderne manier op te lossen. Het integratieplatform waarin deze aanbesteding over gesproken wordt bevat minimaal de volgende componenten: • Routeren van services/Integraties; • Transleren en transformeren van services/Integraties; • Loggen van services/Integraties. De gemeente Hilversum wenst hiervoor een open source-oplossing te verwerven. De opdracht omvat: • Het hosten van de aan te bieden Oplossing; • Het bouwen/beschikbaar stellen van alle benodigde services/Integraties; • Het onderhouden/aanpassen van alle benodigde services/Integraties; • Het leveren van service en ondersteuning op de Oplossing. Zie aanbestedingsdocumenten",
+      "cpv": "72260000",
+      "pays": "NLD",
+      "deadline": "2026-06-26",
+      "montant": 790,
+      "publication": "2026-06-18",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/418283-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
       ],
       "bureautique": true,
       "score": 67,

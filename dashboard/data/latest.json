@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-07-09T09:45:59.560Z",
+  "generated_at": "2026-07-10T09:32:18.460Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 21,
-      "go": 1,
-      "generated_at": "2026-07-09T09:39:09.045Z"
+      "matched": 18,
+      "go": 0,
+      "generated_at": "2026-07-10T09:25:28.078Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-09T09:45:58.949Z"
+      "generated_at": "2026-07-10T09:32:18.082Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-09T09:45:59.417Z"
+      "generated_at": "2026-07-10T09:32:18.334Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 21,
-  "total_go": 1,
+  "total_matched": 18,
+  "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
     "by_id": 0,
@@ -34,38 +34,6 @@
     "fuzzy_jaccard": 0
   },
   "notices": [
-    {
-      "id": "391880-2026",
-      "ref": "391880-2026",
-      "acheteur": "Conseil Départemental de la Guadeloupe",
-      "objet": "France – Services d'action sociale – PRESTATIONS DE FORMATION PROFESSIONNELLE AU BÉNÉFICE DES ALLOCATAIRES DU RSA EN GUADELOUPE – PROGRAMME DÉPARTEMENTAL 2025 - 21 Lots",
-      "description": "Permettre aux bénéficiaires de l’action de se former et d’obtenir le Certificat d’Aptitude Professionnelle de « Pâtissier ». Acquérir les compétences de base du cake design de façon à améliorer leur employabilité. Créer une activité de prestations de pâtisserie événementielle afin de répondre aux besoins actuels et futurs du territoire. Utiliser le numérique, les principes de développement durable au quotidien Prodiguer les gestes de premiers secours / Préparer et présenter les participants aux épreuves du Titre Professionnel Employé Commercial en Magasin et de les doter des premières capacités professionnelles nécessaires à l’exercice dans le secteur du commerce et de la distribution. Permettre aux bRSA désireux de s’orienter vers le secteur du commerce et de la distribution d’obtenir une qualification afin de faciliter leur insertion professionnelle. Former des professionnels afin de répondre aux besoins en main d’œuvre actuels et futurs du commerce et de la distribution. Permettre l’insertion dans le tissu économique de proximité des bRSA. Utiliser le numérique, les principes de développement durable au quotidien Prodiguer les gestes de premiers secours / - Réaliser les travaux préalables au service en restauration - Accueillir, conseiller le client et prendre sa commande en français, en anglais - Réaliser le service en restauration après sa préparation et sa certification - Se lancer dans sa recherche d’emploi après une p - Utiliser le numérique, les principes de développement durable au quotidien - Prodiguer les gestes de premiers secours / Avoir les connaissances requises sur les risques électriques et les installations électriques Identifier et prévenir les risques d’origine électrique Procéder à l'équipement d'une installation électrique ; Procéder aux autocontrôles, à la mise en service, aux contrôles qualité et à la maintenance d'une installation électrique ; Déterminer les matériels électriques lors de modification ou d'optimisation d'une installation électrique ; Acquérir les réflexes et habilités de la citoyenneté, du numérique, de la prévention de secours pour l’aide et le soin à domicile, du développement durable de non-discrimination, et d’égalité homme-femme ; / D’exercer les missions dévolues à un assistant de vie aux familles Acquérir des réflexes et habilités en vue de développer une posture professionnelle en proximité, gérer son stress et résister à l’usure professionnelle ; Acquérir les réflexes et les connaissances sur la citoyenneté, les usages du numérique, la prévention et les secours de l’aide et du soin à domicile, du développement durable, les principes de non-discrimination et d’égalité homme-femme ; / Se mettre à niveau Réaliser les opérations connexes à la pose d'une canalisation enterrée Construire un réseau d'assainissement en tranchée ouverte Construire un réseau d'adduction d'eau potable en tranchée ouverte Raccorder un réseau neuf ou réparer une fuite sur une adduction d'eau potable existante Utiliser le numérique, les principes de développement durable au quotidien Prodiguer les gestes de premiers secours / Maîtriser les compétences d’accueil et de conciergerie en hôtellerie et/ou en résidence individuelle (gîte)jusqu'à leur départ. Vendre des prestations hôtelières tout au long de leur séjour. Justifier de l’obtention du titre professionnel et recherche un emploi avec des outils validés Utiliser le numérique, les principes de développement durable au quotidien Prodiguer les gestes de premiers secours / Réaliser la préparation, l'entretien et la réparation courante des cycles et des vélos à assistance électrique Participer à la vente et à la location des matériels et des accessoires de sport Doter le bRSA d’un diplôme en vue d’une insertion durable Avoir la qualification pour exercer dans le domaine Assurer une prestation inexistante sur le territoire Utiliser le numérique, les principes de développement durable au quotidien Prodiguer les gestes de premiers secours / Mettre en œuvre les connaissances et compétences nécessaires à l’exercice des missions d’ouvrier (ière) de production horticole Trouver un emploi durable d’ouvrier (ière) de production horticole Utiliser au quotidien et dans son activité les TIC (Technologies de l’Information et de la Communication) Utiliser au quotidien les principes de développement durable. Pratiquer les gestes de premier secours. / - Réaliser des prestations de nettoyage manuel et de bionettoyage - Réaliser des prestations de nettoyage et de remise en état mécanisés - Mettre en œuvre les techniques diverses de recherche d’emploi pour s’insérer - Justifier de l’obtention la certification - Utiliser au quotidien et au travail le numérique et les principes de développement durable, les règles d'hygiène, de sécurité et de protection de la santé. / - Connaitre le positionnement de ses compétences en numérique attendues en entreprise - Mesurer la progression de ses performances de la maîtrise de Pix, avec les 8 échelles de niveau débutant à expert, après un accompagnement et une nouvelle évaluation - Justifier de l’obtention de la certification PIX, à défaut du niveau « Utilisateur indépendant 3 et 4 » ou « Utilisateur avancé » 5 et 6 - Mettre en œuvre des compétences en numérique certifier avec un standard de référence, le cadre commun de référence européen DIGCOMP 2.1. - Justifier d’une adresse email propre, d’un compte personnel pour les démarches en ligne auprès de la caf, la Sécurité sociale, la mairie, les impôts, le portail de l’insertion, le site job 971. - Maitriser sa visibilité et son image numérique dans une perspective d’insertion, par le renfort de la confiance en soi. - Connaitre et déjouer les risques du numérique - Utiliser au quotidien les principes de développement durable, d’égalité des chances et d’égalité homme femme. - Pratiquer les gestes de premier secours. / - Justifier du socle de connaissances et de compétences professionnelles après renforcement des sept domaines Cléa - Agir de manière autonome dans un environnement social et professionnel - Valoriser un projet professionnel principal puis alternatif réaliste et validé - Justifier de l’acquisition de la certification Socle de compétences et de connaissances professionnelles Cléa et du PCS1 - Réussir les tests d’entrée en formation pré-qualifiante ou qualifiante - Mettre en œuvre les principes de développement durable au quotidien et au travail - Mettre en œuvre les gestes de premier secours / Conforter son projet professionnel validé en API Utiliser le numérique, les principes de développement durable au quotidien Prodiguer les gestes de premiers secours / Accueillir les usagers/clients sur un site d'apport volontaire de déchets Réaliser des opérations d'exploitation sur un site d'apport volontaire de déchets Utiliser le numérique, les principes de développement durable au quotidien Prodiguer les gestes de premiers secours / Diriger une structure avec une équipe Mettre en œuvre l'objet social de la structure Etablir et présenter un rapport d'activité de la structure Utiliser le numérique, les principes de développement durable au quotidien Prodiguer les gestes de premiers secours / Réaliser un ouvrage simple de peinture et pose de revêtements en prenant en compte les règles de l'art à partir de directives générales S’entrainer et obtenir la certification en cours de validité Se préparer à créer son entreprise Utiliser le numérique, les principes de développement durable au quotidien Prodiguer les gestes de premiers secours / Inculquer le plaisir de la lecture, de l’écriture, du calcul de niveau 1 et 2 grâce à une approche pédagogique éloignée le plus possible de toute approche scolaire. Lire et écrire des phrases simples dans un environnement familier. Trouver des informations dans des documents courants. Donner et prendre des informations orales. Résoudre des problèmes de la vie quotidienne nécessitants des calculs simples. Utiliser les nouvelles technologies au quotidien, les principes de développement durable, les gestes de premier secours Valoriser ses acquis lors de l’évaluation finale par la présentation des productions théâtres et artisanales et arts plastiques des stagiaires / Acquérir les compétences, relationnelles, techniques, transversales pour résister à la gestion du stress, à l’usure professionnelle en vue de se professionnaliser en fonction des besoins des employeurs, de l’évolution des métiers (spécialisation domotique) Valider le CCP1 du TP ADVF : « entretenir le logement et le linge d’un particulier » pour sécuriser son parcours, Acquérir les réflexes et usages de citoyenneté, du numérique, du développement durable de non-discrimination et d’égalité homme-femme, de la prévention de secours pour l’aide et le soin à domicile. Participer après coaching à un job dating de recrutement d’aide à domicile, avec des recruteurs partenaires dès la présélection à l’entrée puis l’accueil en stage pratique. / Maîtriser les compétences techniques, professionnelles et transverses d'agent magasinier cariste. Préparer le titre professionnel Agent Magasinier, diplôme de niveau 3 et reconnu par les professionnels de la logistique et de l'industrie. Savoir conduire en sécurité des chariots de manutention. Améliorer et comprendre l'importance des actions et interventions individuelles et citoyennes en matière de sécurité, développement durable, d'utilisation du numérique, de savoir être professionnels. / Conduire en toute sécurité en respectant l’environnement et les autres usagers de la route. Réaliser en sécurité un transport de personnes à l'aide d'un véhicule de transport en commun. Acquérir les réflexes et usages de citoyenneté, du numérique, de la prévention de secours pour l’aide et le soin à domicile, du développement durable de non-discrimination, et d’égalité homme-femme Justifier de l’obtention de la certification du permis B, des certificats Fimo V voyageur et de délivrance de la carte de qualification de conducteur Accéder après une préparation à une sélection à un emploi de conducteur routier, par la tenue d’un job dating de recruteurs partenaires (sélection à la formation, la réalisation du stage pratique, sélection de recrutement).",
-      "cpv": "85310000",
-      "pays": "FRA",
-      "deadline": "2026-08-04",
-      "montant": 0,
-      "publication": "2026-06-09",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/391880-2026",
-      "segment": "Collectivités",
-      "keyword_hits": [
-        "DigComp",
-        "DigComp"
-      ],
-      "bureautique": false,
-      "score": 75,
-      "score_detail": {
-        "fit": 40,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "go",
-      "notes": "",
-      "auto": true
-    },
     {
       "id": "416167-2026",
       "ref": "416167-2026",
@@ -129,31 +97,62 @@
       "auto": true
     },
     {
-      "id": "392191-2026",
-      "ref": "392191-2026",
-      "acheteur": "Gemeente Breda",
-      "objet": "Pays-Bas – Services de formation dans le domaine de la sécurité – BHV en EHBO opleidingen en advies 2026 en verder",
-      "description": "Procedure Aanbesteding middels de Europees openbare procedure conform de (gewijzigde) aanbestedingswet 2012. Opdrachtgever De opdrachtgever bij deze aanbesteding is de Gemeente Breda.  Voor meer informatie over de Gemeente Breda verwijzen wij u naar de website van de gemeente: www.breda.nl. Scope van de opdracht  De scope van de opdracht omvat meerdere dienstverleningscomponenten en kent een wisselende organisatorische inzet. De opdracht betreft het verzorgen van:  BHV‑opleidingen en BHV‑advies;  EHBO‑opleidingen en EHBO‑advies.  Zie voor nadere informatie de onderstaande bijlagen:  'Gewenste situatie BHV en EHBO Opleidingen en Advies'; 'Toelichting organisatie en doelgroepen BHV en EHBO Opleidingen en Advies'; Buiten de scope valt:  verbruiksmiddelen BHV en EHBO;  AED' s. Percelen Deze opdracht is niet verdeeld in percelen. Doel  De raamovereenkomst, met als ingangsdatum 1 november 2026, wordt aangegaan voor een initiële looptijd van twee (2) jaar.  De opdrachtgever heeft, met wederzijds goedvinden van partijen, het recht deze raamovereenkomst twee (2) maal te verlengen, telkens voor de duur van twee (2) jaar. De maximale looptijd van de raamovereenkomst bedraagt derhalve zes (6) jaar.  De besluitvorming ten aanzien van deze verlenging(en) geschiedt op basis van evaluatie van de geleverde prestaties van de dienstverlening.  Maximale contractwaarde  De maximale opdrachtwaarde in het kader van deze raamovereenkomst wordt gesteld op € 250.000 per jaar exclusief BTW, bezien over de looptijd van de raamovereenkomst, inclusief verlengingsopties. Aan het genoemde bedrag kunnen geen rechten worden ontleend. Voor opdrachtgever geldt geen afnameverplichting. Mocht gedurende de looptijd van de raamovereenkomst de maximale opdrachtwaarde worden overschreden dan zal de raamovereenkomst (eerder) worden beëindigd. Mercell Deze aanbesteding zal uitsluitend en geheel digitaal online worden afgehandeld via het Mercell platform (www.mercell.com). Een uitgebreide instructie met betrekking tot digitaal aanbesteden treft u aan in de Vragenlijsten.",
-      "cpv": "80550000",
+      "id": "418150-2026",
+      "ref": "418150-2026",
+      "acheteur": "SSC IUC DJI",
+      "objet": "Pays-Bas – Services de développement de logiciels de gestion des systèmes, de stockage et de contenu – Compact geautomatiseerd opslagsysteem +4 graden Celsius t.b.v. het NFI",
+      "description": "De opdracht betreft de levering, installatie en het onderhoud van een compact, geautomatiseerd opslagsysteem +4 Celsius ten behoeve van het Nederlands Forensisch Instituut (NFI) te Den Haag, Nederland. Het opslagsysteem heeft ongeveer een koelkastformaat en er worden minimaal 500 AutoLys-tubes met DNA-sporen en minimaal 6000 FluidX-tubes met DNA-extracten in opgeslagen bij een temperatuur van 4 °Celsius. Aansluitend aan een garantietermijn van minimaal 1 jaar volgt 10 jaar onderhoud en daarna de optie het onderhoud voort te zetten tot uiterlijk het einde van de technische levensduur van het opslagsysteem. Daarnaast geldt een optie om een tweede, identiek opslagsysteem af te nemen, inclusief onderhoud tot uiterlijk het einde van de technische levensduur. Er wordt beoogd één overeenkomst te sluiten met een opdrachtnemer die de levering, installatie en het onderhoud verzorgt, ook voor het optionele tweede opslagsysteem. Aanbestedende dienst gaat uit van een geraamde totale opdrachtwaarde, inclusief ALLE opties, van € 940.000,-.",
+      "cpv": "72212780",
       "pays": "NLD",
-      "deadline": "2026-08-10",
-      "montant": 1500,
-      "publication": "2026-06-09",
+      "deadline": "2026-08-24",
+      "montant": 940,
+      "publication": "2026-06-18",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/392191-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/418150-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
       "bureautique": true,
-      "score": 74,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "420754-2026",
+      "ref": "420754-2026",
+      "acheteur": "Gemeente Dordrecht | Bedrijfsvoering Drechtsteden",
+      "objet": "Pays-Bas – Services de formation – Talentenfonds Drechtsteden 2026-2027",
+      "description": "Sectoren Zorg en Welzijn, Techniek en Bouw, en Transport en Logistiek en Maritiem De opdracht omvat één geïntegreerde opdracht voor het leveren van opleidingen in alle vier sectoren, met een totaalbudget van € 2.200.000 incl. btw. Opleiders kunnen inschrijven voor een of meerdere sectoren, maar worden beloond voor veelzijdigheid in hun aanbod. De opleidingen moeten: • Direct aansluiten op de actuele arbeidsmarktvraag in de Drechtsteden. • (Basis)-beroepsvaardigheden ontwikkelen, afgestemd op de doelgroep. • Kosteloos en laagdrempelig zijn voor deelnemers, mede door een minimale cofinancieringsbijdrage van 25% door opleiders.",
+      "cpv": "80500000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 2200,
+      "publication": "2026-06-18",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/420754-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
       "score_detail": {
         "fit": 30,
         "size": 15,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -243,37 +242,6 @@
       "score_detail": {
         "fit": 30,
         "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "393362-2026",
-      "ref": "393362-2026",
-      "acheteur": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
-      "objet": "Pays-Bas – Fournisseurs de services applicatifs – Collectie Informatie Systeem Kunstbeheer 2026",
-      "description": "De Opdracht is integrale dienstverlening (Software as a Service ofwel SaaS) van één leverancier die zorgt voor de software, implementatie, beheer en onderhoud van de applicatie en de databases voor de registratie van de kunst in de Rijksgebouwen. Essentieel is dat het een Nederlandstalige applicatie voor collectiebeheer betreft die in één versie als een onlinedienst aangeboden kan worden aan gebruikers in verschillende organisaties met verschillende digitale werkomgevingen, waarbij de leverancier zorgt voor de aansluiting van de gebruikers en de conversie van gegevens, voor het onderhoud en beheer van het systeem (applicatie en databases), en voor instructie en ondersteuning van de gebruikers in de Nederlandse taal. €1,-",
-      "cpv": "72416000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 188,
-      "publication": "2026-06-09",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/393362-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 35,
-        "size": 10,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -470,6 +438,37 @@
       "auto": true
     },
     {
+      "id": "418283-2026",
+      "ref": "418283-2026",
+      "acheteur": "Gemeente Hilversum",
+      "objet": "Pays-Bas – Services relatifs aux logiciels – Enterprise Service Bus applicatie (2026)",
+      "description": "De gemeente Hilversum is op zoek naar een integratieplatform/-partner om de integratie-uitdagingen binnen de gemeente Hilversum op een moderne manier op te lossen. Het integratieplatform waarin deze aanbesteding over gesproken wordt bevat minimaal de volgende componenten: • Routeren van services/Integraties; • Transleren en transformeren van services/Integraties; • Loggen van services/Integraties. De gemeente Hilversum wenst hiervoor een open source-oplossing te verwerven. De opdracht omvat: • Het hosten van de aan te bieden Oplossing; • Het bouwen/beschikbaar stellen van alle benodigde services/Integraties; • Het onderhouden/aanpassen van alle benodigde services/Integraties; • Het leveren van service en ondersteuning op de Oplossing. Zie aanbestedingsdocumenten",
+      "cpv": "72260000",
+      "pays": "NLD",
+      "deadline": "2026-06-26",
+      "montant": 790,
+      "publication": "2026-06-18",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/418283-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 67,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "414484-2026",
       "ref": "414484-2026",
       "acheteur": "Instituto Politécnico de Lisboa / Instituto Superior de Engenharia de Lisboa",
@@ -518,99 +517,6 @@
       "keyword_hits": [
         "Microsoft Office",
         "Office 365"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "392494-2026",
-      "ref": "392494-2026",
-      "acheteur": "Ministerium für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz des Landes Brandenburg",
-      "objet": "Allemagne – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Projektmanagement für Leistungen zur Umsetzung des Maßnahmenplans des Landesniedrigwasserkonzeptes 2.0",
-      "description": "Die Leistung setzt sich insbesondere aus folgenden Punkten zusammen: 1) Projektmanagement Das Projektmanagement, steuert und koordiniert aktiv die nachfolgend unter Punkt 2 und ggf. 3 genannten Leistungen über die gesamte Vertragslaufzeit. 2) Weiterführung Flussgebietsarbeit Durch eine intensive Kommunikation des Themas \"Niedrigwasser\" konnte eine breite Aufmerksamkeit und ein Problembewusstsein bei allen lokalen Akteuren erzeugt werden. Die Entscheidungsträger (Wasser-, Naturschutz- und tlw. Landwirtschaftsbehörden der Landkreise / kreisfreien Städte, LfU, einschließlich Großschutzgebiete), die das Wassermanagement operativ steuernden GUV und ggf. weitere Institutionen (Naturschutzverbände, Landschaftspflegeverbände, Natura2000-Teams, VLF, Kommunen, engagierte Einzelpersonen usw.) sind involviert und arbeiten unterschiedlich intensiv an der Thematik mit. 3) Erarbeitung flussgebietsbezogener Bewirtschaftungskonzepte Die sich in der Ideenphase befindlichen 16 Konzepte (Phase 1 und 2) sind gemeinsam mit den Trägern bis zur Antragsreife (Richtlinie LWH) zu entwickeln und die Antragstellung bei der ILB zu begleiten. Weitere mindestes 10 Konzepte sollen - eine erfolgreiche Antragstellung und Mittelverfügbarkeit vorausgesetzt - bei der Bearbeitung begleitet werden. Es bestehen bisher nicht weiterverfolgte weitere Ideen der Akteure zu potenziellen Bewirtschaftungs- bzw. Staukonzepten in allen Flussgebieten tlw. auch von Seiten des LfU für Gewässer 1. Ordnung. Aufgrund einer derzeit nicht genau bekannten Anzahl o.g. Ideen ist die Leistung für 10 Konzepte anzubieten. 4) Qualifizierung und Weiterentwicklung LWH-Vorhaben und Leuchttürmen Mit LWH-Vorhaben sind Vorhaben gemeint, die den Fördergegenständen der Richtlinien LWH (GAK und ELER) des MLEUV entsprechen und die von den Antragstellern zur Förderung aus Drittmitteln vorgesehen sind. Entwicklung von Projekten aus Initiierungsphase (50) bis zu antragsreifer Projektskizze. Entwicklung fortgeschrittene Projekte (100) bis zu antragsreifer Projektskizze . Begleitung abgeschlossener (20) Projekte Begleitung der laufenden Leuchtturmprojekte Initiiierung von neuen Leuchtturmprojekte (z.B. Dränagen) 5) Fachübergreifende Anforderungen Im Rahmen des Erstauftrages wurden bereits diverse fachübergreifende Treffen, Gespräche etc. initiiert und ausgewertet). Diese sog. fachübergreifenden Gespräche mit Akteuren z.B. der Landwirtschaft, des Naturschutzes, der Forst, der Flurneuordnung sowie der Landes- und Regionalplanung sollen federführend durch den Auftragnehmer weitergeführt und im Bereich Siedlungs- und Gewerbegebietsentwicklung / Bau- und Stadtplanung aufgegriffen werden. Vertieft werden soll der Themenbereich Schifffahrt und Wassertourismus hinsichtlich der Wasserbewirtschaftung und möglicher Handlungsspielräume und Entwicklungsperspektiven hin zur Klimaanpassung und zu einem verringerten Wasserdargebot. Im Zusammenhang mit dem Umbau eines Staubauwerkes wurde im Rahmen des Erstauftrages ein umfangreiches, modellgestütztes Werkzeug entwickelt, welches die Auswirkungen veränderter Stauhaltungen auf den Wasserrückhalt quantifiziert. Das Werkzeug erlaubt darüber hinaus eine grafische Darstellung der flächigen Auswirkungen veränderter Wasserstände oberhalb eines Staubauwerkes. Für das Werkzeug wurden vorhandene Modellansätze in die kommerzielle Rechensoftware MS Excel überführt. Ferner wurde eine Schnittstelle programmiert, die eine Darstellung der Ergebnisse in einem GIS-System erlaubt. Die Anwendung des sog. Excel-Tools (Anlage 5: Dokumentation) wurde sowohl durch das LfU als auch durch die NW-Koordinatoren für weitere Projekte in anderen Flussgebieten testweise durchgeführt. Es ist gewünscht, das Excel-Tool (oder ein vergleichbares Instrument) künftig als Werkzeug zur Folgenabschätzung und Visualisierung stärker systematisch einzubinden. 6) Verknüpfung mit dem Moorschutz Moorschutz und Wassermanagement sind inhaltlich eng verwoben, dementsprechend erfolgt MLEUV-intern eine enge organisatorisch-inhaltliche Abstimmung zur Thematik Moorschutz. Bei der Umsetzung des Landesniedrigwasserkonzeptes ist auch auf ein nachhaltiges Moorbodenmanagement zu setzen. Das Moorschutzprogramm Brandenburg bildet den Rahmen für alle Aktivitäten im Zusammenhang mit Mooren. Um eine Synchronisation der Ziele von Moorschutz und Niedrigwasservorsorge bei der Projektentwicklung vor Ort und insbesondere bei der Erarbeitung von Bewirtschaftungskonzepten zu gewährleisten, ist ein fachkundiger Ansprechpartner zu benennen. Dieser sammelt und koordiniert alle moorbezogenen Fragen, begleitet ggf. Ortstermine und steht als zentraler Ansprechpartner zur Verfügung. Die o.g. Flussgebietssteckbriefe sind in enger Zusammenarbeit mit dem LfU um ein Kapitel zum Moorschutz zu ergänzen. 7) Öffentlichkeitsarbeit Ziel des Leistungspunktes ist daher die Entwicklung einer zielgruppenorientierten Kommunikationsstrategie zur Unterstützung der Umsetzung des LNWK 2.0. Die Kommunikationsstrategie soll dazu beitragen, Verständnis, Akzeptanz und Mitwirkung zentraler Akteure bei Maßnahmen der Niedrigwasservorsorge und der -bewältigung zu stärken. Dabei sollen insbesondere Informationsbedarfe, Entscheidungsstrukturen und mögliche Hemmnisse in den relevanten Zielgruppen berücksichtigt werden. Auf Basis der strategischen Konzeption sollen geeignete Kommunikationsmaßnahmen entwickelt, priorisiert und in einem Umsetzungsplan dargestellt werden. Optionale Leistungen: 1) Verbindung wasserbaulicher Maßnahmen mit Agrar-, Umwelt- und Klimamaßnahmen (AUKM) 2) Durchführung ausgewählter Maßnahmen des im Rahmen der Öffentlichkeitsarbeit entwickelten Umsetzungsplanes aus Nr. 7) Im Detail siehe Vergabeunterlagen Teil B - Leistungsbeschreibung Nr. 2 und 3.",
-      "cpv": "71000000",
-      "pays": "DEU",
-      "deadline": "2026-08-07",
-      "montant": 0,
-      "publication": "2026-06-09",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/392494-2026",
-      "segment": "FPH",
-      "keyword_hits": [
-        "Excel"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "392788-2026",
-      "ref": "392788-2026",
-      "acheteur": "Handwerkskammer Braunschweig-Lüneburg-Stade",
-      "objet": "Allemagne – Ordinateurs portables – VgV, TZH Lüneburg, Digitalisierung BAFA, Block 1, LV 1, 3, 5",
-      "description": "Los 1 (LV 1): 56 Stück Notebook mit Installation und Microsoft Office vorinstalliert, 1x Notebook/Ultrabook, 1x Monitor 27 Zoll, 2x Grafiktablet / Los 2 (LV 3): 56 Stück PC-SHERRIFF Premium Schul-/ Behörden Lizenz, 2x Mythware Klassenraum Management Win. Dozent, 54 Stück Mythware Klassenraum Management Win. Teilnehmer, 1x Volllizenz Video-/ Fotobearbeitung / Los 3 (LV 5): 4x Notebook-Ladewagen",
-      "cpv": "30213100",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-06-09",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/392788-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Microsoft Office"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "393012-2026",
-      "ref": "393012-2026",
-      "acheteur": "Deutsche Gesetzliche Unfallversicherung e.V.",
-      "objet": "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – SAP-Beratung",
-      "description": "In einem weiteren Schritt sollen Dienstleistungen zur Erstellung von Pflichtenheften zu den späteren konkreten Projekten sowie Dienstleistungen zur Projektumsetzung angeboten werden. Im Einzelnen kann es sich insbesondere um folgende Leistungen handeln: - Durchführen von Machbarkeitsstudien - Erstellung von Umsetzungskonzeptionen - Erstellen von Pflichtenheften - Umsetzungsleistungen auf Basis der erstellten Pflichtenhefte - Mitwirkung bei der Inbetriebnahme, einschließlich aller die für eine Inbetriebnahme von Ände-rungen notwendigen Maßnahmen (Schulungsunterlagen, Schulungen, Handbücher usw.) und Wissenstransfer im Sinne der Implementierungsbegleitung - Aufbau einer zentralen Steuerungsinstanz innerhalb der Organisation des AG im Sinne eines SAP Center of Excellence mit besonderem Schwerpunkt eines BTP Center of Excellence ge-mäß den Empfehlungen der SAP SE und Unterstützung in der Überführung in den Routinebe-trieb - Beratung der Führungsebene 1 der Bereiche Finanzen und Revision, IT und Digitalisierung, Per-sonal und Organisation sowie Verwaltung Bau Beschaffung zur strategischen Weiterentwicklung der SAP Anwendungen nach Kriterien des wirtschaftlichen Systembetriebs unter Beachtung der Rahmenbedingungen der DGUV e.V. (Die DGUV möchte weg von einer rein technischen SAP-Betreuung und hin zu einer fachlich gesteuerten SAP-Governance kommen.) - Steuerung der technischen Dienstleister und des SAP-Betreibers Leistungsanforderungen, Mitarbeiterkontinuität, Fachberatung Die Fachberatung umfasst insbesondere folgende Aufgaben: - Geschäftsprozessspezifische Beratungsleistungen für die eingesetzten Module, Pro-gramme, Systeme und zugehörigen Instrumente - am SAP Standard ausgerichtete Beratung - konzeptionelle Tätigkeiten (Machbarkeitsstudien, Konzepterstellungen) - Beratung zu vorhandenen kundeneigenen Lösungen und, wenn nicht im SAP Standard enthal-ten, zu neuen kundeneigenen Lösungen - Wissenstransfer für andere Dienstleister - Marktbeobachtung / Neue Technologien und Anwendungen der SAP - Systemvorführungen o. ä., z. B. Vorstellung neuer Module (auch in Form von Webkonferenzen) - Begleitung und Unterstützung des produktiven Betriebs aus Anwendersicht Vorgehensmodell Projekt Grundsätzlich ist ein Phasenmodell nach Empfehlungen des Softwareherstellers SAP anzulegen, da die Organisation und Abwicklung in der Applikationsbetreuung des Auftraggebers im Standard ITIL etabliert ist. Die Begleitung durch den Auftragnehmer ist auf Verlangen des Auftraggebers grundsätzlich an den Standorten des Auftraggebers, vor allem in Sankt Augustin und Berlin vor Ort sicher zu stellen. Eine Beratung mittels hybrider Gesprächsformate erfolgt nur in Absprache mit dem Auftraggeber und ist nicht als grundsätzliche Kommunikationsvariante während der Zusammenarbeit zwischen Auftraggeber und Auftragnehmer gewünscht. Hauptaugenmerk der Projektschritte a) liegt auf Analyse- und Konzeptionstätigkeiten, mit dem Ziel, dem SAP System der DGUV neue Lösungen zuzuführen. b) liegt darin, dass nach Abnahme der zu a) genannten Tätigkeiten der Auftragnehmer aufgefordert wer-den kann, ein detailliertes Pflichtenheft zu erstellen. c) liegt darin, dass nach Abnahme und Bestätigung dieses Pflichtenheftes der Auftragnehmer zur Umsetzung aufgefordert werden kann. Dabei ist zu beachten, dass Umsetzungsprojekte den regulären Betrieb nur minimal beeinflussen dürfen. Einheitlicher Gesamtprojektleiter Für alle Projekte aus dem Rahmenvertrag ist seitens des Auftragnehmers zusätzlich zur jeweiligen Projektleitung ein einheitlicher Ansprechpartner namentlich zu benennen (einheitlicher Gesamtprojektleiter). Dieser ist für die Klärung organisatorischer Rahmenbedingungen sowie für die Koordination aller für die erfolgreiche Durchführung des Auftrags notwendigen Tätigkeiten verantwortlich. Er soll die zentrale Schnittstelle zwischen der Projektleitung des Auftraggebers und dem Auftragnehmer darstellen. Der einheitliche Gesamtprojektleiter muss über die notwendige Entscheidungskompetenz innerhalb der Organisation des Auftragnehmer verfügen, um auftauchende Fragestellungen schnell und verbindlich beantworten und ggf. auch vor Ort entscheiden zu können. Für Fälle der Abwesenheit des einheitlichen Gesamtprojektleiters ist ein Vertreter namentlich zu benennen. Die telefonische und schriftliche Erreichbarkeit des einheitlichen Gesamtprojektleiters oder seines Vertreters ist sicherzustellen.",
-      "cpv": "72000000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-06-09",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/393012-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Excel"
       ],
       "bureautique": true,
       "score": 65,

@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-07-10T09:32:18.460Z",
+  "generated_at": "2026-07-11T07:53:59.634Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 18,
+      "matched": 20,
       "go": 0,
-      "generated_at": "2026-07-10T09:25:28.078Z"
+      "generated_at": "2026-07-11T07:47:11.806Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-10T09:32:18.082Z"
+      "generated_at": "2026-07-11T07:53:59.258Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-10T09:32:18.334Z"
+      "generated_at": "2026-07-11T07:53:59.497Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 18,
+  "total_matched": 19,
   "total_go": 0,
-  "total_dedup_collisions": 0,
+  "total_dedup_collisions": 1,
   "dedup_breakdown": {
     "by_id": 0,
-    "fuzzy_signature": 0,
+    "fuzzy_signature": 1,
     "fuzzy_jaccard": 0
   },
   "notices": [
@@ -91,6 +91,37 @@
         "com": 5,
         "admin": 7,
         "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "423513-2026",
+      "ref": "423513-2026",
+      "acheteur": "AG Digipolis Antwerpen",
+      "objet": "Belgique – Services de programmation et de conseil en logiciels – Raamovereenkomst voor de aankoop van gebruiksrechten op Software",
+      "description": "Google softwarelicenties / Salesforce softwarelicenties / Diverse softwarelicenties – een softwarebroker, waarbij de aanbestedende overheid op een snelle en efficiënte manier software kan aankopen en ondersteund wordt in het operationeel beheer hiervan, inclusief renewals met alle administratieve ondersteuning (waaronder b.v. het bijhouden van een inventaris). Momenteel worden er meer dan 140 tal verschillende softwares aangeschaft binnen Digipolis en Groep Antwerpen. De huidige top 11 voor dit perceel zijn volgende: • Atlassian • Kong • Redgate SQL Monitor • Elephantastic • Hoxhunt • ClickUp Enterprise • Graykey • Elastic Platinum • Odoo • Canva Enterprise • Freshworks Naast deze software van de grote softwarefabrikanten zijn er ook nog vele middelgrote softwares als kleine meer niche software in scope, waarbij sommigen alleen via een creditcard moeten aangekocht worden.",
+      "cpv": "72200000",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 32000,
+      "publication": "2026-06-19",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/423513-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -202,37 +233,6 @@
       "publication": "2026-06-12",
       "source": "TED",
       "url": "https://ted.europa.eu/fr/notice/-/detail/404378-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "399649-2026",
-      "ref": "399649-2026",
-      "acheteur": "AG Digipolis Antwerpen",
-      "objet": "Belgique – Services de programmation et de conseil en logiciels – Raamovereenkomst voor de aankoop van gebruiksrechten op Software",
-      "description": "Google softwarelicenties / Salesforce softwarelicenties / Diverse softwarelicenties – een softwarebroker, waarbij de aanbestedende overheid op een snelle en efficiënte manier software kan aankopen en ondersteund wordt in het operationeel beheer hiervan, inclusief renewals met alle administratieve ondersteuning (waaronder b.v. het bijhouden van een inventaris). Momenteel worden er meer dan 140 tal verschillende softwares aangeschaft binnen Digipolis en Groep Antwerpen. De huidige top 11 voor dit perceel zijn volgende: • Atlassian • Kong • Redgate SQL Monitor • Elephantastic • Hoxhunt • ClickUp Enterprise • Graykey • Elastic Platinum • Odoo • Canva Enterprise • Freshworks Naast deze software van de grote softwarefabrikanten zijn er ook nog vele middelgrote softwares als kleine meer niche software in scope, waarbij sommigen alleen via een creditcard moeten aangekocht worden.",
-      "cpv": "72200000",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 32000,
-      "publication": "2026-06-11",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/399649-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -501,22 +501,21 @@
       "auto": true
     },
     {
-      "id": "396279-2026",
-      "ref": "396279-2026",
-      "acheteur": "Medizinische Universität Lausitz - Carl Thiem KdöR",
-      "objet": "Allemagne – Services de développement de logiciels – Beschaffung von Entwicklungsleistungen für die Digita-lisierung der akademischen Verwaltung auf Basis des koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint.",
-      "description": "Die MUL-CT strebt beim Aufbau der digitalen Universität an, akademische Verwaltungsprozesse zukünftig im koellisch-toolkit/koellisch-core-framework auf Office365/Sharepoint umzusetzen. Dabei wird die Entwicklung einer performanten Informationstechnologie & Aufbau digitaler Plattformen für die akademische Verwaltung definiert, um durch Digitalisierung und Automatisierung schlanke und digitale Verwaltungsprozesse direkt von Beginn an zu entwickeln. Die durch den Auftragnehmer zu erbringende Leistungen beinhaltet die Entwicklung von akademischen Verwaltungsprozessen auf Basis von dem koellisch-toolkit/koellisch-core-framework auf Microsoft Office365/Sharepoint. Folgende Aufgaben sind durch das Projektteam des Auftragnehmers in den zu beauftragenden Projekten zu erbringen: - Architektur & Konzeption: Entwicklung, Implementierung und Weiterentwicklung von digitalen Verwaltungslösungen für die Universität auf Basis des koellisch-Toolkit/Core Framework in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Workflow-Entwicklung: Konzeption und Umsetzung komplexer Workflows inkl. Fristen- und Mandatsverwaltung, Abstimmungs- und Dokumentationsprozessen sowie digitale Akten mit rechtssicherer Dokumentation - Schnittstellen & Integration: Design und Realisierung von Anbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Fehleranalyse & Wartung: Analyse und Behebung von Lösungsfehlern im Ticketsystem inkl. Eskalationsmanagement - Testing & Qualitätsmanagement: Steuerung von Test- und Rollout-Phasen, Qualitätssicherung und Erstellung technischer Dokumentationen - IT-Projektleitung: Übernahme von (Teil-)Projektleitungen im Rahmen der Digitalisierungsprojekte der MUL-CT Tätigkeiten, die während der Digitalisierungsvorhaben der MUL-CT zu erwarten und von jeweiligen Entwickler:in köllisch-toolkit/köllisch-core-framework zu übernehmen sind: - Konzeption, Implementierung und Weiterentwicklung von Lösungen auf Basis des köllisch-Toolkit/Core Frameworks in der Microsoft Office 365-/SharePoint-Umgebung - Customizing & Erweiterung: Entwicklung und Ausbau Module eines akademisches Gremien- und Sitzungsmanagement - Realisierung von Workflows und digitalen Akten inkl. Fristen- und Mandatsverwaltung, rechtssicherer Dokumentation, Abstimmungs- und Sitzungsorganisation - Analyse und Behebung von Lösungsfehlern im Rahmen des Ticketsystems, inkl. Eskalationsmanagement und Support bei Fehlertickets - Mitwirkung bei Schnittstellenanbindungen zu hochschulweiten Plattformen, Forschungsinformationssystemen, Fördermitteldatenbanken und externen Services - Übernahme von (Teil-)Projektleitungen in Digitalisierungsprojekten inkl. Steuerung von Test- und Rollout-Phasen - Planung, Durchführung und Dokumentation von Test- und Qualitätssicherungsmaßnahmen (funktionales Testing, Abnahmetests, Regressionstests) - Durchführung von Schulungen und Workshops für unterschiedliche Zielgruppen (Key-User, Gremienmitglieder, Verwaltung, interne IT) - Coaching und Training interner IT-Mitarbeitender zur Förderung des nachhaltigen Kompetenzaufbaus",
-      "cpv": "72262000",
+      "id": "423713-2026",
+      "ref": "423713-2026",
+      "acheteur": "Freie und Hansestadt Hamburg Behörde für Stadtentwicklung und Wohnen",
+      "objet": "Allemagne – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Räumliches Leitbild der Stadtentwicklung Hamburg Auftrag II Workshopverfahren",
+      "description": "Mit dem Räumlichen Leitbild \"Wachsende Stadt - Grüne Metropole\" von 2007 und dessen Aktualisierung \"Grüne, gerechte, wachsende Stadt am Wasser\" von 2014 verfügt Hamburg über ein gesamtstädtisches Leitbild, das sich in den vergangenen Jahren als zielgerichtetes Navigationsinstrument für die Hamburger Stadtentwicklung bewährt hat. Eine Neuauflage des Räumlichen Leitbildes wird jedoch zunehmend erforderlich. Die Rahmenbedingungen für Stadtentwicklung haben sich verändert oder sind in ihrer Dynamik weiterhin herausfordernd: Die enorme Nachfrage nach bezahlbaren Wohnungen, der demographische Wandel, die voranschreitende Digitalisierung und technologische Neuerungen, die Veränderung der Arbeitswelten und des Handels, neue Wissens-orte, die Anpassung an den Klimawandel, die anstehende Mobilitätswende und der Er-halt der Freiraumsysteme sind noch stärker in den Fokus der Debatten um die zukünftige Hamburger Stadtentwicklung gerückt. Neue Perspektiven für Stadträume eröffnen insbesondere die großen Stadtentwicklungs- und Infrastrukturprojekte: Mit dem Ausbau der U- und S-Bahnlinien werden hunderttausende Menschen in einer neuen Qualität an das Schnellbahnnetz angeschlossen. Allein an Haltestellen der U5 werden nach den aktuellen Prognosen täglich mehr als 500.000 Menschen ein-, aus- und umsteigen. Mit anderen großen Infrastrukturprojekten wie dem Umbau des Hauptbahnhofs und einem möglichen zweiten City-tunnel für die S-Bahn werden neue Impulse der Innenentwicklung gesetzt. Die Magistralen werden zu zukunftsfähigen Mobilitäts- und attraktiven Stadträumen weiterentwickelt und geben dadurch Impulse für neue Stadtentwicklungsvorhaben. Durch die Entwicklung der Science City in Hamburg-Bahrenfeld, des Grasbrooks und der neuen Stadtquartiere im Hamburger Osten, in Oberbillwerder, auf den Elbinseln und im Süderelberaum werden neue Akzente in der \"Urbanisierungszone\" der Stadt gesetzt. Die äußeren Bereiche der Stadt erfordern durch die Magistralenentwicklung und den Schnellbahnausbau ein besonderes Augenmerk. In den Bestandsquartieren sind die räumlichen Muster der sozialen Ungleichheit Hamburgs weiter zu nivellieren. Ebenso ist eine inklusive Stadtentwicklung in allen Quartieren weiter voranzubringen. Auf regionaler Ebene gewinnt die grenzübergreifende Befassung mit dem Verflechtungsraum bzw. der Stadtregion an Bedeutung. Der Stadt- Umland-Atlas der BSW zeigt die wesentlichen räumlichen Entwicklungen der Stadt Hamburg und des Verflechtungs-raumes auf - eine wesentliche Datengrundlage für das Räumliche Leitbild. Diese Themen besitzen erhebliche Auswirkungen auf das Grundgerüst der Stadt und lösen neue Dynamiken für ihre räumliche Entwicklung aus. Vor diesem Hintergrund möchte die BSW das Räumliche Leitbild neu auflegen. Die bewährten Strategien der Hamburger Stadtentwicklung sind dabei zu berücksichtigen und ggf. weiterzuentwi-ckeln. Mit der Neuauflage des Räumlichen Leitbilds für Hamburg soll ein neues räumliches Zukunftsbild der Stadtentwicklung geschaffen werden, welches die Ziele der unter-schiedlichen Politikfelder in stadträumliche Strukturen und Prozesse übersetzt und gleichzeitig die bestehenden teilräumlichen Konzepte und Projekte in einen größeren Kontext setzt. Die Aufgabe ist, die räumlichen Strukturen und Entwicklungsprinzipien für die Gesamtstadt weiterzuentwickeln, beispielsweise zu der städtischen Dichte, Bebauungsstrukturen und Nutzungen. Dabei sollen vor allem die räumlichen Aussagen in Form von Zielformulierungen, verortbaren Entwicklungsansätzen und Handlungsstrategien im Fokus stehen. So soll ein räumliches \"Entwicklungsgerüst\" entstehen, welches robust ist und auf eine Bandbreite unterschiedlicher stadträumlicher Dynamiken und Trends, die durch den Stadt-Umland- Atlas sichtbar geworden sind, reagieren kann. Vor diesem Hintergrund sind auch Perspektiven für die stadtregionale Entwicklung zu be-denken. Das Räumliche Leitbild ist ein zentrales Steuerungs- und Kommunikationsinstrument für die Perspektiven der Hamburger Stadtentwicklung. Als informeller strategischer Planwerk entfaltet es FHH-intern Bindungswirkung und nimmt als Entscheidungskompass gleichzeitig Einfluss auf eine Vielzahl von Entwicklungsprozessen anderer Akteurinnen und Akteure der Stadtentwicklung. Mit dem Räumlichen Leitbild kann Hamburg zeigen, wie die in den Nachhaltigkeitszielen der Vereinten Nationen (SDGs) und der Neuen Leipzig-Charta genannten Prinzipien einer sozial gerechten, umwelt- und klimagerechten sowie kulturell und ökonomisch produktiven Stadtentwicklung durch die räumliche Entwicklung der Stadt gesichert werden können. Zum besseren Verständnis der konkret zu erfüllenden Aufgabenstellung siehe Anlage 5 \"Leistungsbeschreibung\" (Teil der Vergabeunterlagen).",
+      "cpv": "71000000",
       "pays": "DEU",
       "deadline": "",
       "montant": 0,
-      "publication": "2026-06-10",
+      "publication": "2026-06-19",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/396279-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/423713-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Microsoft Office",
-        "Office 365"
+        "Word"
       ],
       "bureautique": true,
       "score": 65,
@@ -589,6 +588,37 @@
         "com": 5,
         "admin": 7,
         "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "423370-2026",
+      "ref": "423370-2026",
+      "acheteur": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+      "objet": "Allemagne – Services de conseil et d'évaluation – Evaluation des Förderprogramms „Exportinitiative Umweltschutz“ des Bundesministeriums für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (2020 bis 2025)",
+      "description": "Umweltinnovationen und Klimatechnologien sind zentrale Säulen der deutschen Industrie und des Mittelstands. Mit der „Exportinitiative Umweltschutz“ (kurz EXI) fördert das Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) seit 2016 den deutschen Clean- und GreenTech-Mittelstand bei Projekten, die den Know-how-Transfer sowie die Anwendung deutscher Umweltschutz- und Ressourceneffizienztechnologien weltweit unterstützen. Globaler Umwelt- und Klimaschutz gelingt nur, wenn auch die notwendigen Infrastrukturen sowie rechtliche, politische und administrative Rahmenbedingungen vorhanden sind. Das Förderprogramm stärkt die deutsche Clean- und GreenTech-Branche (überwiegend KMU) darin, gemeinsam mit lokalen Partnern weltweit nachhaltige technische Lösungen für Umweltprobleme umzusetzen. Als Umweltprogramm mit klarem Wirtschaftsfokus fördert es investive Projekte in den Bereichen: • Kreislauf- und Ressourcenwirtschaft • Wasser- und Abwassertechnik • Netzferne grüne Wasserstoff- und Brennstoffzellentechnologien und • Innovative Querschnittstechnologien Die EXI bilanziert zu ihrem zehnjährigen Bestehen über 200 Projekte mit „GreenTech made in Germany“ in rund 100 Entwicklungs- und Schwellenländern und einem Fördervolumen von 82 Millionen Euro. Mit ihrem Umweltfokus und ihrem vergleichsweise flexiblen Unterstützungsprofil schlägt die EXI im Förderkontext des Bundes eine Verbindung zwischen dem Bereich der Entwicklungszusammenarbeit und klassischer Exportförderung. Die EXI hat sich als wichtiger Baustein im Rahmen der ressortübergreifenden Zusammenarbeit – insbesondere zu Maßnahmen des Bundeswirtschaftsministeriums (BMWE) - etabliert und ergänzt die „klassische“ Außenwirtschaftsförderung mit einem spezifischen Umweltfokus. Gegenstand ist die zweite Evaluierung des EXI-Förderprogramms. Es sollen Zielerreichung, Wirkung und Wirtschaftlichkeit des Förderprogramms „Exportinitiative Umweltschutz“ untersucht werden. Eine Evaluierung des Programms soll eine fundierte Einschätzung der erzielten positiven Effekte ermöglichen, aber auch Defizite aufzeigen, sodass der Auftraggeber auf dieser Basis die Gestaltung künftiger Maßnahmen und Programme gegebenenfalls optimieren kann. Im Jahr 2021 wurde die EXI erstmalig von der „Gesellschaft für Innovationsforschung und Beratung mbH“ (IFGE) im Auftrag des Bundesumweltministerium für den Zeitraum von Programmbeginn 2016 bis 2019 evaluiert. Diese erste Evaluation stellt den Ausgangspunkt für die zweite Evaluation der EXI dar. Das Förderprogramm hat in den letzten Jahren mehrere Neuerungen erfahren und wurde stetig weiterentwickelt. Wesentliche Meilensteine waren z.B. die Einführung der EXI-Baumpflanzaktion, das neue Handlungsfeld für grüne Wasserstoff- und Brennstoffzellentechnologien zur dezentralen, netzfernen Stromversorgung (seit März 2021), der Wechsel der Projektträgerin für die EXI im Januar 2022, der neue Programmname „Exportinitiative Umweltschutz“ (bis Juli 2021 unter „Exportinitiative Umwelttechnologien“) sowie insb. auch die Schwerpunktsetzung der EXI im Jahr 2022 auf investiven Komponenten für mehr Investitionsförderungen im Bereich GreenTech . Gegenstand der Evaluierung sind die im Rahmen der Förderrichtlinien vom 21. Mai 2019, 30. April 2021 sowie vom 02. Mai 2024 geförderten und durchgeführten Projekte . Es handelt sich dabei um 75 Einzel- und Verbundprojekte mit insgesamt 94 Teilvorhaben, die im Zeitraum 2020 bis 2025 vom BMUKN bewilligt wurden und deren Projektlaufzeit gleichzeitig beendet ist. Die überwiegende Anzahl an Projekten (über 70 Teilvorhaben) ist bereits formal abgeschlossen worden. Zu den Zuwendungsprojekten gehören zusätzlich 12 Einzelmaßnahmen , sogenannte Ländermodule, die Teil der Evaluation sein sollen. Diese wurden im Zeitraum 2020 bis 2025 vom BMUKN beauftragt und von der Gesellschaft für Internationale Zu-sammenarbeit (GIZ) GmbH durchgeführt.",
+      "cpv": "79419000",
+      "pays": "DEU",
+      "deadline": "2026-07-21",
+      "montant": 162,
+      "publication": "2026-06-19",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/423370-2026",
+      "segment": "FPH",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 59,
+      "score_detail": {
+        "fit": 25,
+        "size": 10,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
       },
       "score_status": "cond",
       "notes": "",

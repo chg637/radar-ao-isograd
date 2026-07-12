@@ -1,39 +1,134 @@
 {
-  "generated_at": "2026-07-11T07:53:59.634Z",
+  "generated_at": "2026-07-12T08:14:55.366Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 20,
-      "go": 0,
-      "generated_at": "2026-07-11T07:47:11.806Z"
+      "matched": 25,
+      "go": 2,
+      "generated_at": "2026-07-12T08:08:08.996Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-11T07:53:59.258Z"
+      "generated_at": "2026-07-12T08:14:54.897Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-11T07:53:59.497Z"
+      "generated_at": "2026-07-12T08:14:55.221Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 19,
-  "total_go": 0,
-  "total_dedup_collisions": 1,
+  "total_matched": 25,
+  "total_go": 2,
+  "total_dedup_collisions": 0,
   "dedup_breakdown": {
     "by_id": 0,
-    "fuzzy_signature": 1,
+    "fuzzy_signature": 0,
     "fuzzy_jaccard": 0
   },
   "notices": [
+    {
+      "id": "424521-2026",
+      "ref": "424521-2026",
+      "acheteur": "Communauté d’agglomération de GrandAngoulême",
+      "objet": "France – Services de formation – Services de formations professionnelles du personnel des adhérents de GrAP (19 lots)",
+      "description": "Lot n°1 - Formation à la conduite en sécurité d’engins / Lot n°2 - Formation ACCUS / Lot n°3 - Formation à la conduite de véhicules (Permis B / C / BE / CE) / Lot n°4 - Formation obligatoire à la conduite de véhicules (FCO/FIMO) / Lot n°5 - Formation préparatoire aux habilitations électriques (initiale et recyclage) / Lot n°6 - Formation préparatoire aux habilitations monteur et aide monteur d’échafaudages / Lot n°7 - Formation préparatoire aux habilitations de soudage oxyacéthylénique et au brasage capillaire fort / Lot n°8 - Formation préparatoire aux habilitations EPI, travail en hauteur sur cordes et travaux en profondeur / Lot n°9 - Formation aux technique de grimper et de déplacement en sécurité dans les arbres / Lot n°10 - Formation diplômante au service de sécurité incendie et d’assistance à personne (initiale et recyclage) SSIAP 1-2 et 3 / Lot n°11 - Formation diplômante aux premiers secours en équipes - PSE 1-2 / Lot n°12 - Bilan de compétences / Lot n°13 - Formation aux opérations exposant à l’amiante sur des immeubles par nature ou par destination (sous-section 4) / Lot n°14 - Formation sécurité incendie et manipulation des extincteurs SSI (initiale et recyclage) / Lot n°15 - Formation gestes et postures / Lot n°16 - Formation prévention des risques liés à l’activité physique (PRAP) / Lot n°17 - Formation Sauveteur Secouriste du Travail (Initiale et MAC) / Lot n°18 - Formation aux Premiers Secours Citoyen (PSC, Ex PSC1) / Lot n°19 – Formation CATEC Surveillant / Intervenant : Certificat d’Aptitude à Travailler en Espace Confiné",
+      "cpv": "80500000",
+      "pays": "FRA",
+      "deadline": "2026-09-04",
+      "montant": 7400,
+      "publication": "2026-06-19",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/424521-2026",
+      "segment": "Collectivités",
+      "keyword_hits": [
+        "bilan de compétences",
+        "habilitation"
+      ],
+      "bureautique": false,
+      "score": 84,
+      "score_detail": {
+        "fit": 40,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "go",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "424613-2026",
+      "ref": "424613-2026",
+      "acheteur": "Secretaría General de la Consejería de Hacienda, Administraciones Públicas y Transformación Digital de la Junta de Comunidades de Castilla-La Mancha",
+      "objet": "Espagne – Services de formation – Servicios de Formación en Competencias Digitales transversales para la Ciudadanía: Continuación del proyecto Ciudadanía Digital ampliando la oferta formativa, siguiendo el marco europeo DigComp, promovido por la JCCM, Plan de Recuperación Transformación y Resiliencia- Financiado por la Unión Europea-Next Geration EU.",
+      "description": "El presente contrato tiene por objeto, conseguir en Castilla-La Mancha, dentro del plazo de ejecución, el mayor número posible de personas formadas en competencias digitales transversales para la ciudadanía, según el marco DigComp de la Unión Europea, el cual define las competencias digitales necesarias para desenvolverse eficazmente en la sociedad digital actual.",
+      "cpv": "80500000",
+      "pays": "ESP",
+      "deadline": "",
+      "montant": 536,
+      "publication": "2026-06-19",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/424613-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "DigComp",
+        "DigComp"
+      ],
+      "bureautique": false,
+      "score": 80,
+      "score_detail": {
+        "fit": 40,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "go",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "424925-2026",
+      "ref": "424925-2026",
+      "acheteur": "GGD Zaanstreek-Waterland",
+      "objet": "Pays-Bas – Services de développement de logiciels médicaux – Digitaal Dossier Jeugdgezondheidszorg",
+      "description": "De aanbestedende dienst doorloopt een Europese aanbestedingsprocedure om een robuust en toekomstbestendig DDJGZ te selecteren en implementeren. Het systeem moet volledig operationeel en gebruiksklaar worden opgeleverd. Het DDJGZ moet voldoen aan de gestelde functionele en technische eisen en duurzaam zijn ingericht. De gekozen SaaS-oplossing moet een schaalbare basis bieden voor verdere ontwikkeling en toekomstige behoeften binnen de Jeugdgezondheidszorg. De opdracht betreft de levering, implementatie en het beheer van een SaaS‑applicatie (DDJGZ) ten behoeve van de Jeugdgezondheidszorg. De scope omvat configuratie, datamigratie, koppelingen met relevante externe systemen, opleiding van gebruikers en doorlopend beheer en support. Het systeem moet beschikbaar zijn voor circa 230 medewerkers en geschikt zijn voor opschaling. De overeenkomst heeft een looptijd van 10 jaar inclusief optionele verlengingen.",
+      "cpv": "72212180",
+      "pays": "NLD",
+      "deadline": "2026-10-15",
+      "montant": 4183,
+      "publication": "2026-06-22",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/424925-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 74,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
     {
       "id": "416167-2026",
       "ref": "416167-2026",
@@ -119,6 +214,37 @@
         "fit": 30,
         "size": 15,
         "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "424002-2026",
+      "ref": "424002-2026",
+      "acheteur": "Gemeente Steenwijkerland",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Europees openbare aanbesteding - SIEM/SOC-dienstverlening",
+      "description": "De gemeente Steenwijkerland wenst voor de feitelijke uitvoering van haar Security Operations Center (SOC)- en Security Information and Event Management (SIEM)- dienstverlening één opdrachtnemer te contracteren. Deze dienstverlening ondersteunt actief bij het voorkomen van inbreuken, schade en overlast in de ICT-infrastructuur. Deze aanbesteding bestaat niet uit meerdere percelen. De scope kent een sterke technische en economische samenhang, waardoor splitsing zou leiden tot risico’s ten aanzien van de continuïteit en kwaliteit van de dienstverlening én ten aanzien van de opvolgende werking van de losse componenten en functionaliteiten. Marktonderzoek laat verder zien dat het geheel van de scope niet beperkend werkt voor de markt en het MKB niet onnodig benadeelt. Er kan dus alleen op het geheel worden ingeschreven. De totaal geraamde waarde van de opdracht voor de gehele maximale looptijd (10 jaar) bedraagt € 840.000,-. Deze raming is gebaseerd op de uitgaven van voorgaande jaren en een marktverkenning. Voor deze aanbesteding geldt een plafondbedrag voor onderdeel prijs. Hierbij wordt onderscheid gemaakt in implementatiekosten en exploitatiekosten. Voor de implementatiekosten geldt een plafondbedrag van € 50.000,- exclusief Btw. Voor exploitatiekosten is dit € 850.000,- exclusief Btw gebaseerd op de gehele looptijd van 10 jaar.",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 453,
+      "publication": "2026-06-19",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/424002-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 14,
         "com": 5,
         "admin": 7,
         "delay": 3
@@ -495,6 +621,68 @@
         "com": 5,
         "admin": 7,
         "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "426265-2026",
+      "ref": "426265-2026",
+      "acheteur": "Haven van Antwerpen-Brugge, NV van publiek recht",
+      "objet": "Belgique – Services de développement de logiciels de commande de vol – Raamovereenkomst voor de operationele dronecapaciteit voor Port of Antwerp-Bruges",
+      "description": "Port of Antwerp-Bruges (POAB) heeft de afgelopen jaren gebruik gemaakt van een operationeel drone-as-a-service (DAAS) netwerk ter ondersteuning van verschillende operationele processen in het havengebied. De huidige overeenkomst voor dit dronenetwerk loopt af, waardoor POAB een nieuwe partner zoekt die DAAS kan leveren én drone innovatieprojecten op projectbasis kan uitvoeren. De DAAS opdracht omvat twee componenten: enerzijds Drone Flight Services, waarbij de opdrachtnemer instaat voor de volledige vluchtuitvoering door gecertificeerde piloten inclusief missieondersteuning en data-acquisitie, en anderzijds Drone Hardware-as-a-Service, waarbij droneplatformen en sensoren ter beschikking worden gesteld voor gebruik door piloten van de opdrachtnemer, inclusief onderhoud en technische ondersteuning. Beide componenten zullen gezamenlijk worden afgenomen naargelang de operationele behoefte. Deze modulaire aanpak biedt de opdrachtgever maximale flexibiliteit ten aanzien van de dienstverlening en de hardware/software voorzieningen welke kan evolueren ten aanzien van technologische evoluties. Deze DAAS opdracht combineert één geïntegreerde dienstverlening, waarbij geautomatiseerde drones worden ingezet ter ondersteuning van diverse operationele toepassingen binnen de havenplatformen Antwerpen én Zeebrugge. Naast de DAAS wil POAB ook innovatieve dronetechnologieën en nieuwe use cases kunnen verkennen en valideren binnen de looptijd van de overeenkomst. De DAAS opdracht wordt aangeboden als servicemodel gedurende de looptijd van de nieuwe overeenkomst, de innovatieprojecten zullen project gebaseerd uitgevoerd worden.",
+      "cpv": "72212120",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-22",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/426265-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "426289-2026",
+      "ref": "426289-2026",
+      "acheteur": "Agentschap Integratie en Inburgering",
+      "objet": "Belgique – Logiciels et systèmes d'information – Project Modulair aanbod MO - Ontwikkeling modules",
+      "description": "Een deelwerking van inburgering is het aanbieden van Maatschappelijke Oriëntatie (MO). Per jaar volgen zo’n 25.000 nieuwkomers (en oudkomers) het traject in Vlaanderen en Brussel. De inhoud van de cursus bevat 11 levensdomeinen, zoals wonen, werken, mobiliteit, gezin, … De doelstellingen zijn zowel algemeen als praktisch van aard. De cursisten zijn anderstalig en beheersen tijdens de cursus MO nog niet voldoende Nederlands voor het behalen van de vooropgestelde doelen. We bieden de lessen en lesmaterialen aan in de moedertaal of contacttaal van de cursist. AgII heeft de afgelopen jaren significant geïnvesteerd om het aanbod MO te differentiëren en te digitaliseren. Dit heeft geresulteerd in een kader voor oriëntatie waarbij inburgeraars, op basis van screening, worden doorverwezen naar het meest geschikte aanbod, waaronder zelfstudie, begeleide zelfstudie, digitale cursussen, ICT-voortrajecten in functie van het digitaal aanbod MO en klassikaal onderwijs. Tevens worden maatwerkcursussen georganiseerd voor specifieke doelgroepen, zoals werkzoekenden (sectortrajecten bouw, zorg, IT), studenten en jongeren. De differentiatie is gebaseerd op ervaringen met afstandsleren sinds de pandemie, pilots, wetenschappelijk onderzoek en bevragingen binnen diverse doelgroepen. Het onderscheid betreft uitsluitend de vorm van de cursus; de inhoud blijft uniform. Alle onderwijsvormen behandelen de volledige set aan onderwijsdoelen als basisinhoud om te voldoen aan gestandaardiseerde toetsing. De elf leeromgevingen zijn als volgt vastgesteld: stad en land, mobiliteit, gezin, publieke diensten, werken, wonen, consumptie, gezondheid, onderwijs, vrije tijd en verblijfssituatie. Binnen deze onderwijsdoelen behouden docenten pedagogische vrijheid om lesinhoud en werkvormen af te stemmen op de voorkennis en specifieke behoeften van de cursisten. Naast kennisoverdracht wordt veel aandacht besteed aan het ontwikkelen van vaardigheden en attitudes in groepsverband, waaronder dialogen over principes en uitgangspunten. Door de digitalisering van het aanbod is er nu meer inhoudelijke en praktische flexibiliteit mogelijk. In het project ‘modulair aanbod MO’ willen we voortbouwen op dit basisaanbod en inspelen op de duidelijke ambities van zowel de federale als Vlaamse regering. Zij willen immers inburgeringstrajecten via afstandsonderwijs vanuit het thuisland of buitenland mogelijk maken. Het doel is om deelnemers aan deze vorm van onderwijs al vóór hun aankomst in België een voorsprong te geven, zodat hun integratie sneller verloopt. Het project modulair aanbod maatschappelijke oriëntatie (MO) richt zich op een snellere, efficiëntere en meer gepersonaliseerde inburgering voor specifieke groepen (toekomstige) inburgeraars, zoals gezinsherenigers en niet-EU arbeidsmigranten in het buitenland. Daarbij ligt de nadruk niet op één vast traject, maar juist op aparte modules die flexibel gecombineerd kunnen worden tot maatwerktrajecten. Zo kunnen het instappakket en doelgroepgerichte modules los van elkaar gebruikt worden, zodat voor elke doelgroep een geschikt programma kan worden samengesteld. Deze aanpak biedt maximale flexibiliteit en maakt het mogelijk optimaal in te spelen op de verschillende achtergronden, voorkennis en leerbehoeften van de inburgeraars.",
+      "cpv": "48000000",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-22",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/426289-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",

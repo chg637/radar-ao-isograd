@@ -1,38 +1,10 @@
 {
-  "generated_at": "2026-07-13T09:05:37.181Z",
-  "source": "MERGE",
-  "sources_summary": {
-    "TED": {
-      "present": true,
-      "fetched": 500,
-      "matched": 24,
-      "go": 2,
-      "generated_at": "2026-07-13T08:58:21.105Z"
-    },
-    "BOAMP": {
-      "present": true,
-      "fetched": 3000,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-07-13T09:05:36.651Z"
-    },
-    "Profil": {
-      "present": true,
-      "fetched": 0,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-07-13T09:05:37.085Z"
-    }
-  },
-  "total_fetched": 3500,
+  "generated_at": "2026-07-13T08:58:21.105Z",
+  "source": "TED",
+  "window_days": 30,
+  "total_fetched": 500,
   "total_matched": 24,
   "total_go": 2,
-  "total_dedup_collisions": 0,
-  "dedup_breakdown": {
-    "by_id": 0,
-    "fuzzy_signature": 0,
-    "fuzzy_jaccard": 0
-  },
   "notices": [
     {
       "id": "424521-2026",
@@ -99,18 +71,18 @@
       "auto": true
     },
     {
-      "id": "429512-2026",
-      "ref": "429512-2026",
-      "acheteur": "Provincie Utrecht",
-      "objet": "Pays-Bas – Services de fourniture de logiciels – Softwarebroker-dienstverlening",
-      "description": "De scope van de Opdracht betreft: a) Het (door)leveren en Beheren, op eenvoudige en marktconforme wijze, van gebruiksrechten op Standaardsoftware, inclusief implementatie, verlengingen, updates en upgrades en ondersteuning (maintenance en support). Daarbij zij opgemerkt dat, de Aanbestedende dienst hiertoe tevens SaaS-diensten rekent betreffende Microsoft haar PaaS en IaaS-diensten (zie Definities). De levering dient optimaal afgestemd te zijn op de behoefte van de Aanbestedende dienst; b) Het (door)leveren en beheren van Microsoft gebruiksrechten betreffende Standaardsoftware, inclusief SaaS, PaaS en IaaS diensten, zulks op basis van EAS, CSP en andere mogelijke Microsoft contractvormen, onder door Aanbestedende dienst zelfstandig of in samenwerkingsverband, met Microsoft overeengekomen condities; c) Het adviseren omtrent aanschaf en vernieuwing van gebruiksrechten van Standaardsoftware onder meer betreffende ... Zie verder par. 2.5 van de Aanbestedingsleidraad De waarde van de Opdracht is geraamd op 14 miljoen euro in totaal voor de volledige looptijd van de Raamovereenkomst inclusief alle opties en verlengingen. Er is groei verwacht vanaf het huidige niveau van ongeveer 2 miljoen euro jaarlijks naar 3 tot 3,5 miljoen euro jaarlijks met name vanwege toenemend gebruik van SaaS en andere IT-clouddiensten, waaronder die van Microsoft. De maximale omvang en tevens het maximumbedrag van de beoogde Raamovereenkomst is gesteld op 18 miljoen euro. Bij het bereiken van deze maximale omvang verliest de Raamovereenkomst zijn effect en kunnen geen opdrachten meer onder de raamovereenkomst worden verstrekt.",
-      "cpv": "72268000",
-      "pays": "NLD",
-      "deadline": "2026-09-25",
-      "montant": 14000,
-      "publication": "2026-06-24",
+      "id": "416167-2026",
+      "ref": "416167-2026",
+      "acheteur": "HeiligHartziekenhuis Lier",
+      "objet": "Belgique – Services de développement de logiciels médicaux – Aanschaf en installatie van een geïntegreerde EPD-oplossing.",
+      "description": "Aanschaf en installatie van een geïntegreerde EPD-oplossing die aan de gebruikers (eerste – en tweedelijn zorg- en zorgondersteunende diensten) ter beschikking gesteld zal worden met het oog op een efficiënte werking van alle zorgprocessen en dit door en voor alle betrokken zorgactoren. De opdracht omvat de: levering, implementatie, het onderhoud (inclusief wettelijk onderhoud, correctief, preventief en evolutief onderhoud) en de ondersteuning van de gebruikers. Voorwerp van deze diensten: Realisatie, implementatie & onderhoud van een geïntegreerd elektronisch patiëntendossier (EPD). Plaats van dienstverlening: HH Ziekenhuis Lier (Mechelsestraat 24, 2500 Lier) Toelichting: Het voorwerp van de opdracht is de realisatie, implementatie en onderhoud van een geïntegreerd elektronisch patiëntendossier (EPD) – hierna EPD en EPD software genoemd – met volgende kenmerken:    er is reeds een bestaande EPD-software in gebruik. Deze zal vervangen worden; bijgevolg maakt de datamigratie en het realiseren van de nodige koppelingen een essentieel onderdeel uit van de opdracht;  de EPD-software faciliteert en garandeert de samenwerking binnen het ziekenhuis zowel als tussen ziekenhuizen en overige stakeholders;  de EPD-software is (maximaal) compatibel en interoperabel met de softwareprogramma’s die niet in het voorwerp van de opdracht zijn omvat, doch binnen HH Ziekenhuis Lier worden gebruikt.  De opdrachtgever wenst een multidisciplinair elektronisch dossier waarin alle patiëntengegevens worden bewaard en beschikbaar worden gesteld voor alle actoren in het zorgproces waarin de patiënt centraal staat van bij de opname tot en met het ontslag. Via een portaal wordt het dossier uitgebreid tot de pre- en posthospitaal periode waarin de patiënt toegang heeft tot de eigen gegevens en deze kan delen en (mits de nodige validaties) aanvullen. Het dossier ondersteunt de workflow en de registraties door een uniforme manier van werken over alle specialismes heen. De patiëntengegevens dienen conform de wetgeving op een eenvoudige elektronische manier te worden gedeeld met extramurale partners. Het EPD dient een tool zijn voor samenwerking en continue kwaliteitsverbetering/meting binnen het ziekenhuis en met partnerziekenhuizen binnen ons ziekenhuisnetwerk, de huisartsen, thuisverpleging en andere zorgverstrekkers in onze zorgregio. Tevens wil HH Ziekenhuis Lier gegevens delen via eHealth of andere aangeboden kanalen. HH Ziekenhuis Lier wil informatie halen uit de opgeslagen gegevens van het EPD met als doel de kwaliteit van het zorgproces te monitoren, te verbeteren en te toetsen t.o.v. andere zorgaanbieders. De gegevens dienen bij voorkeur via automatische rapportage een antwoord geven op verplichte registraties van de overheden. In scope van deze opdracht Medisch dossier met verslaggeving, workflowsturing en clinical decision support. Verpleegkundig dossier (spoedgevallen, anesthesie, IZ, verloskwartier, (dag) hospitalisatie …) met verslaggeving, zorgplanning, screening, briefingtool, alerting, MVG extractie. Paramedisch dossier met planning, verslaggeving en prefacturatie. Medicatiebeheer inclusief chemotherapie met optie voor bedside scanning, naadloos gekoppeld aan het apotheekbeheer (ZORGI, Apotheek). Resultaat rapportering en ordercommunicatie die naadloos communiceert met bestaande applicaties (o.a. MIPS, Cyberlab – AFGA PACS, …). OK planning CSA Agenda en afspraken module voor consulterende artsen Opnameplanning, actuele en toekomstige bedbezetting Decentrale tarificatie (pre facturatie). Data extractie voor interne beleidsinformatie (gebaseerd op IQVIA datawarehouse) en rapportering aan de overheid. Organisatie intern patiëntentransport. (De)centrale scanning. Voedingsmanagement. Patiëntenportaal voor het maken en raadplegen van online afspraken, invullen van vragenlijsten, opvragen van resultaten, … Inclusief veilige authenticatie (itsme e.a.). Integratie met bestaande patiëntenadministratie (Oazis) en facturatie (ZORGI, Tarfac 3.0). Datamigratie vanuit reeds aanwezige EPD software (PrimUZ). Koppeling met diverse medical devices. RIS (Radiologie Informatica Systeem). Out of scope voor deze opdracht (excl. koppelingen met EPD software) Patiëntenadministratie (ADT + facturatie). LIS (Labo Informatica Systeem). PACS Er wordt veel belang gehecht aan de verschillende deelaspecten, die terugkomen onder III. Technische specificaties De totale duur van de volledige opdracht is afhankelijk van de duur van implementatie en de duur van gebruik. De concrete duur zal bepaald worden in de overeenkomst opgesteld na gunning door de opdrachtgever. De inschrijver geeft bij zijn offerte de termijn op die nodig is voor deze opdracht, m.a.w. hij zal een concreet aanschaf-, installatie-, migratie/koppelingen-, implementatie- en onderhoudsplan voorzien. De productspecificaties worden nader omschreven in hoofdstuk III. Technische Specificaties. De opdrachtgever kiest de economisch meest voordelige offerte, vastgesteld rekening houdend met de beste prijs-kwaliteitsverhouding.",
+      "cpv": "72212180",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 8688,
+      "publication": "2026-06-17",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/429512-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/416167-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -120,10 +92,10 @@
       "score_detail": {
         "fit": 30,
         "size": 15,
-        "tech": 12,
+        "tech": 14,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -161,18 +133,18 @@
       "auto": true
     },
     {
-      "id": "416167-2026",
-      "ref": "416167-2026",
-      "acheteur": "HeiligHartziekenhuis Lier",
-      "objet": "Belgique – Services de développement de logiciels médicaux – Aanschaf en installatie van een geïntegreerde EPD-oplossing.",
-      "description": "Aanschaf en installatie van een geïntegreerde EPD-oplossing die aan de gebruikers (eerste – en tweedelijn zorg- en zorgondersteunende diensten) ter beschikking gesteld zal worden met het oog op een efficiënte werking van alle zorgprocessen en dit door en voor alle betrokken zorgactoren. De opdracht omvat de: levering, implementatie, het onderhoud (inclusief wettelijk onderhoud, correctief, preventief en evolutief onderhoud) en de ondersteuning van de gebruikers. Voorwerp van deze diensten: Realisatie, implementatie & onderhoud van een geïntegreerd elektronisch patiëntendossier (EPD). Plaats van dienstverlening: HH Ziekenhuis Lier (Mechelsestraat 24, 2500 Lier) Toelichting: Het voorwerp van de opdracht is de realisatie, implementatie en onderhoud van een geïntegreerd elektronisch patiëntendossier (EPD) – hierna EPD en EPD software genoemd – met volgende kenmerken:    er is reeds een bestaande EPD-software in gebruik. Deze zal vervangen worden; bijgevolg maakt de datamigratie en het realiseren van de nodige koppelingen een essentieel onderdeel uit van de opdracht;  de EPD-software faciliteert en garandeert de samenwerking binnen het ziekenhuis zowel als tussen ziekenhuizen en overige stakeholders;  de EPD-software is (maximaal) compatibel en interoperabel met de softwareprogramma’s die niet in het voorwerp van de opdracht zijn omvat, doch binnen HH Ziekenhuis Lier worden gebruikt.  De opdrachtgever wenst een multidisciplinair elektronisch dossier waarin alle patiëntengegevens worden bewaard en beschikbaar worden gesteld voor alle actoren in het zorgproces waarin de patiënt centraal staat van bij de opname tot en met het ontslag. Via een portaal wordt het dossier uitgebreid tot de pre- en posthospitaal periode waarin de patiënt toegang heeft tot de eigen gegevens en deze kan delen en (mits de nodige validaties) aanvullen. Het dossier ondersteunt de workflow en de registraties door een uniforme manier van werken over alle specialismes heen. De patiëntengegevens dienen conform de wetgeving op een eenvoudige elektronische manier te worden gedeeld met extramurale partners. Het EPD dient een tool zijn voor samenwerking en continue kwaliteitsverbetering/meting binnen het ziekenhuis en met partnerziekenhuizen binnen ons ziekenhuisnetwerk, de huisartsen, thuisverpleging en andere zorgverstrekkers in onze zorgregio. Tevens wil HH Ziekenhuis Lier gegevens delen via eHealth of andere aangeboden kanalen. HH Ziekenhuis Lier wil informatie halen uit de opgeslagen gegevens van het EPD met als doel de kwaliteit van het zorgproces te monitoren, te verbeteren en te toetsen t.o.v. andere zorgaanbieders. De gegevens dienen bij voorkeur via automatische rapportage een antwoord geven op verplichte registraties van de overheden. In scope van deze opdracht Medisch dossier met verslaggeving, workflowsturing en clinical decision support. Verpleegkundig dossier (spoedgevallen, anesthesie, IZ, verloskwartier, (dag) hospitalisatie …) met verslaggeving, zorgplanning, screening, briefingtool, alerting, MVG extractie. Paramedisch dossier met planning, verslaggeving en prefacturatie. Medicatiebeheer inclusief chemotherapie met optie voor bedside scanning, naadloos gekoppeld aan het apotheekbeheer (ZORGI, Apotheek). Resultaat rapportering en ordercommunicatie die naadloos communiceert met bestaande applicaties (o.a. MIPS, Cyberlab – AFGA PACS, …). OK planning CSA Agenda en afspraken module voor consulterende artsen Opnameplanning, actuele en toekomstige bedbezetting Decentrale tarificatie (pre facturatie). Data extractie voor interne beleidsinformatie (gebaseerd op IQVIA datawarehouse) en rapportering aan de overheid. Organisatie intern patiëntentransport. (De)centrale scanning. Voedingsmanagement. Patiëntenportaal voor het maken en raadplegen van online afspraken, invullen van vragenlijsten, opvragen van resultaten, … Inclusief veilige authenticatie (itsme e.a.). Integratie met bestaande patiëntenadministratie (Oazis) en facturatie (ZORGI, Tarfac 3.0). Datamigratie vanuit reeds aanwezige EPD software (PrimUZ). Koppeling met diverse medical devices. RIS (Radiologie Informatica Systeem). Out of scope voor deze opdracht (excl. koppelingen met EPD software) Patiëntenadministratie (ADT + facturatie). LIS (Labo Informatica Systeem). PACS Er wordt veel belang gehecht aan de verschillende deelaspecten, die terugkomen onder III. Technische specificaties De totale duur van de volledige opdracht is afhankelijk van de duur van implementatie en de duur van gebruik. De concrete duur zal bepaald worden in de overeenkomst opgesteld na gunning door de opdrachtgever. De inschrijver geeft bij zijn offerte de termijn op die nodig is voor deze opdracht, m.a.w. hij zal een concreet aanschaf-, installatie-, migratie/koppelingen-, implementatie- en onderhoudsplan voorzien. De productspecificaties worden nader omschreven in hoofdstuk III. Technische Specificaties. De opdrachtgever kiest de economisch meest voordelige offerte, vastgesteld rekening houdend met de beste prijs-kwaliteitsverhouding.",
-      "cpv": "72212180",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 8688,
-      "publication": "2026-06-17",
+      "id": "429512-2026",
+      "ref": "429512-2026",
+      "acheteur": "Provincie Utrecht",
+      "objet": "Pays-Bas – Services de fourniture de logiciels – Softwarebroker-dienstverlening",
+      "description": "De scope van de Opdracht betreft: a) Het (door)leveren en Beheren, op eenvoudige en marktconforme wijze, van gebruiksrechten op Standaardsoftware, inclusief implementatie, verlengingen, updates en upgrades en ondersteuning (maintenance en support). Daarbij zij opgemerkt dat, de Aanbestedende dienst hiertoe tevens SaaS-diensten rekent betreffende Microsoft haar PaaS en IaaS-diensten (zie Definities). De levering dient optimaal afgestemd te zijn op de behoefte van de Aanbestedende dienst; b) Het (door)leveren en beheren van Microsoft gebruiksrechten betreffende Standaardsoftware, inclusief SaaS, PaaS en IaaS diensten, zulks op basis van EAS, CSP en andere mogelijke Microsoft contractvormen, onder door Aanbestedende dienst zelfstandig of in samenwerkingsverband, met Microsoft overeengekomen condities; c) Het adviseren omtrent aanschaf en vernieuwing van gebruiksrechten van Standaardsoftware onder meer betreffende ... Zie verder par. 2.5 van de Aanbestedingsleidraad De waarde van de Opdracht is geraamd op 14 miljoen euro in totaal voor de volledige looptijd van de Raamovereenkomst inclusief alle opties en verlengingen. Er is groei verwacht vanaf het huidige niveau van ongeveer 2 miljoen euro jaarlijks naar 3 tot 3,5 miljoen euro jaarlijks met name vanwege toenemend gebruik van SaaS en andere IT-clouddiensten, waaronder die van Microsoft. De maximale omvang en tevens het maximumbedrag van de beoogde Raamovereenkomst is gesteld op 18 miljoen euro. Bij het bereiken van deze maximale omvang verliest de Raamovereenkomst zijn effect en kunnen geen opdrachten meer onder de raamovereenkomst worden verstrekt.",
+      "cpv": "72268000",
+      "pays": "NLD",
+      "deadline": "2026-09-25",
+      "montant": 14000,
+      "publication": "2026-06-24",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/416167-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/429512-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -182,28 +154,59 @@
       "score_detail": {
         "fit": 30,
         "size": 15,
-        "tech": 14,
+        "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 3
+        "delay": 5
       },
       "score_status": "cond",
       "notes": "",
       "auto": true
     },
     {
-      "id": "427575-2026",
-      "ref": "427575-2026",
-      "acheteur": "Fryske Utfieringstsjinst Miljeu en Omjouwing",
-      "objet": "Pays-Bas – Services relatifs aux logiciels – VTH-Zaaksysteem FUMO",
-      "description": "De FUMO is voornemens om een Overeenkomst aan te gaan met één Opdrachtnemer voor de levering (inclusief het gebruiksrecht), de implementatie, het beheer en het onderhoud van een VTH-zaaksysteem. De FUMO beoogt een langdurig partnership hieromtrent aan te gaan. De FUMO is voornemens een Overeenkomst af te sluiten met één Opdrachtnemer voor een gegarandeerde periode van vijf jaar. De Overeenkomst gaat uiterlijk in op 01-07-2026 alvorens de start van de implementatie van de ICT-oplossing. De Overeenkomst kan eenzijdig door FUMO viermaal optioneel worden verlengd voor de duur van twee jaar. De maximale looptijd van de Overeenkomst (incl. verlengingen) kan hiermee oplopen tot dertien jaar.",
-      "cpv": "72260000",
+      "id": "418150-2026",
+      "ref": "418150-2026",
+      "acheteur": "SSC IUC DJI",
+      "objet": "Pays-Bas – Services de développement de logiciels de gestion des systèmes, de stockage et de contenu – Compact geautomatiseerd opslagsysteem +4 graden Celsius t.b.v. het NFI",
+      "description": "De opdracht betreft de levering, installatie en het onderhoud van een compact, geautomatiseerd opslagsysteem +4 Celsius ten behoeve van het Nederlands Forensisch Instituut (NFI) te Den Haag, Nederland. Het opslagsysteem heeft ongeveer een koelkastformaat en er worden minimaal 500 AutoLys-tubes met DNA-sporen en minimaal 6000 FluidX-tubes met DNA-extracten in opgeslagen bij een temperatuur van 4 °Celsius. Aansluitend aan een garantietermijn van minimaal 1 jaar volgt 10 jaar onderhoud en daarna de optie het onderhoud voort te zetten tot uiterlijk het einde van de technische levensduur van het opslagsysteem. Daarnaast geldt een optie om een tweede, identiek opslagsysteem af te nemen, inclusief onderhoud tot uiterlijk het einde van de technische levensduur. Er wordt beoogd één overeenkomst te sluiten met een opdrachtnemer die de levering, installatie en het onderhoud verzorgt, ook voor het optionele tweede opslagsysteem. Aanbestedende dienst gaat uit van een geraamde totale opdrachtwaarde, inclusief ALLE opties, van € 940.000,-.",
+      "cpv": "72212780",
+      "pays": "NLD",
+      "deadline": "2026-08-24",
+      "montant": 940,
+      "publication": "2026-06-18",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/418150-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "420754-2026",
+      "ref": "420754-2026",
+      "acheteur": "Gemeente Dordrecht | Bedrijfsvoering Drechtsteden",
+      "objet": "Pays-Bas – Services de formation – Talentenfonds Drechtsteden 2026-2027",
+      "description": "Sectoren Zorg en Welzijn, Techniek en Bouw, en Transport en Logistiek en Maritiem De opdracht omvat één geïntegreerde opdracht voor het leveren van opleidingen in alle vier sectoren, met een totaalbudget van € 2.200.000 incl. btw. Opleiders kunnen inschrijven voor een of meerdere sectoren, maar worden beloond voor veelzijdigheid in hun aanbod. De opleidingen moeten: • Direct aansluiten op de actuele arbeidsmarktvraag in de Drechtsteden. • (Basis)-beroepsvaardigheden ontwikkelen, afgestemd op de doelgroep. • Kosteloos en laagdrempelig zijn voor deelnemers, mede door een minimale cofinancieringsbijdrage van 25% door opleiders.",
+      "cpv": "80500000",
       "pays": "NLD",
       "deadline": "",
-      "montant": 1470,
-      "publication": "2026-06-22",
+      "montant": 2200,
+      "publication": "2026-06-18",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/427575-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/420754-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -285,49 +288,18 @@
       "auto": true
     },
     {
-      "id": "418150-2026",
-      "ref": "418150-2026",
-      "acheteur": "SSC IUC DJI",
-      "objet": "Pays-Bas – Services de développement de logiciels de gestion des systèmes, de stockage et de contenu – Compact geautomatiseerd opslagsysteem +4 graden Celsius t.b.v. het NFI",
-      "description": "De opdracht betreft de levering, installatie en het onderhoud van een compact, geautomatiseerd opslagsysteem +4 Celsius ten behoeve van het Nederlands Forensisch Instituut (NFI) te Den Haag, Nederland. Het opslagsysteem heeft ongeveer een koelkastformaat en er worden minimaal 500 AutoLys-tubes met DNA-sporen en minimaal 6000 FluidX-tubes met DNA-extracten in opgeslagen bij een temperatuur van 4 °Celsius. Aansluitend aan een garantietermijn van minimaal 1 jaar volgt 10 jaar onderhoud en daarna de optie het onderhoud voort te zetten tot uiterlijk het einde van de technische levensduur van het opslagsysteem. Daarnaast geldt een optie om een tweede, identiek opslagsysteem af te nemen, inclusief onderhoud tot uiterlijk het einde van de technische levensduur. Er wordt beoogd één overeenkomst te sluiten met een opdrachtnemer die de levering, installatie en het onderhoud verzorgt, ook voor het optionele tweede opslagsysteem. Aanbestedende dienst gaat uit van een geraamde totale opdrachtwaarde, inclusief ALLE opties, van € 940.000,-.",
-      "cpv": "72212780",
-      "pays": "NLD",
-      "deadline": "2026-08-24",
-      "montant": 940,
-      "publication": "2026-06-18",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/418150-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "420754-2026",
-      "ref": "420754-2026",
-      "acheteur": "Gemeente Dordrecht | Bedrijfsvoering Drechtsteden",
-      "objet": "Pays-Bas – Services de formation – Talentenfonds Drechtsteden 2026-2027",
-      "description": "Sectoren Zorg en Welzijn, Techniek en Bouw, en Transport en Logistiek en Maritiem De opdracht omvat één geïntegreerde opdracht voor het leveren van opleidingen in alle vier sectoren, met een totaalbudget van € 2.200.000 incl. btw. Opleiders kunnen inschrijven voor een of meerdere sectoren, maar worden beloond voor veelzijdigheid in hun aanbod. De opleidingen moeten: • Direct aansluiten op de actuele arbeidsmarktvraag in de Drechtsteden. • (Basis)-beroepsvaardigheden ontwikkelen, afgestemd op de doelgroep. • Kosteloos en laagdrempelig zijn voor deelnemers, mede door een minimale cofinancieringsbijdrage van 25% door opleiders.",
-      "cpv": "80500000",
+      "id": "427575-2026",
+      "ref": "427575-2026",
+      "acheteur": "Fryske Utfieringstsjinst Miljeu en Omjouwing",
+      "objet": "Pays-Bas – Services relatifs aux logiciels – VTH-Zaaksysteem FUMO",
+      "description": "De FUMO is voornemens om een Overeenkomst aan te gaan met één Opdrachtnemer voor de levering (inclusief het gebruiksrecht), de implementatie, het beheer en het onderhoud van een VTH-zaaksysteem. De FUMO beoogt een langdurig partnership hieromtrent aan te gaan. De FUMO is voornemens een Overeenkomst af te sluiten met één Opdrachtnemer voor een gegarandeerde periode van vijf jaar. De Overeenkomst gaat uiterlijk in op 01-07-2026 alvorens de start van de implementatie van de ICT-oplossing. De Overeenkomst kan eenzijdig door FUMO viermaal optioneel worden verlengd voor de duur van twee jaar. De maximale looptijd van de Overeenkomst (incl. verlengingen) kan hiermee oplopen tot dertien jaar.",
+      "cpv": "72260000",
       "pays": "NLD",
       "deadline": "",
-      "montant": 2200,
-      "publication": "2026-06-18",
+      "montant": 1470,
+      "publication": "2026-06-22",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/420754-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/427575-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -337,37 +309,6 @@
       "score_detail": {
         "fit": 30,
         "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "413613-2026",
-      "ref": "413613-2026",
-      "acheteur": "Hoogheemraadschap van Delfland",
-      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Proces Informatie Management Systeem (PIMS)",
-      "description": "Het inrichten van een PIMS voor Delfland op basis van AVEVA PI technologie voor één van de zuiveringsinstallaties (te weten AWZI De Groote Lucht) met daarbij een drietal toepasbare use cases, teneinde te kunnen evalueren of deze opzet van meerwaarde is voor Delfland in het verbeteren van de informatiestromen binnen de organisatie. Delfland heeft het voornemen om procesdata van haar installaties en objecten van het watersysteem en de waterketen te gaan verzamelen en centraal op te slaan. Om hierin een eerste stap te nemen gaat Delfland een pilotproject uitvoeren voor het opzetten van een Proces Informatie Management Systeem (PIMS) voor één van haar zuiveringsinstallaties (AWZI De Groote Lucht), gebaseerd op AVEVA PI Systeem technologie. Voor deze installatie zal tijdens het pilotproject een AVEVA PI Systeem ingericht dienen te worden van maximaal 1.000 meetsignalen (tags) en 10 gebruikers. Tevens zullen een drietal use cases uitgewerkt dienen te worden: • Het beschikbaar stellen van gevalideerde procesdata voor de monitoring van lachgas emissies (te gebruiken door procestechnologen); • Het ontwikkelen van een dashboard in PI Vision voor de monitoring van een beperkt aantal trends en KPI’s (te gebruiken in de regelkamer); • Het opstellen van een rapport met daarin de draaiuren van alle afzonderlijke pompen (te gebruiken door onderhoudspersoneel).",
-      "cpv": "72200000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 331,
-      "publication": "2026-06-17",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/413613-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -440,6 +381,37 @@
       "auto": true
     },
     {
+      "id": "413613-2026",
+      "ref": "413613-2026",
+      "acheteur": "Hoogheemraadschap van Delfland",
+      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Proces Informatie Management Systeem (PIMS)",
+      "description": "Het inrichten van een PIMS voor Delfland op basis van AVEVA PI technologie voor één van de zuiveringsinstallaties (te weten AWZI De Groote Lucht) met daarbij een drietal toepasbare use cases, teneinde te kunnen evalueren of deze opzet van meerwaarde is voor Delfland in het verbeteren van de informatiestromen binnen de organisatie. Delfland heeft het voornemen om procesdata van haar installaties en objecten van het watersysteem en de waterketen te gaan verzamelen en centraal op te slaan. Om hierin een eerste stap te nemen gaat Delfland een pilotproject uitvoeren voor het opzetten van een Proces Informatie Management Systeem (PIMS) voor één van haar zuiveringsinstallaties (AWZI De Groote Lucht), gebaseerd op AVEVA PI Systeem technologie. Voor deze installatie zal tijdens het pilotproject een AVEVA PI Systeem ingericht dienen te worden van maximaal 1.000 meetsignalen (tags) en 10 gebruikers. Tevens zullen een drietal use cases uitgewerkt dienen te worden: • Het beschikbaar stellen van gevalideerde procesdata voor de monitoring van lachgas emissies (te gebruiken door procestechnologen); • Het ontwikkelen van een dashboard in PI Vision voor de monitoring van een beperkt aantal trends en KPI’s (te gebruiken in de regelkamer); • Het opstellen van een rapport met daarin de draaiuren van alle afzonderlijke pompen (te gebruiken door onderhoudspersoneel).",
+      "cpv": "72200000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 331,
+      "publication": "2026-06-17",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/413613-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "410053-2026",
       "ref": "410053-2026",
       "acheteur": "Waterschap Rivierenland",
@@ -461,6 +433,38 @@
       "score_detail": {
         "fit": 30,
         "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "414484-2026",
+      "ref": "414484-2026",
+      "acheteur": "Instituto Politécnico de Lisboa / Instituto Superior de Engenharia de Lisboa",
+      "objet": "Portugal – Services de fourniture de logiciels – Renovação do Licenciamento Microsoft Office 365 A3 para o Instituto Politécnico de Lisboa",
+      "description": "Renovação do Licenciamento Microsoft Office 365 A3 para o Instituto Politécnico de Lisboa Vocabulário CPV: 722680001 Serviços de fornecimento de software / Renovação do Licenciamento Microsoft Office 365 A3 para o Instituto Politécnico de Lisboa",
+      "cpv": "72268000",
+      "pays": "PRT",
+      "deadline": "2026-07-12",
+      "montant": 400,
+      "publication": "2026-06-17",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/414484-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Microsoft Office",
+        "Office 365"
+      ],
+      "bureautique": true,
+      "score": 67,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -502,32 +506,31 @@
       "auto": true
     },
     {
-      "id": "414484-2026",
-      "ref": "414484-2026",
-      "acheteur": "Instituto Politécnico de Lisboa / Instituto Superior de Engenharia de Lisboa",
-      "objet": "Portugal – Services de fourniture de logiciels – Renovação do Licenciamento Microsoft Office 365 A3 para o Instituto Politécnico de Lisboa",
-      "description": "Renovação do Licenciamento Microsoft Office 365 A3 para o Instituto Politécnico de Lisboa Vocabulário CPV: 722680001 Serviços de fornecimento de software / Renovação do Licenciamento Microsoft Office 365 A3 para o Instituto Politécnico de Lisboa",
-      "cpv": "72268000",
-      "pays": "PRT",
-      "deadline": "2026-07-12",
-      "montant": 400,
-      "publication": "2026-06-17",
+      "id": "423713-2026",
+      "ref": "423713-2026",
+      "acheteur": "Freie und Hansestadt Hamburg Behörde für Stadtentwicklung und Wohnen",
+      "objet": "Allemagne – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Räumliches Leitbild der Stadtentwicklung Hamburg Auftrag II Workshopverfahren",
+      "description": "Mit dem Räumlichen Leitbild \"Wachsende Stadt - Grüne Metropole\" von 2007 und dessen Aktualisierung \"Grüne, gerechte, wachsende Stadt am Wasser\" von 2014 verfügt Hamburg über ein gesamtstädtisches Leitbild, das sich in den vergangenen Jahren als zielgerichtetes Navigationsinstrument für die Hamburger Stadtentwicklung bewährt hat. Eine Neuauflage des Räumlichen Leitbildes wird jedoch zunehmend erforderlich. Die Rahmenbedingungen für Stadtentwicklung haben sich verändert oder sind in ihrer Dynamik weiterhin herausfordernd: Die enorme Nachfrage nach bezahlbaren Wohnungen, der demographische Wandel, die voranschreitende Digitalisierung und technologische Neuerungen, die Veränderung der Arbeitswelten und des Handels, neue Wissens-orte, die Anpassung an den Klimawandel, die anstehende Mobilitätswende und der Er-halt der Freiraumsysteme sind noch stärker in den Fokus der Debatten um die zukünftige Hamburger Stadtentwicklung gerückt. Neue Perspektiven für Stadträume eröffnen insbesondere die großen Stadtentwicklungs- und Infrastrukturprojekte: Mit dem Ausbau der U- und S-Bahnlinien werden hunderttausende Menschen in einer neuen Qualität an das Schnellbahnnetz angeschlossen. Allein an Haltestellen der U5 werden nach den aktuellen Prognosen täglich mehr als 500.000 Menschen ein-, aus- und umsteigen. Mit anderen großen Infrastrukturprojekten wie dem Umbau des Hauptbahnhofs und einem möglichen zweiten City-tunnel für die S-Bahn werden neue Impulse der Innenentwicklung gesetzt. Die Magistralen werden zu zukunftsfähigen Mobilitäts- und attraktiven Stadträumen weiterentwickelt und geben dadurch Impulse für neue Stadtentwicklungsvorhaben. Durch die Entwicklung der Science City in Hamburg-Bahrenfeld, des Grasbrooks und der neuen Stadtquartiere im Hamburger Osten, in Oberbillwerder, auf den Elbinseln und im Süderelberaum werden neue Akzente in der \"Urbanisierungszone\" der Stadt gesetzt. Die äußeren Bereiche der Stadt erfordern durch die Magistralenentwicklung und den Schnellbahnausbau ein besonderes Augenmerk. In den Bestandsquartieren sind die räumlichen Muster der sozialen Ungleichheit Hamburgs weiter zu nivellieren. Ebenso ist eine inklusive Stadtentwicklung in allen Quartieren weiter voranzubringen. Auf regionaler Ebene gewinnt die grenzübergreifende Befassung mit dem Verflechtungsraum bzw. der Stadtregion an Bedeutung. Der Stadt- Umland-Atlas der BSW zeigt die wesentlichen räumlichen Entwicklungen der Stadt Hamburg und des Verflechtungs-raumes auf - eine wesentliche Datengrundlage für das Räumliche Leitbild. Diese Themen besitzen erhebliche Auswirkungen auf das Grundgerüst der Stadt und lösen neue Dynamiken für ihre räumliche Entwicklung aus. Vor diesem Hintergrund möchte die BSW das Räumliche Leitbild neu auflegen. Die bewährten Strategien der Hamburger Stadtentwicklung sind dabei zu berücksichtigen und ggf. weiterzuentwi-ckeln. Mit der Neuauflage des Räumlichen Leitbilds für Hamburg soll ein neues räumliches Zukunftsbild der Stadtentwicklung geschaffen werden, welches die Ziele der unter-schiedlichen Politikfelder in stadträumliche Strukturen und Prozesse übersetzt und gleichzeitig die bestehenden teilräumlichen Konzepte und Projekte in einen größeren Kontext setzt. Die Aufgabe ist, die räumlichen Strukturen und Entwicklungsprinzipien für die Gesamtstadt weiterzuentwickeln, beispielsweise zu der städtischen Dichte, Bebauungsstrukturen und Nutzungen. Dabei sollen vor allem die räumlichen Aussagen in Form von Zielformulierungen, verortbaren Entwicklungsansätzen und Handlungsstrategien im Fokus stehen. So soll ein räumliches \"Entwicklungsgerüst\" entstehen, welches robust ist und auf eine Bandbreite unterschiedlicher stadträumlicher Dynamiken und Trends, die durch den Stadt-Umland- Atlas sichtbar geworden sind, reagieren kann. Vor diesem Hintergrund sind auch Perspektiven für die stadtregionale Entwicklung zu be-denken. Das Räumliche Leitbild ist ein zentrales Steuerungs- und Kommunikationsinstrument für die Perspektiven der Hamburger Stadtentwicklung. Als informeller strategischer Planwerk entfaltet es FHH-intern Bindungswirkung und nimmt als Entscheidungskompass gleichzeitig Einfluss auf eine Vielzahl von Entwicklungsprozessen anderer Akteurinnen und Akteure der Stadtentwicklung. Mit dem Räumlichen Leitbild kann Hamburg zeigen, wie die in den Nachhaltigkeitszielen der Vereinten Nationen (SDGs) und der Neuen Leipzig-Charta genannten Prinzipien einer sozial gerechten, umwelt- und klimagerechten sowie kulturell und ökonomisch produktiven Stadtentwicklung durch die räumliche Entwicklung der Stadt gesichert werden können. Zum besseren Verständnis der konkret zu erfüllenden Aufgabenstellung siehe Anlage 5 \"Leistungsbeschreibung\" (Teil der Vergabeunterlagen).",
+      "cpv": "71000000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-19",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/414484-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/423713-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Microsoft Office",
-        "Office 365"
+        "Word"
       ],
       "bureautique": true,
-      "score": 67,
+      "score": 65,
       "score_detail": {
         "fit": 30,
-        "size": 13,
+        "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 0
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -596,68 +599,6 @@
       "auto": true
     },
     {
-      "id": "423713-2026",
-      "ref": "423713-2026",
-      "acheteur": "Freie und Hansestadt Hamburg Behörde für Stadtentwicklung und Wohnen",
-      "objet": "Allemagne – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Räumliches Leitbild der Stadtentwicklung Hamburg Auftrag II Workshopverfahren",
-      "description": "Mit dem Räumlichen Leitbild \"Wachsende Stadt - Grüne Metropole\" von 2007 und dessen Aktualisierung \"Grüne, gerechte, wachsende Stadt am Wasser\" von 2014 verfügt Hamburg über ein gesamtstädtisches Leitbild, das sich in den vergangenen Jahren als zielgerichtetes Navigationsinstrument für die Hamburger Stadtentwicklung bewährt hat. Eine Neuauflage des Räumlichen Leitbildes wird jedoch zunehmend erforderlich. Die Rahmenbedingungen für Stadtentwicklung haben sich verändert oder sind in ihrer Dynamik weiterhin herausfordernd: Die enorme Nachfrage nach bezahlbaren Wohnungen, der demographische Wandel, die voranschreitende Digitalisierung und technologische Neuerungen, die Veränderung der Arbeitswelten und des Handels, neue Wissens-orte, die Anpassung an den Klimawandel, die anstehende Mobilitätswende und der Er-halt der Freiraumsysteme sind noch stärker in den Fokus der Debatten um die zukünftige Hamburger Stadtentwicklung gerückt. Neue Perspektiven für Stadträume eröffnen insbesondere die großen Stadtentwicklungs- und Infrastrukturprojekte: Mit dem Ausbau der U- und S-Bahnlinien werden hunderttausende Menschen in einer neuen Qualität an das Schnellbahnnetz angeschlossen. Allein an Haltestellen der U5 werden nach den aktuellen Prognosen täglich mehr als 500.000 Menschen ein-, aus- und umsteigen. Mit anderen großen Infrastrukturprojekten wie dem Umbau des Hauptbahnhofs und einem möglichen zweiten City-tunnel für die S-Bahn werden neue Impulse der Innenentwicklung gesetzt. Die Magistralen werden zu zukunftsfähigen Mobilitäts- und attraktiven Stadträumen weiterentwickelt und geben dadurch Impulse für neue Stadtentwicklungsvorhaben. Durch die Entwicklung der Science City in Hamburg-Bahrenfeld, des Grasbrooks und der neuen Stadtquartiere im Hamburger Osten, in Oberbillwerder, auf den Elbinseln und im Süderelberaum werden neue Akzente in der \"Urbanisierungszone\" der Stadt gesetzt. Die äußeren Bereiche der Stadt erfordern durch die Magistralenentwicklung und den Schnellbahnausbau ein besonderes Augenmerk. In den Bestandsquartieren sind die räumlichen Muster der sozialen Ungleichheit Hamburgs weiter zu nivellieren. Ebenso ist eine inklusive Stadtentwicklung in allen Quartieren weiter voranzubringen. Auf regionaler Ebene gewinnt die grenzübergreifende Befassung mit dem Verflechtungsraum bzw. der Stadtregion an Bedeutung. Der Stadt- Umland-Atlas der BSW zeigt die wesentlichen räumlichen Entwicklungen der Stadt Hamburg und des Verflechtungs-raumes auf - eine wesentliche Datengrundlage für das Räumliche Leitbild. Diese Themen besitzen erhebliche Auswirkungen auf das Grundgerüst der Stadt und lösen neue Dynamiken für ihre räumliche Entwicklung aus. Vor diesem Hintergrund möchte die BSW das Räumliche Leitbild neu auflegen. Die bewährten Strategien der Hamburger Stadtentwicklung sind dabei zu berücksichtigen und ggf. weiterzuentwi-ckeln. Mit der Neuauflage des Räumlichen Leitbilds für Hamburg soll ein neues räumliches Zukunftsbild der Stadtentwicklung geschaffen werden, welches die Ziele der unter-schiedlichen Politikfelder in stadträumliche Strukturen und Prozesse übersetzt und gleichzeitig die bestehenden teilräumlichen Konzepte und Projekte in einen größeren Kontext setzt. Die Aufgabe ist, die räumlichen Strukturen und Entwicklungsprinzipien für die Gesamtstadt weiterzuentwickeln, beispielsweise zu der städtischen Dichte, Bebauungsstrukturen und Nutzungen. Dabei sollen vor allem die räumlichen Aussagen in Form von Zielformulierungen, verortbaren Entwicklungsansätzen und Handlungsstrategien im Fokus stehen. So soll ein räumliches \"Entwicklungsgerüst\" entstehen, welches robust ist und auf eine Bandbreite unterschiedlicher stadträumlicher Dynamiken und Trends, die durch den Stadt-Umland- Atlas sichtbar geworden sind, reagieren kann. Vor diesem Hintergrund sind auch Perspektiven für die stadtregionale Entwicklung zu be-denken. Das Räumliche Leitbild ist ein zentrales Steuerungs- und Kommunikationsinstrument für die Perspektiven der Hamburger Stadtentwicklung. Als informeller strategischer Planwerk entfaltet es FHH-intern Bindungswirkung und nimmt als Entscheidungskompass gleichzeitig Einfluss auf eine Vielzahl von Entwicklungsprozessen anderer Akteurinnen und Akteure der Stadtentwicklung. Mit dem Räumlichen Leitbild kann Hamburg zeigen, wie die in den Nachhaltigkeitszielen der Vereinten Nationen (SDGs) und der Neuen Leipzig-Charta genannten Prinzipien einer sozial gerechten, umwelt- und klimagerechten sowie kulturell und ökonomisch produktiven Stadtentwicklung durch die räumliche Entwicklung der Stadt gesichert werden können. Zum besseren Verständnis der konkret zu erfüllenden Aufgabenstellung siehe Anlage 5 \"Leistungsbeschreibung\" (Teil der Vergabeunterlagen).",
-      "cpv": "71000000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-06-19",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/423713-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "428355-2026",
-      "ref": "428355-2026",
-      "acheteur": "Einkauf und Vergabemanagement der SBK",
-      "objet": "Allemagne – Services de développement de logiciels transactionnels commerciaux et personnels – Treasury Management System",
-      "description": "Es soll ein Treasury Management System eingeführt werden, welches die bisherige Excel Struktur ablöst.",
-      "cpv": "72212400",
-      "pays": "DEU",
-      "deadline": "2026-07-23",
-      "montant": 0,
-      "publication": "2026-06-24",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/428355-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Excel"
-      ],
-      "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "407042-2026",
       "ref": "407042-2026",
       "acheteur": "ORES SC",
@@ -704,6 +645,37 @@
       "segment": "ESR",
       "keyword_hits": [
         "Word"
+      ],
+      "bureautique": true,
+      "score": 62,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "428355-2026",
+      "ref": "428355-2026",
+      "acheteur": "Einkauf und Vergabemanagement der SBK",
+      "objet": "Allemagne – Services de développement de logiciels transactionnels commerciaux et personnels – Treasury Management System",
+      "description": "Es soll ein Treasury Management System eingeführt werden, welches die bisherige Excel Struktur ablöst.",
+      "cpv": "72212400",
+      "pays": "DEU",
+      "deadline": "2026-07-23",
+      "montant": 0,
+      "publication": "2026-06-24",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/428355-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Excel"
       ],
       "bureautique": true,
       "score": 62,

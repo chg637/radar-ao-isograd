@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T08:05:41.215Z",
+  "generated_at": "2026-07-16T08:10:26.109Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
@@ -7,21 +7,21 @@
       "fetched": 500,
       "matched": 22,
       "go": 2,
-      "generated_at": "2026-07-15T07:58:36.249Z"
+      "generated_at": "2026-07-16T08:03:38.516Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-15T08:05:40.726Z"
+      "generated_at": "2026-07-16T08:10:25.619Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-15T08:05:41.074Z"
+      "generated_at": "2026-07-16T08:10:25.965Z"
     }
   },
   "total_fetched": 3500,
@@ -192,6 +192,68 @@
       "auto": true
     },
     {
+      "id": "432632-2026",
+      "ref": "432632-2026",
+      "acheteur": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
+      "objet": "Pays-Bas – Services de formation professionnelle – Onderhoudstrainingen voor onze Rijksbeveiligers",
+      "description": "Naast BHV-, EHBO-, X-ray en meldkamerkamertrainingen die gevolgd worden door (een deel van de) Rijkbeveiligers, volgen álle Rijksbeveiligers onderhoudstrainingen. Deze trainingen zorgen ervoor dat de basiscompetenties van een Rijksbeveiliger worden opgefrist en verbeterd, zodat onze medewerkers vakbekwaam blijven. Overigens gaan tevens de coördinatoren (zo'n 50 personen) deze onderhoudstrainingen volgen. Zo frissen zij zelf ook hun beveiligingsvaardigheden op en weten zij wat er in de trainingen wordt behandeld wat zij kunnen gebruiken in de aansturing op de werkvloer. Voor het gemak spreken we in dit document alleen van 'Rijksbeveiligers'. De trainingen zijn in eerste instantie ook voor hen georganiseerd. Geraamde opdrachtwaarde: € 585.000,- exclusief btw per jaar, € 2.340.000,- over 4 jaar.",
+      "cpv": "80530000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 3600,
+      "publication": "2026-06-25",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/432632-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "433103-2026",
+      "ref": "433103-2026",
+      "acheteur": "Gemeente Lansingerland",
+      "objet": "Pays-Bas – Fourniture de cours de langues – Taalcomponent Z-route Inburgering",
+      "description": "De gemeente Lansingerland heeft besloten om de taalcomponent en de participatiecomponent van de Z-route los van elkaar aan te besteden. Deze aanbesteding betreft uitsluitend de taalcomponent van de Z-route. Dit betreft 800 uur taallessen. De participatiecomponent van de Z-route wordt uitgevoerd/geregisseerd door een participatieaanbieder die hiervoor o.a. samenwerkt met verschillende samenwerkingspartners die mogelijk onderdelen uitvoeren ten behoeve van de participatieactiviteiten. 2026 (vanaf 1 september) - 40 – 50 trajecten die worden overgenomen van de huidige aanbieder, zie hieronder de berekening van de waarde van deze groep. - 12 trajecten (vanaf 1 september) nieuwe instroom. 2027 - 2029: ± 28 - 35 nieuwe trajecten per jaar (afhankelijk van de taakstelling van de gemeente). In deze aanbesteding geldt een maximumprijs van € 10.000,= per deelnemer/Inburgeraar exclusief btw. Een inschrijving met een inschrijfprijs die hoger is dan de maximumprijs wordt terzijde gelegd en van deelneming uitgesloten.",
+      "cpv": "80580000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 3600,
+      "publication": "2026-06-25",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/433103-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "427575-2026",
       "ref": "427575-2026",
       "acheteur": "Fryske Utfieringstsjinst Miljeu en Omjouwing",
@@ -316,6 +378,37 @@
       "auto": true
     },
     {
+      "id": "431294-2026",
+      "ref": "431294-2026",
+      "acheteur": "Stichting Connekt",
+      "objet": "Pays-Bas – Services de gestion de projets autres que pour les travaux de construction – ROVK Projectmanager SEB-controles op de Bouwplaats",
+      "description": "De opdracht betreft de inzet van een projectmanager voor de coördinatie van SEB-controles op bouwplaatsen in het kader van het programma Schoon en Emissieloos Bouwen (SEB). De projectmanager is verantwoordelijk voor de organisatie en aansturing van controles op de naleving van afspraken over de inzet en emissies van bouwmaterieel, de afstemming met betrokken opdrachtgevers, opdrachtnemers en controlerende partijen, en de beoordeling en rapportage van controleresultaten. Met de geselecteerde opdrachtnemer wordt een raamovereenkomst gesloten voor de inzet van één professional voor gemiddeld circa 16 uur per week, met een initiële looptijd van één jaar en de mogelijkheid tot verlenging met maximaal tweemaal twaalf maanden. totale geraamde waarde van de raamovereenkomst bedraagt EUR 356.400 exclusief BTW en is gebaseerd op een inzet van 40% (16 uur per week). De raamovereenkomst zal worden aangegaan voor een periode van ongeveer één (1) jaar (tot 1 april 2027, waarbij een mogelijkheid tot verlenging bestaat van tweemaal voor de duur van één (1) jaar.",
+      "cpv": "79421000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 356,
+      "publication": "2026-06-24",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/431294-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "413613-2026",
       "ref": "413613-2026",
       "acheteur": "Hoogheemraadschap van Delfland",
@@ -347,93 +440,31 @@
       "auto": true
     },
     {
-      "id": "407819-2026",
-      "ref": "407819-2026",
-      "acheteur": "Gemeente Utrecht",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – End users perspective",
-      "description": "De gemeente Utrecht wil een overeenkomst afsluiten voor een ICT-prestatie ten behoeve van ketenmonitoring vanuit de End User Perspective, inclusief implementatie door de leverancier en ondersteuning bij eventuele migraties en hulpvragen. Omvang wordt bepaald door aantal uit te voeren testen; jaarlijks maximaal 2.2 miljoen testen.",
-      "cpv": "72000000",
-      "pays": "NLD",
+      "id": "430477-2026",
+      "ref": "430477-2026",
+      "acheteur": "Stad Mortsel",
+      "objet": "Belgique – Services du personnel et des salaires – levering softwaremodule tijdsregistratie personeel",
+      "description": "Het Lokaal bestuur Mortsel is voor het personeel op zoek naar een tijdsregistratiesysteem. - Dit tijdsregistratiesysteem zal voorzien in de basisfunctionaliteiten die men mag verwachten van een tijdsregistratiesysteem. Het maakt het mogelijk voor medewerkers met en zonder fysieke prikklok hun aankomst- en werktijden alsook opdrachten en uitzonderlijke prestaties te registreren. - Alle medewerkers hebben toegang tot hun persoonlijke situatie en kunnen verlofaanvragen indienen. - De gegevens worden verwerkt volgens berekeningsregels, afgestemd op input aan de loonmotor voor verloning. De software houdt in: - Virtuele registratie; - Software die gebruiksvriendelijk is en eenvoudig te bedienen; - De software wordt ontwikkeld in het Nederlands en is beschikbaar als online platform (cloud) en biedt een hoge mate van gebruiksgemak en biedt gebruiksgemak dankzij geautomatiseerde functies. Het platform ondersteunt meerdere gebruikers en werkstations en werkt in netwerkmodus. Het aantal eindgebruikers is onbeperkt. De toegang tot de software gebeurt via gebruikersnaam en wachtwoord of via koppeling met AD voor SSO. Onze loonmotor zal draaien op Lima (Cipal Schaubroek). Export naar de loonmotor gebeurt zo veel mogelijk geautomatiseerd.",
+      "cpv": "79631000",
+      "pays": "BEL",
       "deadline": "",
-      "montant": 221,
-      "publication": "2026-06-15",
+      "montant": 105,
+      "publication": "2026-06-24",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/407819-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/430477-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
       "bureautique": true,
-      "score": 70,
+      "score": 67,
       "score_detail": {
         "fit": 30,
-        "size": 13,
+        "size": 10,
         "tech": 12,
         "com": 5,
         "admin": 7,
         "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "409730-2026",
-      "ref": "409730-2026",
-      "acheteur": "Stichting Elektronisch Loket Kernprocedure Amsterdam",
-      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Aankondiging vrijwillige transparantie vooraf - licentie, hosting en ondersteuning van de applicatie Elektronisch Loket Kernprocedure",
-      "description": "Ieder jaar maken in Amsterdam circa 8.000 kinderen de overstap van het primair onderwijs (PO) naar het voortgezet onderwijs (VO). Een kwetsbaar proces dat maatschappelijk en politiek onder een vergrootglas ligt. Het proces van deze overstap is vastgelegd in een zogenoemde kernprocedure. Stichting ELK coördineert jaarlijks het opstellen van de procedure en voert deze uit. Daarbij maakt Stichting ELK gebruik van de applicatie Elektronisch Loket Kernprocedure (ELK). ELK is een beveiligde webapplicatie die het logistieke en onderwijskundige proces van de kernprocedure voor alle scholen in Amsterdam ondersteunt. In het kader van de kernprocedure wisselen basisscholen en scholen in het voortgezet onderwijs via ELK informatie uit over leerlingen die overstappen, zoals basisschooladvies, onderwijskundige informatie, informatie over de ondersteuningsbehoefte van leerlingen, de doorstroomtoetsscores en de doorstroomtoetsrapportages zelf. Ook loopt de oriëntatiefase en aanmelding voor praktijkonderwijs (PrO) en kleinschalig ondersteunend voortgezet onderwijs (kovo) via ELK. De praktijkscholen kunnen de Toelaatbaarheidsverklaringen (TLV’s) vervolgens aanvragen en volgen in ELK vanwege een koppeling met Indigo. ELK wordt gebruikt door ongeveer 230 PO-scholen en meer dan 90 VO-scholen in de regio Amsterdam en Diemen. ELK is gekoppeld aan het centraal loting- en matchingssysteem (MEPS) aan de hand waarvan leerlingen op basis van de door hen ingevulde voorkeuren worden geplaatst op een VO-school in Amsterdam. ELK vormt aldus een onmisbare en cruciale schakel in de jaarlijkse overstap van circa 8.000 basisschoolleerlingen naar het voortgezet (speciaal) onderwijs, het praktijkonderwijs, het kleinschalig ondersteunend voortgezet onderwijs, de internationale schakelklassen en kopklassen. Het is dan ook van het grootste belang dat er in dit overstapproces niets misgaat. De kwaliteit en continuïteit van dit proces zijn cruciaal en moeten te allen tijde worden gegarandeerd. Overeenkomst voor vier jaar, met 2 opties tot verlengen met 2 jaar",
-      "cpv": "72200000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 428,
-      "publication": "2026-06-15",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/409730-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "410053-2026",
-      "ref": "410053-2026",
-      "acheteur": "Waterschap Rivierenland",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Raamovereenkomst dataplatformpartner",
-      "description": "Dit betreft een Europese aanbesteding voor het sluiten van een raamovereenkomst met één deskundige partner voor de technische ontwikkeling, uitbreiding, integratie, ondersteuning en het beheer van het SAS‑Dataplatform. De opdracht omvat het verder professionaliseren van het dataplatform, het realiseren van veilige en toekomstbestendige koppelingen met diverse bronsystemen, en het ondersteunen van Opdrachtgever in datagedreven werken. De raamovereenkomst heeft een initiële looptijd van drie jaar, met de mogelijkheid tot twee keer één jaar verlenging. Hiermee beoogt WSRL een duurzame samenwerking die bijdraagt aan stabiliteit, schaalbaarheid en doorontwikkeling van het dataplatform. Zie aanbestedingsleidraad voor de inhoudelijke beschrijving. De Algemene waterschapsinkoopvoorwaarden voor diensten (AWVODI-2018)  zijn van toepassing. Voorwaarden van de Inschrijver of andere algemene voorwaarden worden uitdrukkelijk van de hand gewezen. De Inschrijver dient zich volledig aan de door Waterschap Rivierenland gestelde voorwaarden te conformeren. Door het doen van een inschrijving gaat de Inschrijver daarmee akkoord.",
-      "cpv": "72000000",
-      "pays": "NLD",
-      "deadline": "2026-07-27",
-      "montant": 1000,
-      "publication": "2026-06-15",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/410053-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 69,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
       },
       "score_status": "cond",
       "notes": "",
@@ -564,6 +595,37 @@
       "auto": true
     },
     {
+      "id": "431687-2026",
+      "ref": "431687-2026",
+      "acheteur": "ONISEP",
+      "objet": "France – Services de formation de personnel – Prestations de formation au bénéfice des agents de l'Onisep",
+      "description": "Prestations de formation au bénéfice des agents de l'Onisep (22 lots) : Lot 1 : Formation des équipiers de première intervention ; lot 2 : Formation initiale SST ; lot 3 : Mise à jour des connaissances SST ; lot 4 : Formation des secouristes en santé mentale ; lot 5 : Habilitation électrique ; lot 6 : Formation des membres de la F3SCT ; lot 7 : Formation des membres du CSA ; lot 8 : Formation \"Qualité de vie au travail\" ; lot 9 : Formation des référents sécurité ; lot 10 : Conduite d'entretien d'orientation par téléphone ; lot 11 : La carte mentale au service de la gestion de projet en ressources et ingénierie documentaire ; lot 12 : Animer une communauté apprenante ; lot 13 : Veille documentaire, perfectionnement ; lot 14 : Gestion de projet ; lot 15 : Management ; lot 16 : Préparation aux concours ITRF ; lot 17 : Accessibilité numérique ; lot 18 : formation Indesign ; lot 19 : Remise à niveau Secrétaire de rédaction ; lot 20 : S'adresser aux jeunes en fonction de l'âge ; lot 21 : Scénarisation et adaptation de contenus sur différents supports",
+      "cpv": "79632000",
+      "pays": "FRA",
+      "deadline": "2026-07-21",
+      "montant": 250,
+      "publication": "2026-06-24",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/431687-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "habilitation"
+      ],
+      "bureautique": false,
+      "score": 64,
+      "score_detail": {
+        "fit": 25,
+        "size": 13,
+        "tech": 14,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "428355-2026",
       "ref": "428355-2026",
       "acheteur": "Einkauf und Vergabemanagement der SBK",
@@ -579,68 +641,6 @@
       "segment": "Autre",
       "keyword_hits": [
         "Excel"
-      ],
-      "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "407042-2026",
-      "ref": "407042-2026",
-      "acheteur": "ORES SC",
-      "objet": "Belgique – Services de logiciels de gestion de réseau – Marché de services relatifs à un système de Gouvernance et Administration des Identités (IGA)",
-      "description": "Ce dossier d’achat a pour objet les services relatifs à un système IGA (Identity Governance & Administration) . Un système IGA est un dispositif centralisé permettant de gérer, contrôler et sécuriser les accès des collaborateurs aux outils numériques de l’entreprise. Il constitue un pilier essentiel de la cybersécurité, de la conformité réglementaire et de l’efficacité opérationnelle. Périmètre fonctionnel visé Le système IGA attendu devra couvrir les fonctions suivantes, considérées comme socle de gouvernance des identités et des accès : • Gestion du cycle de vie des identités (processus Joiner / Mover / Leaver) ; • Portail d’accès ergonomique pour les utilisateurs métiers (demandes, validations, campagnes) ; • Gestion des demandes d’accès et du catalogue d’habilitations ; • Campagnes de revue de droits (recertifications périodiques) ; • Gestion des règles de séparation des tâches (SoD) et des accès sensibles ; • Journalisation exhaustive et génération de rapports d’audit ; • Connecteurs standards vers les systèmes cibles (ex : Active Directory / Entra ID, Microsoft 365, ITSM, SAP4ANA, Success Factors) ; • Gestion des identités non humaines (comptes techniques, services, API, etc.) ; • Modélisation des rôles, gestion des attributions, reprise des objets SAP IDM existants ; • Support des exigences de conformité (NIS2, RGPD, contrôles internes) ; • Capacité à s’intégrer dans un environnement IT/OT segmenté, avec contraintes de connectivité, de sécurité et de souveraineté. Ce périmètre fonctionnel constitue la base des exigences attendues.",
-      "cpv": "72511000",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-06-15",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/407042-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "bureautique": false,
-      "score": 62,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
-        "tech": 14,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "409963-2026",
-      "ref": "409963-2026",
-      "acheteur": "Universiteit Maastricht",
-      "objet": "Pays-Bas – Services d'enseignement supérieur – Huur Toetsmeubilair",
-      "description": "Algemene informatie De Universiteit Maastricht (UM) staat in binnen- en buitenland bekend om haar unieke onderwijssysteem: het probleemgestuurde onderwijs (PGO). Bovendien profileert de UM zich door de sterk internationale oriëntatie. Een toenemend aantal studenten uit zowel heel Nederland als ook het buitenland kiest voor het Maastrichtse systeem.   De UM is de jongste universiteit van Nederland en groeit snel. Er zijn momenteel ruim 23.000 studenten en 5.000 medewerkers. Onderwijs en onderzoek van de UM is voornamelijk georganiseerd op basis van faculteiten en schools.   Meer informatie over de UM is te vinden op de internetsite www.maastrichtuniversity.nl. Inhoud van de Tender Deze aanbesteding richt zich op het in huur leveren, plaatsen en verwijderen van toetsmeubilair en aanverwante dienstverlening. Het toetsmeubilair bestaat uit tafels en stoelen welke volgens een vooraf bekend schema en opstelling van examens en toetsen, tot een maximum van ca. 2000 sets per dag wordt geplaatst. Bovendien dient er een inspectieronde uitgevoerd te worden op het einde van iedere dag dat de opstelling van het toetsmeubilair in de toetshal staat – en dus niet op- of afgebouwd wordt. In het UM Sportcentrum dienen er bovendien matjes onder de stoelen geplaatst te worden ter bescherming van de sportvloer. Tenslotte dienen er UM blokpalen bij de blokken geplaatst te worden t.b.v. informatievoorziening studenten. Doel en beoogd resultaat van de Tender Het doel van deze Offerteaanvraag is het aangaan van een Overeenkomst met één partij. De ingangsdatum van deze overeenkomst is voorzien op 1 oktober 2026 en eindigt, behoudens verlenging, van rechtswege op 30 september 2027. Deze Overeenkomst kan met maximaal 2 maal 1 jaar en 1 maal 1 jaar en 11 mnd worden verlengd. De maximale duur van de Overeenkomst is derhalve 5 jaar en 11 mnd.",
-      "cpv": "80300000",
-      "pays": "NLD",
-      "deadline": "2026-07-27",
-      "montant": 0,
-      "publication": "2026-06-15",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/409963-2026",
-      "segment": "ESR",
-      "keyword_hits": [
-        "Word"
       ],
       "bureautique": true,
       "score": 62,

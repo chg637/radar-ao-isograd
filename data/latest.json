@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-07-16T08:10:26.109Z",
+  "generated_at": "2026-07-17T08:07:44.861Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 500,
-      "matched": 22,
+      "fetched": 300,
+      "matched": 14,
       "go": 2,
-      "generated_at": "2026-07-16T08:03:38.516Z"
+      "generated_at": "2026-07-17T08:00:32.266Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-16T08:10:25.619Z"
+      "generated_at": "2026-07-17T08:07:44.279Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-16T08:10:25.965Z"
+      "generated_at": "2026-07-17T08:07:44.753Z"
     }
   },
-  "total_fetched": 3500,
-  "total_matched": 22,
+  "total_fetched": 3300,
+  "total_matched": 14,
   "total_go": 2,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -99,37 +99,6 @@
       "auto": true
     },
     {
-      "id": "429512-2026",
-      "ref": "429512-2026",
-      "acheteur": "Provincie Utrecht",
-      "objet": "Pays-Bas – Services de fourniture de logiciels – Softwarebroker-dienstverlening",
-      "description": "De scope van de Opdracht betreft: a) Het (door)leveren en Beheren, op eenvoudige en marktconforme wijze, van gebruiksrechten op Standaardsoftware, inclusief implementatie, verlengingen, updates en upgrades en ondersteuning (maintenance en support). Daarbij zij opgemerkt dat, de Aanbestedende dienst hiertoe tevens SaaS-diensten rekent betreffende Microsoft haar PaaS en IaaS-diensten (zie Definities). De levering dient optimaal afgestemd te zijn op de behoefte van de Aanbestedende dienst; b) Het (door)leveren en beheren van Microsoft gebruiksrechten betreffende Standaardsoftware, inclusief SaaS, PaaS en IaaS diensten, zulks op basis van EAS, CSP en andere mogelijke Microsoft contractvormen, onder door Aanbestedende dienst zelfstandig of in samenwerkingsverband, met Microsoft overeengekomen condities; c) Het adviseren omtrent aanschaf en vernieuwing van gebruiksrechten van Standaardsoftware onder meer betreffende ... Zie verder par. 2.5 van de Aanbestedingsleidraad De waarde van de Opdracht is geraamd op 14 miljoen euro in totaal voor de volledige looptijd van de Raamovereenkomst inclusief alle opties en verlengingen. Er is groei verwacht vanaf het huidige niveau van ongeveer 2 miljoen euro jaarlijks naar 3 tot 3,5 miljoen euro jaarlijks met name vanwege toenemend gebruik van SaaS en andere IT-clouddiensten, waaronder die van Microsoft. De maximale omvang en tevens het maximumbedrag van de beoogde Raamovereenkomst is gesteld op 18 miljoen euro. Bij het bereiken van deze maximale omvang verliest de Raamovereenkomst zijn effect en kunnen geen opdrachten meer onder de raamovereenkomst worden verstrekt.",
-      "cpv": "72268000",
-      "pays": "NLD",
-      "deadline": "2026-09-25",
-      "montant": 14000,
-      "publication": "2026-06-24",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/429512-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 74,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "424925-2026",
       "ref": "424925-2026",
       "acheteur": "GGD Zaanstreek-Waterland",
@@ -183,68 +152,6 @@
         "fit": 30,
         "size": 15,
         "tech": 14,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "432632-2026",
-      "ref": "432632-2026",
-      "acheteur": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
-      "objet": "Pays-Bas – Services de formation professionnelle – Onderhoudstrainingen voor onze Rijksbeveiligers",
-      "description": "Naast BHV-, EHBO-, X-ray en meldkamerkamertrainingen die gevolgd worden door (een deel van de) Rijkbeveiligers, volgen álle Rijksbeveiligers onderhoudstrainingen. Deze trainingen zorgen ervoor dat de basiscompetenties van een Rijksbeveiliger worden opgefrist en verbeterd, zodat onze medewerkers vakbekwaam blijven. Overigens gaan tevens de coördinatoren (zo'n 50 personen) deze onderhoudstrainingen volgen. Zo frissen zij zelf ook hun beveiligingsvaardigheden op en weten zij wat er in de trainingen wordt behandeld wat zij kunnen gebruiken in de aansturing op de werkvloer. Voor het gemak spreken we in dit document alleen van 'Rijksbeveiligers'. De trainingen zijn in eerste instantie ook voor hen georganiseerd. Geraamde opdrachtwaarde: € 585.000,- exclusief btw per jaar, € 2.340.000,- over 4 jaar.",
-      "cpv": "80530000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 3600,
-      "publication": "2026-06-25",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/432632-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "433103-2026",
-      "ref": "433103-2026",
-      "acheteur": "Gemeente Lansingerland",
-      "objet": "Pays-Bas – Fourniture de cours de langues – Taalcomponent Z-route Inburgering",
-      "description": "De gemeente Lansingerland heeft besloten om de taalcomponent en de participatiecomponent van de Z-route los van elkaar aan te besteden. Deze aanbesteding betreft uitsluitend de taalcomponent van de Z-route. Dit betreft 800 uur taallessen. De participatiecomponent van de Z-route wordt uitgevoerd/geregisseerd door een participatieaanbieder die hiervoor o.a. samenwerkt met verschillende samenwerkingspartners die mogelijk onderdelen uitvoeren ten behoeve van de participatieactiviteiten. 2026 (vanaf 1 september) - 40 – 50 trajecten die worden overgenomen van de huidige aanbieder, zie hieronder de berekening van de waarde van deze groep. - 12 trajecten (vanaf 1 september) nieuwe instroom. 2027 - 2029: ± 28 - 35 nieuwe trajecten per jaar (afhankelijk van de taakstelling van de gemeente). In deze aanbesteding geldt een maximumprijs van € 10.000,= per deelnemer/Inburgeraar exclusief btw. Een inschrijving met een inschrijfprijs die hoger is dan de maximumprijs wordt terzijde gelegd en van deelneming uitgesloten.",
-      "cpv": "80580000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 3600,
-      "publication": "2026-06-25",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/433103-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
         "com": 5,
         "admin": 7,
         "delay": 3
@@ -378,37 +285,6 @@
       "auto": true
     },
     {
-      "id": "431294-2026",
-      "ref": "431294-2026",
-      "acheteur": "Stichting Connekt",
-      "objet": "Pays-Bas – Services de gestion de projets autres que pour les travaux de construction – ROVK Projectmanager SEB-controles op de Bouwplaats",
-      "description": "De opdracht betreft de inzet van een projectmanager voor de coördinatie van SEB-controles op bouwplaatsen in het kader van het programma Schoon en Emissieloos Bouwen (SEB). De projectmanager is verantwoordelijk voor de organisatie en aansturing van controles op de naleving van afspraken over de inzet en emissies van bouwmaterieel, de afstemming met betrokken opdrachtgevers, opdrachtnemers en controlerende partijen, en de beoordeling en rapportage van controleresultaten. Met de geselecteerde opdrachtnemer wordt een raamovereenkomst gesloten voor de inzet van één professional voor gemiddeld circa 16 uur per week, met een initiële looptijd van één jaar en de mogelijkheid tot verlenging met maximaal tweemaal twaalf maanden. totale geraamde waarde van de raamovereenkomst bedraagt EUR 356.400 exclusief BTW en is gebaseerd op een inzet van 40% (16 uur per week). De raamovereenkomst zal worden aangegaan voor een periode van ongeveer één (1) jaar (tot 1 april 2027, waarbij een mogelijkheid tot verlenging bestaat van tweemaal voor de duur van één (1) jaar.",
-      "cpv": "79421000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 356,
-      "publication": "2026-06-24",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/431294-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "413613-2026",
       "ref": "413613-2026",
       "acheteur": "Hoogheemraadschap van Delfland",
@@ -430,37 +306,6 @@
       "score_detail": {
         "fit": 30,
         "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "430477-2026",
-      "ref": "430477-2026",
-      "acheteur": "Stad Mortsel",
-      "objet": "Belgique – Services du personnel et des salaires – levering softwaremodule tijdsregistratie personeel",
-      "description": "Het Lokaal bestuur Mortsel is voor het personeel op zoek naar een tijdsregistratiesysteem. - Dit tijdsregistratiesysteem zal voorzien in de basisfunctionaliteiten die men mag verwachten van een tijdsregistratiesysteem. Het maakt het mogelijk voor medewerkers met en zonder fysieke prikklok hun aankomst- en werktijden alsook opdrachten en uitzonderlijke prestaties te registreren. - Alle medewerkers hebben toegang tot hun persoonlijke situatie en kunnen verlofaanvragen indienen. - De gegevens worden verwerkt volgens berekeningsregels, afgestemd op input aan de loonmotor voor verloning. De software houdt in: - Virtuele registratie; - Software die gebruiksvriendelijk is en eenvoudig te bedienen; - De software wordt ontwikkeld in het Nederlands en is beschikbaar als online platform (cloud) en biedt een hoge mate van gebruiksgemak en biedt gebruiksgemak dankzij geautomatiseerde functies. Het platform ondersteunt meerdere gebruikers en werkstations en werkt in netwerkmodus. Het aantal eindgebruikers is onbeperkt. De toegang tot de software gebeurt via gebruikersnaam en wachtwoord of via koppeling met AD voor SSO. Onze loonmotor zal draaien op Lima (Cipal Schaubroek). Export naar de loonmotor gebeurt zo veel mogelijk geautomatiseerd.",
-      "cpv": "79631000",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 105,
-      "publication": "2026-06-24",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/430477-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 67,
-      "score_detail": {
-        "fit": 30,
-        "size": 10,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -595,68 +440,6 @@
       "auto": true
     },
     {
-      "id": "431687-2026",
-      "ref": "431687-2026",
-      "acheteur": "ONISEP",
-      "objet": "France – Services de formation de personnel – Prestations de formation au bénéfice des agents de l'Onisep",
-      "description": "Prestations de formation au bénéfice des agents de l'Onisep (22 lots) : Lot 1 : Formation des équipiers de première intervention ; lot 2 : Formation initiale SST ; lot 3 : Mise à jour des connaissances SST ; lot 4 : Formation des secouristes en santé mentale ; lot 5 : Habilitation électrique ; lot 6 : Formation des membres de la F3SCT ; lot 7 : Formation des membres du CSA ; lot 8 : Formation \"Qualité de vie au travail\" ; lot 9 : Formation des référents sécurité ; lot 10 : Conduite d'entretien d'orientation par téléphone ; lot 11 : La carte mentale au service de la gestion de projet en ressources et ingénierie documentaire ; lot 12 : Animer une communauté apprenante ; lot 13 : Veille documentaire, perfectionnement ; lot 14 : Gestion de projet ; lot 15 : Management ; lot 16 : Préparation aux concours ITRF ; lot 17 : Accessibilité numérique ; lot 18 : formation Indesign ; lot 19 : Remise à niveau Secrétaire de rédaction ; lot 20 : S'adresser aux jeunes en fonction de l'âge ; lot 21 : Scénarisation et adaptation de contenus sur différents supports",
-      "cpv": "79632000",
-      "pays": "FRA",
-      "deadline": "2026-07-21",
-      "montant": 250,
-      "publication": "2026-06-24",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/431687-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "bureautique": false,
-      "score": 64,
-      "score_detail": {
-        "fit": 25,
-        "size": 13,
-        "tech": 14,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "428355-2026",
-      "ref": "428355-2026",
-      "acheteur": "Einkauf und Vergabemanagement der SBK",
-      "objet": "Allemagne – Services de développement de logiciels transactionnels commerciaux et personnels – Treasury Management System",
-      "description": "Es soll ein Treasury Management System eingeführt werden, welches die bisherige Excel Struktur ablöst.",
-      "cpv": "72212400",
-      "pays": "DEU",
-      "deadline": "2026-07-23",
-      "montant": 0,
-      "publication": "2026-06-24",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/428355-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Excel"
-      ],
-      "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "423370-2026",
       "ref": "423370-2026",
       "acheteur": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
@@ -678,37 +461,6 @@
       "score_detail": {
         "fit": 25,
         "size": 10,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "428643-2026",
-      "ref": "428643-2026",
-      "acheteur": "IMMOBILIERE 3F / 3F GRAND EST / 3F CENTRE VAL DE LOIRE / IMMOBILIERE RHONE-ALPES / 3F OCCITANIE / 3F NOTRE LOGIS / 3F SUD / 3F NORMANVIE / 3F SEINE ET MARNE / 3F RESIDENCES",
-      "objet": "France – Services de formation – FORMATION HABILITATION ELECTRIQUE B0-BS-BE MANOEUVRE ET SECURITE INCENDIE",
-      "description": "prestations de conception, animation en présentiel ainsi que l’organisation logistique et administrative des formations : - initiale et recyclage d’Habilitation Electrique BO-BS-BE Manœuvre - sécurité incendie – équipier de première intervention",
-      "cpv": "80500000",
-      "pays": "FRA",
-      "deadline": "2026-07-20",
-      "montant": 0,
-      "publication": "2026-06-24",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/428643-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "bureautique": false,
-      "score": 57,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,

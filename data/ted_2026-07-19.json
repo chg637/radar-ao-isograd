@@ -1,38 +1,10 @@
 {
-  "generated_at": "2026-07-19T08:14:25.348Z",
-  "source": "MERGE",
-  "sources_summary": {
-    "TED": {
-      "present": true,
-      "fetched": 500,
-      "matched": 26,
-      "go": 2,
-      "generated_at": "2026-07-19T08:07:36.541Z"
-    },
-    "BOAMP": {
-      "present": true,
-      "fetched": 3000,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-07-19T08:14:24.878Z"
-    },
-    "Profil": {
-      "present": true,
-      "fetched": 0,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-07-19T08:14:25.183Z"
-    }
-  },
-  "total_fetched": 3500,
+  "generated_at": "2026-07-19T08:07:36.541Z",
+  "source": "TED",
+  "window_days": 30,
+  "total_fetched": 500,
   "total_matched": 26,
   "total_go": 2,
-  "total_dedup_collisions": 0,
-  "dedup_breakdown": {
-    "by_id": 0,
-    "fuzzy_signature": 0,
-    "fuzzy_jaccard": 0
-  },
   "notices": [
     {
       "id": "424521-2026",
@@ -99,18 +71,18 @@
       "auto": true
     },
     {
-      "id": "442125-2026",
-      "ref": "442125-2026",
-      "acheteur": "Gemeente Utrecht",
-      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Datagestuurd reinigen van openbare buitenruimtes",
-      "description": "De gemeente heeft de doelstelling om de schoonmaakactiviteiten in de buitenruimte voor schoon, groen en grijs effectiever en efficiënter uit te voeren, zodat de beeldkwaliteit in de stad verder verbetert. Om deze doelstelling te realiseren, willen we slimme, mobiele cameratechnologie inzetten. Deze technologie fungeert als voorschouw door de stad op reguliere of variabele basis te monitoren en uitgevoerde of benodigde werkzaamheden te herkennen. Hierbij gaat het bijvoorbeeld om verschillende vormen van (zwerf)afval en ander soort afval in de openbare ruimte. De herkende activiteiten worden vertaald in data, die vervolgens dient als input voor het opstellen van de werkverdeling en uitvoeringsplanning in de verschillende gebieden en voertuigen. Deze beelden moeten ter plekke en direct (dus in het voertuig/op de fiets) omgezet worden in data. Met deze data kan de uitvoering gericht worden aangestuurd naar locaties waar daadwerkelijk vervuiling is aangetroffen Verwachte omvang van de raamovereenkomst: De gemeente verwacht over de gehele looptijd (maximaal 4 jaar) van de raamovereenkomst een verwachte totale waarde af te nemen van € 1.200.000,- Dit komt neer op een jaarlijkse verwachte waarde van € 300.000,- Maximumomvang (of: begrenzing) van de raamovereenkomst: De maximale totale waarde over de gehele looptijd (maximaal 4 jaar) van de raamovereenkomst is € 1.800.000,- Dit komt neer op een jaarlijkse maximale waarde van € 450.000,- Zodra het maximumbedrag bereikt wordt, eindigt de raamovereenkomst automatisch. U kunt aan deze waarden geen rechten ontlenen. ",
-      "cpv": "72200000",
+      "id": "424925-2026",
+      "ref": "424925-2026",
+      "acheteur": "GGD Zaanstreek-Waterland",
+      "objet": "Pays-Bas – Services de développement de logiciels médicaux – Digitaal Dossier Jeugdgezondheidszorg",
+      "description": "De aanbestedende dienst doorloopt een Europese aanbestedingsprocedure om een robuust en toekomstbestendig DDJGZ te selecteren en implementeren. Het systeem moet volledig operationeel en gebruiksklaar worden opgeleverd. Het DDJGZ moet voldoen aan de gestelde functionele en technische eisen en duurzaam zijn ingericht. De gekozen SaaS-oplossing moet een schaalbare basis bieden voor verdere ontwikkeling en toekomstige behoeften binnen de Jeugdgezondheidszorg. De opdracht betreft de levering, implementatie en het beheer van een SaaS‑applicatie (DDJGZ) ten behoeve van de Jeugdgezondheidszorg. De scope omvat configuratie, datamigratie, koppelingen met relevante externe systemen, opleiding van gebruikers en doorlopend beheer en support. Het systeem moet beschikbaar zijn voor circa 230 medewerkers en geschikt zijn voor opschaling. De overeenkomst heeft een looptijd van 10 jaar inclusief optionele verlengingen.",
+      "cpv": "72212180",
       "pays": "NLD",
-      "deadline": "2026-08-24",
-      "montant": 1200,
-      "publication": "2026-06-29",
+      "deadline": "2026-10-15",
+      "montant": 4183,
+      "publication": "2026-06-22",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/442125-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/424925-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -161,18 +133,18 @@
       "auto": true
     },
     {
-      "id": "424925-2026",
-      "ref": "424925-2026",
-      "acheteur": "GGD Zaanstreek-Waterland",
-      "objet": "Pays-Bas – Services de développement de logiciels médicaux – Digitaal Dossier Jeugdgezondheidszorg",
-      "description": "De aanbestedende dienst doorloopt een Europese aanbestedingsprocedure om een robuust en toekomstbestendig DDJGZ te selecteren en implementeren. Het systeem moet volledig operationeel en gebruiksklaar worden opgeleverd. Het DDJGZ moet voldoen aan de gestelde functionele en technische eisen en duurzaam zijn ingericht. De gekozen SaaS-oplossing moet een schaalbare basis bieden voor verdere ontwikkeling en toekomstige behoeften binnen de Jeugdgezondheidszorg. De opdracht betreft de levering, implementatie en het beheer van een SaaS‑applicatie (DDJGZ) ten behoeve van de Jeugdgezondheidszorg. De scope omvat configuratie, datamigratie, koppelingen met relevante externe systemen, opleiding van gebruikers en doorlopend beheer en support. Het systeem moet beschikbaar zijn voor circa 230 medewerkers en geschikt zijn voor opschaling. De overeenkomst heeft een looptijd van 10 jaar inclusief optionele verlengingen.",
-      "cpv": "72212180",
+      "id": "442125-2026",
+      "ref": "442125-2026",
+      "acheteur": "Gemeente Utrecht",
+      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Datagestuurd reinigen van openbare buitenruimtes",
+      "description": "De gemeente heeft de doelstelling om de schoonmaakactiviteiten in de buitenruimte voor schoon, groen en grijs effectiever en efficiënter uit te voeren, zodat de beeldkwaliteit in de stad verder verbetert. Om deze doelstelling te realiseren, willen we slimme, mobiele cameratechnologie inzetten. Deze technologie fungeert als voorschouw door de stad op reguliere of variabele basis te monitoren en uitgevoerde of benodigde werkzaamheden te herkennen. Hierbij gaat het bijvoorbeeld om verschillende vormen van (zwerf)afval en ander soort afval in de openbare ruimte. De herkende activiteiten worden vertaald in data, die vervolgens dient als input voor het opstellen van de werkverdeling en uitvoeringsplanning in de verschillende gebieden en voertuigen. Deze beelden moeten ter plekke en direct (dus in het voertuig/op de fiets) omgezet worden in data. Met deze data kan de uitvoering gericht worden aangestuurd naar locaties waar daadwerkelijk vervuiling is aangetroffen Verwachte omvang van de raamovereenkomst: De gemeente verwacht over de gehele looptijd (maximaal 4 jaar) van de raamovereenkomst een verwachte totale waarde af te nemen van € 1.200.000,- Dit komt neer op een jaarlijkse verwachte waarde van € 300.000,- Maximumomvang (of: begrenzing) van de raamovereenkomst: De maximale totale waarde over de gehele looptijd (maximaal 4 jaar) van de raamovereenkomst is € 1.800.000,- Dit komt neer op een jaarlijkse maximale waarde van € 450.000,- Zodra het maximumbedrag bereikt wordt, eindigt de raamovereenkomst automatisch. U kunt aan deze waarden geen rechten ontlenen. ",
+      "cpv": "72200000",
       "pays": "NLD",
-      "deadline": "2026-10-15",
-      "montant": 4183,
-      "publication": "2026-06-22",
+      "deadline": "2026-08-24",
+      "montant": 1200,
+      "publication": "2026-06-29",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/424925-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/442125-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -192,18 +164,49 @@
       "auto": true
     },
     {
-      "id": "441976-2026",
-      "ref": "441976-2026",
-      "acheteur": "Stichting Data Safe House",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – IT Dataplatform",
-      "description": "Stichting Data Safe House wenst een overeenkomst met één opdrachtnemer te sluiten voor de ontwikkeling en het beheer van een IT Dataplatform. Zie voor meer informatie de aanbestedingsstukken. Alle ondernemers die aan de eisen voldoen worden uitgenodigd een inschrijving in te dienen. Dat kan zelfstandig, als samenwerkingsverband en/of door een beroep te doen op derden en/of onderaannemers. De overeenkomst biedt ook ruimte om door te ontwikkelen. Dit valt van te voren nog niet volledig te overzien, waardoor de overeenkomst op onderdelen het karakter heeft van een raamovereenkomst. Dit betekent dat de totale opdrachtwaarde uiteindelijk boven de €1.100.000 kan uitkomen, waarbij als maximum twee (2) keer deze waarde (€2.200.000) wordt aangehouden. De hierboven genoemde omvang is slechts bedoeld als indicatie. Opdrachtnemer kan hier op geen enkele wijze rechten aan ontlenen. Alle genoemde bedragen zijn exclusief btw.",
+      "id": "424002-2026",
+      "ref": "424002-2026",
+      "acheteur": "Gemeente Steenwijkerland",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Europees openbare aanbesteding - SIEM/SOC-dienstverlening",
+      "description": "De gemeente Steenwijkerland wenst voor de feitelijke uitvoering van haar Security Operations Center (SOC)- en Security Information and Event Management (SIEM)- dienstverlening één opdrachtnemer te contracteren. Deze dienstverlening ondersteunt actief bij het voorkomen van inbreuken, schade en overlast in de ICT-infrastructuur. Deze aanbesteding bestaat niet uit meerdere percelen. De scope kent een sterke technische en economische samenhang, waardoor splitsing zou leiden tot risico’s ten aanzien van de continuïteit en kwaliteit van de dienstverlening én ten aanzien van de opvolgende werking van de losse componenten en functionaliteiten. Marktonderzoek laat verder zien dat het geheel van de scope niet beperkend werkt voor de markt en het MKB niet onnodig benadeelt. Er kan dus alleen op het geheel worden ingeschreven. De totaal geraamde waarde van de opdracht voor de gehele maximale looptijd (10 jaar) bedraagt € 840.000,-. Deze raming is gebaseerd op de uitgaven van voorgaande jaren en een marktverkenning. Voor deze aanbesteding geldt een plafondbedrag voor onderdeel prijs. Hierbij wordt onderscheid gemaakt in implementatiekosten en exploitatiekosten. Voor de implementatiekosten geldt een plafondbedrag van € 50.000,- exclusief Btw. Voor exploitatiekosten is dit € 850.000,- exclusief Btw gebaseerd op de gehele looptijd van 10 jaar.",
       "cpv": "72000000",
       "pays": "NLD",
       "deadline": "",
-      "montant": 2200,
-      "publication": "2026-06-29",
+      "montant": 453,
+      "publication": "2026-06-19",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/441976-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/424002-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 14,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "427575-2026",
+      "ref": "427575-2026",
+      "acheteur": "Fryske Utfieringstsjinst Miljeu en Omjouwing",
+      "objet": "Pays-Bas – Services relatifs aux logiciels – VTH-Zaaksysteem FUMO",
+      "description": "De FUMO is voornemens om een Overeenkomst aan te gaan met één Opdrachtnemer voor de levering (inclusief het gebruiksrecht), de implementatie, het beheer en het onderhoud van een VTH-zaaksysteem. De FUMO beoogt een langdurig partnership hieromtrent aan te gaan. De FUMO is voornemens een Overeenkomst af te sluiten met één Opdrachtnemer voor een gegarandeerde periode van vijf jaar. De Overeenkomst gaat uiterlijk in op 01-07-2026 alvorens de start van de implementatie van de ICT-oplossing. De Overeenkomst kan eenzijdig door FUMO viermaal optioneel worden verlengd voor de duur van twee jaar. De maximale looptijd van de Overeenkomst (incl. verlengingen) kan hiermee oplopen tot dertien jaar.",
+      "cpv": "72260000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 1470,
+      "publication": "2026-06-22",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/427575-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -316,18 +319,18 @@
       "auto": true
     },
     {
-      "id": "427575-2026",
-      "ref": "427575-2026",
-      "acheteur": "Fryske Utfieringstsjinst Miljeu en Omjouwing",
-      "objet": "Pays-Bas – Services relatifs aux logiciels – VTH-Zaaksysteem FUMO",
-      "description": "De FUMO is voornemens om een Overeenkomst aan te gaan met één Opdrachtnemer voor de levering (inclusief het gebruiksrecht), de implementatie, het beheer en het onderhoud van een VTH-zaaksysteem. De FUMO beoogt een langdurig partnership hieromtrent aan te gaan. De FUMO is voornemens een Overeenkomst af te sluiten met één Opdrachtnemer voor een gegarandeerde periode van vijf jaar. De Overeenkomst gaat uiterlijk in op 01-07-2026 alvorens de start van de implementatie van de ICT-oplossing. De Overeenkomst kan eenzijdig door FUMO viermaal optioneel worden verlengd voor de duur van twee jaar. De maximale looptijd van de Overeenkomst (incl. verlengingen) kan hiermee oplopen tot dertien jaar.",
-      "cpv": "72260000",
+      "id": "441976-2026",
+      "ref": "441976-2026",
+      "acheteur": "Stichting Data Safe House",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – IT Dataplatform",
+      "description": "Stichting Data Safe House wenst een overeenkomst met één opdrachtnemer te sluiten voor de ontwikkeling en het beheer van een IT Dataplatform. Zie voor meer informatie de aanbestedingsstukken. Alle ondernemers die aan de eisen voldoen worden uitgenodigd een inschrijving in te dienen. Dat kan zelfstandig, als samenwerkingsverband en/of door een beroep te doen op derden en/of onderaannemers. De overeenkomst biedt ook ruimte om door te ontwikkelen. Dit valt van te voren nog niet volledig te overzien, waardoor de overeenkomst op onderdelen het karakter heeft van een raamovereenkomst. Dit betekent dat de totale opdrachtwaarde uiteindelijk boven de €1.100.000 kan uitkomen, waarbij als maximum twee (2) keer deze waarde (€2.200.000) wordt aangehouden. De hierboven genoemde omvang is slechts bedoeld als indicatie. Opdrachtnemer kan hier op geen enkele wijze rechten aan ontlenen. Alle genoemde bedragen zijn exclusief btw.",
+      "cpv": "72000000",
       "pays": "NLD",
       "deadline": "",
-      "montant": 1470,
-      "publication": "2026-06-22",
+      "montant": 2200,
+      "publication": "2026-06-29",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/427575-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/441976-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -337,68 +340,6 @@
       "score_detail": {
         "fit": 30,
         "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "424002-2026",
-      "ref": "424002-2026",
-      "acheteur": "Gemeente Steenwijkerland",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Europees openbare aanbesteding - SIEM/SOC-dienstverlening",
-      "description": "De gemeente Steenwijkerland wenst voor de feitelijke uitvoering van haar Security Operations Center (SOC)- en Security Information and Event Management (SIEM)- dienstverlening één opdrachtnemer te contracteren. Deze dienstverlening ondersteunt actief bij het voorkomen van inbreuken, schade en overlast in de ICT-infrastructuur. Deze aanbesteding bestaat niet uit meerdere percelen. De scope kent een sterke technische en economische samenhang, waardoor splitsing zou leiden tot risico’s ten aanzien van de continuïteit en kwaliteit van de dienstverlening én ten aanzien van de opvolgende werking van de losse componenten en functionaliteiten. Marktonderzoek laat verder zien dat het geheel van de scope niet beperkend werkt voor de markt en het MKB niet onnodig benadeelt. Er kan dus alleen op het geheel worden ingeschreven. De totaal geraamde waarde van de opdracht voor de gehele maximale looptijd (10 jaar) bedraagt € 840.000,-. Deze raming is gebaseerd op de uitgaven van voorgaande jaren en een marktverkenning. Voor deze aanbesteding geldt een plafondbedrag voor onderdeel prijs. Hierbij wordt onderscheid gemaakt in implementatiekosten en exploitatiekosten. Voor de implementatiekosten geldt een plafondbedrag van € 50.000,- exclusief Btw. Voor exploitatiekosten is dit € 850.000,- exclusief Btw gebaseerd op de gehele looptijd van 10 jaar.",
-      "cpv": "72000000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 453,
-      "publication": "2026-06-19",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/424002-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 14,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "435849-2026",
-      "ref": "435849-2026",
-      "acheteur": "Universiteit van Amsterdam",
-      "objet": "Pays-Bas – Logiciels pédagogiques – Vrijwillige transparantie vooraf aangaande Plagiaatcontrolesoftware t.b.v. de Universiteit van Amsterdam",
-      "description": "1. Inleiding De Universiteit van Amsterdam (UvA) heeft momenteel een overeenkomst met Turnitin voor het afnemen van plagiaatcontrolesoftware. Deze overeenkomst verloopt per 1 oktober 2026. Plagiaatcontrole is voor de UvA een cruciaal middel om de kwaliteit van het onderwijs en de diplomering te kunnen waarborgen. Het is van groot belang dat plagiaatcontrole kan blijven plaatsvinden en dat hierbij niet wordt ingeleverd op kwaliteit. 2. Motivatie voor de keuze om niet aan te besteden Op basis van marktonderzoek concludeert de UvA dat er geen leveranciers zijn, anders dan Turnitin, die plagiaatcontrolesoftware leveren die voldoet aan alle eisen die de UvA hiervoor hanteert. De belangrijkste eisen worden opgesomd in paragraaf 3. 3. Gestelde eisen plagiaatcontrolesoftware De UvA zoekt naar plagiaatcontrolesoftware die minstens voldoet aan alle van de hieronder benoemde eisen: Repositories waartegen gecontroleerd wordt op plagiaat: - Academische literatuur - journals: Turnitin controleert op plagiaat tegen een uitgebreide database met academische literatuur. Met name de toegang die Turnitin heeft tot journals die niet publiekelijk toegankelijk zijn (waarop men geabonneerd moet zijn voor toegang) maakt het product uniek in de markt. Door te zijn aangesloten bij CrossRef maakt Turnitin het mogelijk om te controleren op plagiaat tegen journals van belangrijke uitgevers als: Springer Nature, Elsevier, Wiley-Blackwell, Taylor and Francis, IEEE, American Institute of Physics, British Medical Journal, Emerald, New England Journal of Medicine en Cambridge University Press. Controle tegen deze bronnen is voor de UvA een eis. - Academische literatuur - open access papers: Turnitin controleert op plagiaat tegen een uitgebreide database met open access papers. Door haar partnership met CORE controleert Turnitin tegen ruim 200 miljoen werken, aanzienlijk meer dan andere leveranciers (voor zover bekend). - Student papers: Turnitin beschikt verreweg over de meest uitgebreide repository met studentwerk (ruim 2,4 miljard documenten). Voor de UvA is het belangrijk dat er een hoge dekkingsgraad is als het gaat om plagiaatcontrole tegen het werk van medestudenten binnen de UvA, binnen Nederland en wereldwijd. Ook in dit opzicht heeft Turnitin een unieke positie binnen de markt. Integratie in Canvas: - De UvA maakt gebruik van het LMS Canvas van leverancier Instructure. Een goede integratie van de plagiaatcontrolesoftware in Canvas is cruciaal om een goede workflow te kunnen bieden aan eindgebruikers en de tool op een efficiënte en effectieve manier in te zetten in het onderwijs. Voor de UvA betekent dit dat de plagiaatcontrolesoftware gekoppeld is via het ‘Plagiarism Detection Platform’ van Canvas, zodat de functionaliteit op een laagdrempelige manier beschikbaar is binnen de ‘native’ Canvas functionaliteiten: de Canvas Assignment (waar plagiaatcontrole wordt ingeschakeld én geconfigureerd), en Canvas Grades en Canvas SpeedGrader (waar de plagiaatscore zichtbaar is en waar een link naar het plagiaatrapport beschikbaar is). Locatie van dataopslag - Turnitin biedt de optie om uitsluitend gebruik te maken van servers die gelokaliseerd zijn binnen de grenzen van de EER. Voor de UvA is het een harde eis dat de data (gebruikersgegevens, bronbestanden, plagiaatrapporten, etc.) worden opgeslagen binnen Europa en dat de leverancier GDPR-compliant is. Security en Privacy - Voor de UvA is het van groot belang dat plagiaatcontrolesoftware op een veilige en betrouwbare manier kan worden ingezet en dat de privacy van eindgebruikers gewaarborgd blijft. De UvA eist van leveranciers dat zij deze zaken aantoonbaar op orde hebben. Dit doet Turnitin door te zijn geaccrediteerd met Cyber Essentials- en SOC2 certificeringen. 4. Contractvoorwaarden In het kader van transparantie maakt de UvA aan de markt kenbaar dat deze opdracht niet wordt aanbesteed. De UvA is voornemens een overeenkomst af te sluiten met Turnitin met een initiële looptijd van 2 jaar en de mogelijkheid om deze tweemaal met een periode van 12 maanden te verlengen. De UvA behoudt het recht om aanvullende detectietooling aan te schaffen, bijvoorbeeld voor detectie van door AI-gegenereerde teksten. Daarbij geldt geen exclusiviteit voor Turnitin als leverancier. 5. Mogelijkheid tot bezwaar Ondernemers hebben 20 kalenderdagen om gemotiveerd bezwaar aan te tekenen. Het is daarbij verplicht om een gemotiveerd bezwaar te versturen naar aanbestedingen@uva.nl.",
-      "cpv": "48190000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-06-25",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/435849-2026",
-      "segment": "ESR",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 35,
-        "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -440,6 +381,68 @@
       "auto": true
     },
     {
+      "id": "435849-2026",
+      "ref": "435849-2026",
+      "acheteur": "Universiteit van Amsterdam",
+      "objet": "Pays-Bas – Logiciels pédagogiques – Vrijwillige transparantie vooraf aangaande Plagiaatcontrolesoftware t.b.v. de Universiteit van Amsterdam",
+      "description": "1. Inleiding De Universiteit van Amsterdam (UvA) heeft momenteel een overeenkomst met Turnitin voor het afnemen van plagiaatcontrolesoftware. Deze overeenkomst verloopt per 1 oktober 2026. Plagiaatcontrole is voor de UvA een cruciaal middel om de kwaliteit van het onderwijs en de diplomering te kunnen waarborgen. Het is van groot belang dat plagiaatcontrole kan blijven plaatsvinden en dat hierbij niet wordt ingeleverd op kwaliteit. 2. Motivatie voor de keuze om niet aan te besteden Op basis van marktonderzoek concludeert de UvA dat er geen leveranciers zijn, anders dan Turnitin, die plagiaatcontrolesoftware leveren die voldoet aan alle eisen die de UvA hiervoor hanteert. De belangrijkste eisen worden opgesomd in paragraaf 3. 3. Gestelde eisen plagiaatcontrolesoftware De UvA zoekt naar plagiaatcontrolesoftware die minstens voldoet aan alle van de hieronder benoemde eisen: Repositories waartegen gecontroleerd wordt op plagiaat: - Academische literatuur - journals: Turnitin controleert op plagiaat tegen een uitgebreide database met academische literatuur. Met name de toegang die Turnitin heeft tot journals die niet publiekelijk toegankelijk zijn (waarop men geabonneerd moet zijn voor toegang) maakt het product uniek in de markt. Door te zijn aangesloten bij CrossRef maakt Turnitin het mogelijk om te controleren op plagiaat tegen journals van belangrijke uitgevers als: Springer Nature, Elsevier, Wiley-Blackwell, Taylor and Francis, IEEE, American Institute of Physics, British Medical Journal, Emerald, New England Journal of Medicine en Cambridge University Press. Controle tegen deze bronnen is voor de UvA een eis. - Academische literatuur - open access papers: Turnitin controleert op plagiaat tegen een uitgebreide database met open access papers. Door haar partnership met CORE controleert Turnitin tegen ruim 200 miljoen werken, aanzienlijk meer dan andere leveranciers (voor zover bekend). - Student papers: Turnitin beschikt verreweg over de meest uitgebreide repository met studentwerk (ruim 2,4 miljard documenten). Voor de UvA is het belangrijk dat er een hoge dekkingsgraad is als het gaat om plagiaatcontrole tegen het werk van medestudenten binnen de UvA, binnen Nederland en wereldwijd. Ook in dit opzicht heeft Turnitin een unieke positie binnen de markt. Integratie in Canvas: - De UvA maakt gebruik van het LMS Canvas van leverancier Instructure. Een goede integratie van de plagiaatcontrolesoftware in Canvas is cruciaal om een goede workflow te kunnen bieden aan eindgebruikers en de tool op een efficiënte en effectieve manier in te zetten in het onderwijs. Voor de UvA betekent dit dat de plagiaatcontrolesoftware gekoppeld is via het ‘Plagiarism Detection Platform’ van Canvas, zodat de functionaliteit op een laagdrempelige manier beschikbaar is binnen de ‘native’ Canvas functionaliteiten: de Canvas Assignment (waar plagiaatcontrole wordt ingeschakeld én geconfigureerd), en Canvas Grades en Canvas SpeedGrader (waar de plagiaatscore zichtbaar is en waar een link naar het plagiaatrapport beschikbaar is). Locatie van dataopslag - Turnitin biedt de optie om uitsluitend gebruik te maken van servers die gelokaliseerd zijn binnen de grenzen van de EER. Voor de UvA is het een harde eis dat de data (gebruikersgegevens, bronbestanden, plagiaatrapporten, etc.) worden opgeslagen binnen Europa en dat de leverancier GDPR-compliant is. Security en Privacy - Voor de UvA is het van groot belang dat plagiaatcontrolesoftware op een veilige en betrouwbare manier kan worden ingezet en dat de privacy van eindgebruikers gewaarborgd blijft. De UvA eist van leveranciers dat zij deze zaken aantoonbaar op orde hebben. Dit doet Turnitin door te zijn geaccrediteerd met Cyber Essentials- en SOC2 certificeringen. 4. Contractvoorwaarden In het kader van transparantie maakt de UvA aan de markt kenbaar dat deze opdracht niet wordt aanbesteed. De UvA is voornemens een overeenkomst af te sluiten met Turnitin met een initiële looptijd van 2 jaar en de mogelijkheid om deze tweemaal met een periode van 12 maanden te verlengen. De UvA behoudt het recht om aanvullende detectietooling aan te schaffen, bijvoorbeeld voor detectie van door AI-gegenereerde teksten. Daarbij geldt geen exclusiviteit voor Turnitin als leverancier. 5. Mogelijkheid tot bezwaar Ondernemers hebben 20 kalenderdagen om gemotiveerd bezwaar aan te tekenen. Het is daarbij verplicht om een gemotiveerd bezwaar te versturen naar aanbestedingen@uva.nl.",
+      "cpv": "48190000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-25",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/435849-2026",
+      "segment": "ESR",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 35,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "430477-2026",
+      "ref": "430477-2026",
+      "acheteur": "Stad Mortsel",
+      "objet": "Belgique – Services du personnel et des salaires – levering softwaremodule tijdsregistratie personeel",
+      "description": "Het Lokaal bestuur Mortsel is voor het personeel op zoek naar een tijdsregistratiesysteem. - Dit tijdsregistratiesysteem zal voorzien in de basisfunctionaliteiten die men mag verwachten van een tijdsregistratiesysteem. Het maakt het mogelijk voor medewerkers met en zonder fysieke prikklok hun aankomst- en werktijden alsook opdrachten en uitzonderlijke prestaties te registreren. - Alle medewerkers hebben toegang tot hun persoonlijke situatie en kunnen verlofaanvragen indienen. - De gegevens worden verwerkt volgens berekeningsregels, afgestemd op input aan de loonmotor voor verloning. De software houdt in: - Virtuele registratie; - Software die gebruiksvriendelijk is en eenvoudig te bedienen; - De software wordt ontwikkeld in het Nederlands en is beschikbaar als online platform (cloud) en biedt een hoge mate van gebruiksgemak en biedt gebruiksgemak dankzij geautomatiseerde functies. Het platform ondersteunt meerdere gebruikers en werkstations en werkt in netwerkmodus. Het aantal eindgebruikers is onbeperkt. De toegang tot de software gebeurt via gebruikersnaam en wachtwoord of via koppeling met AD voor SSO. Onze loonmotor zal draaien op Lima (Cipal Schaubroek). Export naar de loonmotor gebeurt zo veel mogelijk geautomatiseerd.",
+      "cpv": "79631000",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 105,
+      "publication": "2026-06-24",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/430477-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 67,
+      "score_detail": {
+        "fit": 30,
+        "size": 10,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "438654-2026",
       "ref": "438654-2026",
       "acheteur": "Gemeente Hilversum",
@@ -471,27 +474,89 @@
       "auto": true
     },
     {
-      "id": "430477-2026",
-      "ref": "430477-2026",
-      "acheteur": "Stad Mortsel",
-      "objet": "Belgique – Services du personnel et des salaires – levering softwaremodule tijdsregistratie personeel",
-      "description": "Het Lokaal bestuur Mortsel is voor het personeel op zoek naar een tijdsregistratiesysteem. - Dit tijdsregistratiesysteem zal voorzien in de basisfunctionaliteiten die men mag verwachten van een tijdsregistratiesysteem. Het maakt het mogelijk voor medewerkers met en zonder fysieke prikklok hun aankomst- en werktijden alsook opdrachten en uitzonderlijke prestaties te registreren. - Alle medewerkers hebben toegang tot hun persoonlijke situatie en kunnen verlofaanvragen indienen. - De gegevens worden verwerkt volgens berekeningsregels, afgestemd op input aan de loonmotor voor verloning. De software houdt in: - Virtuele registratie; - Software die gebruiksvriendelijk is en eenvoudig te bedienen; - De software wordt ontwikkeld in het Nederlands en is beschikbaar als online platform (cloud) en biedt een hoge mate van gebruiksgemak en biedt gebruiksgemak dankzij geautomatiseerde functies. Het platform ondersteunt meerdere gebruikers en werkstations en werkt in netwerkmodus. Het aantal eindgebruikers is onbeperkt. De toegang tot de software gebeurt via gebruikersnaam en wachtwoord of via koppeling met AD voor SSO. Onze loonmotor zal draaien op Lima (Cipal Schaubroek). Export naar de loonmotor gebeurt zo veel mogelijk geautomatiseerd.",
-      "cpv": "79631000",
-      "pays": "BEL",
+      "id": "423713-2026",
+      "ref": "423713-2026",
+      "acheteur": "Freie und Hansestadt Hamburg Behörde für Stadtentwicklung und Wohnen",
+      "objet": "Allemagne – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Räumliches Leitbild der Stadtentwicklung Hamburg Auftrag II Workshopverfahren",
+      "description": "Mit dem Räumlichen Leitbild \"Wachsende Stadt - Grüne Metropole\" von 2007 und dessen Aktualisierung \"Grüne, gerechte, wachsende Stadt am Wasser\" von 2014 verfügt Hamburg über ein gesamtstädtisches Leitbild, das sich in den vergangenen Jahren als zielgerichtetes Navigationsinstrument für die Hamburger Stadtentwicklung bewährt hat. Eine Neuauflage des Räumlichen Leitbildes wird jedoch zunehmend erforderlich. Die Rahmenbedingungen für Stadtentwicklung haben sich verändert oder sind in ihrer Dynamik weiterhin herausfordernd: Die enorme Nachfrage nach bezahlbaren Wohnungen, der demographische Wandel, die voranschreitende Digitalisierung und technologische Neuerungen, die Veränderung der Arbeitswelten und des Handels, neue Wissens-orte, die Anpassung an den Klimawandel, die anstehende Mobilitätswende und der Er-halt der Freiraumsysteme sind noch stärker in den Fokus der Debatten um die zukünftige Hamburger Stadtentwicklung gerückt. Neue Perspektiven für Stadträume eröffnen insbesondere die großen Stadtentwicklungs- und Infrastrukturprojekte: Mit dem Ausbau der U- und S-Bahnlinien werden hunderttausende Menschen in einer neuen Qualität an das Schnellbahnnetz angeschlossen. Allein an Haltestellen der U5 werden nach den aktuellen Prognosen täglich mehr als 500.000 Menschen ein-, aus- und umsteigen. Mit anderen großen Infrastrukturprojekten wie dem Umbau des Hauptbahnhofs und einem möglichen zweiten City-tunnel für die S-Bahn werden neue Impulse der Innenentwicklung gesetzt. Die Magistralen werden zu zukunftsfähigen Mobilitäts- und attraktiven Stadträumen weiterentwickelt und geben dadurch Impulse für neue Stadtentwicklungsvorhaben. Durch die Entwicklung der Science City in Hamburg-Bahrenfeld, des Grasbrooks und der neuen Stadtquartiere im Hamburger Osten, in Oberbillwerder, auf den Elbinseln und im Süderelberaum werden neue Akzente in der \"Urbanisierungszone\" der Stadt gesetzt. Die äußeren Bereiche der Stadt erfordern durch die Magistralenentwicklung und den Schnellbahnausbau ein besonderes Augenmerk. In den Bestandsquartieren sind die räumlichen Muster der sozialen Ungleichheit Hamburgs weiter zu nivellieren. Ebenso ist eine inklusive Stadtentwicklung in allen Quartieren weiter voranzubringen. Auf regionaler Ebene gewinnt die grenzübergreifende Befassung mit dem Verflechtungsraum bzw. der Stadtregion an Bedeutung. Der Stadt- Umland-Atlas der BSW zeigt die wesentlichen räumlichen Entwicklungen der Stadt Hamburg und des Verflechtungs-raumes auf - eine wesentliche Datengrundlage für das Räumliche Leitbild. Diese Themen besitzen erhebliche Auswirkungen auf das Grundgerüst der Stadt und lösen neue Dynamiken für ihre räumliche Entwicklung aus. Vor diesem Hintergrund möchte die BSW das Räumliche Leitbild neu auflegen. Die bewährten Strategien der Hamburger Stadtentwicklung sind dabei zu berücksichtigen und ggf. weiterzuentwi-ckeln. Mit der Neuauflage des Räumlichen Leitbilds für Hamburg soll ein neues räumliches Zukunftsbild der Stadtentwicklung geschaffen werden, welches die Ziele der unter-schiedlichen Politikfelder in stadträumliche Strukturen und Prozesse übersetzt und gleichzeitig die bestehenden teilräumlichen Konzepte und Projekte in einen größeren Kontext setzt. Die Aufgabe ist, die räumlichen Strukturen und Entwicklungsprinzipien für die Gesamtstadt weiterzuentwickeln, beispielsweise zu der städtischen Dichte, Bebauungsstrukturen und Nutzungen. Dabei sollen vor allem die räumlichen Aussagen in Form von Zielformulierungen, verortbaren Entwicklungsansätzen und Handlungsstrategien im Fokus stehen. So soll ein räumliches \"Entwicklungsgerüst\" entstehen, welches robust ist und auf eine Bandbreite unterschiedlicher stadträumlicher Dynamiken und Trends, die durch den Stadt-Umland- Atlas sichtbar geworden sind, reagieren kann. Vor diesem Hintergrund sind auch Perspektiven für die stadtregionale Entwicklung zu be-denken. Das Räumliche Leitbild ist ein zentrales Steuerungs- und Kommunikationsinstrument für die Perspektiven der Hamburger Stadtentwicklung. Als informeller strategischer Planwerk entfaltet es FHH-intern Bindungswirkung und nimmt als Entscheidungskompass gleichzeitig Einfluss auf eine Vielzahl von Entwicklungsprozessen anderer Akteurinnen und Akteure der Stadtentwicklung. Mit dem Räumlichen Leitbild kann Hamburg zeigen, wie die in den Nachhaltigkeitszielen der Vereinten Nationen (SDGs) und der Neuen Leipzig-Charta genannten Prinzipien einer sozial gerechten, umwelt- und klimagerechten sowie kulturell und ökonomisch produktiven Stadtentwicklung durch die räumliche Entwicklung der Stadt gesichert werden können. Zum besseren Verständnis der konkret zu erfüllenden Aufgabenstellung siehe Anlage 5 \"Leistungsbeschreibung\" (Teil der Vergabeunterlagen).",
+      "cpv": "71000000",
+      "pays": "DEU",
       "deadline": "",
-      "montant": 105,
-      "publication": "2026-06-24",
+      "montant": 0,
+      "publication": "2026-06-19",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/430477-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/423713-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
       "bureautique": true,
-      "score": 67,
+      "score": 65,
       "score_detail": {
         "fit": 30,
-        "size": 10,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "426265-2026",
+      "ref": "426265-2026",
+      "acheteur": "Haven van Antwerpen-Brugge, NV van publiek recht",
+      "objet": "Belgique – Services de développement de logiciels de commande de vol – Raamovereenkomst voor de operationele dronecapaciteit voor Port of Antwerp-Bruges",
+      "description": "Port of Antwerp-Bruges (POAB) heeft de afgelopen jaren gebruik gemaakt van een operationeel drone-as-a-service (DAAS) netwerk ter ondersteuning van verschillende operationele processen in het havengebied. De huidige overeenkomst voor dit dronenetwerk loopt af, waardoor POAB een nieuwe partner zoekt die DAAS kan leveren én drone innovatieprojecten op projectbasis kan uitvoeren. De DAAS opdracht omvat twee componenten: enerzijds Drone Flight Services, waarbij de opdrachtnemer instaat voor de volledige vluchtuitvoering door gecertificeerde piloten inclusief missieondersteuning en data-acquisitie, en anderzijds Drone Hardware-as-a-Service, waarbij droneplatformen en sensoren ter beschikking worden gesteld voor gebruik door piloten van de opdrachtnemer, inclusief onderhoud en technische ondersteuning. Beide componenten zullen gezamenlijk worden afgenomen naargelang de operationele behoefte. Deze modulaire aanpak biedt de opdrachtgever maximale flexibiliteit ten aanzien van de dienstverlening en de hardware/software voorzieningen welke kan evolueren ten aanzien van technologische evoluties. Deze DAAS opdracht combineert één geïntegreerde dienstverlening, waarbij geautomatiseerde drones worden ingezet ter ondersteuning van diverse operationele toepassingen binnen de havenplatformen Antwerpen én Zeebrugge. Naast de DAAS wil POAB ook innovatieve dronetechnologieën en nieuwe use cases kunnen verkennen en valideren binnen de looptijd van de overeenkomst. De DAAS opdracht wordt aangeboden als servicemodel gedurende de looptijd van de nieuwe overeenkomst, de innovatieprojecten zullen project gebaseerd uitgevoerd worden.",
+      "cpv": "72212120",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-22",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/426265-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "426289-2026",
+      "ref": "426289-2026",
+      "acheteur": "Agentschap Integratie en Inburgering",
+      "objet": "Belgique – Logiciels et systèmes d'information – Project Modulair aanbod MO - Ontwikkeling modules",
+      "description": "Een deelwerking van inburgering is het aanbieden van Maatschappelijke Oriëntatie (MO). Per jaar volgen zo’n 25.000 nieuwkomers (en oudkomers) het traject in Vlaanderen en Brussel. De inhoud van de cursus bevat 11 levensdomeinen, zoals wonen, werken, mobiliteit, gezin, … De doelstellingen zijn zowel algemeen als praktisch van aard. De cursisten zijn anderstalig en beheersen tijdens de cursus MO nog niet voldoende Nederlands voor het behalen van de vooropgestelde doelen. We bieden de lessen en lesmaterialen aan in de moedertaal of contacttaal van de cursist. AgII heeft de afgelopen jaren significant geïnvesteerd om het aanbod MO te differentiëren en te digitaliseren. Dit heeft geresulteerd in een kader voor oriëntatie waarbij inburgeraars, op basis van screening, worden doorverwezen naar het meest geschikte aanbod, waaronder zelfstudie, begeleide zelfstudie, digitale cursussen, ICT-voortrajecten in functie van het digitaal aanbod MO en klassikaal onderwijs. Tevens worden maatwerkcursussen georganiseerd voor specifieke doelgroepen, zoals werkzoekenden (sectortrajecten bouw, zorg, IT), studenten en jongeren. De differentiatie is gebaseerd op ervaringen met afstandsleren sinds de pandemie, pilots, wetenschappelijk onderzoek en bevragingen binnen diverse doelgroepen. Het onderscheid betreft uitsluitend de vorm van de cursus; de inhoud blijft uniform. Alle onderwijsvormen behandelen de volledige set aan onderwijsdoelen als basisinhoud om te voldoen aan gestandaardiseerde toetsing. De elf leeromgevingen zijn als volgt vastgesteld: stad en land, mobiliteit, gezin, publieke diensten, werken, wonen, consumptie, gezondheid, onderwijs, vrije tijd en verblijfssituatie. Binnen deze onderwijsdoelen behouden docenten pedagogische vrijheid om lesinhoud en werkvormen af te stemmen op de voorkennis en specifieke behoeften van de cursisten. Naast kennisoverdracht wordt veel aandacht besteed aan het ontwikkelen van vaardigheden en attitudes in groepsverband, waaronder dialogen over principes en uitgangspunten. Door de digitalisering van het aanbod is er nu meer inhoudelijke en praktische flexibiliteit mogelijk. In het project ‘modulair aanbod MO’ willen we voortbouwen op dit basisaanbod en inspelen op de duidelijke ambities van zowel de federale als Vlaamse regering. Zij willen immers inburgeringstrajecten via afstandsonderwijs vanuit het thuisland of buitenland mogelijk maken. Het doel is om deelnemers aan deze vorm van onderwijs al vóór hun aankomst in België een voorsprong te geven, zodat hun integratie sneller verloopt. Het project modulair aanbod maatschappelijke oriëntatie (MO) richt zich op een snellere, efficiëntere en meer gepersonaliseerde inburgering voor specifieke groepen (toekomstige) inburgeraars, zoals gezinsherenigers en niet-EU arbeidsmigranten in het buitenland. Daarbij ligt de nadruk niet op één vast traject, maar juist op aparte modules die flexibel gecombineerd kunnen worden tot maatwerktrajecten. Zo kunnen het instappakket en doelgroepgerichte modules los van elkaar gebruikt worden, zodat voor elke doelgroep een geschikt programma kan worden samengesteld. Deze aanpak biedt maximale flexibiliteit en maakt het mogelijk optimaal in te spelen op de verschillende achtergronden, voorkennis en leerbehoeften van de inburgeraars.",
+      "cpv": "48000000",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-22",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/426289-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -595,99 +660,6 @@
       "auto": true
     },
     {
-      "id": "426265-2026",
-      "ref": "426265-2026",
-      "acheteur": "Haven van Antwerpen-Brugge, NV van publiek recht",
-      "objet": "Belgique – Services de développement de logiciels de commande de vol – Raamovereenkomst voor de operationele dronecapaciteit voor Port of Antwerp-Bruges",
-      "description": "Port of Antwerp-Bruges (POAB) heeft de afgelopen jaren gebruik gemaakt van een operationeel drone-as-a-service (DAAS) netwerk ter ondersteuning van verschillende operationele processen in het havengebied. De huidige overeenkomst voor dit dronenetwerk loopt af, waardoor POAB een nieuwe partner zoekt die DAAS kan leveren én drone innovatieprojecten op projectbasis kan uitvoeren. De DAAS opdracht omvat twee componenten: enerzijds Drone Flight Services, waarbij de opdrachtnemer instaat voor de volledige vluchtuitvoering door gecertificeerde piloten inclusief missieondersteuning en data-acquisitie, en anderzijds Drone Hardware-as-a-Service, waarbij droneplatformen en sensoren ter beschikking worden gesteld voor gebruik door piloten van de opdrachtnemer, inclusief onderhoud en technische ondersteuning. Beide componenten zullen gezamenlijk worden afgenomen naargelang de operationele behoefte. Deze modulaire aanpak biedt de opdrachtgever maximale flexibiliteit ten aanzien van de dienstverlening en de hardware/software voorzieningen welke kan evolueren ten aanzien van technologische evoluties. Deze DAAS opdracht combineert één geïntegreerde dienstverlening, waarbij geautomatiseerde drones worden ingezet ter ondersteuning van diverse operationele toepassingen binnen de havenplatformen Antwerpen én Zeebrugge. Naast de DAAS wil POAB ook innovatieve dronetechnologieën en nieuwe use cases kunnen verkennen en valideren binnen de looptijd van de overeenkomst. De DAAS opdracht wordt aangeboden als servicemodel gedurende de looptijd van de nieuwe overeenkomst, de innovatieprojecten zullen project gebaseerd uitgevoerd worden.",
-      "cpv": "72212120",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-06-22",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/426265-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "426289-2026",
-      "ref": "426289-2026",
-      "acheteur": "Agentschap Integratie en Inburgering",
-      "objet": "Belgique – Logiciels et systèmes d'information – Project Modulair aanbod MO - Ontwikkeling modules",
-      "description": "Een deelwerking van inburgering is het aanbieden van Maatschappelijke Oriëntatie (MO). Per jaar volgen zo’n 25.000 nieuwkomers (en oudkomers) het traject in Vlaanderen en Brussel. De inhoud van de cursus bevat 11 levensdomeinen, zoals wonen, werken, mobiliteit, gezin, … De doelstellingen zijn zowel algemeen als praktisch van aard. De cursisten zijn anderstalig en beheersen tijdens de cursus MO nog niet voldoende Nederlands voor het behalen van de vooropgestelde doelen. We bieden de lessen en lesmaterialen aan in de moedertaal of contacttaal van de cursist. AgII heeft de afgelopen jaren significant geïnvesteerd om het aanbod MO te differentiëren en te digitaliseren. Dit heeft geresulteerd in een kader voor oriëntatie waarbij inburgeraars, op basis van screening, worden doorverwezen naar het meest geschikte aanbod, waaronder zelfstudie, begeleide zelfstudie, digitale cursussen, ICT-voortrajecten in functie van het digitaal aanbod MO en klassikaal onderwijs. Tevens worden maatwerkcursussen georganiseerd voor specifieke doelgroepen, zoals werkzoekenden (sectortrajecten bouw, zorg, IT), studenten en jongeren. De differentiatie is gebaseerd op ervaringen met afstandsleren sinds de pandemie, pilots, wetenschappelijk onderzoek en bevragingen binnen diverse doelgroepen. Het onderscheid betreft uitsluitend de vorm van de cursus; de inhoud blijft uniform. Alle onderwijsvormen behandelen de volledige set aan onderwijsdoelen als basisinhoud om te voldoen aan gestandaardiseerde toetsing. De elf leeromgevingen zijn als volgt vastgesteld: stad en land, mobiliteit, gezin, publieke diensten, werken, wonen, consumptie, gezondheid, onderwijs, vrije tijd en verblijfssituatie. Binnen deze onderwijsdoelen behouden docenten pedagogische vrijheid om lesinhoud en werkvormen af te stemmen op de voorkennis en specifieke behoeften van de cursisten. Naast kennisoverdracht wordt veel aandacht besteed aan het ontwikkelen van vaardigheden en attitudes in groepsverband, waaronder dialogen over principes en uitgangspunten. Door de digitalisering van het aanbod is er nu meer inhoudelijke en praktische flexibiliteit mogelijk. In het project ‘modulair aanbod MO’ willen we voortbouwen op dit basisaanbod en inspelen op de duidelijke ambities van zowel de federale als Vlaamse regering. Zij willen immers inburgeringstrajecten via afstandsonderwijs vanuit het thuisland of buitenland mogelijk maken. Het doel is om deelnemers aan deze vorm van onderwijs al vóór hun aankomst in België een voorsprong te geven, zodat hun integratie sneller verloopt. Het project modulair aanbod maatschappelijke oriëntatie (MO) richt zich op een snellere, efficiëntere en meer gepersonaliseerde inburgering voor specifieke groepen (toekomstige) inburgeraars, zoals gezinsherenigers en niet-EU arbeidsmigranten in het buitenland. Daarbij ligt de nadruk niet op één vast traject, maar juist op aparte modules die flexibel gecombineerd kunnen worden tot maatwerktrajecten. Zo kunnen het instappakket en doelgroepgerichte modules los van elkaar gebruikt worden, zodat voor elke doelgroep een geschikt programma kan worden samengesteld. Deze aanpak biedt maximale flexibiliteit en maakt het mogelijk optimaal in te spelen op de verschillende achtergronden, voorkennis en leerbehoeften van de inburgeraars.",
-      "cpv": "48000000",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-06-22",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/426289-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "423713-2026",
-      "ref": "423713-2026",
-      "acheteur": "Freie und Hansestadt Hamburg Behörde für Stadtentwicklung und Wohnen",
-      "objet": "Allemagne – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Räumliches Leitbild der Stadtentwicklung Hamburg Auftrag II Workshopverfahren",
-      "description": "Mit dem Räumlichen Leitbild \"Wachsende Stadt - Grüne Metropole\" von 2007 und dessen Aktualisierung \"Grüne, gerechte, wachsende Stadt am Wasser\" von 2014 verfügt Hamburg über ein gesamtstädtisches Leitbild, das sich in den vergangenen Jahren als zielgerichtetes Navigationsinstrument für die Hamburger Stadtentwicklung bewährt hat. Eine Neuauflage des Räumlichen Leitbildes wird jedoch zunehmend erforderlich. Die Rahmenbedingungen für Stadtentwicklung haben sich verändert oder sind in ihrer Dynamik weiterhin herausfordernd: Die enorme Nachfrage nach bezahlbaren Wohnungen, der demographische Wandel, die voranschreitende Digitalisierung und technologische Neuerungen, die Veränderung der Arbeitswelten und des Handels, neue Wissens-orte, die Anpassung an den Klimawandel, die anstehende Mobilitätswende und der Er-halt der Freiraumsysteme sind noch stärker in den Fokus der Debatten um die zukünftige Hamburger Stadtentwicklung gerückt. Neue Perspektiven für Stadträume eröffnen insbesondere die großen Stadtentwicklungs- und Infrastrukturprojekte: Mit dem Ausbau der U- und S-Bahnlinien werden hunderttausende Menschen in einer neuen Qualität an das Schnellbahnnetz angeschlossen. Allein an Haltestellen der U5 werden nach den aktuellen Prognosen täglich mehr als 500.000 Menschen ein-, aus- und umsteigen. Mit anderen großen Infrastrukturprojekten wie dem Umbau des Hauptbahnhofs und einem möglichen zweiten City-tunnel für die S-Bahn werden neue Impulse der Innenentwicklung gesetzt. Die Magistralen werden zu zukunftsfähigen Mobilitäts- und attraktiven Stadträumen weiterentwickelt und geben dadurch Impulse für neue Stadtentwicklungsvorhaben. Durch die Entwicklung der Science City in Hamburg-Bahrenfeld, des Grasbrooks und der neuen Stadtquartiere im Hamburger Osten, in Oberbillwerder, auf den Elbinseln und im Süderelberaum werden neue Akzente in der \"Urbanisierungszone\" der Stadt gesetzt. Die äußeren Bereiche der Stadt erfordern durch die Magistralenentwicklung und den Schnellbahnausbau ein besonderes Augenmerk. In den Bestandsquartieren sind die räumlichen Muster der sozialen Ungleichheit Hamburgs weiter zu nivellieren. Ebenso ist eine inklusive Stadtentwicklung in allen Quartieren weiter voranzubringen. Auf regionaler Ebene gewinnt die grenzübergreifende Befassung mit dem Verflechtungsraum bzw. der Stadtregion an Bedeutung. Der Stadt- Umland-Atlas der BSW zeigt die wesentlichen räumlichen Entwicklungen der Stadt Hamburg und des Verflechtungs-raumes auf - eine wesentliche Datengrundlage für das Räumliche Leitbild. Diese Themen besitzen erhebliche Auswirkungen auf das Grundgerüst der Stadt und lösen neue Dynamiken für ihre räumliche Entwicklung aus. Vor diesem Hintergrund möchte die BSW das Räumliche Leitbild neu auflegen. Die bewährten Strategien der Hamburger Stadtentwicklung sind dabei zu berücksichtigen und ggf. weiterzuentwi-ckeln. Mit der Neuauflage des Räumlichen Leitbilds für Hamburg soll ein neues räumliches Zukunftsbild der Stadtentwicklung geschaffen werden, welches die Ziele der unter-schiedlichen Politikfelder in stadträumliche Strukturen und Prozesse übersetzt und gleichzeitig die bestehenden teilräumlichen Konzepte und Projekte in einen größeren Kontext setzt. Die Aufgabe ist, die räumlichen Strukturen und Entwicklungsprinzipien für die Gesamtstadt weiterzuentwickeln, beispielsweise zu der städtischen Dichte, Bebauungsstrukturen und Nutzungen. Dabei sollen vor allem die räumlichen Aussagen in Form von Zielformulierungen, verortbaren Entwicklungsansätzen und Handlungsstrategien im Fokus stehen. So soll ein räumliches \"Entwicklungsgerüst\" entstehen, welches robust ist und auf eine Bandbreite unterschiedlicher stadträumlicher Dynamiken und Trends, die durch den Stadt-Umland- Atlas sichtbar geworden sind, reagieren kann. Vor diesem Hintergrund sind auch Perspektiven für die stadtregionale Entwicklung zu be-denken. Das Räumliche Leitbild ist ein zentrales Steuerungs- und Kommunikationsinstrument für die Perspektiven der Hamburger Stadtentwicklung. Als informeller strategischer Planwerk entfaltet es FHH-intern Bindungswirkung und nimmt als Entscheidungskompass gleichzeitig Einfluss auf eine Vielzahl von Entwicklungsprozessen anderer Akteurinnen und Akteure der Stadtentwicklung. Mit dem Räumlichen Leitbild kann Hamburg zeigen, wie die in den Nachhaltigkeitszielen der Vereinten Nationen (SDGs) und der Neuen Leipzig-Charta genannten Prinzipien einer sozial gerechten, umwelt- und klimagerechten sowie kulturell und ökonomisch produktiven Stadtentwicklung durch die räumliche Entwicklung der Stadt gesichert werden können. Zum besseren Verständnis der konkret zu erfüllenden Aufgabenstellung siehe Anlage 5 \"Leistungsbeschreibung\" (Teil der Vergabeunterlagen).",
-      "cpv": "71000000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-06-19",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/423713-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "431687-2026",
       "ref": "431687-2026",
       "acheteur": "ONISEP",
@@ -719,21 +691,21 @@
       "auto": true
     },
     {
-      "id": "435866-2026",
-      "ref": "435866-2026",
-      "acheteur": "De Vlaamse Waterweg nv",
-      "objet": "Belgique – Services relatifs à la gestion – Raamovereenkomst inzake procesoptimalisatie en assetbeheer \"Smart Maintenance\"",
-      "description": "Het voorwerp van de opdracht is het uitvoeren van taken inzake procesoptimalisatie en assetbeheer “smart maintenance”. Daarnaast wordt ingezet te worden het op maat leveren van business consultancy ondersteuning en expertise.",
-      "cpv": "79420000",
-      "pays": "BEL",
-      "deadline": "2026-07-30",
+      "id": "428355-2026",
+      "ref": "428355-2026",
+      "acheteur": "Einkauf und Vergabemanagement der SBK",
+      "objet": "Allemagne – Services de développement de logiciels transactionnels commerciaux et personnels – Treasury Management System",
+      "description": "Es soll ein Treasury Management System eingeführt werden, welches die bisherige Excel Struktur ablöst.",
+      "cpv": "72212400",
+      "pays": "DEU",
+      "deadline": "2026-07-23",
       "montant": 0,
-      "publication": "2026-06-25",
+      "publication": "2026-06-24",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/435866-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/428355-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Word"
+        "Excel"
       ],
       "bureautique": true,
       "score": 62,
@@ -750,21 +722,21 @@
       "auto": true
     },
     {
-      "id": "428355-2026",
-      "ref": "428355-2026",
-      "acheteur": "Einkauf und Vergabemanagement der SBK",
-      "objet": "Allemagne – Services de développement de logiciels transactionnels commerciaux et personnels – Treasury Management System",
-      "description": "Es soll ein Treasury Management System eingeführt werden, welches die bisherige Excel Struktur ablöst.",
-      "cpv": "72212400",
-      "pays": "DEU",
-      "deadline": "2026-07-23",
+      "id": "435866-2026",
+      "ref": "435866-2026",
+      "acheteur": "De Vlaamse Waterweg nv",
+      "objet": "Belgique – Services relatifs à la gestion – Raamovereenkomst inzake procesoptimalisatie en assetbeheer \"Smart Maintenance\"",
+      "description": "Het voorwerp van de opdracht is het uitvoeren van taken inzake procesoptimalisatie en assetbeheer “smart maintenance”. Daarnaast wordt ingezet te worden het op maat leveren van business consultancy ondersteuning en expertise.",
+      "cpv": "79420000",
+      "pays": "BEL",
+      "deadline": "2026-07-30",
       "montant": 0,
-      "publication": "2026-06-24",
+      "publication": "2026-06-25",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/428355-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/435866-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Excel"
+        "Word"
       ],
       "bureautique": true,
       "score": 62,

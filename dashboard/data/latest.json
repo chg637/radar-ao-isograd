@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T07:47:16.596Z",
+  "generated_at": "2026-07-19T08:14:25.348Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
@@ -7,30 +7,30 @@
       "fetched": 500,
       "matched": 26,
       "go": 2,
-      "generated_at": "2026-07-18T07:40:22.498Z"
+      "generated_at": "2026-07-19T08:07:36.541Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-18T07:47:15.952Z"
+      "generated_at": "2026-07-19T08:14:24.878Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-18T07:47:16.463Z"
+      "generated_at": "2026-07-19T08:14:25.183Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 25,
+  "total_matched": 26,
   "total_go": 2,
-  "total_dedup_collisions": 1,
+  "total_dedup_collisions": 0,
   "dedup_breakdown": {
     "by_id": 0,
-    "fuzzy_signature": 1,
+    "fuzzy_signature": 0,
     "fuzzy_jaccard": 0
   },
   "notices": [
@@ -99,6 +99,37 @@
       "auto": true
     },
     {
+      "id": "442125-2026",
+      "ref": "442125-2026",
+      "acheteur": "Gemeente Utrecht",
+      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Datagestuurd reinigen van openbare buitenruimtes",
+      "description": "De gemeente heeft de doelstelling om de schoonmaakactiviteiten in de buitenruimte voor schoon, groen en grijs effectiever en efficiënter uit te voeren, zodat de beeldkwaliteit in de stad verder verbetert. Om deze doelstelling te realiseren, willen we slimme, mobiele cameratechnologie inzetten. Deze technologie fungeert als voorschouw door de stad op reguliere of variabele basis te monitoren en uitgevoerde of benodigde werkzaamheden te herkennen. Hierbij gaat het bijvoorbeeld om verschillende vormen van (zwerf)afval en ander soort afval in de openbare ruimte. De herkende activiteiten worden vertaald in data, die vervolgens dient als input voor het opstellen van de werkverdeling en uitvoeringsplanning in de verschillende gebieden en voertuigen. Deze beelden moeten ter plekke en direct (dus in het voertuig/op de fiets) omgezet worden in data. Met deze data kan de uitvoering gericht worden aangestuurd naar locaties waar daadwerkelijk vervuiling is aangetroffen Verwachte omvang van de raamovereenkomst: De gemeente verwacht over de gehele looptijd (maximaal 4 jaar) van de raamovereenkomst een verwachte totale waarde af te nemen van € 1.200.000,- Dit komt neer op een jaarlijkse verwachte waarde van € 300.000,- Maximumomvang (of: begrenzing) van de raamovereenkomst: De maximale totale waarde over de gehele looptijd (maximaal 4 jaar) van de raamovereenkomst is € 1.800.000,- Dit komt neer op een jaarlijkse maximale waarde van € 450.000,- Zodra het maximumbedrag bereikt wordt, eindigt de raamovereenkomst automatisch. U kunt aan deze waarden geen rechten ontlenen. ",
+      "cpv": "72200000",
+      "pays": "NLD",
+      "deadline": "2026-08-24",
+      "montant": 1200,
+      "publication": "2026-06-29",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/442125-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 74,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "429512-2026",
       "ref": "429512-2026",
       "acheteur": "Provincie Utrecht",
@@ -161,6 +192,37 @@
       "auto": true
     },
     {
+      "id": "441976-2026",
+      "ref": "441976-2026",
+      "acheteur": "Stichting Data Safe House",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – IT Dataplatform",
+      "description": "Stichting Data Safe House wenst een overeenkomst met één opdrachtnemer te sluiten voor de ontwikkeling en het beheer van een IT Dataplatform. Zie voor meer informatie de aanbestedingsstukken. Alle ondernemers die aan de eisen voldoen worden uitgenodigd een inschrijving in te dienen. Dat kan zelfstandig, als samenwerkingsverband en/of door een beroep te doen op derden en/of onderaannemers. De overeenkomst biedt ook ruimte om door te ontwikkelen. Dit valt van te voren nog niet volledig te overzien, waardoor de overeenkomst op onderdelen het karakter heeft van een raamovereenkomst. Dit betekent dat de totale opdrachtwaarde uiteindelijk boven de €1.100.000 kan uitkomen, waarbij als maximum twee (2) keer deze waarde (€2.200.000) wordt aangehouden. De hierboven genoemde omvang is slechts bedoeld als indicatie. Opdrachtnemer kan hier op geen enkele wijze rechten aan ontlenen. Alle genoemde bedragen zijn exclusief btw.",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 2200,
+      "publication": "2026-06-29",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/441976-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "432632-2026",
       "ref": "432632-2026",
       "acheteur": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
@@ -204,6 +266,37 @@
       "publication": "2026-06-25",
       "source": "TED",
       "url": "https://ted.europa.eu/fr/notice/-/detail/433103-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "438781-2026",
+      "ref": "438781-2026",
+      "acheteur": "Ministerie van Sociale Zaken en Werkgelegenheid",
+      "objet": "Pays-Bas – Services de maintenance des systèmes et services d'assistance – DSU Managed Hosting en Beheer",
+      "description": "Het doel van deze Aanbesteding is het selecteren van één leverancier voor het leveren van ICT-dienstverlening op het gebied van managed hosting en beheer. De geraamde waarde van de Opdracht bedraagt gemiddeld € 800.000 (achthonderdduizend euro) exclusief btw per jaar, derhalve totaal € 8.000.000 (acht miljoen euro) exclusief btw over een looptijd van 10 (tien) jaar. Indien en voorzover de overeenkomst als een raamovereenkomst zou worden aangemerkt, geldt een maximale omvang van € 12.000.000 (twaalf miljoen euro).",
+      "cpv": "72250000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 12000,
+      "publication": "2026-06-25",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/438781-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -276,68 +369,6 @@
         "fit": 30,
         "size": 13,
         "tech": 14,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "418150-2026",
-      "ref": "418150-2026",
-      "acheteur": "SSC IUC DJI",
-      "objet": "Pays-Bas – Services de développement de logiciels de gestion des systèmes, de stockage et de contenu – Compact geautomatiseerd opslagsysteem +4 graden Celsius t.b.v. het NFI",
-      "description": "De opdracht betreft de levering, installatie en het onderhoud van een compact, geautomatiseerd opslagsysteem +4 Celsius ten behoeve van het Nederlands Forensisch Instituut (NFI) te Den Haag, Nederland. Het opslagsysteem heeft ongeveer een koelkastformaat en er worden minimaal 500 AutoLys-tubes met DNA-sporen en minimaal 6000 FluidX-tubes met DNA-extracten in opgeslagen bij een temperatuur van 4 °Celsius. Aansluitend aan een garantietermijn van minimaal 1 jaar volgt 10 jaar onderhoud en daarna de optie het onderhoud voort te zetten tot uiterlijk het einde van de technische levensduur van het opslagsysteem. Daarnaast geldt een optie om een tweede, identiek opslagsysteem af te nemen, inclusief onderhoud tot uiterlijk het einde van de technische levensduur. Er wordt beoogd één overeenkomst te sluiten met een opdrachtnemer die de levering, installatie en het onderhoud verzorgt, ook voor het optionele tweede opslagsysteem. Aanbestedende dienst gaat uit van een geraamde totale opdrachtwaarde, inclusief ALLE opties, van € 940.000,-.",
-      "cpv": "72212780",
-      "pays": "NLD",
-      "deadline": "2026-08-24",
-      "montant": 940,
-      "publication": "2026-06-18",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/418150-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "420754-2026",
-      "ref": "420754-2026",
-      "acheteur": "Gemeente Dordrecht | Bedrijfsvoering Drechtsteden",
-      "objet": "Pays-Bas – Services de formation – Talentenfonds Drechtsteden 2026-2027",
-      "description": "Sectoren Zorg en Welzijn, Techniek en Bouw, en Transport en Logistiek en Maritiem De opdracht omvat één geïntegreerde opdracht voor het leveren van opleidingen in alle vier sectoren, met een totaalbudget van € 2.200.000 incl. btw. Opleiders kunnen inschrijven voor een of meerdere sectoren, maar worden beloond voor veelzijdigheid in hun aanbod. De opleidingen moeten: • Direct aansluiten op de actuele arbeidsmarktvraag in de Drechtsteden. • (Basis)-beroepsvaardigheden ontwikkelen, afgestemd op de doelgroep. • Kosteloos en laagdrempelig zijn voor deelnemers, mede door een minimale cofinancieringsbijdrage van 25% door opleiders.",
-      "cpv": "80500000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 2200,
-      "publication": "2026-06-18",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/420754-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
         "com": 5,
         "admin": 7,
         "delay": 3

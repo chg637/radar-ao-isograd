@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-07-19T08:14:25.348Z",
+  "generated_at": "2026-07-20T08:55:42.928Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 26,
-      "go": 2,
-      "generated_at": "2026-07-19T08:07:36.541Z"
+      "matched": 22,
+      "go": 0,
+      "generated_at": "2026-07-20T08:48:44.678Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-19T08:14:24.878Z"
+      "generated_at": "2026-07-20T08:55:42.493Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-19T08:14:25.183Z"
+      "generated_at": "2026-07-20T08:55:42.791Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 26,
-  "total_go": 2,
+  "total_matched": 22,
+  "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
     "by_id": 0,
@@ -34,70 +34,6 @@
     "fuzzy_jaccard": 0
   },
   "notices": [
-    {
-      "id": "424521-2026",
-      "ref": "424521-2026",
-      "acheteur": "Communauté d’agglomération de GrandAngoulême",
-      "objet": "France – Services de formation – Services de formations professionnelles du personnel des adhérents de GrAP (19 lots)",
-      "description": "Lot n°1 - Formation à la conduite en sécurité d’engins / Lot n°2 - Formation ACCUS / Lot n°3 - Formation à la conduite de véhicules (Permis B / C / BE / CE) / Lot n°4 - Formation obligatoire à la conduite de véhicules (FCO/FIMO) / Lot n°5 - Formation préparatoire aux habilitations électriques (initiale et recyclage) / Lot n°6 - Formation préparatoire aux habilitations monteur et aide monteur d’échafaudages / Lot n°7 - Formation préparatoire aux habilitations de soudage oxyacéthylénique et au brasage capillaire fort / Lot n°8 - Formation préparatoire aux habilitations EPI, travail en hauteur sur cordes et travaux en profondeur / Lot n°9 - Formation aux technique de grimper et de déplacement en sécurité dans les arbres / Lot n°10 - Formation diplômante au service de sécurité incendie et d’assistance à personne (initiale et recyclage) SSIAP 1-2 et 3 / Lot n°11 - Formation diplômante aux premiers secours en équipes - PSE 1-2 / Lot n°12 - Bilan de compétences / Lot n°13 - Formation aux opérations exposant à l’amiante sur des immeubles par nature ou par destination (sous-section 4) / Lot n°14 - Formation sécurité incendie et manipulation des extincteurs SSI (initiale et recyclage) / Lot n°15 - Formation gestes et postures / Lot n°16 - Formation prévention des risques liés à l’activité physique (PRAP) / Lot n°17 - Formation Sauveteur Secouriste du Travail (Initiale et MAC) / Lot n°18 - Formation aux Premiers Secours Citoyen (PSC, Ex PSC1) / Lot n°19 – Formation CATEC Surveillant / Intervenant : Certificat d’Aptitude à Travailler en Espace Confiné",
-      "cpv": "80500000",
-      "pays": "FRA",
-      "deadline": "2026-09-04",
-      "montant": 7400,
-      "publication": "2026-06-19",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/424521-2026",
-      "segment": "Collectivités",
-      "keyword_hits": [
-        "bilan de compétences",
-        "habilitation"
-      ],
-      "bureautique": false,
-      "score": 84,
-      "score_detail": {
-        "fit": 40,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "go",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "424613-2026",
-      "ref": "424613-2026",
-      "acheteur": "Secretaría General de la Consejería de Hacienda, Administraciones Públicas y Transformación Digital de la Junta de Comunidades de Castilla-La Mancha",
-      "objet": "Espagne – Services de formation – Servicios de Formación en Competencias Digitales transversales para la Ciudadanía: Continuación del proyecto Ciudadanía Digital ampliando la oferta formativa, siguiendo el marco europeo DigComp, promovido por la JCCM, Plan de Recuperación Transformación y Resiliencia- Financiado por la Unión Europea-Next Geration EU.",
-      "description": "El presente contrato tiene por objeto, conseguir en Castilla-La Mancha, dentro del plazo de ejecución, el mayor número posible de personas formadas en competencias digitales transversales para la ciudadanía, según el marco DigComp de la Unión Europea, el cual define las competencias digitales necesarias para desenvolverse eficazmente en la sociedad digital actual.",
-      "cpv": "80500000",
-      "pays": "ESP",
-      "deadline": "",
-      "montant": 536,
-      "publication": "2026-06-19",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/424613-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "DigComp",
-        "DigComp"
-      ],
-      "bureautique": false,
-      "score": 80,
-      "score_detail": {
-        "fit": 40,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "go",
-      "notes": "",
-      "auto": true
-    },
     {
       "id": "442125-2026",
       "ref": "442125-2026",
@@ -347,37 +283,6 @@
       "auto": true
     },
     {
-      "id": "424002-2026",
-      "ref": "424002-2026",
-      "acheteur": "Gemeente Steenwijkerland",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Europees openbare aanbesteding - SIEM/SOC-dienstverlening",
-      "description": "De gemeente Steenwijkerland wenst voor de feitelijke uitvoering van haar Security Operations Center (SOC)- en Security Information and Event Management (SIEM)- dienstverlening één opdrachtnemer te contracteren. Deze dienstverlening ondersteunt actief bij het voorkomen van inbreuken, schade en overlast in de ICT-infrastructuur. Deze aanbesteding bestaat niet uit meerdere percelen. De scope kent een sterke technische en economische samenhang, waardoor splitsing zou leiden tot risico’s ten aanzien van de continuïteit en kwaliteit van de dienstverlening én ten aanzien van de opvolgende werking van de losse componenten en functionaliteiten. Marktonderzoek laat verder zien dat het geheel van de scope niet beperkend werkt voor de markt en het MKB niet onnodig benadeelt. Er kan dus alleen op het geheel worden ingeschreven. De totaal geraamde waarde van de opdracht voor de gehele maximale looptijd (10 jaar) bedraagt € 840.000,-. Deze raming is gebaseerd op de uitgaven van voorgaande jaren en een marktverkenning. Voor deze aanbesteding geldt een plafondbedrag voor onderdeel prijs. Hierbij wordt onderscheid gemaakt in implementatiekosten en exploitatiekosten. Voor de implementatiekosten geldt een plafondbedrag van € 50.000,- exclusief Btw. Voor exploitatiekosten is dit € 850.000,- exclusief Btw gebaseerd op de gehele looptijd van 10 jaar.",
-      "cpv": "72000000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 453,
-      "publication": "2026-06-19",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/424002-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 14,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "435849-2026",
       "ref": "435849-2026",
       "acheteur": "Universiteit van Amsterdam",
@@ -492,6 +397,37 @@
       "score_detail": {
         "fit": 30,
         "size": 10,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "442838-2026",
+      "ref": "442838-2026",
+      "acheteur": "Provincie Oost-Vlaanderen",
+      "objet": "Belgique – Services de formation spécialisée – Raamovereenkomst: Het organiseren van opleidingen voor het redden van dieren",
+      "description": "Deze opdracht betreft een dienstenopdracht voor het organiseren, coördineren en uitvoeren van modulaire opleidingen inzake het redden, bevrijden en evacueren van grote dieren (waaronder, niet-limitatief, paarden, runderen en andere grote landbouwhuisdieren), ten behoeve van PAULO Brandweer en de deelnemende brandweerzones. De opleidingen worden georganiseerd op het grondgebied van België of in het buitenland, afhankelijk van de gekozen modules, de beschikbare expertise en de operationele noden. De opdracht kwalificeert als een sociale en andere specifieke dienst zoals bedoeld in bijlage III van de wet van 17 juni 2016. De opdracht beoogt het structureel uitbouwen van een duurzaam opleidingskader voor gespecialiseerde interventietechnieken bij incidenten met grote dieren, met als doel: • Het veilig benaderen, stabiliseren en evacueren van grote dieren in noodsituaties, • Verhoging van de operationele veiligheid van hulpverleners, • Minimalisering van risico’s voor het dier, • Standaardisering van procedures, • Het uitbouwen van duurzame expertise binnen PAULO Brandweer. De opdrachtnemer staat in voor de integrale opleidingsorganisatie per module en/of opleidingstraject. PAULO Brandweer leidt cursisten op in redding van grote dieren en beschikt hiervoor over een poule van instructeurs in opleiding. Voor de organisatie van deze opleidingen werkt PAULO samen met een opdrachtnemer die de volledige cursus kan aanbieden (per groep van 12 deelnemers), inclusief optionele componenten zoals hotel, restauratie, theorielokaal, logistiek, materiaal en certificering. Looptijd overeenkomst: De uitvoeringstermijn van deze opdracht bedraagt 2 jaar, te rekenen vanaf de datum van de kennisgeving van de gunning. Na afloop van deze vaste termijn kan de opdracht stilzwijgend worden verlengd met 2 periodes van telkens 12 maanden, onder dezelfde contractuele voorwaarden (maximaal 4 jaar). Deze verlengingen dienen uitsluitend om PAULO toe te laten de kwaliteit, werking en resultaten van de opleidingen te evalueren en eventueel een nieuwe procedure op te starten indien de opdracht na twee jaar niet langer voldoet aan de verwachtingen. Indien de opleidingen positief worden geëvalueerd, kan zij tot 4 jaar van deze dienstverlening genieten, mede gelet op de investeringen en kosten die met dergelijke specialistische opleiding gepaard gaan.",
+      "cpv": "80510000",
+      "pays": "BEL",
+      "deadline": "2026-08-12",
+      "montant": 0,
+      "publication": "2026-06-29",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/442838-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -657,37 +593,6 @@
       "auto": true
     },
     {
-      "id": "423713-2026",
-      "ref": "423713-2026",
-      "acheteur": "Freie und Hansestadt Hamburg Behörde für Stadtentwicklung und Wohnen",
-      "objet": "Allemagne – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Räumliches Leitbild der Stadtentwicklung Hamburg Auftrag II Workshopverfahren",
-      "description": "Mit dem Räumlichen Leitbild \"Wachsende Stadt - Grüne Metropole\" von 2007 und dessen Aktualisierung \"Grüne, gerechte, wachsende Stadt am Wasser\" von 2014 verfügt Hamburg über ein gesamtstädtisches Leitbild, das sich in den vergangenen Jahren als zielgerichtetes Navigationsinstrument für die Hamburger Stadtentwicklung bewährt hat. Eine Neuauflage des Räumlichen Leitbildes wird jedoch zunehmend erforderlich. Die Rahmenbedingungen für Stadtentwicklung haben sich verändert oder sind in ihrer Dynamik weiterhin herausfordernd: Die enorme Nachfrage nach bezahlbaren Wohnungen, der demographische Wandel, die voranschreitende Digitalisierung und technologische Neuerungen, die Veränderung der Arbeitswelten und des Handels, neue Wissens-orte, die Anpassung an den Klimawandel, die anstehende Mobilitätswende und der Er-halt der Freiraumsysteme sind noch stärker in den Fokus der Debatten um die zukünftige Hamburger Stadtentwicklung gerückt. Neue Perspektiven für Stadträume eröffnen insbesondere die großen Stadtentwicklungs- und Infrastrukturprojekte: Mit dem Ausbau der U- und S-Bahnlinien werden hunderttausende Menschen in einer neuen Qualität an das Schnellbahnnetz angeschlossen. Allein an Haltestellen der U5 werden nach den aktuellen Prognosen täglich mehr als 500.000 Menschen ein-, aus- und umsteigen. Mit anderen großen Infrastrukturprojekten wie dem Umbau des Hauptbahnhofs und einem möglichen zweiten City-tunnel für die S-Bahn werden neue Impulse der Innenentwicklung gesetzt. Die Magistralen werden zu zukunftsfähigen Mobilitäts- und attraktiven Stadträumen weiterentwickelt und geben dadurch Impulse für neue Stadtentwicklungsvorhaben. Durch die Entwicklung der Science City in Hamburg-Bahrenfeld, des Grasbrooks und der neuen Stadtquartiere im Hamburger Osten, in Oberbillwerder, auf den Elbinseln und im Süderelberaum werden neue Akzente in der \"Urbanisierungszone\" der Stadt gesetzt. Die äußeren Bereiche der Stadt erfordern durch die Magistralenentwicklung und den Schnellbahnausbau ein besonderes Augenmerk. In den Bestandsquartieren sind die räumlichen Muster der sozialen Ungleichheit Hamburgs weiter zu nivellieren. Ebenso ist eine inklusive Stadtentwicklung in allen Quartieren weiter voranzubringen. Auf regionaler Ebene gewinnt die grenzübergreifende Befassung mit dem Verflechtungsraum bzw. der Stadtregion an Bedeutung. Der Stadt- Umland-Atlas der BSW zeigt die wesentlichen räumlichen Entwicklungen der Stadt Hamburg und des Verflechtungs-raumes auf - eine wesentliche Datengrundlage für das Räumliche Leitbild. Diese Themen besitzen erhebliche Auswirkungen auf das Grundgerüst der Stadt und lösen neue Dynamiken für ihre räumliche Entwicklung aus. Vor diesem Hintergrund möchte die BSW das Räumliche Leitbild neu auflegen. Die bewährten Strategien der Hamburger Stadtentwicklung sind dabei zu berücksichtigen und ggf. weiterzuentwi-ckeln. Mit der Neuauflage des Räumlichen Leitbilds für Hamburg soll ein neues räumliches Zukunftsbild der Stadtentwicklung geschaffen werden, welches die Ziele der unter-schiedlichen Politikfelder in stadträumliche Strukturen und Prozesse übersetzt und gleichzeitig die bestehenden teilräumlichen Konzepte und Projekte in einen größeren Kontext setzt. Die Aufgabe ist, die räumlichen Strukturen und Entwicklungsprinzipien für die Gesamtstadt weiterzuentwickeln, beispielsweise zu der städtischen Dichte, Bebauungsstrukturen und Nutzungen. Dabei sollen vor allem die räumlichen Aussagen in Form von Zielformulierungen, verortbaren Entwicklungsansätzen und Handlungsstrategien im Fokus stehen. So soll ein räumliches \"Entwicklungsgerüst\" entstehen, welches robust ist und auf eine Bandbreite unterschiedlicher stadträumlicher Dynamiken und Trends, die durch den Stadt-Umland- Atlas sichtbar geworden sind, reagieren kann. Vor diesem Hintergrund sind auch Perspektiven für die stadtregionale Entwicklung zu be-denken. Das Räumliche Leitbild ist ein zentrales Steuerungs- und Kommunikationsinstrument für die Perspektiven der Hamburger Stadtentwicklung. Als informeller strategischer Planwerk entfaltet es FHH-intern Bindungswirkung und nimmt als Entscheidungskompass gleichzeitig Einfluss auf eine Vielzahl von Entwicklungsprozessen anderer Akteurinnen und Akteure der Stadtentwicklung. Mit dem Räumlichen Leitbild kann Hamburg zeigen, wie die in den Nachhaltigkeitszielen der Vereinten Nationen (SDGs) und der Neuen Leipzig-Charta genannten Prinzipien einer sozial gerechten, umwelt- und klimagerechten sowie kulturell und ökonomisch produktiven Stadtentwicklung durch die räumliche Entwicklung der Stadt gesichert werden können. Zum besseren Verständnis der konkret zu erfüllenden Aufgabenstellung siehe Anlage 5 \"Leistungsbeschreibung\" (Teil der Vergabeunterlagen).",
-      "cpv": "71000000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-06-19",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/423713-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "431687-2026",
       "ref": "431687-2026",
       "acheteur": "ONISEP",
@@ -771,37 +676,6 @@
       "score_detail": {
         "fit": 30,
         "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "423370-2026",
-      "ref": "423370-2026",
-      "acheteur": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
-      "objet": "Allemagne – Services de conseil et d'évaluation – Evaluation des Förderprogramms „Exportinitiative Umweltschutz“ des Bundesministeriums für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (2020 bis 2025)",
-      "description": "Umweltinnovationen und Klimatechnologien sind zentrale Säulen der deutschen Industrie und des Mittelstands. Mit der „Exportinitiative Umweltschutz“ (kurz EXI) fördert das Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) seit 2016 den deutschen Clean- und GreenTech-Mittelstand bei Projekten, die den Know-how-Transfer sowie die Anwendung deutscher Umweltschutz- und Ressourceneffizienztechnologien weltweit unterstützen. Globaler Umwelt- und Klimaschutz gelingt nur, wenn auch die notwendigen Infrastrukturen sowie rechtliche, politische und administrative Rahmenbedingungen vorhanden sind. Das Förderprogramm stärkt die deutsche Clean- und GreenTech-Branche (überwiegend KMU) darin, gemeinsam mit lokalen Partnern weltweit nachhaltige technische Lösungen für Umweltprobleme umzusetzen. Als Umweltprogramm mit klarem Wirtschaftsfokus fördert es investive Projekte in den Bereichen: • Kreislauf- und Ressourcenwirtschaft • Wasser- und Abwassertechnik • Netzferne grüne Wasserstoff- und Brennstoffzellentechnologien und • Innovative Querschnittstechnologien Die EXI bilanziert zu ihrem zehnjährigen Bestehen über 200 Projekte mit „GreenTech made in Germany“ in rund 100 Entwicklungs- und Schwellenländern und einem Fördervolumen von 82 Millionen Euro. Mit ihrem Umweltfokus und ihrem vergleichsweise flexiblen Unterstützungsprofil schlägt die EXI im Förderkontext des Bundes eine Verbindung zwischen dem Bereich der Entwicklungszusammenarbeit und klassischer Exportförderung. Die EXI hat sich als wichtiger Baustein im Rahmen der ressortübergreifenden Zusammenarbeit – insbesondere zu Maßnahmen des Bundeswirtschaftsministeriums (BMWE) - etabliert und ergänzt die „klassische“ Außenwirtschaftsförderung mit einem spezifischen Umweltfokus. Gegenstand ist die zweite Evaluierung des EXI-Förderprogramms. Es sollen Zielerreichung, Wirkung und Wirtschaftlichkeit des Förderprogramms „Exportinitiative Umweltschutz“ untersucht werden. Eine Evaluierung des Programms soll eine fundierte Einschätzung der erzielten positiven Effekte ermöglichen, aber auch Defizite aufzeigen, sodass der Auftraggeber auf dieser Basis die Gestaltung künftiger Maßnahmen und Programme gegebenenfalls optimieren kann. Im Jahr 2021 wurde die EXI erstmalig von der „Gesellschaft für Innovationsforschung und Beratung mbH“ (IFGE) im Auftrag des Bundesumweltministerium für den Zeitraum von Programmbeginn 2016 bis 2019 evaluiert. Diese erste Evaluation stellt den Ausgangspunkt für die zweite Evaluation der EXI dar. Das Förderprogramm hat in den letzten Jahren mehrere Neuerungen erfahren und wurde stetig weiterentwickelt. Wesentliche Meilensteine waren z.B. die Einführung der EXI-Baumpflanzaktion, das neue Handlungsfeld für grüne Wasserstoff- und Brennstoffzellentechnologien zur dezentralen, netzfernen Stromversorgung (seit März 2021), der Wechsel der Projektträgerin für die EXI im Januar 2022, der neue Programmname „Exportinitiative Umweltschutz“ (bis Juli 2021 unter „Exportinitiative Umwelttechnologien“) sowie insb. auch die Schwerpunktsetzung der EXI im Jahr 2022 auf investiven Komponenten für mehr Investitionsförderungen im Bereich GreenTech . Gegenstand der Evaluierung sind die im Rahmen der Förderrichtlinien vom 21. Mai 2019, 30. April 2021 sowie vom 02. Mai 2024 geförderten und durchgeführten Projekte . Es handelt sich dabei um 75 Einzel- und Verbundprojekte mit insgesamt 94 Teilvorhaben, die im Zeitraum 2020 bis 2025 vom BMUKN bewilligt wurden und deren Projektlaufzeit gleichzeitig beendet ist. Die überwiegende Anzahl an Projekten (über 70 Teilvorhaben) ist bereits formal abgeschlossen worden. Zu den Zuwendungsprojekten gehören zusätzlich 12 Einzelmaßnahmen , sogenannte Ländermodule, die Teil der Evaluation sein sollen. Diese wurden im Zeitraum 2020 bis 2025 vom BMUKN beauftragt und von der Gesellschaft für Internationale Zu-sammenarbeit (GIZ) GmbH durchgeführt.",
-      "cpv": "79419000",
-      "pays": "DEU",
-      "deadline": "2026-07-21",
-      "montant": 162,
-      "publication": "2026-06-19",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/423370-2026",
-      "segment": "FPH",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 59,
-      "score_detail": {
-        "fit": 25,
-        "size": 10,
         "tech": 12,
         "com": 5,
         "admin": 7,

@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-07-20T08:55:42.928Z",
+  "generated_at": "2026-07-21T08:24:28.445Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 22,
+      "matched": 21,
       "go": 0,
-      "generated_at": "2026-07-20T08:48:44.678Z"
+      "generated_at": "2026-07-21T08:17:36.185Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-20T08:55:42.493Z"
+      "generated_at": "2026-07-21T08:24:27.948Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-20T08:55:42.791Z"
+      "generated_at": "2026-07-21T08:24:28.340Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 22,
+  "total_matched": 21,
   "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -675,37 +675,6 @@
       "score": 62,
       "score_detail": {
         "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "428643-2026",
-      "ref": "428643-2026",
-      "acheteur": "IMMOBILIERE 3F / 3F GRAND EST / 3F CENTRE VAL DE LOIRE / IMMOBILIERE RHONE-ALPES / 3F OCCITANIE / 3F NOTRE LOGIS / 3F SUD / 3F NORMANVIE / 3F SEINE ET MARNE / 3F RESIDENCES",
-      "objet": "France – Services de formation – FORMATION HABILITATION ELECTRIQUE B0-BS-BE MANOEUVRE ET SECURITE INCENDIE",
-      "description": "prestations de conception, animation en présentiel ainsi que l’organisation logistique et administrative des formations : - initiale et recyclage d’Habilitation Electrique BO-BS-BE Manœuvre - sécurité incendie – équipier de première intervention",
-      "cpv": "80500000",
-      "pays": "FRA",
-      "deadline": "2026-07-20",
-      "montant": 0,
-      "publication": "2026-06-24",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/428643-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "bureautique": false,
-      "score": 57,
-      "score_detail": {
-        "fit": 25,
         "size": 8,
         "tech": 12,
         "com": 5,

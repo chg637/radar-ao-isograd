@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-07-21T08:24:28.445Z",
+  "generated_at": "2026-07-22T08:25:36.780Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 21,
+      "matched": 22,
       "go": 0,
-      "generated_at": "2026-07-21T08:17:36.185Z"
+      "generated_at": "2026-07-22T08:18:40.378Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-21T08:24:27.948Z"
+      "generated_at": "2026-07-22T08:25:36.183Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-21T08:24:28.340Z"
+      "generated_at": "2026-07-22T08:25:36.648Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 21,
+  "total_matched": 22,
   "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -122,6 +122,37 @@
         "com": 5,
         "admin": 7,
         "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "447117-2026",
+      "ref": "447117-2026",
+      "acheteur": "Vereniging C.V.O.",
+      "objet": "Pays-Bas – Services de conseil en gestion de projet – EA adviesdiensten en (bouw)projectmanagement",
+      "description": "Scope van de opdracht Perceel 1:  De opdrachtnemer is verantwoordelijk voor het leveren van onderzoeks- en adviesdiensten die noodzakelijk zijn voor de ontwikkeling van huisvestingsprojecten. Dit betreft onder andere het opstellen van studies, analyses en verkenningen en businesscases in de onderzoeks-, initiatief- en definitiefase, uitgevoerd en beschreven volgens CVO Bouwt en conform de richtlijnen van de betreffende gemeente. Deze informatie vormt de basis voor besluitvorming door CVO en/of de betreffende gemeente en overgang naar Perceel 2.  De opdrachtnemer is in ieder geval verantwoordelijk voor:  Het uitvoeren van onder andere haalbaarheids- en inpassingsstudies en het opstellen van businesscases voor nieuwbouw, verbouw en renovatieprojecten;  Het toetsen van de visie en ambitie van het onderwijs mogelijk in combinatie met het ontwikkelen van een huisvestingsconcept;   Het analyseren en onderbouwen van ruimtelijke, functionele, technische en financiële uitgangspunten;  Het inventariseren van relevante wet- en regelgeving en randvoorwaarden (waaronder onderwijshuisvesting, duurzaamheid en veiligheid);  Het opstellen en vergelijken van scenario’s en varianten, inclusief consequenties voor planning, kosten en risico’s;  Het opstellen van ramingen en financiële onderbouwingen, inclusief investerings- en exploitatieaspecten;  Het signaleren en analyseren van risico’s en aandachtspunten in de voorbereidende projectfase;  Het adviseren over vervolgstappen en besluitvorming richting ontwerpfase;  Het opleveren van heldere en navolgbare rapportages/ notities ten behoeve van bestuurlijke besluitvorming. / Scope van de opdracht Perceel 2:  Het begeleiden en managen van huisvestingsprojecten vanaf de ontwerpfase conform de fasering van CVO Bouwt.    De opdrachtnemer is verantwoordelijk voor het leveren van gekwalificeerde (bouw)projectmanagers die zorgdragen voor een succesvolle uitvoering en afronding van huisvestingsprojecten binnen de vastgestelde projectkaders van GROTIK (Geld, Risico, Organisatie, Tijd, Informatie en Kwaliteit). De inzet heeft betrekking op de ontwerpfase en de daaropvolgende uitvoeringsfasen van het huisvestingsproject, nadat de businesscase door CVO en de betreffende gemeente is goedgekeurd.  De opdrachtnemer is in ieder geval verantwoordelijk voor:  Het vertalen van de vastgestelde Businesscase en Programma van Eisen naar concrete ontwerpinstructies;  Het organiseren en coördineren van aanbestedingen (zorgdragen voor het inkoopproces) van architect, aannemer(s) en aanvullende adviseurs conform het inkoopbeleid van CVO en of betreffende gemeente, deze taak ligt in beginsel bij de opdrachtnemer, waarbij het projectteam zich expliciet het recht voorbehoudt om de rolverdeling en verantwoordelijkheden rondom het inkoopproces in een later stadium opnieuw te beoordelen en zo nodig aan te passen;  Het coördineren van de vertaling van ruimtelijke, functionele en technische eisen naar ontwerp en uitvoering;  Het opstellen en bewaken van de projectplanning en het coördineren van alle projectactiviteiten;  Het aansturen en afstemmen met betrokken interne en externe partijen;  Het zorgdragen voor het verkrijgen van benodigde vergunningen, ontheffingen en certificeringen die samenhangen met de uitvoering van het project;  Budgetbewaking en het verzorgen van financiële rapportages;  Het uitvoeren van risico en issuemanagement;  Het borgen van kwaliteit gedurende de gehele projectuitvoering;  Het zorgdragen voor oplevering en nazorg, inclusief de volledige en correcte overdracht van projectdocumentatie (zoals tekeningen, handleidingen, rapportages, opleverdocumenten en vergunningen) aan de beheerorganisatie;  Periodieke rapportage over voortgang, risico’s, issues en financiële status aan CVO;  Het opstellen van een projectevaluatie na afronding van ieder project.   Aanvullende of project specifieke verantwoordelijkheden kunnen per opdracht worden toegevoegd, mits deze vooraf schriftelijk zijn overeengekomen tussen CVO en de opdrachtnemer.",
+      "cpv": "72224000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 1800,
+      "publication": "2026-06-30",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/447117-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -593,31 +624,31 @@
       "auto": true
     },
     {
-      "id": "431687-2026",
-      "ref": "431687-2026",
-      "acheteur": "ONISEP",
-      "objet": "France – Services de formation de personnel – Prestations de formation au bénéfice des agents de l'Onisep",
-      "description": "Prestations de formation au bénéfice des agents de l'Onisep (22 lots) : Lot 1 : Formation des équipiers de première intervention ; lot 2 : Formation initiale SST ; lot 3 : Mise à jour des connaissances SST ; lot 4 : Formation des secouristes en santé mentale ; lot 5 : Habilitation électrique ; lot 6 : Formation des membres de la F3SCT ; lot 7 : Formation des membres du CSA ; lot 8 : Formation \"Qualité de vie au travail\" ; lot 9 : Formation des référents sécurité ; lot 10 : Conduite d'entretien d'orientation par téléphone ; lot 11 : La carte mentale au service de la gestion de projet en ressources et ingénierie documentaire ; lot 12 : Animer une communauté apprenante ; lot 13 : Veille documentaire, perfectionnement ; lot 14 : Gestion de projet ; lot 15 : Management ; lot 16 : Préparation aux concours ITRF ; lot 17 : Accessibilité numérique ; lot 18 : formation Indesign ; lot 19 : Remise à niveau Secrétaire de rédaction ; lot 20 : S'adresser aux jeunes en fonction de l'âge ; lot 21 : Scénarisation et adaptation de contenus sur différents supports",
-      "cpv": "79632000",
+      "id": "446777-2026",
+      "ref": "446777-2026",
+      "acheteur": "VILLE DE LIMOGES",
+      "objet": "France – Services de formation du personnel – Formations en santé et sécurité au travail",
+      "description": "Conduite en sécurité des engins de chantier et nacelles / Conduite en sécurité de chariots / Qualifications SSIAP / Habilitations électriques et sensibilisations risques électriques",
+      "cpv": "80511000",
       "pays": "FRA",
-      "deadline": "2026-07-21",
-      "montant": 250,
-      "publication": "2026-06-24",
+      "deadline": "2026-08-06",
+      "montant": 500,
+      "publication": "2026-06-30",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/431687-2026",
-      "segment": "Autre",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/446777-2026",
+      "segment": "Collectivités",
       "keyword_hits": [
         "habilitation"
       ],
       "bureautique": false,
-      "score": 64,
+      "score": 63,
       "score_detail": {
         "fit": 25,
         "size": 13,
-        "tech": 14,
+        "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 0
+        "delay": 1
       },
       "score_status": "cond",
       "notes": "",

@@ -1,0 +1,723 @@
+{
+  "generated_at": "2026-07-23T08:21:47.732Z",
+  "source": "TED",
+  "window_days": 30,
+  "total_fetched": 500,
+  "total_matched": 23,
+  "total_go": 0,
+  "notices": [
+    {
+      "id": "429512-2026",
+      "ref": "429512-2026",
+      "acheteur": "Provincie Utrecht",
+      "objet": "Pays-Bas – Services de fourniture de logiciels – Softwarebroker-dienstverlening",
+      "description": "De scope van de Opdracht betreft: a) Het (door)leveren en Beheren, op eenvoudige en marktconforme wijze, van gebruiksrechten op Standaardsoftware, inclusief implementatie, verlengingen, updates en upgrades en ondersteuning (maintenance en support). Daarbij zij opgemerkt dat, de Aanbestedende dienst hiertoe tevens SaaS-diensten rekent betreffende Microsoft haar PaaS en IaaS-diensten (zie Definities). De levering dient optimaal afgestemd te zijn op de behoefte van de Aanbestedende dienst; b) Het (door)leveren en beheren van Microsoft gebruiksrechten betreffende Standaardsoftware, inclusief SaaS, PaaS en IaaS diensten, zulks op basis van EAS, CSP en andere mogelijke Microsoft contractvormen, onder door Aanbestedende dienst zelfstandig of in samenwerkingsverband, met Microsoft overeengekomen condities; c) Het adviseren omtrent aanschaf en vernieuwing van gebruiksrechten van Standaardsoftware onder meer betreffende ... Zie verder par. 2.5 van de Aanbestedingsleidraad De waarde van de Opdracht is geraamd op 14 miljoen euro in totaal voor de volledige looptijd van de Raamovereenkomst inclusief alle opties en verlengingen. Er is groei verwacht vanaf het huidige niveau van ongeveer 2 miljoen euro jaarlijks naar 3 tot 3,5 miljoen euro jaarlijks met name vanwege toenemend gebruik van SaaS en andere IT-clouddiensten, waaronder die van Microsoft. De maximale omvang en tevens het maximumbedrag van de beoogde Raamovereenkomst is gesteld op 18 miljoen euro. Bij het bereiken van deze maximale omvang verliest de Raamovereenkomst zijn effect en kunnen geen opdrachten meer onder de raamovereenkomst worden verstrekt.",
+      "cpv": "72268000",
+      "pays": "NLD",
+      "deadline": "2026-09-25",
+      "montant": 14000,
+      "publication": "2026-06-24",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/429512-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 74,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "442125-2026",
+      "ref": "442125-2026",
+      "acheteur": "Gemeente Utrecht",
+      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Datagestuurd reinigen van openbare buitenruimtes",
+      "description": "De gemeente heeft de doelstelling om de schoonmaakactiviteiten in de buitenruimte voor schoon, groen en grijs effectiever en efficiënter uit te voeren, zodat de beeldkwaliteit in de stad verder verbetert. Om deze doelstelling te realiseren, willen we slimme, mobiele cameratechnologie inzetten. Deze technologie fungeert als voorschouw door de stad op reguliere of variabele basis te monitoren en uitgevoerde of benodigde werkzaamheden te herkennen. Hierbij gaat het bijvoorbeeld om verschillende vormen van (zwerf)afval en ander soort afval in de openbare ruimte. De herkende activiteiten worden vertaald in data, die vervolgens dient als input voor het opstellen van de werkverdeling en uitvoeringsplanning in de verschillende gebieden en voertuigen. Deze beelden moeten ter plekke en direct (dus in het voertuig/op de fiets) omgezet worden in data. Met deze data kan de uitvoering gericht worden aangestuurd naar locaties waar daadwerkelijk vervuiling is aangetroffen Verwachte omvang van de raamovereenkomst: De gemeente verwacht over de gehele looptijd (maximaal 4 jaar) van de raamovereenkomst een verwachte totale waarde af te nemen van € 1.200.000,- Dit komt neer op een jaarlijkse verwachte waarde van € 300.000,- Maximumomvang (of: begrenzing) van de raamovereenkomst: De maximale totale waarde over de gehele looptijd (maximaal 4 jaar) van de raamovereenkomst is € 1.800.000,- Dit komt neer op een jaarlijkse maximale waarde van € 450.000,- Zodra het maximumbedrag bereikt wordt, eindigt de raamovereenkomst automatisch. U kunt aan deze waarden geen rechten ontlenen. ",
+      "cpv": "72200000",
+      "pays": "NLD",
+      "deadline": "2026-08-24",
+      "montant": 1200,
+      "publication": "2026-06-29",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/442125-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 74,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "432632-2026",
+      "ref": "432632-2026",
+      "acheteur": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
+      "objet": "Pays-Bas – Services de formation professionnelle – Onderhoudstrainingen voor onze Rijksbeveiligers",
+      "description": "Naast BHV-, EHBO-, X-ray en meldkamerkamertrainingen die gevolgd worden door (een deel van de) Rijkbeveiligers, volgen álle Rijksbeveiligers onderhoudstrainingen. Deze trainingen zorgen ervoor dat de basiscompetenties van een Rijksbeveiliger worden opgefrist en verbeterd, zodat onze medewerkers vakbekwaam blijven. Overigens gaan tevens de coördinatoren (zo'n 50 personen) deze onderhoudstrainingen volgen. Zo frissen zij zelf ook hun beveiligingsvaardigheden op en weten zij wat er in de trainingen wordt behandeld wat zij kunnen gebruiken in de aansturing op de werkvloer. Voor het gemak spreken we in dit document alleen van 'Rijksbeveiligers'. De trainingen zijn in eerste instantie ook voor hen georganiseerd. Geraamde opdrachtwaarde: € 585.000,- exclusief btw per jaar, € 2.340.000,- over 4 jaar.",
+      "cpv": "80530000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 3600,
+      "publication": "2026-06-25",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/432632-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "433103-2026",
+      "ref": "433103-2026",
+      "acheteur": "Gemeente Lansingerland",
+      "objet": "Pays-Bas – Fourniture de cours de langues – Taalcomponent Z-route Inburgering",
+      "description": "De gemeente Lansingerland heeft besloten om de taalcomponent en de participatiecomponent van de Z-route los van elkaar aan te besteden. Deze aanbesteding betreft uitsluitend de taalcomponent van de Z-route. Dit betreft 800 uur taallessen. De participatiecomponent van de Z-route wordt uitgevoerd/geregisseerd door een participatieaanbieder die hiervoor o.a. samenwerkt met verschillende samenwerkingspartners die mogelijk onderdelen uitvoeren ten behoeve van de participatieactiviteiten. 2026 (vanaf 1 september) - 40 – 50 trajecten die worden overgenomen van de huidige aanbieder, zie hieronder de berekening van de waarde van deze groep. - 12 trajecten (vanaf 1 september) nieuwe instroom. 2027 - 2029: ± 28 - 35 nieuwe trajecten per jaar (afhankelijk van de taakstelling van de gemeente). In deze aanbesteding geldt een maximumprijs van € 10.000,= per deelnemer/Inburgeraar exclusief btw. Een inschrijving met een inschrijfprijs die hoger is dan de maximumprijs wordt terzijde gelegd en van deelneming uitgesloten.",
+      "cpv": "80580000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 3600,
+      "publication": "2026-06-25",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/433103-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "438781-2026",
+      "ref": "438781-2026",
+      "acheteur": "Ministerie van Sociale Zaken en Werkgelegenheid",
+      "objet": "Pays-Bas – Services de maintenance des systèmes et services d'assistance – DSU Managed Hosting en Beheer",
+      "description": "Het doel van deze Aanbesteding is het selecteren van één leverancier voor het leveren van ICT-dienstverlening op het gebied van managed hosting en beheer. De geraamde waarde van de Opdracht bedraagt gemiddeld € 800.000 (achthonderdduizend euro) exclusief btw per jaar, derhalve totaal € 8.000.000 (acht miljoen euro) exclusief btw over een looptijd van 10 (tien) jaar. Indien en voorzover de overeenkomst als een raamovereenkomst zou worden aangemerkt, geldt een maximale omvang van € 12.000.000 (twaalf miljoen euro).",
+      "cpv": "72250000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 12000,
+      "publication": "2026-06-25",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/438781-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "441976-2026",
+      "ref": "441976-2026",
+      "acheteur": "Stichting Data Safe House",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – IT Dataplatform",
+      "description": "Stichting Data Safe House wenst een overeenkomst met één opdrachtnemer te sluiten voor de ontwikkeling en het beheer van een IT Dataplatform. Zie voor meer informatie de aanbestedingsstukken. Alle ondernemers die aan de eisen voldoen worden uitgenodigd een inschrijving in te dienen. Dat kan zelfstandig, als samenwerkingsverband en/of door een beroep te doen op derden en/of onderaannemers. De overeenkomst biedt ook ruimte om door te ontwikkelen. Dit valt van te voren nog niet volledig te overzien, waardoor de overeenkomst op onderdelen het karakter heeft van een raamovereenkomst. Dit betekent dat de totale opdrachtwaarde uiteindelijk boven de €1.100.000 kan uitkomen, waarbij als maximum twee (2) keer deze waarde (€2.200.000) wordt aangehouden. De hierboven genoemde omvang is slechts bedoeld als indicatie. Opdrachtnemer kan hier op geen enkele wijze rechten aan ontlenen. Alle genoemde bedragen zijn exclusief btw.",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 2200,
+      "publication": "2026-06-29",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/441976-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "447117-2026",
+      "ref": "447117-2026",
+      "acheteur": "Vereniging C.V.O.",
+      "objet": "Pays-Bas – Services de conseil en gestion de projet – EA adviesdiensten en (bouw)projectmanagement",
+      "description": "Scope van de opdracht Perceel 1:  De opdrachtnemer is verantwoordelijk voor het leveren van onderzoeks- en adviesdiensten die noodzakelijk zijn voor de ontwikkeling van huisvestingsprojecten. Dit betreft onder andere het opstellen van studies, analyses en verkenningen en businesscases in de onderzoeks-, initiatief- en definitiefase, uitgevoerd en beschreven volgens CVO Bouwt en conform de richtlijnen van de betreffende gemeente. Deze informatie vormt de basis voor besluitvorming door CVO en/of de betreffende gemeente en overgang naar Perceel 2.  De opdrachtnemer is in ieder geval verantwoordelijk voor:  Het uitvoeren van onder andere haalbaarheids- en inpassingsstudies en het opstellen van businesscases voor nieuwbouw, verbouw en renovatieprojecten;  Het toetsen van de visie en ambitie van het onderwijs mogelijk in combinatie met het ontwikkelen van een huisvestingsconcept;   Het analyseren en onderbouwen van ruimtelijke, functionele, technische en financiële uitgangspunten;  Het inventariseren van relevante wet- en regelgeving en randvoorwaarden (waaronder onderwijshuisvesting, duurzaamheid en veiligheid);  Het opstellen en vergelijken van scenario’s en varianten, inclusief consequenties voor planning, kosten en risico’s;  Het opstellen van ramingen en financiële onderbouwingen, inclusief investerings- en exploitatieaspecten;  Het signaleren en analyseren van risico’s en aandachtspunten in de voorbereidende projectfase;  Het adviseren over vervolgstappen en besluitvorming richting ontwerpfase;  Het opleveren van heldere en navolgbare rapportages/ notities ten behoeve van bestuurlijke besluitvorming. / Scope van de opdracht Perceel 2:  Het begeleiden en managen van huisvestingsprojecten vanaf de ontwerpfase conform de fasering van CVO Bouwt.    De opdrachtnemer is verantwoordelijk voor het leveren van gekwalificeerde (bouw)projectmanagers die zorgdragen voor een succesvolle uitvoering en afronding van huisvestingsprojecten binnen de vastgestelde projectkaders van GROTIK (Geld, Risico, Organisatie, Tijd, Informatie en Kwaliteit). De inzet heeft betrekking op de ontwerpfase en de daaropvolgende uitvoeringsfasen van het huisvestingsproject, nadat de businesscase door CVO en de betreffende gemeente is goedgekeurd.  De opdrachtnemer is in ieder geval verantwoordelijk voor:  Het vertalen van de vastgestelde Businesscase en Programma van Eisen naar concrete ontwerpinstructies;  Het organiseren en coördineren van aanbestedingen (zorgdragen voor het inkoopproces) van architect, aannemer(s) en aanvullende adviseurs conform het inkoopbeleid van CVO en of betreffende gemeente, deze taak ligt in beginsel bij de opdrachtnemer, waarbij het projectteam zich expliciet het recht voorbehoudt om de rolverdeling en verantwoordelijkheden rondom het inkoopproces in een later stadium opnieuw te beoordelen en zo nodig aan te passen;  Het coördineren van de vertaling van ruimtelijke, functionele en technische eisen naar ontwerp en uitvoering;  Het opstellen en bewaken van de projectplanning en het coördineren van alle projectactiviteiten;  Het aansturen en afstemmen met betrokken interne en externe partijen;  Het zorgdragen voor het verkrijgen van benodigde vergunningen, ontheffingen en certificeringen die samenhangen met de uitvoering van het project;  Budgetbewaking en het verzorgen van financiële rapportages;  Het uitvoeren van risico en issuemanagement;  Het borgen van kwaliteit gedurende de gehele projectuitvoering;  Het zorgdragen voor oplevering en nazorg, inclusief de volledige en correcte overdracht van projectdocumentatie (zoals tekeningen, handleidingen, rapportages, opleverdocumenten en vergunningen) aan de beheerorganisatie;  Periodieke rapportage over voortgang, risico’s, issues en financiële status aan CVO;  Het opstellen van een projectevaluatie na afronding van ieder project.   Aanvullende of project specifieke verantwoordelijkheden kunnen per opdracht worden toegevoegd, mits deze vooraf schriftelijk zijn overeengekomen tussen CVO en de opdrachtnemer.",
+      "cpv": "72224000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 1800,
+      "publication": "2026-06-30",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/447117-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "448271-2026",
+      "ref": "448271-2026",
+      "acheteur": "Ministerie van Defensie",
+      "objet": "Pays-Bas – Services de mise à disposition de personnel, y compris de personnel temporaire – Inhuur vlieginstructeurs Elementaire Militaire Vlieger Opleiding (EMVO) CLSK (heraanbesteding)",
+      "description": "Inhuur vlieginstructeurs voor de Elementaire Militaire Vlieger Opleiding (EMVO) voor het Commando Luchtstrijdkrachten. De vlieginstructeurs zullen worden ingezet voor het geven van vlieginstructie aan adspirant militaire vliegers.",
+      "cpv": "79620000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 5078,
+      "publication": "2026-06-30",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/448271-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "450746-2026",
+      "ref": "450746-2026",
+      "acheteur": "Ziekenhuis aan de Stroom vzw (ZAS)",
+      "objet": "Belgique – Services d'implémentation de logiciels – ERP ZAS",
+      "description": "Deze opdracht betreft het afsluiten van een raamovereenkomst met één leverancier voor de levering, implementatie, ondersteuning en verdere ontwikkeling van een geïntegreerde totaaloplossing die de processen finance, logistiek, facilitair beheer en procurement binnen ZAS op een uniforme, efficiënte, gebruiksvriendelijke en transparante manier ondersteunt. Ook moet voorzien worden in nodige rapportering en integraties. De opdracht omvat onder meer: - De initiële levering, installatie en configuratie van het systeem; - De migratie van actieve en historische data; - De begeleiding van de implementatie (inclusief opleiding en change management); - De hosting en technische ondersteuning; - Het onderhoud en de doorontwikkeling van het systeem gedurende de looptijd van de opdracht; - Het leveren van kwaliteitsvolle support na implementatie. CPV-code: 48451000-4 - Software voor ERP (Enterprise Resource Planning) Doel: ZAS is een fusieorganisatie die bestaat uit meerdere ziekenhuiscampussen en ondersteunende diensten, met een complexe en grootschalige structuur. Binnen deze context is er nood aan een geïntegreerde oplossing om de processen binnen bovenvermelde domeinen op een uniforme, effi-ciënte, gebruiksvriendelijke en transparante manier te ondersteunen. Bijlage C bevat meer informatie over de domeinen finance, logistiek, procurement en facilitair beheer. Deze bijlage is louter ter informatie, meer informatie over de scenario's die door het geïnte-greerd pakket gecoverd moeten worden zullen in het opdrachtdocument van de gunningsfase worden opgenomen. Het staat elke geselecteerde inschrijver vrij om - voor de levering, implementatie, ondersteuning en verdere ontwikkeling van de geïntegreerd totaaloplossing - al dan niet te werken met onderaannemers of andere ondernemingen (combinatie van ondernemingen). Inschrijvers die via onderaannemers wensen aan te bieden, duiden dit aan in het deelnameformulier (Bijlage A) en dienen een lijst van potentiële onderaannemers in te dienen.",
+      "cpv": "72263000",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 20000,
+      "publication": "2026-07-01",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/450746-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "431294-2026",
+      "ref": "431294-2026",
+      "acheteur": "Stichting Connekt",
+      "objet": "Pays-Bas – Services de gestion de projets autres que pour les travaux de construction – ROVK Projectmanager SEB-controles op de Bouwplaats",
+      "description": "De opdracht betreft de inzet van een projectmanager voor de coördinatie van SEB-controles op bouwplaatsen in het kader van het programma Schoon en Emissieloos Bouwen (SEB). De projectmanager is verantwoordelijk voor de organisatie en aansturing van controles op de naleving van afspraken over de inzet en emissies van bouwmaterieel, de afstemming met betrokken opdrachtgevers, opdrachtnemers en controlerende partijen, en de beoordeling en rapportage van controleresultaten. Met de geselecteerde opdrachtnemer wordt een raamovereenkomst gesloten voor de inzet van één professional voor gemiddeld circa 16 uur per week, met een initiële looptijd van één jaar en de mogelijkheid tot verlenging met maximaal tweemaal twaalf maanden. totale geraamde waarde van de raamovereenkomst bedraagt EUR 356.400 exclusief BTW en is gebaseerd op een inzet van 40% (16 uur per week). De raamovereenkomst zal worden aangegaan voor een periode van ongeveer één (1) jaar (tot 1 april 2027, waarbij een mogelijkheid tot verlenging bestaat van tweemaal voor de duur van één (1) jaar.",
+      "cpv": "79421000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 356,
+      "publication": "2026-06-24",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/431294-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "435849-2026",
+      "ref": "435849-2026",
+      "acheteur": "Universiteit van Amsterdam",
+      "objet": "Pays-Bas – Logiciels pédagogiques – Vrijwillige transparantie vooraf aangaande Plagiaatcontrolesoftware t.b.v. de Universiteit van Amsterdam",
+      "description": "1. Inleiding De Universiteit van Amsterdam (UvA) heeft momenteel een overeenkomst met Turnitin voor het afnemen van plagiaatcontrolesoftware. Deze overeenkomst verloopt per 1 oktober 2026. Plagiaatcontrole is voor de UvA een cruciaal middel om de kwaliteit van het onderwijs en de diplomering te kunnen waarborgen. Het is van groot belang dat plagiaatcontrole kan blijven plaatsvinden en dat hierbij niet wordt ingeleverd op kwaliteit. 2. Motivatie voor de keuze om niet aan te besteden Op basis van marktonderzoek concludeert de UvA dat er geen leveranciers zijn, anders dan Turnitin, die plagiaatcontrolesoftware leveren die voldoet aan alle eisen die de UvA hiervoor hanteert. De belangrijkste eisen worden opgesomd in paragraaf 3. 3. Gestelde eisen plagiaatcontrolesoftware De UvA zoekt naar plagiaatcontrolesoftware die minstens voldoet aan alle van de hieronder benoemde eisen: Repositories waartegen gecontroleerd wordt op plagiaat: - Academische literatuur - journals: Turnitin controleert op plagiaat tegen een uitgebreide database met academische literatuur. Met name de toegang die Turnitin heeft tot journals die niet publiekelijk toegankelijk zijn (waarop men geabonneerd moet zijn voor toegang) maakt het product uniek in de markt. Door te zijn aangesloten bij CrossRef maakt Turnitin het mogelijk om te controleren op plagiaat tegen journals van belangrijke uitgevers als: Springer Nature, Elsevier, Wiley-Blackwell, Taylor and Francis, IEEE, American Institute of Physics, British Medical Journal, Emerald, New England Journal of Medicine en Cambridge University Press. Controle tegen deze bronnen is voor de UvA een eis. - Academische literatuur - open access papers: Turnitin controleert op plagiaat tegen een uitgebreide database met open access papers. Door haar partnership met CORE controleert Turnitin tegen ruim 200 miljoen werken, aanzienlijk meer dan andere leveranciers (voor zover bekend). - Student papers: Turnitin beschikt verreweg over de meest uitgebreide repository met studentwerk (ruim 2,4 miljard documenten). Voor de UvA is het belangrijk dat er een hoge dekkingsgraad is als het gaat om plagiaatcontrole tegen het werk van medestudenten binnen de UvA, binnen Nederland en wereldwijd. Ook in dit opzicht heeft Turnitin een unieke positie binnen de markt. Integratie in Canvas: - De UvA maakt gebruik van het LMS Canvas van leverancier Instructure. Een goede integratie van de plagiaatcontrolesoftware in Canvas is cruciaal om een goede workflow te kunnen bieden aan eindgebruikers en de tool op een efficiënte en effectieve manier in te zetten in het onderwijs. Voor de UvA betekent dit dat de plagiaatcontrolesoftware gekoppeld is via het ‘Plagiarism Detection Platform’ van Canvas, zodat de functionaliteit op een laagdrempelige manier beschikbaar is binnen de ‘native’ Canvas functionaliteiten: de Canvas Assignment (waar plagiaatcontrole wordt ingeschakeld én geconfigureerd), en Canvas Grades en Canvas SpeedGrader (waar de plagiaatscore zichtbaar is en waar een link naar het plagiaatrapport beschikbaar is). Locatie van dataopslag - Turnitin biedt de optie om uitsluitend gebruik te maken van servers die gelokaliseerd zijn binnen de grenzen van de EER. Voor de UvA is het een harde eis dat de data (gebruikersgegevens, bronbestanden, plagiaatrapporten, etc.) worden opgeslagen binnen Europa en dat de leverancier GDPR-compliant is. Security en Privacy - Voor de UvA is het van groot belang dat plagiaatcontrolesoftware op een veilige en betrouwbare manier kan worden ingezet en dat de privacy van eindgebruikers gewaarborgd blijft. De UvA eist van leveranciers dat zij deze zaken aantoonbaar op orde hebben. Dit doet Turnitin door te zijn geaccrediteerd met Cyber Essentials- en SOC2 certificeringen. 4. Contractvoorwaarden In het kader van transparantie maakt de UvA aan de markt kenbaar dat deze opdracht niet wordt aanbesteed. De UvA is voornemens een overeenkomst af te sluiten met Turnitin met een initiële looptijd van 2 jaar en de mogelijkheid om deze tweemaal met een periode van 12 maanden te verlengen. De UvA behoudt het recht om aanvullende detectietooling aan te schaffen, bijvoorbeeld voor detectie van door AI-gegenereerde teksten. Daarbij geldt geen exclusiviteit voor Turnitin als leverancier. 5. Mogelijkheid tot bezwaar Ondernemers hebben 20 kalenderdagen om gemotiveerd bezwaar aan te tekenen. Het is daarbij verplicht om een gemotiveerd bezwaar te versturen naar aanbestedingen@uva.nl.",
+      "cpv": "48190000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-25",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/435849-2026",
+      "segment": "ESR",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 35,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "448806-2026",
+      "ref": "448806-2026",
+      "acheteur": "Gemeente Purmerend",
+      "objet": "Pays-Bas – Services relatifs aux logiciels – Schulddienstverleningsapplicatie",
+      "description": "De Gemeente wil via een Openbare Europese aanbesteding een overeenkomst sluiten voor de schulddienstverleningsapplicatie met als resultaat 1 opdrachtnemer. De applicatie wordt gebruikt door ongeveer 50 gebruikers.",
+      "cpv": "72260000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 495,
+      "publication": "2026-06-30",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/448806-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "430477-2026",
+      "ref": "430477-2026",
+      "acheteur": "Stad Mortsel",
+      "objet": "Belgique – Services du personnel et des salaires – levering softwaremodule tijdsregistratie personeel",
+      "description": "Het Lokaal bestuur Mortsel is voor het personeel op zoek naar een tijdsregistratiesysteem. - Dit tijdsregistratiesysteem zal voorzien in de basisfunctionaliteiten die men mag verwachten van een tijdsregistratiesysteem. Het maakt het mogelijk voor medewerkers met en zonder fysieke prikklok hun aankomst- en werktijden alsook opdrachten en uitzonderlijke prestaties te registreren. - Alle medewerkers hebben toegang tot hun persoonlijke situatie en kunnen verlofaanvragen indienen. - De gegevens worden verwerkt volgens berekeningsregels, afgestemd op input aan de loonmotor voor verloning. De software houdt in: - Virtuele registratie; - Software die gebruiksvriendelijk is en eenvoudig te bedienen; - De software wordt ontwikkeld in het Nederlands en is beschikbaar als online platform (cloud) en biedt een hoge mate van gebruiksgemak en biedt gebruiksgemak dankzij geautomatiseerde functies. Het platform ondersteunt meerdere gebruikers en werkstations en werkt in netwerkmodus. Het aantal eindgebruikers is onbeperkt. De toegang tot de software gebeurt via gebruikersnaam en wachtwoord of via koppeling met AD voor SSO. Onze loonmotor zal draaien op Lima (Cipal Schaubroek). Export naar de loonmotor gebeurt zo veel mogelijk geautomatiseerd.",
+      "cpv": "79631000",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 105,
+      "publication": "2026-06-24",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/430477-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 67,
+      "score_detail": {
+        "fit": 30,
+        "size": 10,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "438654-2026",
+      "ref": "438654-2026",
+      "acheteur": "Gemeente Hilversum",
+      "objet": "Pays-Bas – Services relatifs aux logiciels – Enterprise Service Bus applicatie (2026)",
+      "description": "De gemeente Hilversum is op zoek naar een integratieplatform/-partner om de integratie-uitdagingen binnen de gemeente Hilversum op een moderne manier op te lossen. Het integratieplatform waarin deze aanbesteding over gesproken wordt bevat minimaal de volgende componenten: • Routeren van services/Integraties; • Transleren en transformeren van services/Integraties; • Loggen van services/Integraties. De gemeente Hilversum wenst hiervoor een open source-oplossing te verwerven. De opdracht omvat: • Het hosten van de aan te bieden Oplossing; • Het bouwen/beschikbaar stellen van alle benodigde services/Integraties; • Het onderhouden/aanpassen van alle benodigde services/Integraties; • Het leveren van service en ondersteuning op de Oplossing. Zie aanbestedingsdocumenten",
+      "cpv": "72260000",
+      "pays": "NLD",
+      "deadline": "2026-07-08",
+      "montant": 790,
+      "publication": "2026-06-25",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/438654-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 67,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "434448-2026",
+      "ref": "434448-2026",
+      "acheteur": "North Sea Port Netherlands N.V.",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Het ontwerpen, ontwikkelen en beheren van een Port Community Systeem - North Sea Portal",
+      "description": "Aanbesteder heeft behoefte aan een Port Community Systeem, verder genoemd als het North Sea Portal, dat één gebruikersgerichte toegangspoort biedt aan de havengemeenschap om hun (nautisch) logistieke processen en de bijhorende digitale diensten en informatie-uitwisseling te stroomlijnen. Deze havengemeenschap omvat de directe klanten van North Sea Port, dienstverleners zoals scheepsagenten en andere stakeholders. Het doel van deze aanbesteding is het contracteren van één opdrachtnemer voor het uitvoeren van de dienstverlening voor het ontwerpen, ontwikkelen en onderhouden van het North Sea Portal. De opdracht omvat zowel de realisatie als het beheer en de doorontwikkeling van het platform. De realisatie wordt uitgevoerd als een resultaatgerichte fase met vooraf overeengekomen deliverables en acceptatiecriteria. De realisatiefase wordt afgerond met acceptatie door opdrachtgever. De beheer- en onderhoudsfase vangt aan op het moment dat het platform door opdrachtgever is geaccepteerd en in productie is genomen. Vanaf dat moment zijn de overeengekomen servicelevels van toepassing",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-25",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/434448-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "437395-2026",
+      "ref": "437395-2026",
+      "acheteur": "Gemeenschapsonderwijs",
+      "objet": "Belgique – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – 2026/EVENTMANAGEMENT",
+      "description": "Probleemstelling en projectdoelstellingen GO! organiseert en ondersteunt jaarlijks een aanzienlijk aanbod aan opleidingen, professionaliseringsactiviteiten, studiedagen en andere vormingsinitiatieven voor verschillende doelgroepen binnen en buiten het GO!. De huidige toepassing wordt daarbij gebruikt voor het publiceren van het aanbod, het beheren van inschrijvingen, het opvolgen van deelnemers, het verzenden van communicatie per mail, het genereren van aanwezigheidslijsten en attesten, en het aanleveren van gegevens voor facturatie en rapportering. De toepassing wordt onder meer gebruikt voor activiteiten van de pedagogische begeleidingsdienst en de Permanente Ondersteuningscel voor de CLB’s, en richt zich tot medewerkers van GO!-instellingen, scholengroepen, centrale diensten en externe deelnemers. Cumulatief zijn er ongeveer 59.000 geregistreerde deelnemers en gemiddeld ongeveer 20.000 inschrijvingen per jaar. De evenementen kunnen betalend of gratis aangeboden worden. De processen hebben daardoor zowel een administratieve, financiële, communicatieve als beleidsmatige impact. De huidige toepassing is gebouwd op een legacy-platform en is daarom aan vervanging toe. Naast de technische veroudering zijn ook de huidige processen onvoldoende gestroomlijnd. Verschillende deelprocessen verlopen vandaag manueel of via parallelle toepassingen. De huidige toepassing ondersteunt ook onvoldoende data-zelfbediening voor deelnemers, beleidsrapportering en integraties zoals single sign-on of facturatie.. GO! wil daarom een moderne eventmanagementoplossing implementeren die het volledige proces rond opleidingen en professionaliseringsactiviteiten beter ondersteunt: van publicatie van het aanbod en inschrijving tot deelname, tevredenheidsevaluatie, attestering, rapportering en financiële verwerking. GO! stelt daarbij volgende leidende principes voorop: • één geïntegreerde oplossing voor het beheer van opleidingen, professionaliseringsactiviteiten en andere events binnen het toepassingsgebied; • maximaal gebruik van standaardfunctionaliteiten en standaardprocessen; • beperking van maatwerk en vermijding van parallelle databanken of dubbele procesvoering; • integratie met bestaande GO!-systemen waar gegevens of processen reeds beheerd worden; • gebruiksvriendelijke ondersteuning voor zowel deelnemers, organisatoren, beheerders als financiële en administratieve medewerkers; • betrouwbare communicatie, deelnemersopvolging, attestering en rapportering. De doelstellingen van GO! bij de implementatie van een nieuwe eventmanagementoplossing zijn: • de continuïteit en betrouwbaarheid van het event- en opleidingsbeheer verzekeren; • het aanbod aan opleidingen en professionaliseringsactiviteiten vlot en overzichtelijk publiceren; • het inschrijvingsproces voor deelnemers vereenvoudigen en verbeteren; • organisatoren en beheerders ondersteunen bij het aanmaken, beheren, opvolgen en evalueren van activiteiten; • deelnemersregistratie, aanwezigheidsopvolging, attestering en evaluatie beter integreren; • manuele handelingen en dubbele registraties verminderen; • facturatieprocessen beter ondersteunen via koppeling met de financiële systemen of, indien nodig, via efficiënte bulkexport; • data-zelfbediening, rapportering en beleidsinformatie versterken; • deelnemers de mogelijkheid bieden om hun historiek, inschrijvingen en attesten zelf te raadplegen; • toegangsrechten en rollen transparanter, veiliger en meer functiegericht beheren; Om deze doelstellingen te realiseren, zoekt GO! bij voorkeur een toekomstgerichte standaardoplossing die voldoende configureerbaar is en kan koppelen met relevante bestaande systemen, waaronder de GO! contactendatabank en het financiële systeem. De oplossing moet de organisatie ontzorgen op technisch vlak, schaalbaar zijn in functie van gebruik en aanbod, en flexibel kunnen evolueren via onderhoud, updates en verdere functionele uitbreiding. Bestanddelen van de opdracht // zie selectieleidraad",
+      "cpv": "72000000",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-25",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/437395-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "438120-2026",
+      "ref": "438120-2026",
+      "acheteur": "Regisseur Studenten Reisrecht B.V.",
+      "objet": "Pays-Bas – Services de développement de logiciels de communication et de logiciels multimédia – Europese aanbesteding Artificial Intelligence Chatbot (AI-chatbot)",
+      "description": "De scope van de opdracht ziet op het leveren, implementeren, beheren, onderhouden en doorontwikkelen van een AI-chatbotoplossing ter vervanging van de huidige chatbot. De AI-chatbotoplossing dient studenten op een toegankelijke, betrouwbare en efficiënte wijze te ondersteunen en Sessies adequaat af te handelen. Onder de opdracht valt niet alleen de beschikbaarstelling van de oplossing zelf, maar ook de bijbehorende dienstverlening die nodig is om de AI-chatbot gedurende de looptijd goed, veilig en toekomstbestendig te laten functioneren Deze opdracht is niet onderverdeeld in percelen. Aanmelden op een gedeelte van de opdracht is niet toegestaan en leidt tot uitsluiting van verdere deelname aan de aanbestedingsprocedure. De onderhavige opdracht in deze aanbesteding vertegenwoordigt een geschatte opdrachtwaarde van € 96.000,00 exclusief btw per jaar voor het leveren, onderhouden en beheren van de AI-chatbot en inclusief verwerken van 100.000 Sessies. Let op: Deze jaarlijkse opdrachtwaarde is tevens een prijsplafond. Een Gegadigde met een Inschrijving met een prijsindiening in Annex III Prijzenblad waarvan de jaarlijkse kosten hoger zijn dan € 96.000,00 exclusief btw wordt uitgesloten van verdere deelname aan deze aanbesteding.",
+      "cpv": "72212500",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-25",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/438120-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "442838-2026",
+      "ref": "442838-2026",
+      "acheteur": "Provincie Oost-Vlaanderen",
+      "objet": "Belgique – Services de formation spécialisée – Raamovereenkomst: Het organiseren van opleidingen voor het redden van dieren",
+      "description": "Deze opdracht betreft een dienstenopdracht voor het organiseren, coördineren en uitvoeren van modulaire opleidingen inzake het redden, bevrijden en evacueren van grote dieren (waaronder, niet-limitatief, paarden, runderen en andere grote landbouwhuisdieren), ten behoeve van PAULO Brandweer en de deelnemende brandweerzones. De opleidingen worden georganiseerd op het grondgebied van België of in het buitenland, afhankelijk van de gekozen modules, de beschikbare expertise en de operationele noden. De opdracht kwalificeert als een sociale en andere specifieke dienst zoals bedoeld in bijlage III van de wet van 17 juni 2016. De opdracht beoogt het structureel uitbouwen van een duurzaam opleidingskader voor gespecialiseerde interventietechnieken bij incidenten met grote dieren, met als doel: • Het veilig benaderen, stabiliseren en evacueren van grote dieren in noodsituaties, • Verhoging van de operationele veiligheid van hulpverleners, • Minimalisering van risico’s voor het dier, • Standaardisering van procedures, • Het uitbouwen van duurzame expertise binnen PAULO Brandweer. De opdrachtnemer staat in voor de integrale opleidingsorganisatie per module en/of opleidingstraject. PAULO Brandweer leidt cursisten op in redding van grote dieren en beschikt hiervoor over een poule van instructeurs in opleiding. Voor de organisatie van deze opleidingen werkt PAULO samen met een opdrachtnemer die de volledige cursus kan aanbieden (per groep van 12 deelnemers), inclusief optionele componenten zoals hotel, restauratie, theorielokaal, logistiek, materiaal en certificering. Looptijd overeenkomst: De uitvoeringstermijn van deze opdracht bedraagt 2 jaar, te rekenen vanaf de datum van de kennisgeving van de gunning. Na afloop van deze vaste termijn kan de opdracht stilzwijgend worden verlengd met 2 periodes van telkens 12 maanden, onder dezelfde contractuele voorwaarden (maximaal 4 jaar). Deze verlengingen dienen uitsluitend om PAULO toe te laten de kwaliteit, werking en resultaten van de opleidingen te evalueren en eventueel een nieuwe procedure op te starten indien de opdracht na twee jaar niet langer voldoet aan de verwachtingen. Indien de opleidingen positief worden geëvalueerd, kan zij tot 4 jaar van deze dienstverlening genieten, mede gelet op de investeringen en kosten die met dergelijke specialistische opleiding gepaard gaan.",
+      "cpv": "80510000",
+      "pays": "BEL",
+      "deadline": "2026-08-12",
+      "montant": 0,
+      "publication": "2026-06-29",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/442838-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "449134-2026",
+      "ref": "449134-2026",
+      "acheteur": "Vlaamse Overheid",
+      "objet": "Belgique – Services de développement de logiciels utilitaires généraux – Raamovereenkomst GRC Tool",
+      "description": "Deze raamovereenkomst betreft de levering, implementatie, configuratie en doorontwikkeling van een SaaS-oplossing voor een geïntegreerd Governance, Risk & Compliance (GRC)-platform voor de Vlaamse Overheid en lokale besturen (zie 1.2.1 Mogelijke Gebruikers (entiteiten)). De oplossing wordt door de besteller-regisseur als een gedeelde dienst aangeboden aan Vlaamse overheden en lokale besturen, en ondersteunt de verwezenlijking van de geldende Vlaamse strategie op vlak van digitale veiligheid. De GRC-tool is een instrument om de weerbaarheid tegen cyberdreigingen verder op te bouwen en te versterken en laat de centrale opvolging van de risicobeheersing onder meer in verband met het implementeren van de genomen beheersmaatregelen, het uitvoeren van periodieke risicobeoordelingen en de conformiteit met de regelgeving en de beleidsstrategie digitale veiligheid toe.",
+      "cpv": "72212771",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-30",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/449134-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "428355-2026",
+      "ref": "428355-2026",
+      "acheteur": "Einkauf und Vergabemanagement der SBK",
+      "objet": "Allemagne – Services de développement de logiciels transactionnels commerciaux et personnels – Treasury Management System",
+      "description": "Es soll ein Treasury Management System eingeführt werden, welches die bisherige Excel Struktur ablöst.",
+      "cpv": "72212400",
+      "pays": "DEU",
+      "deadline": "2026-07-23",
+      "montant": 0,
+      "publication": "2026-06-24",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/428355-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Excel"
+      ],
+      "bureautique": true,
+      "score": 62,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "435866-2026",
+      "ref": "435866-2026",
+      "acheteur": "De Vlaamse Waterweg nv",
+      "objet": "Belgique – Services relatifs à la gestion – Raamovereenkomst inzake procesoptimalisatie en assetbeheer \"Smart Maintenance\"",
+      "description": "Het voorwerp van de opdracht is het uitvoeren van taken inzake procesoptimalisatie en assetbeheer “smart maintenance”. Daarnaast wordt ingezet te worden het op maat leveren van business consultancy ondersteuning en expertise.",
+      "cpv": "79420000",
+      "pays": "BEL",
+      "deadline": "2026-07-30",
+      "montant": 0,
+      "publication": "2026-06-25",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/435866-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 62,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "446777-2026",
+      "ref": "446777-2026",
+      "acheteur": "VILLE DE LIMOGES",
+      "objet": "France – Services de formation du personnel – Formations en santé et sécurité au travail",
+      "description": "Conduite en sécurité des engins de chantier et nacelles / Conduite en sécurité de chariots / Qualifications SSIAP / Habilitations électriques et sensibilisations risques électriques",
+      "cpv": "80511000",
+      "pays": "FRA",
+      "deadline": "2026-08-06",
+      "montant": 500,
+      "publication": "2026-06-30",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/446777-2026",
+      "segment": "Collectivités",
+      "keyword_hits": [
+        "habilitation"
+      ],
+      "bureautique": false,
+      "score": 62,
+      "score_detail": {
+        "fit": 25,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "449773-2026",
+      "ref": "449773-2026",
+      "acheteur": "SEMMARIS - Marché International de Rungis",
+      "objet": "France – Services d'enseignement et de formation – Concession de service relative à l'exploitation, la gestion et le développement du centre de formation Rungis Académie",
+      "description": "Le contrat a pour objet de confier à un concessionnaire, à titre exclusif l’exploitation, la gestion et le développement du centre de formation Rungis Académie. Le Concessionnaire devra : concevoir, organiser et dispenser des formations destinées à développer les compétences et l’employabilité des apprenants dans les métiers de la filière agroalimentaire, logistique et distribution. La Rungis Académie est un centre de formation professionnelle situé au cœur du Marché International de Rungis, premier Marché mondial de produits frais. D’une superficie de 3 000 m², elle a été conçue pour accueillir jusqu’à 500 apprenants par an, avec pour objectif de répondre aux besoins croissants en main­-d’œuvre qualifiée sur l’ensemble de la chaîne de valeur alimentaire, logistique et de distribution. La Rungis Académie poursuit une double ambition : -­ Favoriser l’accès à l’emploi en formant des professionnels immédiatement opérationnels sur des métiers fortement recherchés ;­ - Utiliser l’attractivité du Marché de Rungis, pour accompagner les transformations du secteur alimentaire. Dans le parfait respect du contrat de concession, le Concessionnaire aura notamment les missions principales suivantes : En qualité d’opérateur de formation : ­ - Analyser les besoins en compétences, les enjeux de la mutation du marché du travail et des évolutions de la formation professionnelle pour adapter les thèmes et format de formations et proposer des programmes pertinents et attractifs ; -­ Concevoir les programmes pédagogiques ; - ­ Assurer la promotion du lieu, des ses programmes et le recrutements de ses apprenants ; - ­ Dispenser et animer les formations ;­ Accompagner et suivre les apprenants ;­ - Evaluer et délivrer les certification ou attestation de compétences. En qualité de concessionnaire de la Rungis Académie ­: - Opérer à ses risque et périls l’activité de développement des compétences (pédagogie, recrutement, insertion) ;­ - Optimiser l’occupation et la gestion de la Rungis Académie ;­ - Proposer un Centre de Formations d’Apprentis (CFA) certifié Qualiopi en convention avec la Région IDF ;­ - Assurer la pérennité économique du centre de formation ;­ - Reporter à la SEMMARIS a échéances régulières des actualités et des performances du campus de formation. ­ Le concessionnaire versera : => une redevance fixe au titre de la concession, => une redevance additionnelle en % du volume d'affaires réalisé, conditionnée à un minimum de chiffre d'affaires annuel. Ces redevances feront l'objet d'une proposition par le candidat.",
+      "cpv": "80000000",
+      "pays": "FRA",
+      "deadline": "2026-07-31",
+      "montant": 0,
+      "publication": "2026-07-01",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/449773-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Qualiopi"
+      ],
+      "bureautique": false,
+      "score": 57,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    }
+  ]
+}

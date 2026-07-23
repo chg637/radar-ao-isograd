@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-07-23T08:28:40.108Z",
+  "source": "BOAMP",
+  "window_days": 30,
+  "total_fetched": 3000,
+  "total_matched": 1,
+  "total_go": 0,
+  "notices": [
+    {
+      "id": "26-73486",
+      "ref": "26-73486",
+      "acheteur": "Centre hospitalier du Mans",
+      "objet": "Logiciel de Réservation des Salles & Matériels POUR LE POLE REGIONAL D'EXCELLENCE",
+      "description": "Logiciel de Réservation des Salles & Matériels POUR LE POLE REGIONAL D'EXCELLENCE",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-09-08",
+      "montant": 150,
+      "publication": "2026-07-23",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-73486",
+      "_boamp": {
+        "famille": "Marchés entre 90 k€ et seuils européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Logiciel"
+        ],
+        "departement": "72"
+      },
+      "segment": "FPH",
+      "keyword_hits": [
+        "Excel"
+      ],
+      "score": 49,
+      "score_detail": {
+        "fit": 10,
+        "size": 10,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true
+    }
+  ]
+}

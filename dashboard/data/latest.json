@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-07-23T08:28:40.506Z",
+  "generated_at": "2026-07-24T08:23:29.524Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 23,
+      "matched": 24,
       "go": 0,
-      "generated_at": "2026-07-23T08:21:47.732Z"
+      "generated_at": "2026-07-24T08:16:26.604Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 1,
       "go": 0,
-      "generated_at": "2026-07-23T08:28:40.108Z"
+      "generated_at": "2026-07-24T08:23:28.862Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-23T08:28:40.377Z"
+      "generated_at": "2026-07-24T08:23:29.394Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 24,
+  "total_matched": 25,
   "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -500,37 +500,6 @@
       "auto": true
     },
     {
-      "id": "442838-2026",
-      "ref": "442838-2026",
-      "acheteur": "Provincie Oost-Vlaanderen",
-      "objet": "Belgique – Services de formation spécialisée – Raamovereenkomst: Het organiseren van opleidingen voor het redden van dieren",
-      "description": "Deze opdracht betreft een dienstenopdracht voor het organiseren, coördineren en uitvoeren van modulaire opleidingen inzake het redden, bevrijden en evacueren van grote dieren (waaronder, niet-limitatief, paarden, runderen en andere grote landbouwhuisdieren), ten behoeve van PAULO Brandweer en de deelnemende brandweerzones. De opleidingen worden georganiseerd op het grondgebied van België of in het buitenland, afhankelijk van de gekozen modules, de beschikbare expertise en de operationele noden. De opdracht kwalificeert als een sociale en andere specifieke dienst zoals bedoeld in bijlage III van de wet van 17 juni 2016. De opdracht beoogt het structureel uitbouwen van een duurzaam opleidingskader voor gespecialiseerde interventietechnieken bij incidenten met grote dieren, met als doel: • Het veilig benaderen, stabiliseren en evacueren van grote dieren in noodsituaties, • Verhoging van de operationele veiligheid van hulpverleners, • Minimalisering van risico’s voor het dier, • Standaardisering van procedures, • Het uitbouwen van duurzame expertise binnen PAULO Brandweer. De opdrachtnemer staat in voor de integrale opleidingsorganisatie per module en/of opleidingstraject. PAULO Brandweer leidt cursisten op in redding van grote dieren en beschikt hiervoor over een poule van instructeurs in opleiding. Voor de organisatie van deze opleidingen werkt PAULO samen met een opdrachtnemer die de volledige cursus kan aanbieden (per groep van 12 deelnemers), inclusief optionele componenten zoals hotel, restauratie, theorielokaal, logistiek, materiaal en certificering. Looptijd overeenkomst: De uitvoeringstermijn van deze opdracht bedraagt 2 jaar, te rekenen vanaf de datum van de kennisgeving van de gunning. Na afloop van deze vaste termijn kan de opdracht stilzwijgend worden verlengd met 2 periodes van telkens 12 maanden, onder dezelfde contractuele voorwaarden (maximaal 4 jaar). Deze verlengingen dienen uitsluitend om PAULO toe te laten de kwaliteit, werking en resultaten van de opleidingen te evalueren en eventueel een nieuwe procedure op te starten indien de opdracht na twee jaar niet langer voldoet aan de verwachtingen. Indien de opleidingen positief worden geëvalueerd, kan zij tot 4 jaar van deze dienstverlening genieten, mede gelet op de investeringen en kosten die met dergelijke specialistische opleiding gepaard gaan.",
-      "cpv": "80510000",
-      "pays": "BEL",
-      "deadline": "2026-08-12",
-      "montant": 0,
-      "publication": "2026-06-29",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/442838-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "434448-2026",
       "ref": "434448-2026",
       "acheteur": "North Sea Port Netherlands N.V.",
@@ -618,6 +587,68 @@
         "com": 5,
         "admin": 7,
         "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "451035-2026",
+      "ref": "451035-2026",
+      "acheteur": "Vlaamse Overheid",
+      "objet": "Belgique – Services d'études – AWV/INV/2025/4 - Raamovereenkomst studieopdrachten voor diverse infrastructuurprojecten op gewestwegen",
+      "description": "Het voorwerp van deze raamovereenkomst heeft betrekking op het in de markt plaatsen van studies en ontwerpen van infrastructuurprojecten (klassieke uitvoeringsstudies) in de breedste mogelijke zin. Bijkomend kunnen andere, meer gedetailleerde, opdrachten worden toegewezen, waaronder het inzetten van specifieke profielen. Perceel 1: Antwerpen / Het voorwerp van deze raamovereenkomst heeft betrekking op het in de markt plaatsen van studies en ontwerpen van infrastructuurprojecten (klassieke uitvoeringsstudies) in de breedste mogelijke zin. Bijkomend kunnen andere, meer gedetailleerde, opdrachten worden toegewezen, waaronder het inzetten van specifieke profielen. Perceel 2: Vlaams-Brabant / Het voorwerp van deze raamovereenkomst heeft betrekking op het in de markt plaatsen van studies en ontwerpen van infrastructuurprojecten (klassieke uitvoeringsstudies) in de breedste mogelijke zin. Bijkomend kunnen andere, meer gedetailleerde, opdrachten worden toegewezen, waaronder het inzetten van specifieke profielen. Perceel 3: Limburg / Het voorwerp van deze raamovereenkomst heeft betrekking op het in de markt plaatsen van studies en ontwerpen van infrastructuurprojecten (klassieke uitvoeringsstudies) in de breedste mogelijke zin. Bijkomend kunnen andere, meer gedetailleerde, opdrachten worden toegewezen, waaronder het inzetten van specifieke profielen. Perceel 4: Oost-Vlaanderen / Het voorwerp van deze raamovereenkomst heeft betrekking op het in de markt plaatsen van studies en ontwerpen van infrastructuurprojecten (klassieke uitvoeringsstudies) in de breedste mogelijke zin. Bijkomend kunnen andere, meer gedetailleerde, opdrachten worden toegewezen, waaronder het inzetten van specifieke profielen. Perceel 5: West-Vlaanderen",
+      "cpv": "79311000",
+      "pays": "BEL",
+      "deadline": "2026-08-12",
+      "montant": 0,
+      "publication": "2026-07-01",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/451035-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 63,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 1
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "442838-2026",
+      "ref": "442838-2026",
+      "acheteur": "Provincie Oost-Vlaanderen",
+      "objet": "Belgique – Services de formation spécialisée – Raamovereenkomst: Het organiseren van opleidingen voor het redden van dieren",
+      "description": "Deze opdracht betreft een dienstenopdracht voor het organiseren, coördineren en uitvoeren van modulaire opleidingen inzake het redden, bevrijden en evacueren van grote dieren (waaronder, niet-limitatief, paarden, runderen en andere grote landbouwhuisdieren), ten behoeve van PAULO Brandweer en de deelnemende brandweerzones. De opleidingen worden georganiseerd op het grondgebied van België of in het buitenland, afhankelijk van de gekozen modules, de beschikbare expertise en de operationele noden. De opdracht kwalificeert als een sociale en andere specifieke dienst zoals bedoeld in bijlage III van de wet van 17 juni 2016. De opdracht beoogt het structureel uitbouwen van een duurzaam opleidingskader voor gespecialiseerde interventietechnieken bij incidenten met grote dieren, met als doel: • Het veilig benaderen, stabiliseren en evacueren van grote dieren in noodsituaties, • Verhoging van de operationele veiligheid van hulpverleners, • Minimalisering van risico’s voor het dier, • Standaardisering van procedures, • Het uitbouwen van duurzame expertise binnen PAULO Brandweer. De opdrachtnemer staat in voor de integrale opleidingsorganisatie per module en/of opleidingstraject. PAULO Brandweer leidt cursisten op in redding van grote dieren en beschikt hiervoor over een poule van instructeurs in opleiding. Voor de organisatie van deze opleidingen werkt PAULO samen met een opdrachtnemer die de volledige cursus kan aanbieden (per groep van 12 deelnemers), inclusief optionele componenten zoals hotel, restauratie, theorielokaal, logistiek, materiaal en certificering. Looptijd overeenkomst: De uitvoeringstermijn van deze opdracht bedraagt 2 jaar, te rekenen vanaf de datum van de kennisgeving van de gunning. Na afloop van deze vaste termijn kan de opdracht stilzwijgend worden verlengd met 2 periodes van telkens 12 maanden, onder dezelfde contractuele voorwaarden (maximaal 4 jaar). Deze verlengingen dienen uitsluitend om PAULO toe te laten de kwaliteit, werking en resultaten van de opleidingen te evalueren en eventueel een nieuwe procedure op te starten indien de opdracht na twee jaar niet langer voldoet aan de verwachtingen. Indien de opleidingen positief worden geëvalueerd, kan zij tot 4 jaar van deze dienstverlening genieten, mede gelet op de investeringen en kosten die met dergelijke specialistische opleiding gepaard gaan.",
+      "cpv": "80510000",
+      "pays": "BEL",
+      "deadline": "2026-08-12",
+      "montant": 0,
+      "publication": "2026-06-29",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/442838-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 63,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 1
       },
       "score_status": "cond",
       "notes": "",

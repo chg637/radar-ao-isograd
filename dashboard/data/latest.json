@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-07-24T08:23:29.524Z",
+  "generated_at": "2026-07-25T08:05:42.838Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 24,
+      "matched": 22,
       "go": 0,
-      "generated_at": "2026-07-24T08:16:26.604Z"
+      "generated_at": "2026-07-25T07:58:44.098Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 1,
       "go": 0,
-      "generated_at": "2026-07-24T08:23:28.862Z"
+      "generated_at": "2026-07-25T08:05:42.498Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-24T08:23:29.394Z"
+      "generated_at": "2026-07-25T08:05:42.711Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 25,
+  "total_matched": 23,
   "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -34,68 +34,6 @@
     "fuzzy_jaccard": 0
   },
   "notices": [
-    {
-      "id": "442125-2026",
-      "ref": "442125-2026",
-      "acheteur": "Gemeente Utrecht",
-      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Datagestuurd reinigen van openbare buitenruimtes",
-      "description": "De gemeente heeft de doelstelling om de schoonmaakactiviteiten in de buitenruimte voor schoon, groen en grijs effectiever en efficiënter uit te voeren, zodat de beeldkwaliteit in de stad verder verbetert. Om deze doelstelling te realiseren, willen we slimme, mobiele cameratechnologie inzetten. Deze technologie fungeert als voorschouw door de stad op reguliere of variabele basis te monitoren en uitgevoerde of benodigde werkzaamheden te herkennen. Hierbij gaat het bijvoorbeeld om verschillende vormen van (zwerf)afval en ander soort afval in de openbare ruimte. De herkende activiteiten worden vertaald in data, die vervolgens dient als input voor het opstellen van de werkverdeling en uitvoeringsplanning in de verschillende gebieden en voertuigen. Deze beelden moeten ter plekke en direct (dus in het voertuig/op de fiets) omgezet worden in data. Met deze data kan de uitvoering gericht worden aangestuurd naar locaties waar daadwerkelijk vervuiling is aangetroffen Verwachte omvang van de raamovereenkomst: De gemeente verwacht over de gehele looptijd (maximaal 4 jaar) van de raamovereenkomst een verwachte totale waarde af te nemen van € 1.200.000,- Dit komt neer op een jaarlijkse verwachte waarde van € 300.000,- Maximumomvang (of: begrenzing) van de raamovereenkomst: De maximale totale waarde over de gehele looptijd (maximaal 4 jaar) van de raamovereenkomst is € 1.800.000,- Dit komt neer op een jaarlijkse maximale waarde van € 450.000,- Zodra het maximumbedrag bereikt wordt, eindigt de raamovereenkomst automatisch. U kunt aan deze waarden geen rechten ontlenen. ",
-      "cpv": "72200000",
-      "pays": "NLD",
-      "deadline": "2026-08-24",
-      "montant": 1200,
-      "publication": "2026-06-29",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/442125-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 74,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "429512-2026",
-      "ref": "429512-2026",
-      "acheteur": "Provincie Utrecht",
-      "objet": "Pays-Bas – Services de fourniture de logiciels – Softwarebroker-dienstverlening",
-      "description": "De scope van de Opdracht betreft: a) Het (door)leveren en Beheren, op eenvoudige en marktconforme wijze, van gebruiksrechten op Standaardsoftware, inclusief implementatie, verlengingen, updates en upgrades en ondersteuning (maintenance en support). Daarbij zij opgemerkt dat, de Aanbestedende dienst hiertoe tevens SaaS-diensten rekent betreffende Microsoft haar PaaS en IaaS-diensten (zie Definities). De levering dient optimaal afgestemd te zijn op de behoefte van de Aanbestedende dienst; b) Het (door)leveren en beheren van Microsoft gebruiksrechten betreffende Standaardsoftware, inclusief SaaS, PaaS en IaaS diensten, zulks op basis van EAS, CSP en andere mogelijke Microsoft contractvormen, onder door Aanbestedende dienst zelfstandig of in samenwerkingsverband, met Microsoft overeengekomen condities; c) Het adviseren omtrent aanschaf en vernieuwing van gebruiksrechten van Standaardsoftware onder meer betreffende ... Zie verder par. 2.5 van de Aanbestedingsleidraad De waarde van de Opdracht is geraamd op 14 miljoen euro in totaal voor de volledige looptijd van de Raamovereenkomst inclusief alle opties en verlengingen. Er is groei verwacht vanaf het huidige niveau van ongeveer 2 miljoen euro jaarlijks naar 3 tot 3,5 miljoen euro jaarlijks met name vanwege toenemend gebruik van SaaS en andere IT-clouddiensten, waaronder die van Microsoft. De maximale omvang en tevens het maximumbedrag van de beoogde Raamovereenkomst is gesteld op 18 miljoen euro. Bij het bereiken van deze maximale omvang verliest de Raamovereenkomst zijn effect en kunnen geen opdrachten meer onder de raamovereenkomst worden verstrekt.",
-      "cpv": "72268000",
-      "pays": "NLD",
-      "deadline": "2026-09-25",
-      "montant": 14000,
-      "publication": "2026-06-24",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/429512-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 74,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
     {
       "id": "450746-2026",
       "ref": "450746-2026",
@@ -202,6 +140,37 @@
       "publication": "2026-06-29",
       "source": "TED",
       "url": "https://ted.europa.eu/fr/notice/-/detail/441976-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "442125-2026",
+      "ref": "442125-2026",
+      "acheteur": "Gemeente Utrecht",
+      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Datagestuurd reinigen van openbare buitenruimtes",
+      "description": "De gemeente heeft de doelstelling om de schoonmaakactiviteiten in de buitenruimte voor schoon, groen en grijs effectiever en efficiënter uit te voeren, zodat de beeldkwaliteit in de stad verder verbetert. Om deze doelstelling te realiseren, willen we slimme, mobiele cameratechnologie inzetten. Deze technologie fungeert als voorschouw door de stad op reguliere of variabele basis te monitoren en uitgevoerde of benodigde werkzaamheden te herkennen. Hierbij gaat het bijvoorbeeld om verschillende vormen van (zwerf)afval en ander soort afval in de openbare ruimte. De herkende activiteiten worden vertaald in data, die vervolgens dient als input voor het opstellen van de werkverdeling en uitvoeringsplanning in de verschillende gebieden en voertuigen. Deze beelden moeten ter plekke en direct (dus in het voertuig/op de fiets) omgezet worden in data. Met deze data kan de uitvoering gericht worden aangestuurd naar locaties waar daadwerkelijk vervuiling is aangetroffen Verwachte omvang van de raamovereenkomst: De gemeente verwacht over de gehele looptijd (maximaal 4 jaar) van de raamovereenkomst een verwachte totale waarde af te nemen van € 1.200.000,- Dit komt neer op een jaarlijkse verwachte waarde van € 300.000,- Maximumomvang (of: begrenzing) van de raamovereenkomst: De maximale totale waarde over de gehele looptijd (maximaal 4 jaar) van de raamovereenkomst is € 1.800.000,- Dit komt neer op een jaarlijkse maximale waarde van € 450.000,- Zodra het maximumbedrag bereikt wordt, eindigt de raamovereenkomst automatisch. U kunt aan deze waarden geen rechten ontlenen. ",
+      "cpv": "72200000",
+      "pays": "NLD",
+      "deadline": "2026-08-24",
+      "montant": 1200,
+      "publication": "2026-06-29",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/442125-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -376,27 +345,28 @@
       "auto": true
     },
     {
-      "id": "431294-2026",
-      "ref": "431294-2026",
-      "acheteur": "Stichting Connekt",
-      "objet": "Pays-Bas – Services de gestion de projets autres que pour les travaux de construction – ROVK Projectmanager SEB-controles op de Bouwplaats",
-      "description": "De opdracht betreft de inzet van een projectmanager voor de coördinatie van SEB-controles op bouwplaatsen in het kader van het programma Schoon en Emissieloos Bouwen (SEB). De projectmanager is verantwoordelijk voor de organisatie en aansturing van controles op de naleving van afspraken over de inzet en emissies van bouwmaterieel, de afstemming met betrokken opdrachtgevers, opdrachtnemers en controlerende partijen, en de beoordeling en rapportage van controleresultaten. Met de geselecteerde opdrachtnemer wordt een raamovereenkomst gesloten voor de inzet van één professional voor gemiddeld circa 16 uur per week, met een initiële looptijd van één jaar en de mogelijkheid tot verlenging met maximaal tweemaal twaalf maanden. totale geraamde waarde van de raamovereenkomst bedraagt EUR 356.400 exclusief BTW en is gebaseerd op een inzet van 40% (16 uur per week). De raamovereenkomst zal worden aangegaan voor een periode van ongeveer één (1) jaar (tot 1 april 2027, waarbij een mogelijkheid tot verlenging bestaat van tweemaal voor de duur van één (1) jaar.",
-      "cpv": "79421000",
+      "id": "451538-2026",
+      "ref": "451538-2026",
+      "acheteur": "Stichting Regionaal Opleidingencentrum van Twente",
+      "objet": "Pays-Bas – Services de développement de logiciels – Dataplatform 2026",
+      "description": "We gebruiken studiedata om de kwaliteit van ons onderwijs te meten en te verbeteren. Daarnaast ondersteunen we het primaire proces met de optimale dienstverlening en besluitvorming door datagebruik. We streven hierbij om een organisatiecultuur te creëren waarin datagedreven denken en handelen centraal staan. Om studenten optimaal te begeleiden en secundaire processen goed te laten verlopen verzamelen en gebruiken we binnen ROC van Twente veel data. Die data is verspreid binnen de organisatie en omvat gestructureerde gegevens binnen applicaties, maar ook losse csv-, excel- of pdf-bestanden. Hoewel we een deel van deze gegevens goed benutten, maken we nog niet optimaal gebruik van de mogelijkheden. Daarnaast zijn er ook externe partijen zoals DUO, ROA, CBS en SBB die waardevolle data aanbieden, maar die we nog beter zouden kunnen benutten. Voor de komende vier (4) jaar wordt de totale opdrachtwaarde geraamd op circa 300.000 euro inclusief btw. Deze raming is uitsluitend indicatief en bedoeld ter ondersteuning van inschrijvers. Aan deze geraamde waarde kunnen geen rechten worden ontleend.",
+      "cpv": "72262000",
       "pays": "NLD",
       "deadline": "",
-      "montant": 356,
-      "publication": "2026-06-24",
+      "montant": 212,
+      "publication": "2026-07-01",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/431294-2026",
-      "segment": "Autre",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/451538-2026",
+      "segment": "Collectivités",
       "keyword_hits": [
+        "Excel",
         "Word"
       ],
       "bureautique": true,
-      "score": 70,
+      "score": 67,
       "score_detail": {
         "fit": 30,
-        "size": 13,
+        "size": 10,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -432,37 +402,6 @@
         "com": 5,
         "admin": 7,
         "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "430477-2026",
-      "ref": "430477-2026",
-      "acheteur": "Stad Mortsel",
-      "objet": "Belgique – Services du personnel et des salaires – levering softwaremodule tijdsregistratie personeel",
-      "description": "Het Lokaal bestuur Mortsel is voor het personeel op zoek naar een tijdsregistratiesysteem. - Dit tijdsregistratiesysteem zal voorzien in de basisfunctionaliteiten die men mag verwachten van een tijdsregistratiesysteem. Het maakt het mogelijk voor medewerkers met en zonder fysieke prikklok hun aankomst- en werktijden alsook opdrachten en uitzonderlijke prestaties te registreren. - Alle medewerkers hebben toegang tot hun persoonlijke situatie en kunnen verlofaanvragen indienen. - De gegevens worden verwerkt volgens berekeningsregels, afgestemd op input aan de loonmotor voor verloning. De software houdt in: - Virtuele registratie; - Software die gebruiksvriendelijk is en eenvoudig te bedienen; - De software wordt ontwikkeld in het Nederlands en is beschikbaar als online platform (cloud) en biedt een hoge mate van gebruiksgemak en biedt gebruiksgemak dankzij geautomatiseerde functies. Het platform ondersteunt meerdere gebruikers en werkstations en werkt in netwerkmodus. Het aantal eindgebruikers is onbeperkt. De toegang tot de software gebeurt via gebruikersnaam en wachtwoord of via koppeling met AD voor SSO. Onze loonmotor zal draaien op Lima (Cipal Schaubroek). Export naar de loonmotor gebeurt zo veel mogelijk geautomatiseerd.",
-      "cpv": "79631000",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 105,
-      "publication": "2026-06-24",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/430477-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 67,
-      "score_detail": {
-        "fit": 30,
-        "size": 10,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -593,6 +532,37 @@
       "auto": true
     },
     {
+      "id": "453453-2026",
+      "ref": "453453-2026",
+      "acheteur": "Gemeente Dordrecht | Bedrijfsvoering Drechtsteden",
+      "objet": "Pays-Bas – Services de formation – 260096REG Talentenfonds Drechtsteden 2026-2027",
+      "description": "Sectoren Zorg & Welzijn, Bouw & Techniek, Transport & Logistiek en Maritiem De opdracht omvat één geïntegreerde opdracht voor het leveren van opleidingen in alle vier (4) de sectoren, met een totaalbudget van maximaal €2.200.000 incl. btw. Opleiders kunnen inschrijven voor één of meerdere sectoren, maar worden beloond voor veelzijdigheid in hun aanbod. De opleidingen moeten: • Direct aansluiten op de actuele arbeidsmarktvraag in de Drechtsteden; • (Basis)-beroepsvaardigheden ontwikkelen, afgestemd op de doelgroep; • Kosteloos en laagdrempelig zijn voor deelnemers, mede door een minimale cofinancieringsbijdrage van 25% door opleiders.",
+      "cpv": "80500000",
+      "pays": "NLD",
+      "deadline": "2026-08-10",
+      "montant": 0,
+      "publication": "2026-07-02",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/453453-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 63,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 1
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "451035-2026",
       "ref": "451035-2026",
       "acheteur": "Vlaamse Overheid",
@@ -701,37 +671,6 @@
       "segment": "Autre",
       "keyword_hits": [
         "Word"
-      ],
-      "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "428355-2026",
-      "ref": "428355-2026",
-      "acheteur": "Einkauf und Vergabemanagement der SBK",
-      "objet": "Allemagne – Services de développement de logiciels transactionnels commerciaux et personnels – Treasury Management System",
-      "description": "Es soll ein Treasury Management System eingeführt werden, welches die bisherige Excel Struktur ablöst.",
-      "cpv": "72212400",
-      "pays": "DEU",
-      "deadline": "2026-07-23",
-      "montant": 0,
-      "publication": "2026-06-24",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/428355-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Excel"
       ],
       "bureautique": true,
       "score": 62,

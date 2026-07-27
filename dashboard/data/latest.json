@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-07-26T08:24:39.542Z",
+  "generated_at": "2026-07-27T09:47:00.258Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 20,
+      "matched": 24,
       "go": 0,
-      "generated_at": "2026-07-26T08:17:54.484Z"
+      "generated_at": "2026-07-27T09:40:08.069Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 1,
       "go": 0,
-      "generated_at": "2026-07-26T08:24:39.071Z"
+      "generated_at": "2026-07-27T09:46:59.707Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-26T08:24:39.403Z"
+      "generated_at": "2026-07-27T09:47:00.126Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 21,
+  "total_matched": 25,
   "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -283,6 +283,37 @@
       "auto": true
     },
     {
+      "id": "460283-2026",
+      "ref": "460283-2026",
+      "acheteur": "Universiteit Utrecht",
+      "objet": "Pays-Bas – Services de fourniture de logiciels – Ruimte Informatie, Elementen-& Onderhoudsmanagement systeem (RIOM)",
+      "description": "Wij nodigen u graag uit om een inschrijving in te dienen voor een ruimte informatie, elementen-& onderhoudsmanagement systeem, hierna: RIOM. Het beoogde resultaat van deze aanbesteding is een op professionele en effectieve wijze afgesloten overeenkomst met één partij, die het RIOM aanbiedt als SaaS-oplossing. U kunt tot uiterlijk donderdag 12 februari, 11:00 uur uw inschrijving indienen via Mercell. Als u uw inschrijving later of op een andere manier indient, dan zijn wij verplicht uw inschrijving terzijde te leggen. Uw inschrijving wordt dan niet beoordeeld en u doet niet meer mee met deze aanbesteding.",
+      "cpv": "72268000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 264,
+      "publication": "2026-07-03",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/460283-2026",
+      "segment": "ESR",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "448806-2026",
       "ref": "448806-2026",
       "acheteur": "Gemeente Purmerend",
@@ -308,6 +339,37 @@
         "com": 5,
         "admin": 7,
         "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "460443-2026",
+      "ref": "460443-2026",
+      "acheteur": "Région Grand Est",
+      "objet": "France – Services de formation en matière de sécurité – Formation à l'hygiène et à la sécurité au travail - 2027/2030",
+      "description": "Lot n°1 : Habilitation électrique / Lot n°2 : Autorisation de conduite et CACES / Lot n°3 : Autorisation d'intervention à proximité des réseaux / Lot n°4 : Montage et démontage d'échafaudage / Lot n°5 : Prévention du travail en hauteur et port du harnais / Lot n°6 : Sensibilisation du travail en hauteur (échelle, escabeau …) / Lot n°7 : Gestes qui sauvent et utilisation du défibrillateur / Lot n°8 : Hygiène en restauration collective dép. 67 et 68 / Lot n°9 : Hygiène en restauration collective dép. 88 / Lot n°10 : Hygiène en restauration collective dép. 57 et 54 / Lot n°11 : Hygiène en restauration collective dép. 55 et 52 / Lot n°12 : Hygiène en restauration collective dép. 10, 51 et 08 / Lot n°13 : Les bonnes pratiques à adopter pour garantir sa sécurité et la prévention de l'usure professionnelle / Lot n°14 : Manipulation des extincteurs / Lot n°15 : Certibiocide / Lot n°16 : Manipulation des tronçonneuses / Lot n°17 : Conduite en sécurité de tondeuses autoportées / Lot n°18 : Conduite en situation difficile / Lot n°19 : Prévention et Secours Civique de Niveau 1 / Lot n°20 : Renforcement des connaissances en électricité",
+      "cpv": "80330000",
+      "pays": "FRA",
+      "deadline": "2026-09-04",
+      "montant": 1847,
+      "publication": "2026-07-03",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/460443-2026",
+      "segment": "Collectivités",
+      "keyword_hits": [
+        "habilitation"
+      ],
+      "bureautique": false,
+      "score": 69,
+      "score_detail": {
+        "fit": 25,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
       },
       "score_status": "cond",
       "notes": "",
@@ -439,18 +501,18 @@
       "auto": true
     },
     {
-      "id": "453453-2026",
-      "ref": "453453-2026",
-      "acheteur": "Gemeente Dordrecht | Bedrijfsvoering Drechtsteden",
-      "objet": "Pays-Bas – Services de formation – 260096REG Talentenfonds Drechtsteden 2026-2027",
-      "description": "Sectoren Zorg & Welzijn, Bouw & Techniek, Transport & Logistiek en Maritiem De opdracht omvat één geïntegreerde opdracht voor het leveren van opleidingen in alle vier (4) de sectoren, met een totaalbudget van maximaal €2.200.000 incl. btw. Opleiders kunnen inschrijven voor één of meerdere sectoren, maar worden beloond voor veelzijdigheid in hun aanbod. De opleidingen moeten: • Direct aansluiten op de actuele arbeidsmarktvraag in de Drechtsteden; • (Basis)-beroepsvaardigheden ontwikkelen, afgestemd op de doelgroep; • Kosteloos en laagdrempelig zijn voor deelnemers, mede door een minimale cofinancieringsbijdrage van 25% door opleiders.",
-      "cpv": "80500000",
-      "pays": "NLD",
-      "deadline": "2026-08-10",
+      "id": "460644-2026",
+      "ref": "460644-2026",
+      "acheteur": "Agentschap Sport Vlaanderen",
+      "objet": "Belgique – Services de développement de logiciels de formation et de divertissement – Licentie op een e-learningomgeving voor de opleidingen en bijscholingen van de Vlaamse Trainersschool (VTS), inclusief de mogelijkheid voor het creëren van tenants voor partners binnen het VTS-samenwerkingsverband",
+      "description": "De opdracht betreft een geïntegreerde digitale leeromgeving (e-learningplatform) waarbij de verschillende componenten, waaronder de terbeschikkingstelling van het platform (licentie/SaaS), de implementatie, de integratie met bestaande systemen (in het bijzonder de VOTAS-databank), het onderhoud en de ondersteuning, technisch en functioneel nauw met elkaar verbonden zijn. Een opsplitsing in percelen zou een performant en coherent geheel bemoeilijken en kan leiden tot verhoogde complexiteit op het vlak van integratie, verantwoordelijkheid en coördinatie tussen meerdere opdrachtnemers. Dit zou tevens risico’s met zich meebrengen voor de continuïteit, de werking en de beveiliging van het platform. Om deze redenen wordt geopteerd om de opdracht als één geheel in de markt te zetten.",
+      "cpv": "72212931",
+      "pays": "BEL",
+      "deadline": "2026-08-11",
       "montant": 0,
-      "publication": "2026-07-02",
+      "publication": "2026-07-03",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/453453-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/460644-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -526,6 +588,68 @@
         "com": 5,
         "admin": 7,
         "delay": 1
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "460867-2026",
+      "ref": "460867-2026",
+      "acheteur": "REGION BOURGOGNE-FRANCHE-COMTE",
+      "objet": "France – Services de formation – PPSMJ 2027",
+      "description": "Une action de formation certifiante dans le domaine du bâtiment second œuvre - travaux de finitions - maintenance des bâtiments. 300 h réalisées par l'OF. - Validation totale ou partielle d'un titre, diplôme ou certificat, - Certification Sauveteur Secouriste du Travail (SST), - Habilitation échafaudage - sensibilisation aux travaux en hauteur et aux règles de sécurité. / Une action de formation certifiante dans le domaine du nettoyage industriel / propreté et hygiène des locaux. 240 h réalisées par l'OF. - Validation totale ou partielle d'un titre, diplôme ou certificat, - Certification Sauveteur Secouriste du Travail (SST). / Une action de formation certifiante dans le domaine de la cuisine / restauration collective. 504 h réalisées par l'OF. 12 h découverte métier à l'extérieur, pour les personnes permissionnables. 28 h de stage en entreprise, pour les personnes permissionnables. - Validation totale ou partielle d'un titre, diplôme ou certificat, - Certification Sauveteur Secouriste du Travail (SST). - Attestation de formation spécifique en Hygiène alimentaire adaptée à l’activité des établissements de restauration commerciale / Une action de formation certifiante dans le domaine de la logistique. 252 h réalisées par l'OF. - Validation totale ou partielle d'un titre, diplôme ou certificat, - Certification Sauveteur Secouriste du Travail (SST). - CACES R489 catégories 1B, 3 et 5. Les validations des CACES R489 catégories 1B, 3 et 5 devront se faire à l'extérieur de l'établissement pénitentiaire. / Une action de formation certifiante dans le domaine du commerce et de la vente. 270 h réalisées par l'OF. 30 h animées par l'ULE (Unité Locale Enseignement). 35 h de stage en entreprise, pour les personnes permissionnables. - Validation totale ou partielle d'un titre, diplôme ou certificat, - Certification Sauveteur Secouriste du Travail (SST). / Une action de formation préqualifiante dans le domaine du second œuvre - travaux de finitions du bâtiment, permettant l'acquisition du socle de connaissances et de compétences professionnelles. 250 h réalisées par l'OF. 40 h réalisées par l'ULE (Unité Locale Enseignement). - Validation totale ou partielle de la certification CléA - Certification Sauveteur Secouriste du Travail (SST). / Une action de formation dans le domaine de la logistique.Cette action pourra donner lieu à une certification dans le domaine de la logistique. 180 h réalisées par l'OF. 35 h de stage en entreprise, pour les personnes permissionnables. - Certification Sauveteur Secouriste du Travail (SST). - CACES R489 catégories 1B et 3. Les validations des CACES R489 catégories 1B et 3 devront se faire à l'extérieur de l'établissement pénitentiaire. / Une action de formation certifiante dans le domaine du nettoyage industriel / propreté et hygiène des locaux. 240 h réalisées par l'OF. 40 h réalisées par l'ULE (Unité Locale Enseignement). - Validation totale ou partielle d'un titre, diplôme ou certificat, - Certification Sauveteur Secouriste du Travail (SST). / Une action de formation certifiante, à raison de 2 sessions dans l'année, visant une validation du socle de connaissances et de compétences professionnelles. 130 h réalisées par l'OF. 100 h réalisées par l'ULE (Unité Locale Enseignement). 9 h de co-intervention OF + ULE en présence des stagiaires - Validation totale ou partielle de la certification CléA, - Certification Sauveteur Secouriste du Travail (SST). / Une action de formation dans le domaine des espaces verts. Cette action pourra permettre d'obtenir une certification technique associée au métier. 300 h réalisées par l'OF. 50 h réalisées par l'ULE (Unité Locale Enseignement). - Certification Sauveteur Secouriste du Travail (SST). / Une action de formation certifiante visant une validation du socle de connaissances et de compétences professionnelles. 224 h réalisées par l'OF, dont 24 h en sous-groupe dans le cadre de mises en œuvre techniques. - Validation totale ou partielle de la certification CléA, - Certification Sauveteur Secouriste du Travail (SST). / Une action de formation certifiante dans le domaine du nettoyage industriel / propreté et hygiène des locaux. 250 h réalisées par l'OF. 50 h réalisées par l'ULE (Unité Locale Enseignement). - Validation totale ou partielle de blocs de compétences, titre, diplôme ou certificat, - Certification Sauveteur Secouriste du Travail (SST). / Une action de formation certifiante dans le domaine de la cuisine / restauration collective. 504 h réalisées par l'OF. - Validation totale ou partielle de blocs de compétences, titre, diplôme ou certificat, - Attestation de formation spécifique en hygiène alimentaire adaptée à l’activité des établissements de restauration commerciale. - Certification Sauveteur Secouriste du Travail (SST).",
+      "cpv": "80500000",
+      "pays": "FRA",
+      "deadline": "2026-09-11",
+      "montant": 0,
+      "publication": "2026-07-06",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/460867-2026",
+      "segment": "Collectivités",
+      "keyword_hits": [
+        "habilitation"
+      ],
+      "bureautique": false,
+      "score": 62,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "453453-2026",
+      "ref": "453453-2026",
+      "acheteur": "Gemeente Dordrecht | Bedrijfsvoering Drechtsteden",
+      "objet": "Pays-Bas – Services de formation – 260096REG Talentenfonds Drechtsteden 2026-2027",
+      "description": "Sectoren Zorg & Welzijn, Bouw & Techniek, Transport & Logistiek en Maritiem De opdracht omvat één geïntegreerde opdracht voor het leveren van opleidingen in alle vier (4) de sectoren, met een totaalbudget van maximaal €2.200.000 incl. btw. Opleiders kunnen inschrijven voor één of meerdere sectoren, maar worden beloond voor veelzijdigheid in hun aanbod. De opleidingen moeten: • Direct aansluiten op de actuele arbeidsmarktvraag in de Drechtsteden; • (Basis)-beroepsvaardigheden ontwikkelen, afgestemd op de doelgroep; • Kosteloos en laagdrempelig zijn voor deelnemers, mede door een minimale cofinancieringsbijdrage van 25% door opleiders.",
+      "cpv": "80500000",
+      "pays": "NLD",
+      "deadline": "2026-08-10",
+      "montant": 0,
+      "publication": "2026-07-02",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/453453-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 62,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
       },
       "score_status": "cond",
       "notes": "",

@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-07-27T09:47:00.258Z",
+  "generated_at": "2026-07-28T08:31:50.278Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 24,
+      "matched": 25,
       "go": 0,
-      "generated_at": "2026-07-27T09:40:08.069Z"
+      "generated_at": "2026-07-28T08:24:46.711Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
-      "matched": 1,
+      "matched": 2,
       "go": 0,
-      "generated_at": "2026-07-27T09:46:59.707Z"
+      "generated_at": "2026-07-28T08:31:49.647Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-27T09:47:00.126Z"
+      "generated_at": "2026-07-28T08:31:50.148Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 25,
+  "total_matched": 27,
   "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -501,37 +501,6 @@
       "auto": true
     },
     {
-      "id": "460644-2026",
-      "ref": "460644-2026",
-      "acheteur": "Agentschap Sport Vlaanderen",
-      "objet": "Belgique – Services de développement de logiciels de formation et de divertissement – Licentie op een e-learningomgeving voor de opleidingen en bijscholingen van de Vlaamse Trainersschool (VTS), inclusief de mogelijkheid voor het creëren van tenants voor partners binnen het VTS-samenwerkingsverband",
-      "description": "De opdracht betreft een geïntegreerde digitale leeromgeving (e-learningplatform) waarbij de verschillende componenten, waaronder de terbeschikkingstelling van het platform (licentie/SaaS), de implementatie, de integratie met bestaande systemen (in het bijzonder de VOTAS-databank), het onderhoud en de ondersteuning, technisch en functioneel nauw met elkaar verbonden zijn. Een opsplitsing in percelen zou een performant en coherent geheel bemoeilijken en kan leiden tot verhoogde complexiteit op het vlak van integratie, verantwoordelijkheid en coördinatie tussen meerdere opdrachtnemers. Dit zou tevens risico’s met zich meebrengen voor de continuïteit, de werking en de beveiliging van het platform. Om deze redenen wordt geopteerd om de opdracht als één geheel in de markt te zetten.",
-      "cpv": "72212931",
-      "pays": "BEL",
-      "deadline": "2026-08-11",
-      "montant": 0,
-      "publication": "2026-07-03",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/460644-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 63,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 1
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "451035-2026",
       "ref": "451035-2026",
       "acheteur": "Vlaamse Overheid",
@@ -594,6 +563,45 @@
       "auto": true
     },
     {
+      "id": "26-74673",
+      "ref": "26-74673",
+      "acheteur": "Coallia",
+      "objet": "Gestion des identités et des habilitations (IAM)",
+      "description": "Gestion des identités et des habilitations (IAM)",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-09-10",
+      "montant": 0,
+      "publication": "2026-07-28",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-74673",
+      "_boamp": {
+        "famille": "Marchés européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Logiciel"
+        ],
+        "departement": "75"
+      },
+      "segment": "Autre",
+      "keyword_hits": [
+        "habilitation"
+      ],
+      "score": 62,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "460867-2026",
       "ref": "460867-2026",
       "acheteur": "REGION BOURGOGNE-FRANCHE-COMTE",
@@ -619,6 +627,70 @@
         "com": 5,
         "admin": 7,
         "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "462484-2026",
+      "ref": "462484-2026",
+      "acheteur": "Goethe-Institut e.V. - Zentrale",
+      "objet": "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Leistungen im Bereich Internet des Goethe-Institut e.V.",
+      "description": "Leistungsumfang - Iteratives Testing von Designs, Funktionalitäten, Templates und Outputtypes im Test-, Produktiv-System und online hinsichtlich Darstellungsfehlern, Abhängigkeiten, Funktionalität, Abweichungen zum Entwurfsstand sowie Barrierefreiheit - Testing der Darstellung auf verschiedenen Screengrößen (Desktop, Tablet, Tablet Landscape, Mobil) - Testing von Design- und HTML-Prototypen hinsichtlich der Einhaltung des Corporate Designs, UX-Prinzipien, Barrierefreiheit sowie Grobeinschätzung der Umsetzbarkeit (derzeit Figma) - Erstellung, Pflege und Nachhalten von Testdokumentationen im Tool des Auftraggebers (derzeit Confluence) - Kommunikation und Ticketbearbeitung im Ticketsystem des Auftraggebers (derzeit JIRA) - Erstellung und Durchführung von Tests zur Reproduktion, Einordnung und Weitergabe von Bugs und Begleitung der Bugbeseitigung - Formale Qualitätssicherung und Konsolidierung von Templates und Outputtypes, Erfassung und Dokumentation der Verwendung von Templates, Outputtypes und Instanzvariablen - Durchführung von Rollouts neuer Templates und Funktionalitäten im CMS, inkl. Einholen und Anlegen von Übersetzungen, Terminabstimmung, Klärung von Sonderfällen sowie Erfassen und Pflege des Status in Statustabellen - Umstellung von Templates inkl. Anpassung von Instanzvariablen, Primärkategorien und Subobjekten, Optimierung des Seitenaufbaus, formale Qualitätssicherung und Überprüfung/ Korrektur von Verlinkungen und Weiterleitungen - Anlegen von Vorlagen und Demo-Seiten - Anlegen und Aktualisierung von Applikationen - Erstellung, Pflege und Aktualisierung von Anleitungen und Dokumentationen (z.B. innerhalb der Contens-Hilfe) - Vorbereitung und Durchführung von Schulungen und Webseminaren v.a. zum Thema Templates und Outputtypes - Einrichtung, Durchführung und Auswertung von unmoderierten UX-Tests und Umfragen sowie Reports zu Zugriffen und Nutzungsverhalten - Erstellung und Auswertung von Performance- und Core Web Vitals-Berichten sowie Ableitung von Handlungsempfehlungen - First-Level-Support der Redakteur*innen zu Templates im CMS - Korrespondenz und Rücksprache mit beauftragenden Personen sowie Abstimmung mit weiteren Beteiligten - Erstellung, Pflege und Aktualisierung von Webseiten per CMS, Anlegen neuer Inhalte (z.B. Artikel, Veranstaltungen, Teaser, Formulare, Newsletter) sowie der Einrichtung und Pflege von Webapplikationen und deren Parametern - Bild- und Videobearbeitung - Marktrecherche und Beratung / Leistungsumfang - CMS-Backend-Administration, z.B. Anlegen und Aktualisieren von Textbausteinen, Konfiguration und Dekonfiguration von Websites und Applikationen - Unterstützung im Bereich IT-Sicherheit (Testing von Websites und Applikationen mit gängigen Security Testing Tools) - Manuelles Testing von Webapplikationen und Webseiten - Testautomatisierung (Entwicklung, Pflege, Durchführung und Dokumentation von Software-Tests) - Performance- und Loadtesting - Monitoring von Webanwendungen - Administration Mailinglisten-Software, z.B. Anlegen von Listen, Änderung der Konfiguration - First-Level-Support Mailinglisten: Beantwortung von Nutzeranfragen zur Einschreibung, Einstellung der Mailingliste usw. - Programmierung von dynamischen Applikationen inkl. Datenbankanbindung - Implementierungsunterstützung zur Webanalyse (Anpassung Tracking-Code, Anpassung der Konfiguration)/ (technischer) Support - Überprüfung und Reproduktion von gemeldeten Fehlern und ggfs. Erstellung von Fehlerprotokollen als Grundlage zur Fehlerbehebung - Ticketbearbeitung (derzeit mit Jira) - Codeverwaltung mit GIT (derzeit mit Bitbucket) - Erstellung von Anleitungen und Dokumentationen (u.a. in Confluence) - Vorbereitung und Durchführung von Schulungen und Webseminaren v.a. zum Thema CMS - Erstellung und Pflege von Webseiten per CMS - Eingabe und Aktualisierung von Inhalten per CMS, z.B. Artikel, Veranstaltungen, Teaser, Formulare, Newsletter sowie der Einrichtung und Pflege von Webapplikationen und deren Parametern. - Formularmanagement: Einrichtung und Verwaltung von Formularen für Anmeldungen im Kontext der Kultur-, Informations- und Spracharbeit - Technischer Video-Support: Analyse von Fehlermeldungen, wenn Videos (und Audios) nicht korrekt ausgegeben werden, Fehlerbehebung/Umwandlung, Recherchen in Zusammenhang mit Video/Audio-Fragestellungen) - Bild- und Videobearbeitung - Marktrecherche und Beratung - First-Level-Support der Redakteur*innen zu CMS Contens und den eingesetzten Tools - Qualitätssicherung des Webauftritts inklusive Kommunikation mit den Auslandsinstituten / Leistungsumfang - Erstellung und Auswertung von Statistiken / Erstellung von Reports für Webanalyse und SEO/AIO (u.a. mittels Mapp, SEO/AIO-Tools auf Anfrage) - Reportaufbereitung (in Excel, aber auch zur Präsentation in Word und PowerPoint), Interpretation der Daten und Ableiten von Empfehlungen - Durchführung von Maßnahmen zur Optimierung des Webauftritts für Suchmaschinen/KI und zur Qualitätssicherung in Abstimmung mit dem SEO/AIO-Team und ggf. den betroffenen Goethe-Instituten (z.B. Qualitätssicherung der Google MyBusiness Auftritte, Anpassung von Textbausteinen und Inhalten im CMS Contens) - Pflege der Dokumentation der ausgeführten Maßnahmen - Backend-Administration des Webanalyse Tools Mapp, z.B. Konfiguration der Nutzer*innenprofile, Einrichtung und Anpassung von Reports und Analysen - redaktionelle Überarbeitung von Digitalangeboten im SEO/AIO-Kontext (Content und Meta-Daten) - Konfiguration des Crawlers, Durchführung von Crawls für Suchmaschinen- / AI- und Qualitätssicherung (z.B. mit ScreamingFrog) - Vorbereitung und Durchführung von Schulungen und Webseminaren v.a. zum Thema Webanalyse und Suchmaschinenoptimierung/AIO - Ticketbearbeitung mit Jira, Testing von Tickets im Kontext Webanalyse und SEO/AIO - Backend-Administration von Mindbreeze InSpire (Appliance, die die Suche für Goethe.de bereitstellt), z.B. Optimierung Suchergebnisse der On-Site-Suche, Erstellung Reports und Analysen - Erstellung und Pflege von Webseiten per CMS - Eingabe und Aktualisierung von Inhalten per CMS, z.B. Artikel, Veranstaltungen, URL-Objekte, Formulare, Newsletter sowie der Einrichtung und Pflege von Webapplikationen und deren Parametern. - Tests hinsichtlich der korrekten Darstellung auf Desktop und Mobil - Bild- und Videobearbeitung - Marktrecherche und Beratung - First Level Support der Redakteur*innen zu den Themen Webanalyse und Suchmaschinenoptimierung (SEO/AIO) - Qualitätssicherung des Webauftritts inklusive Kommunikation mit den Auslandsinstituten / Leistungsumfang - Durchführung von Restrukturierungsprojekten, Anpassung der Informationsarchitektur, Rollouts (Übernahme von einzelnen Webseiten oder Seitenclustern auf andere Websites, z.B. Länderportale) - Aufbau von Strukturprototypen im CMS - Pflege von Webseiten per CMS, Eingabe und Aktualisierung von Inhalten per CMS, z.B. Artikel, Veranstaltungen, Teasern, Formulare, Newsletter sowie der Einrichtung und Pflege von Webapplikationen und deren Parametern. - Beratung der Redakteur*innen für den optimalen technischen Einsatz von Templates, Objektklassen und Outputtypes - redaktionelle Überarbeitung von Digitalangeboten - Anpassung von interaktiven Website-Elementen (z.B. SVG-Karten) - Qualitätssicherung des Webauftritts inklusive Kommunikation mit den Instituten - Administration der Mailinglisten-Software z.B. Anlegen von Listen, Änderung der Konfiguration - First Level Support Mailinglisten Beantwortung von Nutzeranfragen zur Einschreibung, Einstellung der Mailingliste usw. - First Level Support der Redakteur*innen zu CMS Contens und den eingesetzten Tools - Tests einzelner CMS-Seiten hinsichtlich der korrekten Darstellung auf Desktop, Tablet und Mobil - Bild- und Videobearbeitung - Marktrecherche und Beratung - Vorbereitung und Durchführung von Schulungen und Webseminaren / Leistungsumfang - Umsetzung funktionaler Erweiterungen, Formate und Features für das Webangebot - CMS-Backend-Administration, z.B. Anlegen und Aktualisieren von Textbausteinen, Konfiguration von Newslettern, Konfiguration und Dekonfiguration von Websites usw. - Erstellung und Aktualisierung von Inhalten für die Contens-Hilfe/ die Systemdokumentation/ Anleitungen - Qualitätssicherung des Webauftritts inklusive Kommunikation mit den Auslandsinstituten - Qualitätssicherung von CMS-Komponenten - Durchführung von manuellem Testing von Webapplikationen und Webseiten - Verifikation von gemeldeten Fehlern und ggfs. Erstellung Fehlerprotokoll - Second Level Support für das CMS Contens - First und Second Level Support für das Kund*innenportal Mein Goethe.de (Beantwortung von Kund*innenanfragen, Administration) - Beratung zu Google-Diensten, z.B. Maps - Ticketbearbeitung mit Jira - Erstellung von Anleitungen und Dokumentationen (u.a. in Confluence) - Administration Mailinglisten-Software z.B. Anlegen von Listen, Änderung der Konfiguration - First Level Support Mailinglisten Beantwortung von Nutzeranfragen zur Einschreibung, Einstellung der Mailingliste usw. - Erstellung und Pflege von Webseiten per CMS - Erstellung von statistischen Auswertungen (z.B. Anfragen Websupport, Newsletter) - Eingabe und Aktualisierung von Webinhalten mittels CMS, z.B. Artikeln, Veranstaltungen, Teasern, Formularen und Newslettern sowie der Einrichtung und Pflege von Webapplikationen und deren Parametern. - Formularmanagement: Einrichtung und Verwaltung von Formularen für Anmeldungen im Kontext der Kultur-, Informations- und Spracharbeit - Tests hinsichtlich der korrekten Darstellung auf Desktop und Mobil - Bild- und Videobearbeitung - Marktrecherche und Beratung - First Level Support der Redakteur*innen zu CMS Contens und den eingesetzten Tools - Vorbereitung und Durchführung von Schulungen und Webseminaren / Leistungsumfang - First Level Support für CMS-Redakteur*innen: Unterstützung und Beratung bei technischen Fragen zum CMS Contens, inklusive Hinweis auf die entsprechenden Anleitungen in der CMS-Hilfe - Erstellung und Aktualisierung von Inhalten für die Contens-Hilfe/ die Systemdokumentation/ Anleitungen - Beratung für den optimalen technischen Einsatz von Templates, Objektklassen und Outputtypes - First und Second Level Support für den Einsatz weiterer Darstellungsformen (z.B. SVG-Karten) - Erstellung von statistischen Auswertungen (z.B. Anfragen Websupport, Newsletter) - Übernahme von einzelnen Webseiten oder Seitenclustern auf andere Websites, z.B. Länderportale - First Level Support bei Fragen zur Publikation von Online-Inhalten - Objekte zur Bearbeitung freigeben (Berechtigungen anpassen) - First Level Support zum Thema Newsletter (z.B. neue Kopiervorlage anlegen, Aufbau eines Newsletters, Versand) - First und Second Level Support für das Kund*innenportal Mein Goethe.de (Beantwortung von Kund*innenanfragen, Administration) - Shortcuts und Weiterleitungen einrichten oder ändern - Administration Mailinglisten-Software z.B. Anlegen von Listen, Änderung der Konfiguration - First Level Support Mailinglisten Beantwortung von Nutzeranfragen zur Einschreibung, Einstellung der Mailingliste usw. - Erstellung und Pflege von Webseiten per CMS - Eingabe und Aktualisierung von Inhalten per CMS, z.B. Artikel, Veranstaltungen, Formulare, Newsletter sowie der Einrichtung und Pflege von Webapplikationen und deren Parametern. - Formularmanagement: Einrichtung und Verwaltung von Formularen für Anmeldungen im Kontext der Kultur-, Informations- und Spracharbeit - Tests hinsichtlich der korrekten Darstellung auf Desktop und Mobil - Bild- und Videobearbeitung - Marktrecherche und Beratung - Qualitätssicherung des Webauftritts inklusive Kommunikation mit den Auslandsinstituten - Vorbereitung und Durchführung von Schulungen und Webseminaren",
+      "cpv": "72000000",
+      "pays": "DEU",
+      "deadline": "2026-08-04",
+      "montant": 0,
+      "publication": "2026-07-06",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/462484-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Excel",
+        "Word",
+        "PowerPoint"
+      ],
+      "bureautique": true,
+      "score": 62,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "460644-2026",
+      "ref": "460644-2026",
+      "acheteur": "Agentschap Sport Vlaanderen",
+      "objet": "Belgique – Services de développement de logiciels de formation et de divertissement – Licentie op een e-learningomgeving voor de opleidingen en bijscholingen van de Vlaamse Trainersschool (VTS), inclusief de mogelijkheid voor het creëren van tenants voor partners binnen het VTS-samenwerkingsverband",
+      "description": "De opdracht betreft een geïntegreerde digitale leeromgeving (e-learningplatform) waarbij de verschillende componenten, waaronder de terbeschikkingstelling van het platform (licentie/SaaS), de implementatie, de integratie met bestaande systemen (in het bijzonder de VOTAS-databank), het onderhoud en de ondersteuning, technisch en functioneel nauw met elkaar verbonden zijn. Een opsplitsing in percelen zou een performant en coherent geheel bemoeilijken en kan leiden tot verhoogde complexiteit op het vlak van integratie, verantwoordelijkheid en coördinatie tussen meerdere opdrachtnemers. Dit zou tevens risico’s met zich meebrengen voor de continuïteit, de werking en de beveiliging van het platform. Om deze redenen wordt geopteerd om de opdracht als één geheel in de markt te zetten.",
+      "cpv": "72212931",
+      "pays": "BEL",
+      "deadline": "2026-08-11",
+      "montant": 0,
+      "publication": "2026-07-03",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/460644-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 62,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
       },
       "score_status": "cond",
       "notes": "",

@@ -1,52 +1,24 @@
 {
-  "generated_at": "2026-07-28T08:31:50.278Z",
-  "source": "MERGE",
-  "sources_summary": {
-    "TED": {
-      "present": true,
-      "fetched": 500,
-      "matched": 25,
-      "go": 0,
-      "generated_at": "2026-07-28T08:24:46.711Z"
-    },
-    "BOAMP": {
-      "present": true,
-      "fetched": 3000,
-      "matched": 2,
-      "go": 0,
-      "generated_at": "2026-07-28T08:31:49.647Z"
-    },
-    "Profil": {
-      "present": true,
-      "fetched": 0,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-07-28T08:31:50.148Z"
-    }
-  },
-  "total_fetched": 3500,
-  "total_matched": 27,
+  "generated_at": "2026-07-28T08:24:46.711Z",
+  "source": "TED",
+  "window_days": 30,
+  "total_fetched": 500,
+  "total_matched": 25,
   "total_go": 0,
-  "total_dedup_collisions": 0,
-  "dedup_breakdown": {
-    "by_id": 0,
-    "fuzzy_signature": 0,
-    "fuzzy_jaccard": 0
-  },
   "notices": [
     {
-      "id": "458769-2026",
-      "ref": "458769-2026",
-      "acheteur": "Provincie Noord-Holland",
-      "objet": "Pays-Bas – Services de développement de logiciels – Vernieuwing, doorontwikkeling, beheer en onderhoud van het Brugmanagementsysteem (BMS)",
-      "description": "De opdracht betreft de vernieuwing, doorontwikkeling, het beheer en onderhoud van het bestaande Brugmanagementsysteem (BMS) van de provincie Noord-Holland. Het BMS ondersteunt de bediening van bruggen en sluizen door het verzamelen, verwerken en presenteren van informatie ten behoeve van verkeerskundige besluitvorming en multimodale verkeersafwikkeling. De opdracht omvat de modernisering van de bestaande applicatie, de implementatie van aanvullende functionaliteiten en de uitvoering van beheer en onderhoud gedurende de looptijd van de overeenkomst. De overeenkomst wordt aangegaan voor een initiële periode van vijf jaar. De geraamde waarde van de initiële contractperiode bedraagt € 1.779.000 exclusief btw. De overeenkomst bevat daarnaast vijf eenzijdige verlengingsopties van telkens één jaar. De geraamde maximale opdrachtwaarde bedraagt € 3.087.000 exclusief btw, inclusief de contractueel voorziene verlengingsopties. Bij de raming is rekening gehouden met prijsindexatie op basis van de toepasselijke CBS-prijsindex.",
-      "cpv": "72262000",
+      "id": "441976-2026",
+      "ref": "441976-2026",
+      "acheteur": "Stichting Data Safe House",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – IT Dataplatform",
+      "description": "Stichting Data Safe House wenst een overeenkomst met één opdrachtnemer te sluiten voor de ontwikkeling en het beheer van een IT Dataplatform. Zie voor meer informatie de aanbestedingsstukken. Alle ondernemers die aan de eisen voldoen worden uitgenodigd een inschrijving in te dienen. Dat kan zelfstandig, als samenwerkingsverband en/of door een beroep te doen op derden en/of onderaannemers. De overeenkomst biedt ook ruimte om door te ontwikkelen. Dit valt van te voren nog niet volledig te overzien, waardoor de overeenkomst op onderdelen het karakter heeft van een raamovereenkomst. Dit betekent dat de totale opdrachtwaarde uiteindelijk boven de €1.100.000 kan uitkomen, waarbij als maximum twee (2) keer deze waarde (€2.200.000) wordt aangehouden. De hierboven genoemde omvang is slechts bedoeld als indicatie. Opdrachtnemer kan hier op geen enkele wijze rechten aan ontlenen. Alle genoemde bedragen zijn exclusief btw.",
+      "cpv": "72000000",
       "pays": "NLD",
       "deadline": "",
-      "montant": 3087,
-      "publication": "2026-07-03",
+      "montant": 2200,
+      "publication": "2026-06-29",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/458769-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/441976-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -66,49 +38,18 @@
       "auto": true
     },
     {
-      "id": "453765-2026",
-      "ref": "453765-2026",
-      "acheteur": "Klief",
-      "objet": "Belgique – Services d'implémentation de logiciels – Implementatie en ondersteuning van een nieuw ziekenhuisinformatiesysteem",
-      "description": "Klief is een revalidatie ziekenhuis te Oostende, België, dat wegens een uitfasering van het bestaande softwarepakket Obasi de overheidsopdracht voor de implementatie en ondersteuning een vervangend softwarepakket aanbesteedt. Op dit moment wordt Obasi aangewend voor volgende organisatieprocessen: • Logistiek en voorraadbeheer; • Boekhouding en financiële administratie; • Aankoopbeheer; • Patiëntenbeheer (admissie, opname, ontslag, planning); • Facturatie (VSB, ziekenfonds, patiënten, derdebetaler); • Apotheekbeheer (incl. Recip-e, koppeling tot eHealth-platform); • Optioneel in scope: BI en rapportering, integraties met labo en radiologie. Simultaan hebben we ook een implementatietraject lopende voor een nieuw EPD (KWS, NexuzHealth) dat ons bestaand EPD (Oxygen, CompuGroup) vervangt. Gelet op de uitfasering van Obasi enerzijds en de implementatie van KWS anderzijds, geldt een strikte voorwaarde dat de implementatie van de nieuwe vervangende software module(s) in nauwe afstemming met alle stakeholders en binnen de kortst mogelijke timing kan worden opgestart en voltooid. Hierbij verwacht de aanbestedende instantie dat er uiterlijk in 2028 live gegaan wordt met het nieuwe ziekenhuisinformatiesysteem. In januari 2027 start de implementatie van de nieuwe softwaremodule(s) opdat de implementatie zelf tijdig, kwalitatief, volledig en correct volgens de industriestandaard wordt uitgevoerd. Hierin houdt de aanbestedende instantie in het bijzonder rekening met de wederzijdse (aanbestedende instantie en opdrachtnemer) vereiste resources, mankracht profielen, project stappen en -planning; die onderhevig is aan validatie vanwege de aanbestedende instantie en tevens een cruciaal onderdeel (gunningsfactor) voor deze opdracht uitmaakt. Het betreft een strategisch belangrijke opdracht voor onze organisatie waarvoor de aanbestedende instantie een sterk geïntegreerd softwarepakket en informatiesysteem verwacht dat niet alleen de huidige en toekomstige activiteiten ondersteunt, maar ook in staat is om de bestaande werkprocessen meer doorgedreven te digitaliseren en te integreren in de werking van de organisatie. Naast de compatibiliteit van het softwareproduct met onze ziekenhuisprocessen en -werkwijze, de nodige certificering, de expertise en ervaring met gelijkaardige opdrachten, zijn er vanuit een holistische bril zeer veel elementen die met deze opdracht gepaard gaan en waarvoor de aanbestedende instantie graag zicht krijgt op hoe de kandidaat opdrachtnemer hier tegenover staat. Het gaat dan bijvoorbeeld, maar niet enkel, om: project methodologieën die toegepast kunnen worden, change management, governance en communicatie, partnerschap, waarden en normen, opleiding, effectiviteit en efficiëntie in projectuitvoering etc. We kijken ernaar uit om met deze opdracht een nieuwe strategische samenwerking te realiseren.",
-      "cpv": "72263000",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 2802,
-      "publication": "2026-07-02",
+      "id": "442125-2026",
+      "ref": "442125-2026",
+      "acheteur": "Gemeente Utrecht",
+      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Datagestuurd reinigen van openbare buitenruimtes",
+      "description": "De gemeente heeft de doelstelling om de schoonmaakactiviteiten in de buitenruimte voor schoon, groen en grijs effectiever en efficiënter uit te voeren, zodat de beeldkwaliteit in de stad verder verbetert. Om deze doelstelling te realiseren, willen we slimme, mobiele cameratechnologie inzetten. Deze technologie fungeert als voorschouw door de stad op reguliere of variabele basis te monitoren en uitgevoerde of benodigde werkzaamheden te herkennen. Hierbij gaat het bijvoorbeeld om verschillende vormen van (zwerf)afval en ander soort afval in de openbare ruimte. De herkende activiteiten worden vertaald in data, die vervolgens dient als input voor het opstellen van de werkverdeling en uitvoeringsplanning in de verschillende gebieden en voertuigen. Deze beelden moeten ter plekke en direct (dus in het voertuig/op de fiets) omgezet worden in data. Met deze data kan de uitvoering gericht worden aangestuurd naar locaties waar daadwerkelijk vervuiling is aangetroffen Verwachte omvang van de raamovereenkomst: De gemeente verwacht over de gehele looptijd (maximaal 4 jaar) van de raamovereenkomst een verwachte totale waarde af te nemen van € 1.200.000,- Dit komt neer op een jaarlijkse verwachte waarde van € 300.000,- Maximumomvang (of: begrenzing) van de raamovereenkomst: De maximale totale waarde over de gehele looptijd (maximaal 4 jaar) van de raamovereenkomst is € 1.800.000,- Dit komt neer op een jaarlijkse maximale waarde van € 450.000,- Zodra het maximumbedrag bereikt wordt, eindigt de raamovereenkomst automatisch. U kunt aan deze waarden geen rechten ontlenen. ",
+      "cpv": "72200000",
+      "pays": "NLD",
+      "deadline": "2026-08-24",
+      "montant": 1200,
+      "publication": "2026-06-29",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/453765-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "450746-2026",
-      "ref": "450746-2026",
-      "acheteur": "Ziekenhuis aan de Stroom vzw (ZAS)",
-      "objet": "Belgique – Services d'implémentation de logiciels – ERP ZAS",
-      "description": "Deze opdracht betreft het afsluiten van een raamovereenkomst met één leverancier voor de levering, implementatie, ondersteuning en verdere ontwikkeling van een geïntegreerde totaaloplossing die de processen finance, logistiek, facilitair beheer en procurement binnen ZAS op een uniforme, efficiënte, gebruiksvriendelijke en transparante manier ondersteunt. Ook moet voorzien worden in nodige rapportering en integraties. De opdracht omvat onder meer: - De initiële levering, installatie en configuratie van het systeem; - De migratie van actieve en historische data; - De begeleiding van de implementatie (inclusief opleiding en change management); - De hosting en technische ondersteuning; - Het onderhoud en de doorontwikkeling van het systeem gedurende de looptijd van de opdracht; - Het leveren van kwaliteitsvolle support na implementatie. CPV-code: 48451000-4 - Software voor ERP (Enterprise Resource Planning) Doel: ZAS is een fusieorganisatie die bestaat uit meerdere ziekenhuiscampussen en ondersteunende diensten, met een complexe en grootschalige structuur. Binnen deze context is er nood aan een geïntegreerde oplossing om de processen binnen bovenvermelde domeinen op een uniforme, effi-ciënte, gebruiksvriendelijke en transparante manier te ondersteunen. Bijlage C bevat meer informatie over de domeinen finance, logistiek, procurement en facilitair beheer. Deze bijlage is louter ter informatie, meer informatie over de scenario's die door het geïnte-greerd pakket gecoverd moeten worden zullen in het opdrachtdocument van de gunningsfase worden opgenomen. Het staat elke geselecteerde inschrijver vrij om - voor de levering, implementatie, ondersteuning en verdere ontwikkeling van de geïntegreerd totaaloplossing - al dan niet te werken met onderaannemers of andere ondernemingen (combinatie van ondernemingen). Inschrijvers die via onderaannemers wensen aan te bieden, duiden dit aan in het deelnameformulier (Bijlage A) en dienen een lijst van potentiële onderaannemers in te dienen.",
-      "cpv": "72263000",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 20000,
-      "publication": "2026-07-01",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/450746-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/442125-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -190,18 +131,18 @@
       "auto": true
     },
     {
-      "id": "441976-2026",
-      "ref": "441976-2026",
-      "acheteur": "Stichting Data Safe House",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – IT Dataplatform",
-      "description": "Stichting Data Safe House wenst een overeenkomst met één opdrachtnemer te sluiten voor de ontwikkeling en het beheer van een IT Dataplatform. Zie voor meer informatie de aanbestedingsstukken. Alle ondernemers die aan de eisen voldoen worden uitgenodigd een inschrijving in te dienen. Dat kan zelfstandig, als samenwerkingsverband en/of door een beroep te doen op derden en/of onderaannemers. De overeenkomst biedt ook ruimte om door te ontwikkelen. Dit valt van te voren nog niet volledig te overzien, waardoor de overeenkomst op onderdelen het karakter heeft van een raamovereenkomst. Dit betekent dat de totale opdrachtwaarde uiteindelijk boven de €1.100.000 kan uitkomen, waarbij als maximum twee (2) keer deze waarde (€2.200.000) wordt aangehouden. De hierboven genoemde omvang is slechts bedoeld als indicatie. Opdrachtnemer kan hier op geen enkele wijze rechten aan ontlenen. Alle genoemde bedragen zijn exclusief btw.",
-      "cpv": "72000000",
-      "pays": "NLD",
+      "id": "450746-2026",
+      "ref": "450746-2026",
+      "acheteur": "Ziekenhuis aan de Stroom vzw (ZAS)",
+      "objet": "Belgique – Services d'implémentation de logiciels – ERP ZAS",
+      "description": "Deze opdracht betreft het afsluiten van een raamovereenkomst met één leverancier voor de levering, implementatie, ondersteuning en verdere ontwikkeling van een geïntegreerde totaaloplossing die de processen finance, logistiek, facilitair beheer en procurement binnen ZAS op een uniforme, efficiënte, gebruiksvriendelijke en transparante manier ondersteunt. Ook moet voorzien worden in nodige rapportering en integraties. De opdracht omvat onder meer: - De initiële levering, installatie en configuratie van het systeem; - De migratie van actieve en historische data; - De begeleiding van de implementatie (inclusief opleiding en change management); - De hosting en technische ondersteuning; - Het onderhoud en de doorontwikkeling van het systeem gedurende de looptijd van de opdracht; - Het leveren van kwaliteitsvolle support na implementatie. CPV-code: 48451000-4 - Software voor ERP (Enterprise Resource Planning) Doel: ZAS is een fusieorganisatie die bestaat uit meerdere ziekenhuiscampussen en ondersteunende diensten, met een complexe en grootschalige structuur. Binnen deze context is er nood aan een geïntegreerde oplossing om de processen binnen bovenvermelde domeinen op een uniforme, effi-ciënte, gebruiksvriendelijke en transparante manier te ondersteunen. Bijlage C bevat meer informatie over de domeinen finance, logistiek, procurement en facilitair beheer. Deze bijlage is louter ter informatie, meer informatie over de scenario's die door het geïnte-greerd pakket gecoverd moeten worden zullen in het opdrachtdocument van de gunningsfase worden opgenomen. Het staat elke geselecteerde inschrijver vrij om - voor de levering, implementatie, ondersteuning en verdere ontwikkeling van de geïntegreerd totaaloplossing - al dan niet te werken met onderaannemers of andere ondernemingen (combinatie van ondernemingen). Inschrijvers die via onderaannemers wensen aan te bieden, duiden dit aan in het deelnameformulier (Bijlage A) en dienen een lijst van potentiële onderaannemers in te dienen.",
+      "cpv": "72263000",
+      "pays": "BEL",
       "deadline": "",
-      "montant": 2200,
-      "publication": "2026-06-29",
+      "montant": 20000,
+      "publication": "2026-07-01",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/441976-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/450746-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -221,18 +162,18 @@
       "auto": true
     },
     {
-      "id": "442125-2026",
-      "ref": "442125-2026",
-      "acheteur": "Gemeente Utrecht",
-      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Datagestuurd reinigen van openbare buitenruimtes",
-      "description": "De gemeente heeft de doelstelling om de schoonmaakactiviteiten in de buitenruimte voor schoon, groen en grijs effectiever en efficiënter uit te voeren, zodat de beeldkwaliteit in de stad verder verbetert. Om deze doelstelling te realiseren, willen we slimme, mobiele cameratechnologie inzetten. Deze technologie fungeert als voorschouw door de stad op reguliere of variabele basis te monitoren en uitgevoerde of benodigde werkzaamheden te herkennen. Hierbij gaat het bijvoorbeeld om verschillende vormen van (zwerf)afval en ander soort afval in de openbare ruimte. De herkende activiteiten worden vertaald in data, die vervolgens dient als input voor het opstellen van de werkverdeling en uitvoeringsplanning in de verschillende gebieden en voertuigen. Deze beelden moeten ter plekke en direct (dus in het voertuig/op de fiets) omgezet worden in data. Met deze data kan de uitvoering gericht worden aangestuurd naar locaties waar daadwerkelijk vervuiling is aangetroffen Verwachte omvang van de raamovereenkomst: De gemeente verwacht over de gehele looptijd (maximaal 4 jaar) van de raamovereenkomst een verwachte totale waarde af te nemen van € 1.200.000,- Dit komt neer op een jaarlijkse verwachte waarde van € 300.000,- Maximumomvang (of: begrenzing) van de raamovereenkomst: De maximale totale waarde over de gehele looptijd (maximaal 4 jaar) van de raamovereenkomst is € 1.800.000,- Dit komt neer op een jaarlijkse maximale waarde van € 450.000,- Zodra het maximumbedrag bereikt wordt, eindigt de raamovereenkomst automatisch. U kunt aan deze waarden geen rechten ontlenen. ",
-      "cpv": "72200000",
-      "pays": "NLD",
-      "deadline": "2026-08-24",
-      "montant": 1200,
-      "publication": "2026-06-29",
+      "id": "453765-2026",
+      "ref": "453765-2026",
+      "acheteur": "Klief",
+      "objet": "Belgique – Services d'implémentation de logiciels – Implementatie en ondersteuning van een nieuw ziekenhuisinformatiesysteem",
+      "description": "Klief is een revalidatie ziekenhuis te Oostende, België, dat wegens een uitfasering van het bestaande softwarepakket Obasi de overheidsopdracht voor de implementatie en ondersteuning een vervangend softwarepakket aanbesteedt. Op dit moment wordt Obasi aangewend voor volgende organisatieprocessen: • Logistiek en voorraadbeheer; • Boekhouding en financiële administratie; • Aankoopbeheer; • Patiëntenbeheer (admissie, opname, ontslag, planning); • Facturatie (VSB, ziekenfonds, patiënten, derdebetaler); • Apotheekbeheer (incl. Recip-e, koppeling tot eHealth-platform); • Optioneel in scope: BI en rapportering, integraties met labo en radiologie. Simultaan hebben we ook een implementatietraject lopende voor een nieuw EPD (KWS, NexuzHealth) dat ons bestaand EPD (Oxygen, CompuGroup) vervangt. Gelet op de uitfasering van Obasi enerzijds en de implementatie van KWS anderzijds, geldt een strikte voorwaarde dat de implementatie van de nieuwe vervangende software module(s) in nauwe afstemming met alle stakeholders en binnen de kortst mogelijke timing kan worden opgestart en voltooid. Hierbij verwacht de aanbestedende instantie dat er uiterlijk in 2028 live gegaan wordt met het nieuwe ziekenhuisinformatiesysteem. In januari 2027 start de implementatie van de nieuwe softwaremodule(s) opdat de implementatie zelf tijdig, kwalitatief, volledig en correct volgens de industriestandaard wordt uitgevoerd. Hierin houdt de aanbestedende instantie in het bijzonder rekening met de wederzijdse (aanbestedende instantie en opdrachtnemer) vereiste resources, mankracht profielen, project stappen en -planning; die onderhevig is aan validatie vanwege de aanbestedende instantie en tevens een cruciaal onderdeel (gunningsfactor) voor deze opdracht uitmaakt. Het betreft een strategisch belangrijke opdracht voor onze organisatie waarvoor de aanbestedende instantie een sterk geïntegreerd softwarepakket en informatiesysteem verwacht dat niet alleen de huidige en toekomstige activiteiten ondersteunt, maar ook in staat is om de bestaande werkprocessen meer doorgedreven te digitaliseren en te integreren in de werking van de organisatie. Naast de compatibiliteit van het softwareproduct met onze ziekenhuisprocessen en -werkwijze, de nodige certificering, de expertise en ervaring met gelijkaardige opdrachten, zijn er vanuit een holistische bril zeer veel elementen die met deze opdracht gepaard gaan en waarvoor de aanbestedende instantie graag zicht krijgt op hoe de kandidaat opdrachtnemer hier tegenover staat. Het gaat dan bijvoorbeeld, maar niet enkel, om: project methodologieën die toegepast kunnen worden, change management, governance en communicatie, partnerschap, waarden en normen, opleiding, effectiviteit en efficiëntie in projectuitvoering etc. We kijken ernaar uit om met deze opdracht een nieuwe strategische samenwerking te realiseren.",
+      "cpv": "72263000",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 2802,
+      "publication": "2026-07-02",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/442125-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/453765-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -242,6 +183,68 @@
       "score_detail": {
         "fit": 30,
         "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "458769-2026",
+      "ref": "458769-2026",
+      "acheteur": "Provincie Noord-Holland",
+      "objet": "Pays-Bas – Services de développement de logiciels – Vernieuwing, doorontwikkeling, beheer en onderhoud van het Brugmanagementsysteem (BMS)",
+      "description": "De opdracht betreft de vernieuwing, doorontwikkeling, het beheer en onderhoud van het bestaande Brugmanagementsysteem (BMS) van de provincie Noord-Holland. Het BMS ondersteunt de bediening van bruggen en sluizen door het verzamelen, verwerken en presenteren van informatie ten behoeve van verkeerskundige besluitvorming en multimodale verkeersafwikkeling. De opdracht omvat de modernisering van de bestaande applicatie, de implementatie van aanvullende functionaliteiten en de uitvoering van beheer en onderhoud gedurende de looptijd van de overeenkomst. De overeenkomst wordt aangegaan voor een initiële periode van vijf jaar. De geraamde waarde van de initiële contractperiode bedraagt € 1.779.000 exclusief btw. De overeenkomst bevat daarnaast vijf eenzijdige verlengingsopties van telkens één jaar. De geraamde maximale opdrachtwaarde bedraagt € 3.087.000 exclusief btw, inclusief de contractueel voorziene verlengingsopties. Bij de raming is rekening gehouden met prijsindexatie op basis van de toepasselijke CBS-prijsindex.",
+      "cpv": "72262000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 3087,
+      "publication": "2026-07-03",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/458769-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "448806-2026",
+      "ref": "448806-2026",
+      "acheteur": "Gemeente Purmerend",
+      "objet": "Pays-Bas – Services relatifs aux logiciels – Schulddienstverleningsapplicatie",
+      "description": "De Gemeente wil via een Openbare Europese aanbesteding een overeenkomst sluiten voor de schulddienstverleningsapplicatie met als resultaat 1 opdrachtnemer. De applicatie wordt gebruikt door ongeveer 50 gebruikers.",
+      "cpv": "72260000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 495,
+      "publication": "2026-06-30",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/448806-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -296,37 +299,6 @@
       "source": "TED",
       "url": "https://ted.europa.eu/fr/notice/-/detail/460283-2026",
       "segment": "ESR",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "448806-2026",
-      "ref": "448806-2026",
-      "acheteur": "Gemeente Purmerend",
-      "objet": "Pays-Bas – Services relatifs aux logiciels – Schulddienstverleningsapplicatie",
-      "description": "De Gemeente wil via een Openbare Europese aanbesteding een overeenkomst sluiten voor de schulddienstverleningsapplicatie met als resultaat 1 opdrachtnemer. De applicatie wordt gebruikt door ongeveer 50 gebruikers.",
-      "cpv": "72260000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 495,
-      "publication": "2026-06-30",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/448806-2026",
-      "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
@@ -408,6 +380,37 @@
       "auto": true
     },
     {
+      "id": "449134-2026",
+      "ref": "449134-2026",
+      "acheteur": "Vlaamse Overheid",
+      "objet": "Belgique – Services de développement de logiciels utilitaires généraux – Raamovereenkomst GRC Tool",
+      "description": "Deze raamovereenkomst betreft de levering, implementatie, configuratie en doorontwikkeling van een SaaS-oplossing voor een geïntegreerd Governance, Risk & Compliance (GRC)-platform voor de Vlaamse Overheid en lokale besturen (zie 1.2.1 Mogelijke Gebruikers (entiteiten)). De oplossing wordt door de besteller-regisseur als een gedeelde dienst aangeboden aan Vlaamse overheden en lokale besturen, en ondersteunt de verwezenlijking van de geldende Vlaamse strategie op vlak van digitale veiligheid. De GRC-tool is een instrument om de weerbaarheid tegen cyberdreigingen verder op te bouwen en te versterken en laat de centrale opvolging van de risicobeheersing onder meer in verband met het implementeren van de genomen beheersmaatregelen, het uitvoeren van periodieke risicobeoordelingen en de conformiteit met de regelgeving en de beleidsstrategie digitale veiligheid toe.",
+      "cpv": "72212771",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-06-30",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/449134-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "458156-2026",
       "ref": "458156-2026",
       "acheteur": "OVER-gemeenten",
@@ -470,31 +473,31 @@
       "auto": true
     },
     {
-      "id": "449134-2026",
-      "ref": "449134-2026",
-      "acheteur": "Vlaamse Overheid",
-      "objet": "Belgique – Services de développement de logiciels utilitaires généraux – Raamovereenkomst GRC Tool",
-      "description": "Deze raamovereenkomst betreft de levering, implementatie, configuratie en doorontwikkeling van een SaaS-oplossing voor een geïntegreerd Governance, Risk & Compliance (GRC)-platform voor de Vlaamse Overheid en lokale besturen (zie 1.2.1 Mogelijke Gebruikers (entiteiten)). De oplossing wordt door de besteller-regisseur als een gedeelde dienst aangeboden aan Vlaamse overheden en lokale besturen, en ondersteunt de verwezenlijking van de geldende Vlaamse strategie op vlak van digitale veiligheid. De GRC-tool is een instrument om de weerbaarheid tegen cyberdreigingen verder op te bouwen en te versterken en laat de centrale opvolging van de risicobeheersing onder meer in verband met het implementeren van de genomen beheersmaatregelen, het uitvoeren van periodieke risicobeoordelingen en de conformiteit met de regelgeving en de beleidsstrategie digitale veiligheid toe.",
-      "cpv": "72212771",
+      "id": "442838-2026",
+      "ref": "442838-2026",
+      "acheteur": "Provincie Oost-Vlaanderen",
+      "objet": "Belgique – Services de formation spécialisée – Raamovereenkomst: Het organiseren van opleidingen voor het redden van dieren",
+      "description": "Deze opdracht betreft een dienstenopdracht voor het organiseren, coördineren en uitvoeren van modulaire opleidingen inzake het redden, bevrijden en evacueren van grote dieren (waaronder, niet-limitatief, paarden, runderen en andere grote landbouwhuisdieren), ten behoeve van PAULO Brandweer en de deelnemende brandweerzones. De opleidingen worden georganiseerd op het grondgebied van België of in het buitenland, afhankelijk van de gekozen modules, de beschikbare expertise en de operationele noden. De opdracht kwalificeert als een sociale en andere specifieke dienst zoals bedoeld in bijlage III van de wet van 17 juni 2016. De opdracht beoogt het structureel uitbouwen van een duurzaam opleidingskader voor gespecialiseerde interventietechnieken bij incidenten met grote dieren, met als doel: • Het veilig benaderen, stabiliseren en evacueren van grote dieren in noodsituaties, • Verhoging van de operationele veiligheid van hulpverleners, • Minimalisering van risico’s voor het dier, • Standaardisering van procedures, • Het uitbouwen van duurzame expertise binnen PAULO Brandweer. De opdrachtnemer staat in voor de integrale opleidingsorganisatie per module en/of opleidingstraject. PAULO Brandweer leidt cursisten op in redding van grote dieren en beschikt hiervoor over een poule van instructeurs in opleiding. Voor de organisatie van deze opleidingen werkt PAULO samen met een opdrachtnemer die de volledige cursus kan aanbieden (per groep van 12 deelnemers), inclusief optionele componenten zoals hotel, restauratie, theorielokaal, logistiek, materiaal en certificering. Looptijd overeenkomst: De uitvoeringstermijn van deze opdracht bedraagt 2 jaar, te rekenen vanaf de datum van de kennisgeving van de gunning. Na afloop van deze vaste termijn kan de opdracht stilzwijgend worden verlengd met 2 periodes van telkens 12 maanden, onder dezelfde contractuele voorwaarden (maximaal 4 jaar). Deze verlengingen dienen uitsluitend om PAULO toe te laten de kwaliteit, werking en resultaten van de opleidingen te evalueren en eventueel een nieuwe procedure op te starten indien de opdracht na twee jaar niet langer voldoet aan de verwachtingen. Indien de opleidingen positief worden geëvalueerd, kan zij tot 4 jaar van deze dienstverlening genieten, mede gelet op de investeringen en kosten die met dergelijke specialistische opleiding gepaard gaan.",
+      "cpv": "80510000",
       "pays": "BEL",
-      "deadline": "",
+      "deadline": "2026-08-12",
       "montant": 0,
-      "publication": "2026-06-30",
+      "publication": "2026-06-29",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/449134-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/442838-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
       "bureautique": true,
-      "score": 65,
+      "score": 63,
       "score_detail": {
         "fit": 30,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 3
+        "delay": 1
       },
       "score_status": "cond",
       "notes": "",
@@ -532,70 +535,93 @@
       "auto": true
     },
     {
-      "id": "442838-2026",
-      "ref": "442838-2026",
-      "acheteur": "Provincie Oost-Vlaanderen",
-      "objet": "Belgique – Services de formation spécialisée – Raamovereenkomst: Het organiseren van opleidingen voor het redden van dieren",
-      "description": "Deze opdracht betreft een dienstenopdracht voor het organiseren, coördineren en uitvoeren van modulaire opleidingen inzake het redden, bevrijden en evacueren van grote dieren (waaronder, niet-limitatief, paarden, runderen en andere grote landbouwhuisdieren), ten behoeve van PAULO Brandweer en de deelnemende brandweerzones. De opleidingen worden georganiseerd op het grondgebied van België of in het buitenland, afhankelijk van de gekozen modules, de beschikbare expertise en de operationele noden. De opdracht kwalificeert als een sociale en andere specifieke dienst zoals bedoeld in bijlage III van de wet van 17 juni 2016. De opdracht beoogt het structureel uitbouwen van een duurzaam opleidingskader voor gespecialiseerde interventietechnieken bij incidenten met grote dieren, met als doel: • Het veilig benaderen, stabiliseren en evacueren van grote dieren in noodsituaties, • Verhoging van de operationele veiligheid van hulpverleners, • Minimalisering van risico’s voor het dier, • Standaardisering van procedures, • Het uitbouwen van duurzame expertise binnen PAULO Brandweer. De opdrachtnemer staat in voor de integrale opleidingsorganisatie per module en/of opleidingstraject. PAULO Brandweer leidt cursisten op in redding van grote dieren en beschikt hiervoor over een poule van instructeurs in opleiding. Voor de organisatie van deze opleidingen werkt PAULO samen met een opdrachtnemer die de volledige cursus kan aanbieden (per groep van 12 deelnemers), inclusief optionele componenten zoals hotel, restauratie, theorielokaal, logistiek, materiaal en certificering. Looptijd overeenkomst: De uitvoeringstermijn van deze opdracht bedraagt 2 jaar, te rekenen vanaf de datum van de kennisgeving van de gunning. Na afloop van deze vaste termijn kan de opdracht stilzwijgend worden verlengd met 2 periodes van telkens 12 maanden, onder dezelfde contractuele voorwaarden (maximaal 4 jaar). Deze verlengingen dienen uitsluitend om PAULO toe te laten de kwaliteit, werking en resultaten van de opleidingen te evalueren en eventueel een nieuwe procedure op te starten indien de opdracht na twee jaar niet langer voldoet aan de verwachtingen. Indien de opleidingen positief worden geëvalueerd, kan zij tot 4 jaar van deze dienstverlening genieten, mede gelet op de investeringen en kosten die met dergelijke specialistische opleiding gepaard gaan.",
-      "cpv": "80510000",
-      "pays": "BEL",
-      "deadline": "2026-08-12",
-      "montant": 0,
-      "publication": "2026-06-29",
+      "id": "446777-2026",
+      "ref": "446777-2026",
+      "acheteur": "VILLE DE LIMOGES",
+      "objet": "France – Services de formation du personnel – Formations en santé et sécurité au travail",
+      "description": "Conduite en sécurité des engins de chantier et nacelles / Conduite en sécurité de chariots / Qualifications SSIAP / Habilitations électriques et sensibilisations risques électriques",
+      "cpv": "80511000",
+      "pays": "FRA",
+      "deadline": "2026-08-06",
+      "montant": 500,
+      "publication": "2026-06-30",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/442838-2026",
-      "segment": "Autre",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/446777-2026",
+      "segment": "Collectivités",
       "keyword_hits": [
-        "Word"
+        "habilitation"
       ],
-      "bureautique": true,
-      "score": 63,
+      "bureautique": false,
+      "score": 62,
       "score_detail": {
-        "fit": 30,
-        "size": 8,
+        "fit": 25,
+        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 1
+        "delay": 0
       },
       "score_status": "cond",
       "notes": "",
       "auto": true
     },
     {
-      "id": "26-74673",
-      "ref": "26-74673",
-      "acheteur": "Coallia",
-      "objet": "Gestion des identités et des habilitations (IAM)",
-      "description": "Gestion des identités et des habilitations (IAM)",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-09-10",
+      "id": "453453-2026",
+      "ref": "453453-2026",
+      "acheteur": "Gemeente Dordrecht | Bedrijfsvoering Drechtsteden",
+      "objet": "Pays-Bas – Services de formation – 260096REG Talentenfonds Drechtsteden 2026-2027",
+      "description": "Sectoren Zorg & Welzijn, Bouw & Techniek, Transport & Logistiek en Maritiem De opdracht omvat één geïntegreerde opdracht voor het leveren van opleidingen in alle vier (4) de sectoren, met een totaalbudget van maximaal €2.200.000 incl. btw. Opleiders kunnen inschrijven voor één of meerdere sectoren, maar worden beloond voor veelzijdigheid in hun aanbod. De opleidingen moeten: • Direct aansluiten op de actuele arbeidsmarktvraag in de Drechtsteden; • (Basis)-beroepsvaardigheden ontwikkelen, afgestemd op de doelgroep; • Kosteloos en laagdrempelig zijn voor deelnemers, mede door een minimale cofinancieringsbijdrage van 25% door opleiders.",
+      "cpv": "80500000",
+      "pays": "NLD",
+      "deadline": "2026-08-10",
       "montant": 0,
-      "publication": "2026-07-28",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-74673",
-      "_boamp": {
-        "famille": "Marchés européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Logiciel"
-        ],
-        "departement": "75"
-      },
+      "publication": "2026-07-02",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/453453-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "habilitation"
+        "Word"
       ],
+      "bureautique": true,
       "score": 62,
       "score_detail": {
-        "fit": 25,
+        "fit": 30,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "460644-2026",
+      "ref": "460644-2026",
+      "acheteur": "Agentschap Sport Vlaanderen",
+      "objet": "Belgique – Services de développement de logiciels de formation et de divertissement – Licentie op een e-learningomgeving voor de opleidingen en bijscholingen van de Vlaamse Trainersschool (VTS), inclusief de mogelijkheid voor het creëren van tenants voor partners binnen het VTS-samenwerkingsverband",
+      "description": "De opdracht betreft een geïntegreerde digitale leeromgeving (e-learningplatform) waarbij de verschillende componenten, waaronder de terbeschikkingstelling van het platform (licentie/SaaS), de implementatie, de integratie met bestaande systemen (in het bijzonder de VOTAS-databank), het onderhoud en de ondersteuning, technisch en functioneel nauw met elkaar verbonden zijn. Een opsplitsing in percelen zou een performant en coherent geheel bemoeilijken en kan leiden tot verhoogde complexiteit op het vlak van integratie, verantwoordelijkheid en coördinatie tussen meerdere opdrachtnemers. Dit zou tevens risico’s met zich meebrengen voor de continuïteit, de werking en de beveiliging van het platform. Om deze redenen wordt geopteerd om de opdracht als één geheel in de markt te zetten.",
+      "cpv": "72212931",
+      "pays": "BEL",
+      "deadline": "2026-08-11",
+      "montant": 0,
+      "publication": "2026-07-03",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/460644-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 62,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
       },
       "score_status": "cond",
       "notes": "",
@@ -666,111 +692,18 @@
       "auto": true
     },
     {
-      "id": "460644-2026",
-      "ref": "460644-2026",
-      "acheteur": "Agentschap Sport Vlaanderen",
-      "objet": "Belgique – Services de développement de logiciels de formation et de divertissement – Licentie op een e-learningomgeving voor de opleidingen en bijscholingen van de Vlaamse Trainersschool (VTS), inclusief de mogelijkheid voor het creëren van tenants voor partners binnen het VTS-samenwerkingsverband",
-      "description": "De opdracht betreft een geïntegreerde digitale leeromgeving (e-learningplatform) waarbij de verschillende componenten, waaronder de terbeschikkingstelling van het platform (licentie/SaaS), de implementatie, de integratie met bestaande systemen (in het bijzonder de VOTAS-databank), het onderhoud en de ondersteuning, technisch en functioneel nauw met elkaar verbonden zijn. Een opsplitsing in percelen zou een performant en coherent geheel bemoeilijken en kan leiden tot verhoogde complexiteit op het vlak van integratie, verantwoordelijkheid en coördinatie tussen meerdere opdrachtnemers. Dit zou tevens risico’s met zich meebrengen voor de continuïteit, de werking en de beveiliging van het platform. Om deze redenen wordt geopteerd om de opdracht als één geheel in de markt te zetten.",
-      "cpv": "72212931",
-      "pays": "BEL",
-      "deadline": "2026-08-11",
-      "montant": 0,
-      "publication": "2026-07-03",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/460644-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "453453-2026",
-      "ref": "453453-2026",
-      "acheteur": "Gemeente Dordrecht | Bedrijfsvoering Drechtsteden",
-      "objet": "Pays-Bas – Services de formation – 260096REG Talentenfonds Drechtsteden 2026-2027",
-      "description": "Sectoren Zorg & Welzijn, Bouw & Techniek, Transport & Logistiek en Maritiem De opdracht omvat één geïntegreerde opdracht voor het leveren van opleidingen in alle vier (4) de sectoren, met een totaalbudget van maximaal €2.200.000 incl. btw. Opleiders kunnen inschrijven voor één of meerdere sectoren, maar worden beloond voor veelzijdigheid in hun aanbod. De opleidingen moeten: • Direct aansluiten op de actuele arbeidsmarktvraag in de Drechtsteden; • (Basis)-beroepsvaardigheden ontwikkelen, afgestemd op de doelgroep; • Kosteloos en laagdrempelig zijn voor deelnemers, mede door een minimale cofinancieringsbijdrage van 25% door opleiders.",
-      "cpv": "80500000",
-      "pays": "NLD",
-      "deadline": "2026-08-10",
+      "id": "455983-2026",
+      "ref": "455983-2026",
+      "acheteur": "RATP",
+      "objet": "France – Services de développement de logiciels de contrôle du trafic ferroviaire – Etude, développement, mise en service et déploiement d'un système Coeur Produit Poste de Commandes Centralisées Nouvelle Génération (Coeur Produit PCC NG)",
+      "description": "Les prestations comprises dans le montant minimum de l’accord-cadre sont les suivantes : - Le management du projet ; - L'étude, le développement et la validation des fonctions du Cœur Produit PCC NG  ; - L'étude, le développement et la validation du Logiciel Cœur Produit PCC NG dont les Interfaces Homme Machine (IHM) ; - L'intégration, les essais et la mise en service des fonctions du Cœur Produit PCC NG en usine ; - L'instanciation, les essais et la mise en service du Cœur Produit PCC NG sur la ligne de métro 6 comprenant le suivi des performances et des indicateurs, les périodes probatoires et de garantie après chaque mise en service ; - L’étude, le développement et la validation de l’Outil de Gestion de la Configuration (OGC) du Cœur Produit PCC NG  ; - L’étude, le développement et la validation du logiciel de simulation pour le banc de qualification et de formation ; - L’étude, le développement et la validation d’un banc de qualification et de formation ; - La livraison, l’installation du Banc de qualification et de formation sur le site RATP dédié ainsi que la formation, l’accompagnement de la RATP sur celle-ci ; - L'intégration, les essais et la mise en service des fonctions du Cœur Produit PCC NG et de l’instanciation de la ligne de métro 6 en Banc de qualification de la RATP ; - La fourniture du matériel nécessaire pour la plateforme de validation du Cœur Produit PCC NG en usine et pour le banc de qualification sur site RATP ; - L’instanciation de l’Outil de Formation (OFO) de la ligne de métro 6 ; - L’étude, la fourniture et la mise en œuvre des systèmes de basculements nécessaires pour la réalisation des installations, des essais et des mises en service des systèmes applicatifs sans interruption de l’exploitation ; - La coordination et la gestion des interfaces avec les systèmes environnants notamment : la logique traction, le système de contrôle-commande du mouvement des trains (OCTYS), la signalisation, les équipements de Traction en ligne, les serveurs informatiques de concentration des données, les systèmes d'information voyageur, horaires, service conducteur, habilitations, vidéo, sonorisation, superviseur, les équipements du Système d'Aide à l'Exploitation (SAE) en campagne ; - L’étude et le développement des interfaces nécessaires à l’intégration du Cœur Produit avec le banc de qualification sur le site de la RATP dédié ; - L'étude, le développement, la validation, l'intégration, la mise en service, les essais, la livraison et les installations sur site des outils de maintenance ; - La formation des formateurs (exploitants et mainteneurs) ainsi que des utilisateurs du banc de qualification sur site RATP ;   - La fourniture de l’ensemble de la documentation contractuelle définie dans le marché (conception, intégration, essais, outils, etc.) . Les prestations comprises dans le montant maximum de l’accord-cadre sont les suivantes : 1) Les prestations du montant minimum ; 2) Les prestations pouvant être commandées. Elles peuvent comprendre les prestations suivantes : 2.1) Pour chacune des lignes de métro 8, 7, 7bis, 10 et 2 : *** L'instanciation, les essais et la mise en service du Cœur Produit PCC NG sur la ligne comprenant le suivi des performances et des indicateurs, les périodes probatoires et de garantie après chaque mise en service ; *** L’étude, l'approvisionnement, la livraison et l'installation du matériel sur les sites de la RATP dédiés (Poste Opérateur (PO) Banc, PO OFO, PO OGC, PO Salle d'exploitation et PO déportés, baies, etc.) ; *** L'intégration, les essais et la mise en service du sous-système OFO  ; *** Le développement, les essais et la mise en service du simulateur du banc de qualification pour l'instanciation de la ligne ; 2.2.) La garantie du Coeur Produit PCC NG ; 2.3.) La mise en œuvre des dispositifs de Tierce Maintenance (TM) pour une durée maximum de cinq (5) ans couvrant l’ensemble des composants du marché : *** Pour le système Coeur Produit PCC NG : TM de type 1 comprenant le Maintien en Condition Opérationnelle (MCO), le Maintien en Condition de Sécurité (MCS) et les trains de maintenance ainsi que la TM de type 2 ; *** Pour le banc de qualification et de formation de la RATP : TM de type comprenant le MCO, le MCS ainsi que la TM de type 2 ; *** L'ensemble de la documentation associée ; 2.4.) La mise en œuvre des dispositifs de réversibilité couvrant l’ensemble des composants du marché (système Cœur Produit PCC NG, banc de qualification sur site RATP, l'ensemble de la documentation associée) ; 2.5.) Les prestations complémentaires dans la limite de 30% du minimum du marché comprenant notamment : - Les prestations pouvant être commandées et indiquées dans le Bordereau des prix incluant : *** Les prestations unitaires prévues au Bordereau des prix ; *** La fourniture du parc de rechange ; *** Les extensions de garantie  ; *** Les décalages de jalons RATP ; -Les prestations sur devis (dont la maintenance de type 2), à la demande de la RATP.",
+      "cpv": "72212140",
+      "pays": "FRA",
+      "deadline": "",
       "montant": 0,
       "publication": "2026-07-02",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/453453-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "446777-2026",
-      "ref": "446777-2026",
-      "acheteur": "VILLE DE LIMOGES",
-      "objet": "France – Services de formation du personnel – Formations en santé et sécurité au travail",
-      "description": "Conduite en sécurité des engins de chantier et nacelles / Conduite en sécurité de chariots / Qualifications SSIAP / Habilitations électriques et sensibilisations risques électriques",
-      "cpv": "80511000",
-      "pays": "FRA",
-      "deadline": "2026-08-06",
-      "montant": 500,
-      "publication": "2026-06-30",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/446777-2026",
-      "segment": "Collectivités",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "bureautique": false,
-      "score": 62,
-      "score_detail": {
-        "fit": 25,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "456990-2026",
-      "ref": "456990-2026",
-      "acheteur": "Kliniken Ostallgäu-Kaufbeuren",
-      "objet": "Allemagne – Services aux entreprises: droit, marketing, conseil, recrutement, impression et sécurité – Managementvertrag für die Kliniken Ostallgäu-Kaufbeuren",
-      "description": "Die Kliniken Ostallgäu-Kaufbeuren als Anstalt des öffentlichen Rechts bieten mit ihren 2.200 Mitarbeitern medizinische Versorgung an drei Standorten mit 654 akutstationären Planbetten (Buchloe mit 100, Füssen mit 120, Kaufbeuren mit 434 Betten) und einer Geriatrischen Rehabilitation mit 25 Betten. Das Klinikum Kaufbeuren ist akademisches Lehrkrankenhaus der Ludwig-Maximilians- Universität (LMU) München, akademische Lehrabteilung der Medizinischen Universität Innsbruck & der Privatuniversität Krems sowie Partnerklinik der Universitätsklinik Augsburg. Die Abteilung Innere Medizin der Klinik Füssen ist akademische Lehrabteilung der LMU München. Das Klinikunternehmen steht mit seinen Einrichtungen aufgrund der sich verschärfenden gesundheitsregulatorischen Rahmenbedingungen und des damit verbundenen administrativen Aufwands vor großen Herausforderungen in einem intensiven Wettbewerbsumfeld. In diesem Umfeld und zur Weiterentwicklung der Krankenhäuser beabsichtigen die Träger der Kliniken Ostallgäu-Kaufbeuren, für einen definierten Zeitraum das Management einem Unternehmen zu übertragen, das über profunde Erfahrung im Management von vergleichbaren Einrichtungen des Gesundheitswesens verfügt. Leistungsgegenstand: 1. Managementteam Das Managementteam besteht aus einem Projektkoordinator, einem Alleinvorstand sowie - je nach Konzeption des Auftragnehmers - weiteren Personen. Der Projektkoordinator nimmt die grundlegenden Weichenstellungen vor und leitet das Managementteam. Er fungiert zudem als primärer Ansprechpartner für den Auftraggeber, insbesondere zu übergeordneten strategischen Belangen. Er muss über langjährige und umfassende Erfahrung im Bereich Krankenhausmanagement verfügen. Die Kliniken Ostallgäu-Kaufbeuren werden von einem erfahrenen Alleinvorstand geführt. Er verfügt über besondere Expertise in der Führung von Krankenhäusern und ist der Ansprechpartner des Auftraggebers im operativen Geschäft. 2. Strategiekonzept Innerhalb der ersten sechs Monate der Vertragslaufzeit ist ein umfassendes Strategiekonzept über konkrete Maßnahmen zur Erreichung einer Ergebnisverbesserung aufzuzeigen. Dieses ist sodann mit dem Auftraggeber abzustimmen und freizugeben. Der Auftragnehmer informiert den Auftraggeber regelmäßig über den Stand der Umsetzung des Konzeptes. Das Strategiekonzept muss inhaltlich zahlreiche Themenkomplexe abdecken, die in folgende Kategorien einzuteilen sind: - Analyse der Entwicklungsmöglichkeiten bezüglich des medizinischen Leistungsangebots, - Analyse der wesentlichen den Krankenhausbetrieb unterstützenden Leistungen (z.B. Küche, Reinigung, Wäscherei, Medizintechnik), - Analyse der administrativen Strukturen der Kliniken Ostallgäu-Kaufbeuren (z.B. Finanz- und Rechnungswesen, Controlling, Leistungsabrechnung, Medizincontrolling, Einkauf), - Analyse der medizinischen Kernprozesse von der Aufnahme bis zur Entlassung. Der Auftragnehmer übernimmt auch die Umsetzung der in dem Strategiekonzept vorgesehenen Maßnahmen, insbesondere durch den von diesem gestellten Alleinvorstand. 3. Implementierung von Standards und Tools Der Auftraggeber bzw. die drei von ihm betriebenen Krankenhäuser erhalten von dem Auftragnehmer während der gesamten Vertragsdauer vollen Zugriff auf Standards und Managementtools, über welche der Auftragnehmer im Bereich der unter Nr. 2 aufgelisteten Kategorien verfügt.",
-      "cpv": "79000000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-07-03",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/456990-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/455983-2026",
       "segment": "Autre",
       "keyword_hits": [
         "habilitation"
@@ -790,18 +723,18 @@
       "auto": true
     },
     {
-      "id": "455983-2026",
-      "ref": "455983-2026",
-      "acheteur": "RATP",
-      "objet": "France – Services de développement de logiciels de contrôle du trafic ferroviaire – Etude, développement, mise en service et déploiement d'un système Coeur Produit Poste de Commandes Centralisées Nouvelle Génération (Coeur Produit PCC NG)",
-      "description": "Les prestations comprises dans le montant minimum de l’accord-cadre sont les suivantes : - Le management du projet ; - L'étude, le développement et la validation des fonctions du Cœur Produit PCC NG  ; - L'étude, le développement et la validation du Logiciel Cœur Produit PCC NG dont les Interfaces Homme Machine (IHM) ; - L'intégration, les essais et la mise en service des fonctions du Cœur Produit PCC NG en usine ; - L'instanciation, les essais et la mise en service du Cœur Produit PCC NG sur la ligne de métro 6 comprenant le suivi des performances et des indicateurs, les périodes probatoires et de garantie après chaque mise en service ; - L’étude, le développement et la validation de l’Outil de Gestion de la Configuration (OGC) du Cœur Produit PCC NG  ; - L’étude, le développement et la validation du logiciel de simulation pour le banc de qualification et de formation ; - L’étude, le développement et la validation d’un banc de qualification et de formation ; - La livraison, l’installation du Banc de qualification et de formation sur le site RATP dédié ainsi que la formation, l’accompagnement de la RATP sur celle-ci ; - L'intégration, les essais et la mise en service des fonctions du Cœur Produit PCC NG et de l’instanciation de la ligne de métro 6 en Banc de qualification de la RATP ; - La fourniture du matériel nécessaire pour la plateforme de validation du Cœur Produit PCC NG en usine et pour le banc de qualification sur site RATP ; - L’instanciation de l’Outil de Formation (OFO) de la ligne de métro 6 ; - L’étude, la fourniture et la mise en œuvre des systèmes de basculements nécessaires pour la réalisation des installations, des essais et des mises en service des systèmes applicatifs sans interruption de l’exploitation ; - La coordination et la gestion des interfaces avec les systèmes environnants notamment : la logique traction, le système de contrôle-commande du mouvement des trains (OCTYS), la signalisation, les équipements de Traction en ligne, les serveurs informatiques de concentration des données, les systèmes d'information voyageur, horaires, service conducteur, habilitations, vidéo, sonorisation, superviseur, les équipements du Système d'Aide à l'Exploitation (SAE) en campagne ; - L’étude et le développement des interfaces nécessaires à l’intégration du Cœur Produit avec le banc de qualification sur le site de la RATP dédié ; - L'étude, le développement, la validation, l'intégration, la mise en service, les essais, la livraison et les installations sur site des outils de maintenance ; - La formation des formateurs (exploitants et mainteneurs) ainsi que des utilisateurs du banc de qualification sur site RATP ;   - La fourniture de l’ensemble de la documentation contractuelle définie dans le marché (conception, intégration, essais, outils, etc.) . Les prestations comprises dans le montant maximum de l’accord-cadre sont les suivantes : 1) Les prestations du montant minimum ; 2) Les prestations pouvant être commandées. Elles peuvent comprendre les prestations suivantes : 2.1) Pour chacune des lignes de métro 8, 7, 7bis, 10 et 2 : *** L'instanciation, les essais et la mise en service du Cœur Produit PCC NG sur la ligne comprenant le suivi des performances et des indicateurs, les périodes probatoires et de garantie après chaque mise en service ; *** L’étude, l'approvisionnement, la livraison et l'installation du matériel sur les sites de la RATP dédiés (Poste Opérateur (PO) Banc, PO OFO, PO OGC, PO Salle d'exploitation et PO déportés, baies, etc.) ; *** L'intégration, les essais et la mise en service du sous-système OFO  ; *** Le développement, les essais et la mise en service du simulateur du banc de qualification pour l'instanciation de la ligne ; 2.2.) La garantie du Coeur Produit PCC NG ; 2.3.) La mise en œuvre des dispositifs de Tierce Maintenance (TM) pour une durée maximum de cinq (5) ans couvrant l’ensemble des composants du marché : *** Pour le système Coeur Produit PCC NG : TM de type 1 comprenant le Maintien en Condition Opérationnelle (MCO), le Maintien en Condition de Sécurité (MCS) et les trains de maintenance ainsi que la TM de type 2 ; *** Pour le banc de qualification et de formation de la RATP : TM de type comprenant le MCO, le MCS ainsi que la TM de type 2 ; *** L'ensemble de la documentation associée ; 2.4.) La mise en œuvre des dispositifs de réversibilité couvrant l’ensemble des composants du marché (système Cœur Produit PCC NG, banc de qualification sur site RATP, l'ensemble de la documentation associée) ; 2.5.) Les prestations complémentaires dans la limite de 30% du minimum du marché comprenant notamment : - Les prestations pouvant être commandées et indiquées dans le Bordereau des prix incluant : *** Les prestations unitaires prévues au Bordereau des prix ; *** La fourniture du parc de rechange ; *** Les extensions de garantie  ; *** Les décalages de jalons RATP ; -Les prestations sur devis (dont la maintenance de type 2), à la demande de la RATP.",
-      "cpv": "72212140",
-      "pays": "FRA",
+      "id": "456990-2026",
+      "ref": "456990-2026",
+      "acheteur": "Kliniken Ostallgäu-Kaufbeuren",
+      "objet": "Allemagne – Services aux entreprises: droit, marketing, conseil, recrutement, impression et sécurité – Managementvertrag für die Kliniken Ostallgäu-Kaufbeuren",
+      "description": "Die Kliniken Ostallgäu-Kaufbeuren als Anstalt des öffentlichen Rechts bieten mit ihren 2.200 Mitarbeitern medizinische Versorgung an drei Standorten mit 654 akutstationären Planbetten (Buchloe mit 100, Füssen mit 120, Kaufbeuren mit 434 Betten) und einer Geriatrischen Rehabilitation mit 25 Betten. Das Klinikum Kaufbeuren ist akademisches Lehrkrankenhaus der Ludwig-Maximilians- Universität (LMU) München, akademische Lehrabteilung der Medizinischen Universität Innsbruck & der Privatuniversität Krems sowie Partnerklinik der Universitätsklinik Augsburg. Die Abteilung Innere Medizin der Klinik Füssen ist akademische Lehrabteilung der LMU München. Das Klinikunternehmen steht mit seinen Einrichtungen aufgrund der sich verschärfenden gesundheitsregulatorischen Rahmenbedingungen und des damit verbundenen administrativen Aufwands vor großen Herausforderungen in einem intensiven Wettbewerbsumfeld. In diesem Umfeld und zur Weiterentwicklung der Krankenhäuser beabsichtigen die Träger der Kliniken Ostallgäu-Kaufbeuren, für einen definierten Zeitraum das Management einem Unternehmen zu übertragen, das über profunde Erfahrung im Management von vergleichbaren Einrichtungen des Gesundheitswesens verfügt. Leistungsgegenstand: 1. Managementteam Das Managementteam besteht aus einem Projektkoordinator, einem Alleinvorstand sowie - je nach Konzeption des Auftragnehmers - weiteren Personen. Der Projektkoordinator nimmt die grundlegenden Weichenstellungen vor und leitet das Managementteam. Er fungiert zudem als primärer Ansprechpartner für den Auftraggeber, insbesondere zu übergeordneten strategischen Belangen. Er muss über langjährige und umfassende Erfahrung im Bereich Krankenhausmanagement verfügen. Die Kliniken Ostallgäu-Kaufbeuren werden von einem erfahrenen Alleinvorstand geführt. Er verfügt über besondere Expertise in der Führung von Krankenhäusern und ist der Ansprechpartner des Auftraggebers im operativen Geschäft. 2. Strategiekonzept Innerhalb der ersten sechs Monate der Vertragslaufzeit ist ein umfassendes Strategiekonzept über konkrete Maßnahmen zur Erreichung einer Ergebnisverbesserung aufzuzeigen. Dieses ist sodann mit dem Auftraggeber abzustimmen und freizugeben. Der Auftragnehmer informiert den Auftraggeber regelmäßig über den Stand der Umsetzung des Konzeptes. Das Strategiekonzept muss inhaltlich zahlreiche Themenkomplexe abdecken, die in folgende Kategorien einzuteilen sind: - Analyse der Entwicklungsmöglichkeiten bezüglich des medizinischen Leistungsangebots, - Analyse der wesentlichen den Krankenhausbetrieb unterstützenden Leistungen (z.B. Küche, Reinigung, Wäscherei, Medizintechnik), - Analyse der administrativen Strukturen der Kliniken Ostallgäu-Kaufbeuren (z.B. Finanz- und Rechnungswesen, Controlling, Leistungsabrechnung, Medizincontrolling, Einkauf), - Analyse der medizinischen Kernprozesse von der Aufnahme bis zur Entlassung. Der Auftragnehmer übernimmt auch die Umsetzung der in dem Strategiekonzept vorgesehenen Maßnahmen, insbesondere durch den von diesem gestellten Alleinvorstand. 3. Implementierung von Standards und Tools Der Auftraggeber bzw. die drei von ihm betriebenen Krankenhäuser erhalten von dem Auftragnehmer während der gesamten Vertragsdauer vollen Zugriff auf Standards und Managementtools, über welche der Auftragnehmer im Bereich der unter Nr. 2 aufgelisteten Kategorien verfügt.",
+      "cpv": "79000000",
+      "pays": "DEU",
       "deadline": "",
       "montant": 0,
-      "publication": "2026-07-02",
+      "publication": "2026-07-03",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/455983-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/456990-2026",
       "segment": "Autre",
       "keyword_hits": [
         "habilitation"
@@ -848,45 +781,6 @@
         "delay": 0
       },
       "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "26-73486",
-      "ref": "26-73486",
-      "acheteur": "Centre hospitalier du Mans",
-      "objet": "Logiciel de Réservation des Salles & Matériels POUR LE POLE REGIONAL D'EXCELLENCE",
-      "description": "Logiciel de Réservation des Salles & Matériels POUR LE POLE REGIONAL D'EXCELLENCE",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-09-08",
-      "montant": 150,
-      "publication": "2026-07-23",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-73486",
-      "_boamp": {
-        "famille": "Marchés entre 90 k€ et seuils européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Logiciel"
-        ],
-        "departement": "72"
-      },
-      "segment": "FPH",
-      "keyword_hits": [
-        "Excel"
-      ],
-      "score": 49,
-      "score_detail": {
-        "fit": 10,
-        "size": 10,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "no",
       "notes": "",
       "auto": true
     }

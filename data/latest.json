@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-07-30T08:22:05.471Z",
+  "generated_at": "2026-07-31T08:48:04.427Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 26,
+      "matched": 23,
       "go": 0,
-      "generated_at": "2026-07-30T08:15:04.753Z"
+      "generated_at": "2026-07-31T08:41:13.336Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 2,
       "go": 0,
-      "generated_at": "2026-07-30T08:22:04.818Z"
+      "generated_at": "2026-07-31T08:48:03.900Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-30T08:22:05.335Z"
+      "generated_at": "2026-07-31T08:48:04.288Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 28,
+  "total_matched": 25,
   "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -34,6 +34,37 @@
     "fuzzy_jaccard": 0
   },
   "notices": [
+    {
+      "id": "468112-2026",
+      "ref": "468112-2026",
+      "acheteur": "GRDF",
+      "objet": "France – Services de conseil en systèmes informatiques – AMOA AMOE développeur SAP",
+      "description": "La Direction des Systèmes d'Information de GRDF dispose actuellement de plusieurs contrats d'assistance à maîtrise d'ouvrage (AMOA) et d'assistance à maîtrise d'œuvre (AMOE) relatifs à l'environnement SAP ISU, arrivant à échéance. Ces prestations contribuent au maintien en condition opérationnelle, à la maintenance évolutive et corrective ainsi qu'à la transformation du SI OMEGA, système critique au cœur des activités de GRDF. La présente consultation a pour objet le renouvellement de ces prestations afin d'assurer la continuité des activités, de sécuriser les compétences SAP ISU et de permettre la réalisation des projets d'évolution du système d'information. Le marché vise à mettre à disposition de GRDF des profils experts AMOA et AMOE intervenant sur les technologies SAP ISU afin de couvrir notamment les activités suivantes : pilotage fonctionnel et technique, recueil et analyse des besoins, rédaction des spécifications, accompagnement des métiers, conception, développement, paramétrage, recette, gestion des incidents et support aux utilisateurs. Les prestations attendues devront permettre : d'assurer le maintien en condition opérationnelle des applications SAP ISU ; de réaliser les évolutions fonctionnelles et techniques du SI ; d'accompagner les projets de transformation et de modernisation du système d'information ; de garantir la qualité de service, la fiabilité des données et la continuité des opérations ; de renforcer les capacités de pilotage et d'expertise de la DSI sur les domaines SAP concernés. Le titulaire interviendra sous la forme de prestations d'assistance à maîtrise d'ouvrage et/ou d'assistance à maîtrise d'œuvre réalisées en étroite collaboration avec les équipes GRDF. Le présent lot (LOT 1) concerne : Lot 1 : Prestations d'Assistance à Maîtrise d'Ouvrage (AMOA) SAP ISU ; Merci de joindre impérativement à votre dossier de candidature les documents listés ci-dessous. Ils doivent être fournis par le candidat et par chaque membre du groupement en cas de candidature groupée : A01 : Formulaire DC1 ou lettre de candidature. En cas de candidature groupée, chaque membre du groupement renseigne le formulaire DC1, et produit les renseignements ou documents demandés par l’acheteur. A02 : Formulaire DC2, comportant l’ensemble des renseignements et documents demandés au titre des sections. En cas d’allotissement, ce document doit être fourni pour chacun des lots de la consultation. En cas de candidature groupée, il est fourni par chaque membre du groupement. A03 : Les pouvoirs habilitant le signataire à engager le candidat individuel ou chaque membre du groupement (pouvoir d’engagement). A04 : Attestation de régularité fiscale. A05 : Attestations de régularité sociale. A06 : Attestation d’assurance de responsabilité civile professionnelle, couvrant les activités professionnelles en rapport avec l’objet de la consultation. (Attestation RC). A07 : Immatriculation (Numéro SIREN). A08 : Liasses fiscales des 3 derniers exercices. A09 : Attestation de non-condamnation. A10 : DUME (Si pas de DC1/DC2). A11 : Références A12 : Copie du jugement d’ouverture du redressement judiciaire et du plan de continuité d’activité, si le candidat fait l’objet d’une telle procédure, A13 : Le cadre de réponse « 26-DA-PROC14129_cadre de réponse de candidature » dument remplie au format word. Merci de respecter la numérotation « A01, A02, … » dans le nom des documents fournis. A13b : Le fichier de réponse nommé 26-DA-PROC14129-REPONSE TECHNIQUE_NOMSOCIETE_LOT1OU2 La phase dites RFI sera noté via ces critères : 1- Les capacités techniques et professionnelles, à développer en Point E du présent dossier de demande de participation (pondération 80%). Moyens humains de l’entreprise en lien avec l’objet du marché Pondération 35% Moyen technique de l'entreprise en lien avec l'objet du marché Pondération 35% Qualité et pertinence de 3 références datant de moins de 3 ans, en lien avec l’objet du marché concerné. Pondération 30% 2- Les capacités économiques et financières, à compléter au Point D du présent dossier de demande de participation (pondération 20%). Ces capacités seront appréciées au regard des capacités financières dont dispose le candidat pour assurer la bonne et complète exécution de l'objet du présent avis de marché : Evolution du Ratio EBITDA sur le Chiffre d’affaires sur les derniers exercices (2024/2023/2022) Pondération 35% Evolution du cash-flow opérationnel sur les 3 dernières exercices. (2024/2023/2022) Pondération 30% Evolution du taux d’endettement sur les 3 derniers exercices. (2024/2023/2022) Pondération 35% / La Direction des Systèmes d'Information de GRDF dispose actuellement de plusieurs contrats d'assistance à maîtrise d'ouvrage (AMOA) et d'assistance à maîtrise d'œuvre (AMOE) relatifs à l'environnement SAP ISU, arrivant à échéance. Ces prestations contribuent au maintien en condition opérationnelle, à la maintenance évolutive et corrective ainsi qu'à la transformation du SI OMEGA, système critique au cœur des activités de GRDF. La présente consultation a pour objet le renouvellement de ces prestations afin d'assurer la continuité des activités, de sécuriser les compétences SAP ISU et de permettre la réalisation des projets d'évolution du système d'information. Le marché vise à mettre à disposition de GRDF des profils experts AMOA et AMOE intervenant sur les technologies SAP ISU afin de couvrir notamment les activités suivantes : pilotage fonctionnel et technique, recueil et analyse des besoins, rédaction des spécifications, accompagnement des métiers, conception, développement, paramétrage, recette, gestion des incidents et support aux utilisateurs. Les prestations attendues devront permettre : d'assurer le maintien en condition opérationnelle des applications SAP ISU ; de réaliser les évolutions fonctionnelles et techniques du SI ; d'accompagner les projets de transformation et de modernisation du système d'information ; de garantir la qualité de service, la fiabilité des données et la continuité des opérations ; de renforcer les capacités de pilotage et d'expertise de la DSI sur les domaines SAP concernés. Le titulaire interviendra sous la forme de prestations d'assistance à maîtrise d'ouvrage et/ou d'assistance à maîtrise d'œuvre réalisées en étroite collaboration avec les équipes GRDF. Le présent lot (LOT 2) concerne : Lot 2 : Prestations d'Assistance à Maîtrise d'Œuvre (AMOE) et Développement SAP ISU. Merci de joindre impérativement à votre dossier de candidature les documents listés ci-dessous. Ils doivent être fournis par le candidat et par chaque membre du groupement en cas de candidature groupée : A01 : Formulaire DC1 ou lettre de candidature. En cas de candidature groupée, chaque membre du groupement renseigne le formulaire DC1, et produit les renseignements ou documents demandés par l’acheteur. A02 : Formulaire DC2, comportant l’ensemble des renseignements et documents demandés au titre des sections. En cas d’allotissement, ce document doit être fourni pour chacun des lots de la consultation. En cas de candidature groupée, il est fourni par chaque membre du groupement. A03 : Les pouvoirs habilitant le signataire à engager le candidat individuel ou chaque membre du groupement (pouvoir d’engagement). A04 : Attestation de régularité fiscale. A05 : Attestations de régularité sociale. A06 : Attestation d’assurance de responsabilité civile professionnelle, couvrant les activités professionnelles en rapport avec l’objet de la consultation. (Attestation RC). A07 : Immatriculation (Numéro SIREN). A08 : Liasses fiscales des 3 derniers exercices. A09 : Attestation de non-condamnation. A10 : DUME (Si pas de DC1/DC2). A11 : Références A12 : Copie du jugement d’ouverture du redressement judiciaire et du plan de continuité d’activité, si le candidat fait l’objet d’une telle procédure, A13 : Le cadre de réponse « 26-DA-PROC14129_cadre de réponse de candidature » dument remplie au format word. Merci de respecter la numérotation « A01, A02, … » dans le nom des documents fournis. A13b : Le fichier de réponse nommé 26-DA-PROC14129-REPONSE TECHNIQUE_NOMSOCIETE_LOT1OU2 La phase dites RFI sera noté via ces critères : 1- Les capacités techniques et professionnelles, à développer en Point E du présent dossier de demande de participation (pondération 80%). Moyens humains de l’entreprise en lien avec l’objet du marché Pondération 35% Moyen technique de l'entreprise en lien avec l'objet du marché Pondération 35% Qualité et pertinence de 3 références datant de moins de 3 ans, en lien avec l’objet du marché concerné. Pondération 30% 2- Les capacités économiques et financières, à compléter au Point D du présent dossier de demande de participation (pondération 20%). Ces capacités seront appréciées au regard des capacités financières dont dispose le candidat pour assurer la bonne et complète exécution de l'objet du présent avis de marché : Evolution du Ratio EBITDA sur le Chiffre d’affaires sur les derniers exercices (2024/2023/2022) Pondération 35% Evolution du cash-flow opérationnel sur les 3 dernières exercices. (2024/2023/2022) Pondération 30% Evolution du taux d’endettement sur les 3 derniers exercices. (2024/2023/2022) Pondération 35%",
+      "cpv": "72246000",
+      "pays": "FRA",
+      "deadline": "",
+      "montant": 14500,
+      "publication": "2026-07-07",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/468112-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
     {
       "id": "458769-2026",
       "ref": "458769-2026",
@@ -128,68 +159,6 @@
       "auto": true
     },
     {
-      "id": "447117-2026",
-      "ref": "447117-2026",
-      "acheteur": "Vereniging C.V.O.",
-      "objet": "Pays-Bas – Services de conseil en gestion de projet – EA adviesdiensten en (bouw)projectmanagement",
-      "description": "Scope van de opdracht Perceel 1:  De opdrachtnemer is verantwoordelijk voor het leveren van onderzoeks- en adviesdiensten die noodzakelijk zijn voor de ontwikkeling van huisvestingsprojecten. Dit betreft onder andere het opstellen van studies, analyses en verkenningen en businesscases in de onderzoeks-, initiatief- en definitiefase, uitgevoerd en beschreven volgens CVO Bouwt en conform de richtlijnen van de betreffende gemeente. Deze informatie vormt de basis voor besluitvorming door CVO en/of de betreffende gemeente en overgang naar Perceel 2.  De opdrachtnemer is in ieder geval verantwoordelijk voor:  Het uitvoeren van onder andere haalbaarheids- en inpassingsstudies en het opstellen van businesscases voor nieuwbouw, verbouw en renovatieprojecten;  Het toetsen van de visie en ambitie van het onderwijs mogelijk in combinatie met het ontwikkelen van een huisvestingsconcept;   Het analyseren en onderbouwen van ruimtelijke, functionele, technische en financiële uitgangspunten;  Het inventariseren van relevante wet- en regelgeving en randvoorwaarden (waaronder onderwijshuisvesting, duurzaamheid en veiligheid);  Het opstellen en vergelijken van scenario’s en varianten, inclusief consequenties voor planning, kosten en risico’s;  Het opstellen van ramingen en financiële onderbouwingen, inclusief investerings- en exploitatieaspecten;  Het signaleren en analyseren van risico’s en aandachtspunten in de voorbereidende projectfase;  Het adviseren over vervolgstappen en besluitvorming richting ontwerpfase;  Het opleveren van heldere en navolgbare rapportages/ notities ten behoeve van bestuurlijke besluitvorming. / Scope van de opdracht Perceel 2:  Het begeleiden en managen van huisvestingsprojecten vanaf de ontwerpfase conform de fasering van CVO Bouwt.    De opdrachtnemer is verantwoordelijk voor het leveren van gekwalificeerde (bouw)projectmanagers die zorgdragen voor een succesvolle uitvoering en afronding van huisvestingsprojecten binnen de vastgestelde projectkaders van GROTIK (Geld, Risico, Organisatie, Tijd, Informatie en Kwaliteit). De inzet heeft betrekking op de ontwerpfase en de daaropvolgende uitvoeringsfasen van het huisvestingsproject, nadat de businesscase door CVO en de betreffende gemeente is goedgekeurd.  De opdrachtnemer is in ieder geval verantwoordelijk voor:  Het vertalen van de vastgestelde Businesscase en Programma van Eisen naar concrete ontwerpinstructies;  Het organiseren en coördineren van aanbestedingen (zorgdragen voor het inkoopproces) van architect, aannemer(s) en aanvullende adviseurs conform het inkoopbeleid van CVO en of betreffende gemeente, deze taak ligt in beginsel bij de opdrachtnemer, waarbij het projectteam zich expliciet het recht voorbehoudt om de rolverdeling en verantwoordelijkheden rondom het inkoopproces in een later stadium opnieuw te beoordelen en zo nodig aan te passen;  Het coördineren van de vertaling van ruimtelijke, functionele en technische eisen naar ontwerp en uitvoering;  Het opstellen en bewaken van de projectplanning en het coördineren van alle projectactiviteiten;  Het aansturen en afstemmen met betrokken interne en externe partijen;  Het zorgdragen voor het verkrijgen van benodigde vergunningen, ontheffingen en certificeringen die samenhangen met de uitvoering van het project;  Budgetbewaking en het verzorgen van financiële rapportages;  Het uitvoeren van risico en issuemanagement;  Het borgen van kwaliteit gedurende de gehele projectuitvoering;  Het zorgdragen voor oplevering en nazorg, inclusief de volledige en correcte overdracht van projectdocumentatie (zoals tekeningen, handleidingen, rapportages, opleverdocumenten en vergunningen) aan de beheerorganisatie;  Periodieke rapportage over voortgang, risico’s, issues en financiële status aan CVO;  Het opstellen van een projectevaluatie na afronding van ieder project.   Aanvullende of project specifieke verantwoordelijkheden kunnen per opdracht worden toegevoegd, mits deze vooraf schriftelijk zijn overeengekomen tussen CVO en de opdrachtnemer.",
-      "cpv": "72224000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 1800,
-      "publication": "2026-06-30",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/447117-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "448271-2026",
-      "ref": "448271-2026",
-      "acheteur": "Ministerie van Defensie",
-      "objet": "Pays-Bas – Services de mise à disposition de personnel, y compris de personnel temporaire – Inhuur vlieginstructeurs Elementaire Militaire Vlieger Opleiding (EMVO) CLSK (heraanbesteding)",
-      "description": "Inhuur vlieginstructeurs voor de Elementaire Militaire Vlieger Opleiding (EMVO) voor het Commando Luchtstrijdkrachten. De vlieginstructeurs zullen worden ingezet voor het geven van vlieginstructie aan adspirant militaire vliegers.",
-      "cpv": "79620000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 5078,
-      "publication": "2026-06-30",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/448271-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "465810-2026",
       "ref": "465810-2026",
       "acheteur": "Provincie Drenthe",
@@ -265,37 +234,6 @@
       "source": "TED",
       "url": "https://ted.europa.eu/fr/notice/-/detail/460283-2026",
       "segment": "ESR",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "448806-2026",
-      "ref": "448806-2026",
-      "acheteur": "Gemeente Purmerend",
-      "objet": "Pays-Bas – Services relatifs aux logiciels – Schulddienstverleningsapplicatie",
-      "description": "De Gemeente wil via een Openbare Europese aanbesteding een overeenkomst sluiten voor de schulddienstverleningsapplicatie met als resultaat 1 opdrachtnemer. De applicatie wordt gebruikt door ongeveer 50 gebruikers.",
-      "cpv": "72260000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 495,
-      "publication": "2026-06-30",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/448806-2026",
-      "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
@@ -533,37 +471,6 @@
       "auto": true
     },
     {
-      "id": "449134-2026",
-      "ref": "449134-2026",
-      "acheteur": "Vlaamse Overheid",
-      "objet": "Belgique – Services de développement de logiciels utilitaires généraux – Raamovereenkomst GRC Tool",
-      "description": "Deze raamovereenkomst betreft de levering, implementatie, configuratie en doorontwikkeling van een SaaS-oplossing voor een geïntegreerd Governance, Risk & Compliance (GRC)-platform voor de Vlaamse Overheid en lokale besturen (zie 1.2.1 Mogelijke Gebruikers (entiteiten)). De oplossing wordt door de besteller-regisseur als een gedeelde dienst aangeboden aan Vlaamse overheden en lokale besturen, en ondersteunt de verwezenlijking van de geldende Vlaamse strategie op vlak van digitale veiligheid. De GRC-tool is een instrument om de weerbaarheid tegen cyberdreigingen verder op te bouwen en te versterken en laat de centrale opvolging van de risicobeheersing onder meer in verband met het implementeren van de genomen beheersmaatregelen, het uitvoeren van periodieke risicobeoordelingen en de conformiteit met de regelgeving en de beleidsstrategie digitale veiligheid toe.",
-      "cpv": "72212771",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-06-30",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/449134-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "26-74673",
       "ref": "26-74673",
       "acheteur": "Coallia",
@@ -597,6 +504,37 @@
         "com": 5,
         "admin": 7,
         "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "468149-2026",
+      "ref": "468149-2026",
+      "acheteur": "Deutsche Gesetzliche Unfallversicherung e.V.",
+      "objet": "Allemagne – Services de programmation et de conseil en logiciels – Open Text",
+      "description": "Die im AG Umfeld eingesetzte ECM Software - xECM (Content Server) 24.1 der Firma O-penText unterliegt ständigen Anpassungen und funktionalen Erweiterung und muss regelmä-ßig gewartet und aktualisiert werden. Der AG setzt im Kollaborationsteil des Content Ma-nagement vermehrt auf Funktionen und Software aus M365 im Cloudbetrieb. Die beiden Sys-teme sollen zukünftig über die OpenText Office 365-Integration miteinander verbunden wer-den. Die Beratungs- und Unterstützungsleistungen umfassen",
+      "cpv": "72200000",
+      "pays": "DEU",
+      "deadline": "2026-08-06",
+      "montant": 0,
+      "publication": "2026-07-07",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/468149-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Office 365"
+      ],
+      "bureautique": true,
+      "score": 62,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
       },
       "score_status": "cond",
       "notes": "",
@@ -750,37 +688,6 @@
       "score_detail": {
         "fit": 30,
         "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "446777-2026",
-      "ref": "446777-2026",
-      "acheteur": "VILLE DE LIMOGES",
-      "objet": "France – Services de formation du personnel – Formations en santé et sécurité au travail",
-      "description": "Conduite en sécurité des engins de chantier et nacelles / Conduite en sécurité de chariots / Qualifications SSIAP / Habilitations électriques et sensibilisations risques électriques",
-      "cpv": "80511000",
-      "pays": "FRA",
-      "deadline": "2026-08-06",
-      "montant": 500,
-      "publication": "2026-06-30",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/446777-2026",
-      "segment": "Collectivités",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "bureautique": false,
-      "score": 62,
-      "score_detail": {
-        "fit": 25,
-        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,

@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-07-31T08:48:04.427Z",
+  "generated_at": "2026-08-01T08:18:32.672Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 23,
+      "matched": 21,
       "go": 0,
-      "generated_at": "2026-07-31T08:41:13.336Z"
+      "generated_at": "2026-08-01T08:11:41.839Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 2,
       "go": 0,
-      "generated_at": "2026-07-31T08:48:03.900Z"
+      "generated_at": "2026-08-01T08:18:32.184Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-07-31T08:48:04.288Z"
+      "generated_at": "2026-08-01T08:18:32.585Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 25,
+  "total_matched": 23,
   "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -109,37 +109,6 @@
       "publication": "2026-07-02",
       "source": "TED",
       "url": "https://ted.europa.eu/fr/notice/-/detail/453765-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "450746-2026",
-      "ref": "450746-2026",
-      "acheteur": "Ziekenhuis aan de Stroom vzw (ZAS)",
-      "objet": "Belgique – Services d'implémentation de logiciels – ERP ZAS",
-      "description": "Deze opdracht betreft het afsluiten van een raamovereenkomst met één leverancier voor de levering, implementatie, ondersteuning en verdere ontwikkeling van een geïntegreerde totaaloplossing die de processen finance, logistiek, facilitair beheer en procurement binnen ZAS op een uniforme, efficiënte, gebruiksvriendelijke en transparante manier ondersteunt. Ook moet voorzien worden in nodige rapportering en integraties. De opdracht omvat onder meer: - De initiële levering, installatie en configuratie van het systeem; - De migratie van actieve en historische data; - De begeleiding van de implementatie (inclusief opleiding en change management); - De hosting en technische ondersteuning; - Het onderhoud en de doorontwikkeling van het systeem gedurende de looptijd van de opdracht; - Het leveren van kwaliteitsvolle support na implementatie. CPV-code: 48451000-4 - Software voor ERP (Enterprise Resource Planning) Doel: ZAS is een fusieorganisatie die bestaat uit meerdere ziekenhuiscampussen en ondersteunende diensten, met een complexe en grootschalige structuur. Binnen deze context is er nood aan een geïntegreerde oplossing om de processen binnen bovenvermelde domeinen op een uniforme, effi-ciënte, gebruiksvriendelijke en transparante manier te ondersteunen. Bijlage C bevat meer informatie over de domeinen finance, logistiek, procurement en facilitair beheer. Deze bijlage is louter ter informatie, meer informatie over de scenario's die door het geïnte-greerd pakket gecoverd moeten worden zullen in het opdrachtdocument van de gunningsfase worden opgenomen. Het staat elke geselecteerde inschrijver vrij om - voor de levering, implementatie, ondersteuning en verdere ontwikkeling van de geïntegreerd totaaloplossing - al dan niet te werken met onderaannemers of andere ondernemingen (combinatie van ondernemingen). Inschrijvers die via onderaannemers wensen aan te bieden, duiden dit aan in het deelnameformulier (Bijlage A) en dienen een lijst van potentiële onderaannemers in te dienen.",
-      "cpv": "72263000",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 20000,
-      "publication": "2026-07-01",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/450746-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -283,6 +252,37 @@
       "auto": true
     },
     {
+      "id": "470900-2026",
+      "ref": "470900-2026",
+      "acheteur": "Vrije Universiteit Brussel",
+      "objet": "Belgique – Services de développement de logiciels de gestion d'internet et d'intranet – Raamovereenkomst ter configuratie en ondersteuning van een nieuwe intranet-omgeving voor personeel, studenten en PhD-studenten",
+      "description": "De huidige intranet-omgeving op basis van MS SharePoint wordt midden 2027 niet langer ondersteund. De huidige leverancier bood op basis van Microsoft-technologie een eigen configuratiepakket. Deze leverancier stopt hiermee. We moeten een vernieuwde configuratie realiseren met een nieuw te selecteren leverancier. De opdracht omvat de realisatie en ondersteuning van de intranetomgeving gedurende de volledige looptijd van de raamovereenkomst, zoals bepaald in artikel II.7.",
+      "cpv": "72212220",
+      "pays": "BEL",
+      "deadline": "2026-09-04",
+      "montant": 0,
+      "publication": "2026-07-08",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/470900-2026",
+      "segment": "ESR",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 67,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "465853-2026",
       "ref": "465853-2026",
       "acheteur": "Stichting ROC Midden Nederland",
@@ -340,38 +340,6 @@
         "com": 5,
         "admin": 7,
         "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "451538-2026",
-      "ref": "451538-2026",
-      "acheteur": "Stichting Regionaal Opleidingencentrum van Twente",
-      "objet": "Pays-Bas – Services de développement de logiciels – Dataplatform 2026",
-      "description": "We gebruiken studiedata om de kwaliteit van ons onderwijs te meten en te verbeteren. Daarnaast ondersteunen we het primaire proces met de optimale dienstverlening en besluitvorming door datagebruik. We streven hierbij om een organisatiecultuur te creëren waarin datagedreven denken en handelen centraal staan. Om studenten optimaal te begeleiden en secundaire processen goed te laten verlopen verzamelen en gebruiken we binnen ROC van Twente veel data. Die data is verspreid binnen de organisatie en omvat gestructureerde gegevens binnen applicaties, maar ook losse csv-, excel- of pdf-bestanden. Hoewel we een deel van deze gegevens goed benutten, maken we nog niet optimaal gebruik van de mogelijkheden. Daarnaast zijn er ook externe partijen zoals DUO, ROA, CBS en SBB die waardevolle data aanbieden, maar die we nog beter zouden kunnen benutten. Voor de komende vier (4) jaar wordt de totale opdrachtwaarde geraamd op circa 300.000 euro inclusief btw. Deze raming is uitsluitend indicatief en bedoeld ter ondersteuning van inschrijvers. Aan deze geraamde waarde kunnen geen rechten worden ontleend.",
-      "cpv": "72262000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 212,
-      "publication": "2026-07-01",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/451538-2026",
-      "segment": "Collectivités",
-      "keyword_hits": [
-        "Excel",
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 67,
-      "score_detail": {
-        "fit": 30,
-        "size": 10,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -667,37 +635,6 @@
       "auto": true
     },
     {
-      "id": "451035-2026",
-      "ref": "451035-2026",
-      "acheteur": "Vlaamse Overheid",
-      "objet": "Belgique – Services d'études – AWV/INV/2025/4 - Raamovereenkomst studieopdrachten voor diverse infrastructuurprojecten op gewestwegen",
-      "description": "Het voorwerp van deze raamovereenkomst heeft betrekking op het in de markt plaatsen van studies en ontwerpen van infrastructuurprojecten (klassieke uitvoeringsstudies) in de breedste mogelijke zin. Bijkomend kunnen andere, meer gedetailleerde, opdrachten worden toegewezen, waaronder het inzetten van specifieke profielen. Perceel 1: Antwerpen / Het voorwerp van deze raamovereenkomst heeft betrekking op het in de markt plaatsen van studies en ontwerpen van infrastructuurprojecten (klassieke uitvoeringsstudies) in de breedste mogelijke zin. Bijkomend kunnen andere, meer gedetailleerde, opdrachten worden toegewezen, waaronder het inzetten van specifieke profielen. Perceel 2: Vlaams-Brabant / Het voorwerp van deze raamovereenkomst heeft betrekking op het in de markt plaatsen van studies en ontwerpen van infrastructuurprojecten (klassieke uitvoeringsstudies) in de breedste mogelijke zin. Bijkomend kunnen andere, meer gedetailleerde, opdrachten worden toegewezen, waaronder het inzetten van specifieke profielen. Perceel 3: Limburg / Het voorwerp van deze raamovereenkomst heeft betrekking op het in de markt plaatsen van studies en ontwerpen van infrastructuurprojecten (klassieke uitvoeringsstudies) in de breedste mogelijke zin. Bijkomend kunnen andere, meer gedetailleerde, opdrachten worden toegewezen, waaronder het inzetten van specifieke profielen. Perceel 4: Oost-Vlaanderen / Het voorwerp van deze raamovereenkomst heeft betrekking op het in de markt plaatsen van studies en ontwerpen van infrastructuurprojecten (klassieke uitvoeringsstudies) in de breedste mogelijke zin. Bijkomend kunnen andere, meer gedetailleerde, opdrachten worden toegewezen, waaronder het inzetten van specifieke profielen. Perceel 5: West-Vlaanderen",
-      "cpv": "79311000",
-      "pays": "BEL",
-      "deadline": "2026-08-12",
-      "montant": 0,
-      "publication": "2026-07-01",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/451035-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "456990-2026",
       "ref": "456990-2026",
       "acheteur": "Kliniken Ostallgäu-Kaufbeuren",
@@ -760,33 +697,33 @@
       "auto": true
     },
     {
-      "id": "449773-2026",
-      "ref": "449773-2026",
-      "acheteur": "SEMMARIS - Marché International de Rungis",
-      "objet": "France – Services d'enseignement et de formation – Concession de service relative à l'exploitation, la gestion et le développement du centre de formation Rungis Académie",
-      "description": "Le contrat a pour objet de confier à un concessionnaire, à titre exclusif l’exploitation, la gestion et le développement du centre de formation Rungis Académie. Le Concessionnaire devra : concevoir, organiser et dispenser des formations destinées à développer les compétences et l’employabilité des apprenants dans les métiers de la filière agroalimentaire, logistique et distribution. La Rungis Académie est un centre de formation professionnelle situé au cœur du Marché International de Rungis, premier Marché mondial de produits frais. D’une superficie de 3 000 m², elle a été conçue pour accueillir jusqu’à 500 apprenants par an, avec pour objectif de répondre aux besoins croissants en main­-d’œuvre qualifiée sur l’ensemble de la chaîne de valeur alimentaire, logistique et de distribution. La Rungis Académie poursuit une double ambition : -­ Favoriser l’accès à l’emploi en formant des professionnels immédiatement opérationnels sur des métiers fortement recherchés ;­ - Utiliser l’attractivité du Marché de Rungis, pour accompagner les transformations du secteur alimentaire. Dans le parfait respect du contrat de concession, le Concessionnaire aura notamment les missions principales suivantes : En qualité d’opérateur de formation : ­ - Analyser les besoins en compétences, les enjeux de la mutation du marché du travail et des évolutions de la formation professionnelle pour adapter les thèmes et format de formations et proposer des programmes pertinents et attractifs ; -­ Concevoir les programmes pédagogiques ; - ­ Assurer la promotion du lieu, des ses programmes et le recrutements de ses apprenants ; - ­ Dispenser et animer les formations ;­ Accompagner et suivre les apprenants ;­ - Evaluer et délivrer les certification ou attestation de compétences. En qualité de concessionnaire de la Rungis Académie ­: - Opérer à ses risque et périls l’activité de développement des compétences (pédagogie, recrutement, insertion) ;­ - Optimiser l’occupation et la gestion de la Rungis Académie ;­ - Proposer un Centre de Formations d’Apprentis (CFA) certifié Qualiopi en convention avec la Région IDF ;­ - Assurer la pérennité économique du centre de formation ;­ - Reporter à la SEMMARIS a échéances régulières des actualités et des performances du campus de formation. ­ Le concessionnaire versera : => une redevance fixe au titre de la concession, => une redevance additionnelle en % du volume d'affaires réalisé, conditionnée à un minimum de chiffre d'affaires annuel. Ces redevances feront l'objet d'une proposition par le candidat.",
-      "cpv": "80000000",
-      "pays": "FRA",
-      "deadline": "2026-07-31",
-      "montant": 0,
-      "publication": "2026-07-01",
+      "id": "472561-2026",
+      "ref": "472561-2026",
+      "acheteur": "Regione Puglia",
+      "objet": "Italie – Services de maintenance des systèmes et services d'assistance – Servizi manutenzione HW/SW CED Innovapuglia 18 Lotti",
+      "description": "Dell EMC2 / Lenovo / HPE / NetApp / Juniper / Palo Alto Network / Cisco / Radware / Fortinet / GIGAMON / ARMIS / Qualys / Domain Tools / Virus Total/GTI / Darktrace / Rapid7 / CyberArk / Archer",
+      "cpv": "72250000",
+      "pays": "ITA",
+      "deadline": "",
+      "montant": 7362,
+      "publication": "2026-07-09",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/449773-2026",
-      "segment": "Autre",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/472561-2026",
+      "segment": "Collectivités",
       "keyword_hits": [
-        "Qualiopi"
+        "VAP"
       ],
       "bureautique": false,
-      "score": 57,
+      "score": 52,
       "score_detail": {
-        "fit": 25,
-        "size": 8,
+        "fit": 10,
+        "size": 15,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 0
+        "delay": 3
       },
-      "score_status": "cond",
+      "score_status": "no",
       "notes": "",
       "auto": true
     },

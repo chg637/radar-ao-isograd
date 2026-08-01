@@ -1,52 +1,24 @@
 {
-  "generated_at": "2026-08-01T08:18:32.672Z",
-  "source": "MERGE",
-  "sources_summary": {
-    "TED": {
-      "present": true,
-      "fetched": 500,
-      "matched": 21,
-      "go": 0,
-      "generated_at": "2026-08-01T08:11:41.839Z"
-    },
-    "BOAMP": {
-      "present": true,
-      "fetched": 3000,
-      "matched": 2,
-      "go": 0,
-      "generated_at": "2026-08-01T08:18:32.184Z"
-    },
-    "Profil": {
-      "present": true,
-      "fetched": 0,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-08-01T08:18:32.585Z"
-    }
-  },
-  "total_fetched": 3500,
-  "total_matched": 23,
+  "generated_at": "2026-08-01T08:11:41.839Z",
+  "source": "TED",
+  "window_days": 30,
+  "total_fetched": 500,
+  "total_matched": 21,
   "total_go": 0,
-  "total_dedup_collisions": 0,
-  "dedup_breakdown": {
-    "by_id": 0,
-    "fuzzy_signature": 0,
-    "fuzzy_jaccard": 0
-  },
   "notices": [
     {
-      "id": "468112-2026",
-      "ref": "468112-2026",
-      "acheteur": "GRDF",
-      "objet": "France – Services de conseil en systèmes informatiques – AMOA AMOE développeur SAP",
-      "description": "La Direction des Systèmes d'Information de GRDF dispose actuellement de plusieurs contrats d'assistance à maîtrise d'ouvrage (AMOA) et d'assistance à maîtrise d'œuvre (AMOE) relatifs à l'environnement SAP ISU, arrivant à échéance. Ces prestations contribuent au maintien en condition opérationnelle, à la maintenance évolutive et corrective ainsi qu'à la transformation du SI OMEGA, système critique au cœur des activités de GRDF. La présente consultation a pour objet le renouvellement de ces prestations afin d'assurer la continuité des activités, de sécuriser les compétences SAP ISU et de permettre la réalisation des projets d'évolution du système d'information. Le marché vise à mettre à disposition de GRDF des profils experts AMOA et AMOE intervenant sur les technologies SAP ISU afin de couvrir notamment les activités suivantes : pilotage fonctionnel et technique, recueil et analyse des besoins, rédaction des spécifications, accompagnement des métiers, conception, développement, paramétrage, recette, gestion des incidents et support aux utilisateurs. Les prestations attendues devront permettre : d'assurer le maintien en condition opérationnelle des applications SAP ISU ; de réaliser les évolutions fonctionnelles et techniques du SI ; d'accompagner les projets de transformation et de modernisation du système d'information ; de garantir la qualité de service, la fiabilité des données et la continuité des opérations ; de renforcer les capacités de pilotage et d'expertise de la DSI sur les domaines SAP concernés. Le titulaire interviendra sous la forme de prestations d'assistance à maîtrise d'ouvrage et/ou d'assistance à maîtrise d'œuvre réalisées en étroite collaboration avec les équipes GRDF. Le présent lot (LOT 1) concerne : Lot 1 : Prestations d'Assistance à Maîtrise d'Ouvrage (AMOA) SAP ISU ; Merci de joindre impérativement à votre dossier de candidature les documents listés ci-dessous. Ils doivent être fournis par le candidat et par chaque membre du groupement en cas de candidature groupée : A01 : Formulaire DC1 ou lettre de candidature. En cas de candidature groupée, chaque membre du groupement renseigne le formulaire DC1, et produit les renseignements ou documents demandés par l’acheteur. A02 : Formulaire DC2, comportant l’ensemble des renseignements et documents demandés au titre des sections. En cas d’allotissement, ce document doit être fourni pour chacun des lots de la consultation. En cas de candidature groupée, il est fourni par chaque membre du groupement. A03 : Les pouvoirs habilitant le signataire à engager le candidat individuel ou chaque membre du groupement (pouvoir d’engagement). A04 : Attestation de régularité fiscale. A05 : Attestations de régularité sociale. A06 : Attestation d’assurance de responsabilité civile professionnelle, couvrant les activités professionnelles en rapport avec l’objet de la consultation. (Attestation RC). A07 : Immatriculation (Numéro SIREN). A08 : Liasses fiscales des 3 derniers exercices. A09 : Attestation de non-condamnation. A10 : DUME (Si pas de DC1/DC2). A11 : Références A12 : Copie du jugement d’ouverture du redressement judiciaire et du plan de continuité d’activité, si le candidat fait l’objet d’une telle procédure, A13 : Le cadre de réponse « 26-DA-PROC14129_cadre de réponse de candidature » dument remplie au format word. Merci de respecter la numérotation « A01, A02, … » dans le nom des documents fournis. A13b : Le fichier de réponse nommé 26-DA-PROC14129-REPONSE TECHNIQUE_NOMSOCIETE_LOT1OU2 La phase dites RFI sera noté via ces critères : 1- Les capacités techniques et professionnelles, à développer en Point E du présent dossier de demande de participation (pondération 80%). Moyens humains de l’entreprise en lien avec l’objet du marché Pondération 35% Moyen technique de l'entreprise en lien avec l'objet du marché Pondération 35% Qualité et pertinence de 3 références datant de moins de 3 ans, en lien avec l’objet du marché concerné. Pondération 30% 2- Les capacités économiques et financières, à compléter au Point D du présent dossier de demande de participation (pondération 20%). Ces capacités seront appréciées au regard des capacités financières dont dispose le candidat pour assurer la bonne et complète exécution de l'objet du présent avis de marché : Evolution du Ratio EBITDA sur le Chiffre d’affaires sur les derniers exercices (2024/2023/2022) Pondération 35% Evolution du cash-flow opérationnel sur les 3 dernières exercices. (2024/2023/2022) Pondération 30% Evolution du taux d’endettement sur les 3 derniers exercices. (2024/2023/2022) Pondération 35% / La Direction des Systèmes d'Information de GRDF dispose actuellement de plusieurs contrats d'assistance à maîtrise d'ouvrage (AMOA) et d'assistance à maîtrise d'œuvre (AMOE) relatifs à l'environnement SAP ISU, arrivant à échéance. Ces prestations contribuent au maintien en condition opérationnelle, à la maintenance évolutive et corrective ainsi qu'à la transformation du SI OMEGA, système critique au cœur des activités de GRDF. La présente consultation a pour objet le renouvellement de ces prestations afin d'assurer la continuité des activités, de sécuriser les compétences SAP ISU et de permettre la réalisation des projets d'évolution du système d'information. Le marché vise à mettre à disposition de GRDF des profils experts AMOA et AMOE intervenant sur les technologies SAP ISU afin de couvrir notamment les activités suivantes : pilotage fonctionnel et technique, recueil et analyse des besoins, rédaction des spécifications, accompagnement des métiers, conception, développement, paramétrage, recette, gestion des incidents et support aux utilisateurs. Les prestations attendues devront permettre : d'assurer le maintien en condition opérationnelle des applications SAP ISU ; de réaliser les évolutions fonctionnelles et techniques du SI ; d'accompagner les projets de transformation et de modernisation du système d'information ; de garantir la qualité de service, la fiabilité des données et la continuité des opérations ; de renforcer les capacités de pilotage et d'expertise de la DSI sur les domaines SAP concernés. Le titulaire interviendra sous la forme de prestations d'assistance à maîtrise d'ouvrage et/ou d'assistance à maîtrise d'œuvre réalisées en étroite collaboration avec les équipes GRDF. Le présent lot (LOT 2) concerne : Lot 2 : Prestations d'Assistance à Maîtrise d'Œuvre (AMOE) et Développement SAP ISU. Merci de joindre impérativement à votre dossier de candidature les documents listés ci-dessous. Ils doivent être fournis par le candidat et par chaque membre du groupement en cas de candidature groupée : A01 : Formulaire DC1 ou lettre de candidature. En cas de candidature groupée, chaque membre du groupement renseigne le formulaire DC1, et produit les renseignements ou documents demandés par l’acheteur. A02 : Formulaire DC2, comportant l’ensemble des renseignements et documents demandés au titre des sections. En cas d’allotissement, ce document doit être fourni pour chacun des lots de la consultation. En cas de candidature groupée, il est fourni par chaque membre du groupement. A03 : Les pouvoirs habilitant le signataire à engager le candidat individuel ou chaque membre du groupement (pouvoir d’engagement). A04 : Attestation de régularité fiscale. A05 : Attestations de régularité sociale. A06 : Attestation d’assurance de responsabilité civile professionnelle, couvrant les activités professionnelles en rapport avec l’objet de la consultation. (Attestation RC). A07 : Immatriculation (Numéro SIREN). A08 : Liasses fiscales des 3 derniers exercices. A09 : Attestation de non-condamnation. A10 : DUME (Si pas de DC1/DC2). A11 : Références A12 : Copie du jugement d’ouverture du redressement judiciaire et du plan de continuité d’activité, si le candidat fait l’objet d’une telle procédure, A13 : Le cadre de réponse « 26-DA-PROC14129_cadre de réponse de candidature » dument remplie au format word. Merci de respecter la numérotation « A01, A02, … » dans le nom des documents fournis. A13b : Le fichier de réponse nommé 26-DA-PROC14129-REPONSE TECHNIQUE_NOMSOCIETE_LOT1OU2 La phase dites RFI sera noté via ces critères : 1- Les capacités techniques et professionnelles, à développer en Point E du présent dossier de demande de participation (pondération 80%). Moyens humains de l’entreprise en lien avec l’objet du marché Pondération 35% Moyen technique de l'entreprise en lien avec l'objet du marché Pondération 35% Qualité et pertinence de 3 références datant de moins de 3 ans, en lien avec l’objet du marché concerné. Pondération 30% 2- Les capacités économiques et financières, à compléter au Point D du présent dossier de demande de participation (pondération 20%). Ces capacités seront appréciées au regard des capacités financières dont dispose le candidat pour assurer la bonne et complète exécution de l'objet du présent avis de marché : Evolution du Ratio EBITDA sur le Chiffre d’affaires sur les derniers exercices (2024/2023/2022) Pondération 35% Evolution du cash-flow opérationnel sur les 3 dernières exercices. (2024/2023/2022) Pondération 30% Evolution du taux d’endettement sur les 3 derniers exercices. (2024/2023/2022) Pondération 35%",
-      "cpv": "72246000",
-      "pays": "FRA",
+      "id": "453765-2026",
+      "ref": "453765-2026",
+      "acheteur": "Klief",
+      "objet": "Belgique – Services d'implémentation de logiciels – Implementatie en ondersteuning van een nieuw ziekenhuisinformatiesysteem",
+      "description": "Klief is een revalidatie ziekenhuis te Oostende, België, dat wegens een uitfasering van het bestaande softwarepakket Obasi de overheidsopdracht voor de implementatie en ondersteuning een vervangend softwarepakket aanbesteedt. Op dit moment wordt Obasi aangewend voor volgende organisatieprocessen: • Logistiek en voorraadbeheer; • Boekhouding en financiële administratie; • Aankoopbeheer; • Patiëntenbeheer (admissie, opname, ontslag, planning); • Facturatie (VSB, ziekenfonds, patiënten, derdebetaler); • Apotheekbeheer (incl. Recip-e, koppeling tot eHealth-platform); • Optioneel in scope: BI en rapportering, integraties met labo en radiologie. Simultaan hebben we ook een implementatietraject lopende voor een nieuw EPD (KWS, NexuzHealth) dat ons bestaand EPD (Oxygen, CompuGroup) vervangt. Gelet op de uitfasering van Obasi enerzijds en de implementatie van KWS anderzijds, geldt een strikte voorwaarde dat de implementatie van de nieuwe vervangende software module(s) in nauwe afstemming met alle stakeholders en binnen de kortst mogelijke timing kan worden opgestart en voltooid. Hierbij verwacht de aanbestedende instantie dat er uiterlijk in 2028 live gegaan wordt met het nieuwe ziekenhuisinformatiesysteem. In januari 2027 start de implementatie van de nieuwe softwaremodule(s) opdat de implementatie zelf tijdig, kwalitatief, volledig en correct volgens de industriestandaard wordt uitgevoerd. Hierin houdt de aanbestedende instantie in het bijzonder rekening met de wederzijdse (aanbestedende instantie en opdrachtnemer) vereiste resources, mankracht profielen, project stappen en -planning; die onderhevig is aan validatie vanwege de aanbestedende instantie en tevens een cruciaal onderdeel (gunningsfactor) voor deze opdracht uitmaakt. Het betreft een strategisch belangrijke opdracht voor onze organisatie waarvoor de aanbestedende instantie een sterk geïntegreerd softwarepakket en informatiesysteem verwacht dat niet alleen de huidige en toekomstige activiteiten ondersteunt, maar ook in staat is om de bestaande werkprocessen meer doorgedreven te digitaliseren en te integreren in de werking van de organisatie. Naast de compatibiliteit van het softwareproduct met onze ziekenhuisprocessen en -werkwijze, de nodige certificering, de expertise en ervaring met gelijkaardige opdrachten, zijn er vanuit een holistische bril zeer veel elementen die met deze opdracht gepaard gaan en waarvoor de aanbestedende instantie graag zicht krijgt op hoe de kandidaat opdrachtnemer hier tegenover staat. Het gaat dan bijvoorbeeld, maar niet enkel, om: project methodologieën die toegepast kunnen worden, change management, governance en communicatie, partnerschap, waarden en normen, opleiding, effectiviteit en efficiëntie in projectuitvoering etc. We kijken ernaar uit om met deze opdracht een nieuwe strategische samenwerking te realiseren.",
+      "cpv": "72263000",
+      "pays": "BEL",
       "deadline": "",
-      "montant": 14500,
-      "publication": "2026-07-07",
+      "montant": 2802,
+      "publication": "2026-07-02",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/468112-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/453765-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -97,18 +69,18 @@
       "auto": true
     },
     {
-      "id": "453765-2026",
-      "ref": "453765-2026",
-      "acheteur": "Klief",
-      "objet": "Belgique – Services d'implémentation de logiciels – Implementatie en ondersteuning van een nieuw ziekenhuisinformatiesysteem",
-      "description": "Klief is een revalidatie ziekenhuis te Oostende, België, dat wegens een uitfasering van het bestaande softwarepakket Obasi de overheidsopdracht voor de implementatie en ondersteuning een vervangend softwarepakket aanbesteedt. Op dit moment wordt Obasi aangewend voor volgende organisatieprocessen: • Logistiek en voorraadbeheer; • Boekhouding en financiële administratie; • Aankoopbeheer; • Patiëntenbeheer (admissie, opname, ontslag, planning); • Facturatie (VSB, ziekenfonds, patiënten, derdebetaler); • Apotheekbeheer (incl. Recip-e, koppeling tot eHealth-platform); • Optioneel in scope: BI en rapportering, integraties met labo en radiologie. Simultaan hebben we ook een implementatietraject lopende voor een nieuw EPD (KWS, NexuzHealth) dat ons bestaand EPD (Oxygen, CompuGroup) vervangt. Gelet op de uitfasering van Obasi enerzijds en de implementatie van KWS anderzijds, geldt een strikte voorwaarde dat de implementatie van de nieuwe vervangende software module(s) in nauwe afstemming met alle stakeholders en binnen de kortst mogelijke timing kan worden opgestart en voltooid. Hierbij verwacht de aanbestedende instantie dat er uiterlijk in 2028 live gegaan wordt met het nieuwe ziekenhuisinformatiesysteem. In januari 2027 start de implementatie van de nieuwe softwaremodule(s) opdat de implementatie zelf tijdig, kwalitatief, volledig en correct volgens de industriestandaard wordt uitgevoerd. Hierin houdt de aanbestedende instantie in het bijzonder rekening met de wederzijdse (aanbestedende instantie en opdrachtnemer) vereiste resources, mankracht profielen, project stappen en -planning; die onderhevig is aan validatie vanwege de aanbestedende instantie en tevens een cruciaal onderdeel (gunningsfactor) voor deze opdracht uitmaakt. Het betreft een strategisch belangrijke opdracht voor onze organisatie waarvoor de aanbestedende instantie een sterk geïntegreerd softwarepakket en informatiesysteem verwacht dat niet alleen de huidige en toekomstige activiteiten ondersteunt, maar ook in staat is om de bestaande werkprocessen meer doorgedreven te digitaliseren en te integreren in de werking van de organisatie. Naast de compatibiliteit van het softwareproduct met onze ziekenhuisprocessen en -werkwijze, de nodige certificering, de expertise en ervaring met gelijkaardige opdrachten, zijn er vanuit een holistische bril zeer veel elementen die met deze opdracht gepaard gaan en waarvoor de aanbestedende instantie graag zicht krijgt op hoe de kandidaat opdrachtnemer hier tegenover staat. Het gaat dan bijvoorbeeld, maar niet enkel, om: project methodologieën die toegepast kunnen worden, change management, governance en communicatie, partnerschap, waarden en normen, opleiding, effectiviteit en efficiëntie in projectuitvoering etc. We kijken ernaar uit om met deze opdracht een nieuwe strategische samenwerking te realiseren.",
-      "cpv": "72263000",
-      "pays": "BEL",
+      "id": "468112-2026",
+      "ref": "468112-2026",
+      "acheteur": "GRDF",
+      "objet": "France – Services de conseil en systèmes informatiques – AMOA AMOE développeur SAP",
+      "description": "La Direction des Systèmes d'Information de GRDF dispose actuellement de plusieurs contrats d'assistance à maîtrise d'ouvrage (AMOA) et d'assistance à maîtrise d'œuvre (AMOE) relatifs à l'environnement SAP ISU, arrivant à échéance. Ces prestations contribuent au maintien en condition opérationnelle, à la maintenance évolutive et corrective ainsi qu'à la transformation du SI OMEGA, système critique au cœur des activités de GRDF. La présente consultation a pour objet le renouvellement de ces prestations afin d'assurer la continuité des activités, de sécuriser les compétences SAP ISU et de permettre la réalisation des projets d'évolution du système d'information. Le marché vise à mettre à disposition de GRDF des profils experts AMOA et AMOE intervenant sur les technologies SAP ISU afin de couvrir notamment les activités suivantes : pilotage fonctionnel et technique, recueil et analyse des besoins, rédaction des spécifications, accompagnement des métiers, conception, développement, paramétrage, recette, gestion des incidents et support aux utilisateurs. Les prestations attendues devront permettre : d'assurer le maintien en condition opérationnelle des applications SAP ISU ; de réaliser les évolutions fonctionnelles et techniques du SI ; d'accompagner les projets de transformation et de modernisation du système d'information ; de garantir la qualité de service, la fiabilité des données et la continuité des opérations ; de renforcer les capacités de pilotage et d'expertise de la DSI sur les domaines SAP concernés. Le titulaire interviendra sous la forme de prestations d'assistance à maîtrise d'ouvrage et/ou d'assistance à maîtrise d'œuvre réalisées en étroite collaboration avec les équipes GRDF. Le présent lot (LOT 1) concerne : Lot 1 : Prestations d'Assistance à Maîtrise d'Ouvrage (AMOA) SAP ISU ; Merci de joindre impérativement à votre dossier de candidature les documents listés ci-dessous. Ils doivent être fournis par le candidat et par chaque membre du groupement en cas de candidature groupée : A01 : Formulaire DC1 ou lettre de candidature. En cas de candidature groupée, chaque membre du groupement renseigne le formulaire DC1, et produit les renseignements ou documents demandés par l’acheteur. A02 : Formulaire DC2, comportant l’ensemble des renseignements et documents demandés au titre des sections. En cas d’allotissement, ce document doit être fourni pour chacun des lots de la consultation. En cas de candidature groupée, il est fourni par chaque membre du groupement. A03 : Les pouvoirs habilitant le signataire à engager le candidat individuel ou chaque membre du groupement (pouvoir d’engagement). A04 : Attestation de régularité fiscale. A05 : Attestations de régularité sociale. A06 : Attestation d’assurance de responsabilité civile professionnelle, couvrant les activités professionnelles en rapport avec l’objet de la consultation. (Attestation RC). A07 : Immatriculation (Numéro SIREN). A08 : Liasses fiscales des 3 derniers exercices. A09 : Attestation de non-condamnation. A10 : DUME (Si pas de DC1/DC2). A11 : Références A12 : Copie du jugement d’ouverture du redressement judiciaire et du plan de continuité d’activité, si le candidat fait l’objet d’une telle procédure, A13 : Le cadre de réponse « 26-DA-PROC14129_cadre de réponse de candidature » dument remplie au format word. Merci de respecter la numérotation « A01, A02, … » dans le nom des documents fournis. A13b : Le fichier de réponse nommé 26-DA-PROC14129-REPONSE TECHNIQUE_NOMSOCIETE_LOT1OU2 La phase dites RFI sera noté via ces critères : 1- Les capacités techniques et professionnelles, à développer en Point E du présent dossier de demande de participation (pondération 80%). Moyens humains de l’entreprise en lien avec l’objet du marché Pondération 35% Moyen technique de l'entreprise en lien avec l'objet du marché Pondération 35% Qualité et pertinence de 3 références datant de moins de 3 ans, en lien avec l’objet du marché concerné. Pondération 30% 2- Les capacités économiques et financières, à compléter au Point D du présent dossier de demande de participation (pondération 20%). Ces capacités seront appréciées au regard des capacités financières dont dispose le candidat pour assurer la bonne et complète exécution de l'objet du présent avis de marché : Evolution du Ratio EBITDA sur le Chiffre d’affaires sur les derniers exercices (2024/2023/2022) Pondération 35% Evolution du cash-flow opérationnel sur les 3 dernières exercices. (2024/2023/2022) Pondération 30% Evolution du taux d’endettement sur les 3 derniers exercices. (2024/2023/2022) Pondération 35% / La Direction des Systèmes d'Information de GRDF dispose actuellement de plusieurs contrats d'assistance à maîtrise d'ouvrage (AMOA) et d'assistance à maîtrise d'œuvre (AMOE) relatifs à l'environnement SAP ISU, arrivant à échéance. Ces prestations contribuent au maintien en condition opérationnelle, à la maintenance évolutive et corrective ainsi qu'à la transformation du SI OMEGA, système critique au cœur des activités de GRDF. La présente consultation a pour objet le renouvellement de ces prestations afin d'assurer la continuité des activités, de sécuriser les compétences SAP ISU et de permettre la réalisation des projets d'évolution du système d'information. Le marché vise à mettre à disposition de GRDF des profils experts AMOA et AMOE intervenant sur les technologies SAP ISU afin de couvrir notamment les activités suivantes : pilotage fonctionnel et technique, recueil et analyse des besoins, rédaction des spécifications, accompagnement des métiers, conception, développement, paramétrage, recette, gestion des incidents et support aux utilisateurs. Les prestations attendues devront permettre : d'assurer le maintien en condition opérationnelle des applications SAP ISU ; de réaliser les évolutions fonctionnelles et techniques du SI ; d'accompagner les projets de transformation et de modernisation du système d'information ; de garantir la qualité de service, la fiabilité des données et la continuité des opérations ; de renforcer les capacités de pilotage et d'expertise de la DSI sur les domaines SAP concernés. Le titulaire interviendra sous la forme de prestations d'assistance à maîtrise d'ouvrage et/ou d'assistance à maîtrise d'œuvre réalisées en étroite collaboration avec les équipes GRDF. Le présent lot (LOT 2) concerne : Lot 2 : Prestations d'Assistance à Maîtrise d'Œuvre (AMOE) et Développement SAP ISU. Merci de joindre impérativement à votre dossier de candidature les documents listés ci-dessous. Ils doivent être fournis par le candidat et par chaque membre du groupement en cas de candidature groupée : A01 : Formulaire DC1 ou lettre de candidature. En cas de candidature groupée, chaque membre du groupement renseigne le formulaire DC1, et produit les renseignements ou documents demandés par l’acheteur. A02 : Formulaire DC2, comportant l’ensemble des renseignements et documents demandés au titre des sections. En cas d’allotissement, ce document doit être fourni pour chacun des lots de la consultation. En cas de candidature groupée, il est fourni par chaque membre du groupement. A03 : Les pouvoirs habilitant le signataire à engager le candidat individuel ou chaque membre du groupement (pouvoir d’engagement). A04 : Attestation de régularité fiscale. A05 : Attestations de régularité sociale. A06 : Attestation d’assurance de responsabilité civile professionnelle, couvrant les activités professionnelles en rapport avec l’objet de la consultation. (Attestation RC). A07 : Immatriculation (Numéro SIREN). A08 : Liasses fiscales des 3 derniers exercices. A09 : Attestation de non-condamnation. A10 : DUME (Si pas de DC1/DC2). A11 : Références A12 : Copie du jugement d’ouverture du redressement judiciaire et du plan de continuité d’activité, si le candidat fait l’objet d’une telle procédure, A13 : Le cadre de réponse « 26-DA-PROC14129_cadre de réponse de candidature » dument remplie au format word. Merci de respecter la numérotation « A01, A02, … » dans le nom des documents fournis. A13b : Le fichier de réponse nommé 26-DA-PROC14129-REPONSE TECHNIQUE_NOMSOCIETE_LOT1OU2 La phase dites RFI sera noté via ces critères : 1- Les capacités techniques et professionnelles, à développer en Point E du présent dossier de demande de participation (pondération 80%). Moyens humains de l’entreprise en lien avec l’objet du marché Pondération 35% Moyen technique de l'entreprise en lien avec l'objet du marché Pondération 35% Qualité et pertinence de 3 références datant de moins de 3 ans, en lien avec l’objet du marché concerné. Pondération 30% 2- Les capacités économiques et financières, à compléter au Point D du présent dossier de demande de participation (pondération 20%). Ces capacités seront appréciées au regard des capacités financières dont dispose le candidat pour assurer la bonne et complète exécution de l'objet du présent avis de marché : Evolution du Ratio EBITDA sur le Chiffre d’affaires sur les derniers exercices (2024/2023/2022) Pondération 35% Evolution du cash-flow opérationnel sur les 3 dernières exercices. (2024/2023/2022) Pondération 30% Evolution du taux d’endettement sur les 3 derniers exercices. (2024/2023/2022) Pondération 35%",
+      "cpv": "72246000",
+      "pays": "FRA",
       "deadline": "",
-      "montant": 2802,
-      "publication": "2026-07-02",
+      "montant": 14500,
+      "publication": "2026-07-07",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/453765-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/468112-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -118,37 +90,6 @@
       "score_detail": {
         "fit": 30,
         "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "465810-2026",
-      "ref": "465810-2026",
-      "acheteur": "Provincie Drenthe",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – ICT - beheer Drents Museum",
-      "description": "Het Drents Museum wil het beheer van de ICT-omgevingen opnieuw aanbesteden en onderbrengen bij één leverancier. De leverancier beheert de omgevingen, biedt daarnaast ondersteuning bij technische en functionele aanpassingen en heeft voldoende kennis beschikbaar om kwaliteit, veiligheid, continuïteit, innovatie en toekomstvastheid van de ICT-omgevingen te borgen. Op grond van artikel 2.57a van de Aanbestedingswet 2012 worden enkele documenten niet openbaar gepubliceerd via TenderNed/Mercell. Openbaarmaking van deze documenten zou de beveiliging van de ICT omgeving, de openbare orde of de bedrijfscontinuïteit van het Drents Museum kunnen schaden. Het betreft documenten met informatie waarvan ongecontroleerde verspreiding risico’s met zich meebrengt. De volgende bijlagen worden daarom niet openbaar gepubliceerd en uitsluitend op verzoek beschikbaar gesteld via de berichtenmodule in Mercell: • Bijlage 1 – Programma van Eisen • Bijlage 8 – Beschrijving huidige situatie • Bijlage 9 – Eerstelijns werkzaamheden • Bijlage 10 – Inventarisatie applicaties • Bijlage 11 – SLA ICT beheer Drents Museum Iedere kandidaat-inschrijver kan een verzoek tot inzage indienen en ontvangt, na verificatie van de aanmelding, op gelijke wijze toegang tot dezelfde documenten. De documenten worden onder vertrouwelijkheid verstrekt en mogen niet verder worden verspreid.",
-      "cpv": "72000000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 625,
-      "publication": "2026-07-07",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/465810-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -221,6 +162,37 @@
       "auto": true
     },
     {
+      "id": "465810-2026",
+      "ref": "465810-2026",
+      "acheteur": "Provincie Drenthe",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – ICT - beheer Drents Museum",
+      "description": "Het Drents Museum wil het beheer van de ICT-omgevingen opnieuw aanbesteden en onderbrengen bij één leverancier. De leverancier beheert de omgevingen, biedt daarnaast ondersteuning bij technische en functionele aanpassingen en heeft voldoende kennis beschikbaar om kwaliteit, veiligheid, continuïteit, innovatie en toekomstvastheid van de ICT-omgevingen te borgen. Op grond van artikel 2.57a van de Aanbestedingswet 2012 worden enkele documenten niet openbaar gepubliceerd via TenderNed/Mercell. Openbaarmaking van deze documenten zou de beveiliging van de ICT omgeving, de openbare orde of de bedrijfscontinuïteit van het Drents Museum kunnen schaden. Het betreft documenten met informatie waarvan ongecontroleerde verspreiding risico’s met zich meebrengt. De volgende bijlagen worden daarom niet openbaar gepubliceerd en uitsluitend op verzoek beschikbaar gesteld via de berichtenmodule in Mercell: • Bijlage 1 – Programma van Eisen • Bijlage 8 – Beschrijving huidige situatie • Bijlage 9 – Eerstelijns werkzaamheden • Bijlage 10 – Inventarisatie applicaties • Bijlage 11 – SLA ICT beheer Drents Museum Iedere kandidaat-inschrijver kan een verzoek tot inzage indienen en ontvangt, na verificatie van de aanmelding, op gelijke wijze toegang tot dezelfde documenten. De documenten worden onder vertrouwelijkheid verstrekt en mogen niet verder worden verspreid.",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 625,
+      "publication": "2026-07-07",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/465810-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "460443-2026",
       "ref": "460443-2026",
       "acheteur": "Région Grand Est",
@@ -252,19 +224,19 @@
       "auto": true
     },
     {
-      "id": "470900-2026",
-      "ref": "470900-2026",
-      "acheteur": "Vrije Universiteit Brussel",
-      "objet": "Belgique – Services de développement de logiciels de gestion d'internet et d'intranet – Raamovereenkomst ter configuratie en ondersteuning van een nieuwe intranet-omgeving voor personeel, studenten en PhD-studenten",
-      "description": "De huidige intranet-omgeving op basis van MS SharePoint wordt midden 2027 niet langer ondersteund. De huidige leverancier bood op basis van Microsoft-technologie een eigen configuratiepakket. Deze leverancier stopt hiermee. We moeten een vernieuwde configuratie realiseren met een nieuw te selecteren leverancier. De opdracht omvat de realisatie en ondersteuning van de intranetomgeving gedurende de volledige looptijd van de raamovereenkomst, zoals bepaald in artikel II.7.",
-      "cpv": "72212220",
-      "pays": "BEL",
-      "deadline": "2026-09-04",
+      "id": "464239-2026",
+      "ref": "464239-2026",
+      "acheteur": "Diamant-groep",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Softwarebroker",
+      "description": "Softwarebroker De geschatte opdrachtwaarde bedraagt gemiddeld circa € 600.000,00 excl. BTW per jaar. Dit is echter wel een indicatie. Hier kunnen dan ook geen rechten aan ontleend worden.",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "2026-09-30",
       "montant": 0,
-      "publication": "2026-07-08",
+      "publication": "2026-07-06",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/470900-2026",
-      "segment": "ESR",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/464239-2026",
+      "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
@@ -315,19 +287,19 @@
       "auto": true
     },
     {
-      "id": "464239-2026",
-      "ref": "464239-2026",
-      "acheteur": "Diamant-groep",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Softwarebroker",
-      "description": "Softwarebroker De geschatte opdrachtwaarde bedraagt gemiddeld circa € 600.000,00 excl. BTW per jaar. Dit is echter wel een indicatie. Hier kunnen dan ook geen rechten aan ontleend worden.",
-      "cpv": "72000000",
-      "pays": "NLD",
-      "deadline": "2026-09-30",
+      "id": "470900-2026",
+      "ref": "470900-2026",
+      "acheteur": "Vrije Universiteit Brussel",
+      "objet": "Belgique – Services de développement de logiciels de gestion d'internet et d'intranet – Raamovereenkomst ter configuratie en ondersteuning van een nieuwe intranet-omgeving voor personeel, studenten en PhD-studenten",
+      "description": "De huidige intranet-omgeving op basis van MS SharePoint wordt midden 2027 niet langer ondersteund. De huidige leverancier bood op basis van Microsoft-technologie een eigen configuratiepakket. Deze leverancier stopt hiermee. We moeten een vernieuwde configuratie realiseren met een nieuw te selecteren leverancier. De opdracht omvat de realisatie en ondersteuning van de intranetomgeving gedurende de volledige looptijd van de raamovereenkomst, zoals bepaald in artikel II.7.",
+      "cpv": "72212220",
+      "pays": "BEL",
+      "deadline": "2026-09-04",
       "montant": 0,
-      "publication": "2026-07-06",
+      "publication": "2026-07-08",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/464239-2026",
-      "segment": "Autre",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/470900-2026",
+      "segment": "ESR",
       "keyword_hits": [
         "Word"
       ],
@@ -340,37 +312,6 @@
         "com": 5,
         "admin": 7,
         "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "464555-2026",
-      "ref": "464555-2026",
-      "acheteur": "Société des grands projets",
-      "objet": "France – Services de conseil en analyse d'exploitation – Conseil au pilotage de la DSI de la SGP",
-      "description": "Les prestations attendues dans ce lot couvrent les réflexions concernant une vision long terme de l’organisation de la DSI afin d’en optimiser son pilotage et de maximiser la valeur des services fournis. Ces prestations ont le plus souvent pour origine des besoins exprimés au plus haut niveau de la SGP ou de ses tutelles mais peuvent être issues de réflexions au niveau de la DSI et de sa gouvernance. Ces commandes peuvent intervenir par exemple dans le cadre de la mise en place, de la refonte d’organisations, de la création d’une nouvelle entité, de la revue de mission/services ou de périmètre d’intervention, etc. Elles peuvent revêtir différentes formes, en fonction de la maturité de la réflexion. S’appuyant sur des faits orientés ou non, les prestations de conseil demandées apportent un éclairage au DSI en charge de la prise de décision. Elles contiennent notamment :  - La définition fine des enjeux et du niveau d’ambition du sujet, intégrant le cas échéant des scénarii alternatifs ;  - La définition de scénarios de gouvernance, intégrant notamment l’analyse des impacts sur l’organisation de la DSI, à divers horizons de temps ;  - La qualification de l’ensemble des moyens nécessaires, humains, techniques et financiers, à la mise en œuvre des scénarios et du niveau d’effort requis pour chaque scénario (ex : communication et accompagnement, moyens techniques, prérequis juridiques, impacts organisationnels, impacts sur les métiers et les modes de fonctionnement, besoins d’accompagnement technique et humain) ; - L’identification des facteurs clefs de succès de mise en œuvre, des risques associés ou interdépendances / zones d’adhérence et des modalités de suivi (indicateurs de performance et de résultats) ; - La préparation de l’exécution, notamment par la fourniture d’une feuille de route intégrant les différentes dimensions du projet. Cette feuille de route doit permettre la prise de décisions stratégiques ; - Le pilotage et la préparation à la prise de décision, notamment par la production de tout support de synthèse adapté à la prise de décision (présentations, tableurs ou tout autre support équivalent). / Ce lot est destiné à traduire de façon opérationnelle un changement ou une évolution déjà définie par la DSI de la SGP, fixer les objectifs associés, définir un chemin pour y parvenir, évaluer le dimensionnement, le coût, l’impact prévisionnel, préparer le démarrage du projet et accompagner son déploiement. Chaque prestation intègre le champ de contraintes propres aux organisations concernées par le projet en association avec les parties prenantes. / Ce lot a pour objet la réalisation d’audits pouvant porter sur les différents domaines couverts par la DSI de la SGP, hors audits de sécurité et audits techniques. Plusieurs types d’audits opérationnels sont envisagés : - Audits portant sur un processus ou un ensemble de processus ; - Audits portant sur tout ou partie d’un projet ; - Audits portant sur tout ou partie d’un document ; - Audits portant sur tout ou partie d’un outillage. / Ce lot a vocation à soutenir les actions d’accompagnement au changement menées par la DSI de la SGP. L’objectif est d’optimiser l’information et l’adhésion de la SGP et ses partenaires aux applications et processus de la DSI en recourant, notamment, à une méthodologie d’ingénierie, itérative et innovante intitulée MAC (Modèle d’Accompagnement au Changement). A ce titre, la finalité est d’accompagner les opérations d’optimisation ou de mise en place de nouveaux processus de travail, outils, gouvernance, politiques ou chartes. Ces processus peuvent être des processus opérationnels relatifs à la délivrance des services de la DSI à la SGP ou s’attacher à des dispositifs de Pilotage de la Direction. Les prestations attendues couvrent l’ensemble des phases d’analyse, de conception et de mise en œuvre de la stratégie d’accompagnement du changement.",
-      "cpv": "72221000",
-      "pays": "FRA",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-07-06",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/464555-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "tableur"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -439,60 +380,83 @@
       "auto": true
     },
     {
-      "id": "26-74673",
-      "ref": "26-74673",
-      "acheteur": "Coallia",
-      "objet": "Gestion des identités et des habilitations (IAM)",
-      "description": "Gestion des identités et des habilitations (IAM)",
-      "cpv": "",
+      "id": "464555-2026",
+      "ref": "464555-2026",
+      "acheteur": "Société des grands projets",
+      "objet": "France – Services de conseil en analyse d'exploitation – Conseil au pilotage de la DSI de la SGP",
+      "description": "Les prestations attendues dans ce lot couvrent les réflexions concernant une vision long terme de l’organisation de la DSI afin d’en optimiser son pilotage et de maximiser la valeur des services fournis. Ces prestations ont le plus souvent pour origine des besoins exprimés au plus haut niveau de la SGP ou de ses tutelles mais peuvent être issues de réflexions au niveau de la DSI et de sa gouvernance. Ces commandes peuvent intervenir par exemple dans le cadre de la mise en place, de la refonte d’organisations, de la création d’une nouvelle entité, de la revue de mission/services ou de périmètre d’intervention, etc. Elles peuvent revêtir différentes formes, en fonction de la maturité de la réflexion. S’appuyant sur des faits orientés ou non, les prestations de conseil demandées apportent un éclairage au DSI en charge de la prise de décision. Elles contiennent notamment :  - La définition fine des enjeux et du niveau d’ambition du sujet, intégrant le cas échéant des scénarii alternatifs ;  - La définition de scénarios de gouvernance, intégrant notamment l’analyse des impacts sur l’organisation de la DSI, à divers horizons de temps ;  - La qualification de l’ensemble des moyens nécessaires, humains, techniques et financiers, à la mise en œuvre des scénarios et du niveau d’effort requis pour chaque scénario (ex : communication et accompagnement, moyens techniques, prérequis juridiques, impacts organisationnels, impacts sur les métiers et les modes de fonctionnement, besoins d’accompagnement technique et humain) ; - L’identification des facteurs clefs de succès de mise en œuvre, des risques associés ou interdépendances / zones d’adhérence et des modalités de suivi (indicateurs de performance et de résultats) ; - La préparation de l’exécution, notamment par la fourniture d’une feuille de route intégrant les différentes dimensions du projet. Cette feuille de route doit permettre la prise de décisions stratégiques ; - Le pilotage et la préparation à la prise de décision, notamment par la production de tout support de synthèse adapté à la prise de décision (présentations, tableurs ou tout autre support équivalent). / Ce lot est destiné à traduire de façon opérationnelle un changement ou une évolution déjà définie par la DSI de la SGP, fixer les objectifs associés, définir un chemin pour y parvenir, évaluer le dimensionnement, le coût, l’impact prévisionnel, préparer le démarrage du projet et accompagner son déploiement. Chaque prestation intègre le champ de contraintes propres aux organisations concernées par le projet en association avec les parties prenantes. / Ce lot a pour objet la réalisation d’audits pouvant porter sur les différents domaines couverts par la DSI de la SGP, hors audits de sécurité et audits techniques. Plusieurs types d’audits opérationnels sont envisagés : - Audits portant sur un processus ou un ensemble de processus ; - Audits portant sur tout ou partie d’un projet ; - Audits portant sur tout ou partie d’un document ; - Audits portant sur tout ou partie d’un outillage. / Ce lot a vocation à soutenir les actions d’accompagnement au changement menées par la DSI de la SGP. L’objectif est d’optimiser l’information et l’adhésion de la SGP et ses partenaires aux applications et processus de la DSI en recourant, notamment, à une méthodologie d’ingénierie, itérative et innovante intitulée MAC (Modèle d’Accompagnement au Changement). A ce titre, la finalité est d’accompagner les opérations d’optimisation ou de mise en place de nouveaux processus de travail, outils, gouvernance, politiques ou chartes. Ces processus peuvent être des processus opérationnels relatifs à la délivrance des services de la DSI à la SGP ou s’attacher à des dispositifs de Pilotage de la Direction. Les prestations attendues couvrent l’ensemble des phases d’analyse, de conception et de mise en œuvre de la stratégie d’accompagnement du changement.",
+      "cpv": "72221000",
       "pays": "FRA",
-      "deadline": "2026-09-10",
+      "deadline": "",
       "montant": 0,
-      "publication": "2026-07-28",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-74673",
-      "_boamp": {
-        "famille": "Marchés européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Logiciel"
-        ],
-        "departement": "75"
-      },
+      "publication": "2026-07-06",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/464555-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "habilitation"
+        "tableur"
       ],
-      "score": 62,
+      "bureautique": true,
+      "score": 65,
       "score_detail": {
-        "fit": 25,
+        "fit": 30,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
       "auto": true
     },
     {
-      "id": "468149-2026",
-      "ref": "468149-2026",
-      "acheteur": "Deutsche Gesetzliche Unfallversicherung e.V.",
-      "objet": "Allemagne – Services de programmation et de conseil en logiciels – Open Text",
-      "description": "Die im AG Umfeld eingesetzte ECM Software - xECM (Content Server) 24.1 der Firma O-penText unterliegt ständigen Anpassungen und funktionalen Erweiterung und muss regelmä-ßig gewartet und aktualisiert werden. Der AG setzt im Kollaborationsteil des Content Ma-nagement vermehrt auf Funktionen und Software aus M365 im Cloudbetrieb. Die beiden Sys-teme sollen zukünftig über die OpenText Office 365-Integration miteinander verbunden wer-den. Die Beratungs- und Unterstützungsleistungen umfassen",
-      "cpv": "72200000",
-      "pays": "DEU",
-      "deadline": "2026-08-06",
+      "id": "453453-2026",
+      "ref": "453453-2026",
+      "acheteur": "Gemeente Dordrecht | Bedrijfsvoering Drechtsteden",
+      "objet": "Pays-Bas – Services de formation – 260096REG Talentenfonds Drechtsteden 2026-2027",
+      "description": "Sectoren Zorg & Welzijn, Bouw & Techniek, Transport & Logistiek en Maritiem De opdracht omvat één geïntegreerde opdracht voor het leveren van opleidingen in alle vier (4) de sectoren, met een totaalbudget van maximaal €2.200.000 incl. btw. Opleiders kunnen inschrijven voor één of meerdere sectoren, maar worden beloond voor veelzijdigheid in hun aanbod. De opleidingen moeten: • Direct aansluiten op de actuele arbeidsmarktvraag in de Drechtsteden; • (Basis)-beroepsvaardigheden ontwikkelen, afgestemd op de doelgroep; • Kosteloos en laagdrempelig zijn voor deelnemers, mede door een minimale cofinancieringsbijdrage van 25% door opleiders.",
+      "cpv": "80500000",
+      "pays": "NLD",
+      "deadline": "2026-08-10",
       "montant": 0,
-      "publication": "2026-07-07",
+      "publication": "2026-07-02",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/468149-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/453453-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Office 365"
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 62,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "460644-2026",
+      "ref": "460644-2026",
+      "acheteur": "Agentschap Sport Vlaanderen",
+      "objet": "Belgique – Services de développement de logiciels de formation et de divertissement – Licentie op een e-learningomgeving voor de opleidingen en bijscholingen van de Vlaamse Trainersschool (VTS), inclusief de mogelijkheid voor het creëren van tenants voor partners binnen het VTS-samenwerkingsverband",
+      "description": "De opdracht betreft een geïntegreerde digitale leeromgeving (e-learningplatform) waarbij de verschillende componenten, waaronder de terbeschikkingstelling van het platform (licentie/SaaS), de implementatie, de integratie met bestaande systemen (in het bijzonder de VOTAS-databank), het onderhoud en de ondersteuning, technisch en functioneel nauw met elkaar verbonden zijn. Een opsplitsing in percelen zou een performant en coherent geheel bemoeilijken en kan leiden tot verhoogde complexiteit op het vlak van integratie, verantwoordelijkheid en coördinatie tussen meerdere opdrachtnemers. Dit zou tevens risico’s met zich meebrengen voor de continuïteit, de werking en de beveiliging van het platform. Om deze redenen wordt geopteerd om de opdracht als één geheel in de markt te zetten.",
+      "cpv": "72212931",
+      "pays": "BEL",
+      "deadline": "2026-08-11",
+      "montant": 0,
+      "publication": "2026-07-03",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/460644-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
       ],
       "bureautique": true,
       "score": 62,
@@ -573,21 +537,21 @@
       "auto": true
     },
     {
-      "id": "460644-2026",
-      "ref": "460644-2026",
-      "acheteur": "Agentschap Sport Vlaanderen",
-      "objet": "Belgique – Services de développement de logiciels de formation et de divertissement – Licentie op een e-learningomgeving voor de opleidingen en bijscholingen van de Vlaamse Trainersschool (VTS), inclusief de mogelijkheid voor het creëren van tenants voor partners binnen het VTS-samenwerkingsverband",
-      "description": "De opdracht betreft een geïntegreerde digitale leeromgeving (e-learningplatform) waarbij de verschillende componenten, waaronder de terbeschikkingstelling van het platform (licentie/SaaS), de implementatie, de integratie met bestaande systemen (in het bijzonder de VOTAS-databank), het onderhoud en de ondersteuning, technisch en functioneel nauw met elkaar verbonden zijn. Een opsplitsing in percelen zou een performant en coherent geheel bemoeilijken en kan leiden tot verhoogde complexiteit op het vlak van integratie, verantwoordelijkheid en coördinatie tussen meerdere opdrachtnemers. Dit zou tevens risico’s met zich meebrengen voor de continuïteit, de werking en de beveiliging van het platform. Om deze redenen wordt geopteerd om de opdracht als één geheel in de markt te zetten.",
-      "cpv": "72212931",
-      "pays": "BEL",
-      "deadline": "2026-08-11",
+      "id": "468149-2026",
+      "ref": "468149-2026",
+      "acheteur": "Deutsche Gesetzliche Unfallversicherung e.V.",
+      "objet": "Allemagne – Services de programmation et de conseil en logiciels – Open Text",
+      "description": "Die im AG Umfeld eingesetzte ECM Software - xECM (Content Server) 24.1 der Firma O-penText unterliegt ständigen Anpassungen und funktionalen Erweiterung und muss regelmä-ßig gewartet und aktualisiert werden. Der AG setzt im Kollaborationsteil des Content Ma-nagement vermehrt auf Funktionen und Software aus M365 im Cloudbetrieb. Die beiden Sys-teme sollen zukünftig über die OpenText Office 365-Integration miteinander verbunden wer-den. Die Beratungs- und Unterstützungsleistungen umfassen",
+      "cpv": "72200000",
+      "pays": "DEU",
+      "deadline": "2026-08-06",
       "montant": 0,
-      "publication": "2026-07-03",
+      "publication": "2026-07-07",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/460644-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/468149-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Word"
+        "Office 365"
       ],
       "bureautique": true,
       "score": 62,
@@ -604,49 +568,18 @@
       "auto": true
     },
     {
-      "id": "453453-2026",
-      "ref": "453453-2026",
-      "acheteur": "Gemeente Dordrecht | Bedrijfsvoering Drechtsteden",
-      "objet": "Pays-Bas – Services de formation – 260096REG Talentenfonds Drechtsteden 2026-2027",
-      "description": "Sectoren Zorg & Welzijn, Bouw & Techniek, Transport & Logistiek en Maritiem De opdracht omvat één geïntegreerde opdracht voor het leveren van opleidingen in alle vier (4) de sectoren, met een totaalbudget van maximaal €2.200.000 incl. btw. Opleiders kunnen inschrijven voor één of meerdere sectoren, maar worden beloond voor veelzijdigheid in hun aanbod. De opleidingen moeten: • Direct aansluiten op de actuele arbeidsmarktvraag in de Drechtsteden; • (Basis)-beroepsvaardigheden ontwikkelen, afgestemd op de doelgroep; • Kosteloos en laagdrempelig zijn voor deelnemers, mede door een minimale cofinancieringsbijdrage van 25% door opleiders.",
-      "cpv": "80500000",
-      "pays": "NLD",
-      "deadline": "2026-08-10",
+      "id": "455983-2026",
+      "ref": "455983-2026",
+      "acheteur": "RATP",
+      "objet": "France – Services de développement de logiciels de contrôle du trafic ferroviaire – Etude, développement, mise en service et déploiement d'un système Coeur Produit Poste de Commandes Centralisées Nouvelle Génération (Coeur Produit PCC NG)",
+      "description": "Les prestations comprises dans le montant minimum de l’accord-cadre sont les suivantes : - Le management du projet ; - L'étude, le développement et la validation des fonctions du Cœur Produit PCC NG  ; - L'étude, le développement et la validation du Logiciel Cœur Produit PCC NG dont les Interfaces Homme Machine (IHM) ; - L'intégration, les essais et la mise en service des fonctions du Cœur Produit PCC NG en usine ; - L'instanciation, les essais et la mise en service du Cœur Produit PCC NG sur la ligne de métro 6 comprenant le suivi des performances et des indicateurs, les périodes probatoires et de garantie après chaque mise en service ; - L’étude, le développement et la validation de l’Outil de Gestion de la Configuration (OGC) du Cœur Produit PCC NG  ; - L’étude, le développement et la validation du logiciel de simulation pour le banc de qualification et de formation ; - L’étude, le développement et la validation d’un banc de qualification et de formation ; - La livraison, l’installation du Banc de qualification et de formation sur le site RATP dédié ainsi que la formation, l’accompagnement de la RATP sur celle-ci ; - L'intégration, les essais et la mise en service des fonctions du Cœur Produit PCC NG et de l’instanciation de la ligne de métro 6 en Banc de qualification de la RATP ; - La fourniture du matériel nécessaire pour la plateforme de validation du Cœur Produit PCC NG en usine et pour le banc de qualification sur site RATP ; - L’instanciation de l’Outil de Formation (OFO) de la ligne de métro 6 ; - L’étude, la fourniture et la mise en œuvre des systèmes de basculements nécessaires pour la réalisation des installations, des essais et des mises en service des systèmes applicatifs sans interruption de l’exploitation ; - La coordination et la gestion des interfaces avec les systèmes environnants notamment : la logique traction, le système de contrôle-commande du mouvement des trains (OCTYS), la signalisation, les équipements de Traction en ligne, les serveurs informatiques de concentration des données, les systèmes d'information voyageur, horaires, service conducteur, habilitations, vidéo, sonorisation, superviseur, les équipements du Système d'Aide à l'Exploitation (SAE) en campagne ; - L’étude et le développement des interfaces nécessaires à l’intégration du Cœur Produit avec le banc de qualification sur le site de la RATP dédié ; - L'étude, le développement, la validation, l'intégration, la mise en service, les essais, la livraison et les installations sur site des outils de maintenance ; - La formation des formateurs (exploitants et mainteneurs) ainsi que des utilisateurs du banc de qualification sur site RATP ;   - La fourniture de l’ensemble de la documentation contractuelle définie dans le marché (conception, intégration, essais, outils, etc.) . Les prestations comprises dans le montant maximum de l’accord-cadre sont les suivantes : 1) Les prestations du montant minimum ; 2) Les prestations pouvant être commandées. Elles peuvent comprendre les prestations suivantes : 2.1) Pour chacune des lignes de métro 8, 7, 7bis, 10 et 2 : *** L'instanciation, les essais et la mise en service du Cœur Produit PCC NG sur la ligne comprenant le suivi des performances et des indicateurs, les périodes probatoires et de garantie après chaque mise en service ; *** L’étude, l'approvisionnement, la livraison et l'installation du matériel sur les sites de la RATP dédiés (Poste Opérateur (PO) Banc, PO OFO, PO OGC, PO Salle d'exploitation et PO déportés, baies, etc.) ; *** L'intégration, les essais et la mise en service du sous-système OFO  ; *** Le développement, les essais et la mise en service du simulateur du banc de qualification pour l'instanciation de la ligne ; 2.2.) La garantie du Coeur Produit PCC NG ; 2.3.) La mise en œuvre des dispositifs de Tierce Maintenance (TM) pour une durée maximum de cinq (5) ans couvrant l’ensemble des composants du marché : *** Pour le système Coeur Produit PCC NG : TM de type 1 comprenant le Maintien en Condition Opérationnelle (MCO), le Maintien en Condition de Sécurité (MCS) et les trains de maintenance ainsi que la TM de type 2 ; *** Pour le banc de qualification et de formation de la RATP : TM de type comprenant le MCO, le MCS ainsi que la TM de type 2 ; *** L'ensemble de la documentation associée ; 2.4.) La mise en œuvre des dispositifs de réversibilité couvrant l’ensemble des composants du marché (système Cœur Produit PCC NG, banc de qualification sur site RATP, l'ensemble de la documentation associée) ; 2.5.) Les prestations complémentaires dans la limite de 30% du minimum du marché comprenant notamment : - Les prestations pouvant être commandées et indiquées dans le Bordereau des prix incluant : *** Les prestations unitaires prévues au Bordereau des prix ; *** La fourniture du parc de rechange ; *** Les extensions de garantie  ; *** Les décalages de jalons RATP ; -Les prestations sur devis (dont la maintenance de type 2), à la demande de la RATP.",
+      "cpv": "72212140",
+      "pays": "FRA",
+      "deadline": "",
       "montant": 0,
       "publication": "2026-07-02",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/453453-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "456990-2026",
-      "ref": "456990-2026",
-      "acheteur": "Kliniken Ostallgäu-Kaufbeuren",
-      "objet": "Allemagne – Services aux entreprises: droit, marketing, conseil, recrutement, impression et sécurité – Managementvertrag für die Kliniken Ostallgäu-Kaufbeuren",
-      "description": "Die Kliniken Ostallgäu-Kaufbeuren als Anstalt des öffentlichen Rechts bieten mit ihren 2.200 Mitarbeitern medizinische Versorgung an drei Standorten mit 654 akutstationären Planbetten (Buchloe mit 100, Füssen mit 120, Kaufbeuren mit 434 Betten) und einer Geriatrischen Rehabilitation mit 25 Betten. Das Klinikum Kaufbeuren ist akademisches Lehrkrankenhaus der Ludwig-Maximilians- Universität (LMU) München, akademische Lehrabteilung der Medizinischen Universität Innsbruck & der Privatuniversität Krems sowie Partnerklinik der Universitätsklinik Augsburg. Die Abteilung Innere Medizin der Klinik Füssen ist akademische Lehrabteilung der LMU München. Das Klinikunternehmen steht mit seinen Einrichtungen aufgrund der sich verschärfenden gesundheitsregulatorischen Rahmenbedingungen und des damit verbundenen administrativen Aufwands vor großen Herausforderungen in einem intensiven Wettbewerbsumfeld. In diesem Umfeld und zur Weiterentwicklung der Krankenhäuser beabsichtigen die Träger der Kliniken Ostallgäu-Kaufbeuren, für einen definierten Zeitraum das Management einem Unternehmen zu übertragen, das über profunde Erfahrung im Management von vergleichbaren Einrichtungen des Gesundheitswesens verfügt. Leistungsgegenstand: 1. Managementteam Das Managementteam besteht aus einem Projektkoordinator, einem Alleinvorstand sowie - je nach Konzeption des Auftragnehmers - weiteren Personen. Der Projektkoordinator nimmt die grundlegenden Weichenstellungen vor und leitet das Managementteam. Er fungiert zudem als primärer Ansprechpartner für den Auftraggeber, insbesondere zu übergeordneten strategischen Belangen. Er muss über langjährige und umfassende Erfahrung im Bereich Krankenhausmanagement verfügen. Die Kliniken Ostallgäu-Kaufbeuren werden von einem erfahrenen Alleinvorstand geführt. Er verfügt über besondere Expertise in der Führung von Krankenhäusern und ist der Ansprechpartner des Auftraggebers im operativen Geschäft. 2. Strategiekonzept Innerhalb der ersten sechs Monate der Vertragslaufzeit ist ein umfassendes Strategiekonzept über konkrete Maßnahmen zur Erreichung einer Ergebnisverbesserung aufzuzeigen. Dieses ist sodann mit dem Auftraggeber abzustimmen und freizugeben. Der Auftragnehmer informiert den Auftraggeber regelmäßig über den Stand der Umsetzung des Konzeptes. Das Strategiekonzept muss inhaltlich zahlreiche Themenkomplexe abdecken, die in folgende Kategorien einzuteilen sind: - Analyse der Entwicklungsmöglichkeiten bezüglich des medizinischen Leistungsangebots, - Analyse der wesentlichen den Krankenhausbetrieb unterstützenden Leistungen (z.B. Küche, Reinigung, Wäscherei, Medizintechnik), - Analyse der administrativen Strukturen der Kliniken Ostallgäu-Kaufbeuren (z.B. Finanz- und Rechnungswesen, Controlling, Leistungsabrechnung, Medizincontrolling, Einkauf), - Analyse der medizinischen Kernprozesse von der Aufnahme bis zur Entlassung. Der Auftragnehmer übernimmt auch die Umsetzung der in dem Strategiekonzept vorgesehenen Maßnahmen, insbesondere durch den von diesem gestellten Alleinvorstand. 3. Implementierung von Standards und Tools Der Auftraggeber bzw. die drei von ihm betriebenen Krankenhäuser erhalten von dem Auftragnehmer während der gesamten Vertragsdauer vollen Zugriff auf Standards und Managementtools, über welche der Auftragnehmer im Bereich der unter Nr. 2 aufgelisteten Kategorien verfügt.",
-      "cpv": "79000000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-07-03",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/456990-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/455983-2026",
       "segment": "Autre",
       "keyword_hits": [
         "habilitation"
@@ -666,18 +599,18 @@
       "auto": true
     },
     {
-      "id": "455983-2026",
-      "ref": "455983-2026",
-      "acheteur": "RATP",
-      "objet": "France – Services de développement de logiciels de contrôle du trafic ferroviaire – Etude, développement, mise en service et déploiement d'un système Coeur Produit Poste de Commandes Centralisées Nouvelle Génération (Coeur Produit PCC NG)",
-      "description": "Les prestations comprises dans le montant minimum de l’accord-cadre sont les suivantes : - Le management du projet ; - L'étude, le développement et la validation des fonctions du Cœur Produit PCC NG  ; - L'étude, le développement et la validation du Logiciel Cœur Produit PCC NG dont les Interfaces Homme Machine (IHM) ; - L'intégration, les essais et la mise en service des fonctions du Cœur Produit PCC NG en usine ; - L'instanciation, les essais et la mise en service du Cœur Produit PCC NG sur la ligne de métro 6 comprenant le suivi des performances et des indicateurs, les périodes probatoires et de garantie après chaque mise en service ; - L’étude, le développement et la validation de l’Outil de Gestion de la Configuration (OGC) du Cœur Produit PCC NG  ; - L’étude, le développement et la validation du logiciel de simulation pour le banc de qualification et de formation ; - L’étude, le développement et la validation d’un banc de qualification et de formation ; - La livraison, l’installation du Banc de qualification et de formation sur le site RATP dédié ainsi que la formation, l’accompagnement de la RATP sur celle-ci ; - L'intégration, les essais et la mise en service des fonctions du Cœur Produit PCC NG et de l’instanciation de la ligne de métro 6 en Banc de qualification de la RATP ; - La fourniture du matériel nécessaire pour la plateforme de validation du Cœur Produit PCC NG en usine et pour le banc de qualification sur site RATP ; - L’instanciation de l’Outil de Formation (OFO) de la ligne de métro 6 ; - L’étude, la fourniture et la mise en œuvre des systèmes de basculements nécessaires pour la réalisation des installations, des essais et des mises en service des systèmes applicatifs sans interruption de l’exploitation ; - La coordination et la gestion des interfaces avec les systèmes environnants notamment : la logique traction, le système de contrôle-commande du mouvement des trains (OCTYS), la signalisation, les équipements de Traction en ligne, les serveurs informatiques de concentration des données, les systèmes d'information voyageur, horaires, service conducteur, habilitations, vidéo, sonorisation, superviseur, les équipements du Système d'Aide à l'Exploitation (SAE) en campagne ; - L’étude et le développement des interfaces nécessaires à l’intégration du Cœur Produit avec le banc de qualification sur le site de la RATP dédié ; - L'étude, le développement, la validation, l'intégration, la mise en service, les essais, la livraison et les installations sur site des outils de maintenance ; - La formation des formateurs (exploitants et mainteneurs) ainsi que des utilisateurs du banc de qualification sur site RATP ;   - La fourniture de l’ensemble de la documentation contractuelle définie dans le marché (conception, intégration, essais, outils, etc.) . Les prestations comprises dans le montant maximum de l’accord-cadre sont les suivantes : 1) Les prestations du montant minimum ; 2) Les prestations pouvant être commandées. Elles peuvent comprendre les prestations suivantes : 2.1) Pour chacune des lignes de métro 8, 7, 7bis, 10 et 2 : *** L'instanciation, les essais et la mise en service du Cœur Produit PCC NG sur la ligne comprenant le suivi des performances et des indicateurs, les périodes probatoires et de garantie après chaque mise en service ; *** L’étude, l'approvisionnement, la livraison et l'installation du matériel sur les sites de la RATP dédiés (Poste Opérateur (PO) Banc, PO OFO, PO OGC, PO Salle d'exploitation et PO déportés, baies, etc.) ; *** L'intégration, les essais et la mise en service du sous-système OFO  ; *** Le développement, les essais et la mise en service du simulateur du banc de qualification pour l'instanciation de la ligne ; 2.2.) La garantie du Coeur Produit PCC NG ; 2.3.) La mise en œuvre des dispositifs de Tierce Maintenance (TM) pour une durée maximum de cinq (5) ans couvrant l’ensemble des composants du marché : *** Pour le système Coeur Produit PCC NG : TM de type 1 comprenant le Maintien en Condition Opérationnelle (MCO), le Maintien en Condition de Sécurité (MCS) et les trains de maintenance ainsi que la TM de type 2 ; *** Pour le banc de qualification et de formation de la RATP : TM de type comprenant le MCO, le MCS ainsi que la TM de type 2 ; *** L'ensemble de la documentation associée ; 2.4.) La mise en œuvre des dispositifs de réversibilité couvrant l’ensemble des composants du marché (système Cœur Produit PCC NG, banc de qualification sur site RATP, l'ensemble de la documentation associée) ; 2.5.) Les prestations complémentaires dans la limite de 30% du minimum du marché comprenant notamment : - Les prestations pouvant être commandées et indiquées dans le Bordereau des prix incluant : *** Les prestations unitaires prévues au Bordereau des prix ; *** La fourniture du parc de rechange ; *** Les extensions de garantie  ; *** Les décalages de jalons RATP ; -Les prestations sur devis (dont la maintenance de type 2), à la demande de la RATP.",
-      "cpv": "72212140",
-      "pays": "FRA",
+      "id": "456990-2026",
+      "ref": "456990-2026",
+      "acheteur": "Kliniken Ostallgäu-Kaufbeuren",
+      "objet": "Allemagne – Services aux entreprises: droit, marketing, conseil, recrutement, impression et sécurité – Managementvertrag für die Kliniken Ostallgäu-Kaufbeuren",
+      "description": "Die Kliniken Ostallgäu-Kaufbeuren als Anstalt des öffentlichen Rechts bieten mit ihren 2.200 Mitarbeitern medizinische Versorgung an drei Standorten mit 654 akutstationären Planbetten (Buchloe mit 100, Füssen mit 120, Kaufbeuren mit 434 Betten) und einer Geriatrischen Rehabilitation mit 25 Betten. Das Klinikum Kaufbeuren ist akademisches Lehrkrankenhaus der Ludwig-Maximilians- Universität (LMU) München, akademische Lehrabteilung der Medizinischen Universität Innsbruck & der Privatuniversität Krems sowie Partnerklinik der Universitätsklinik Augsburg. Die Abteilung Innere Medizin der Klinik Füssen ist akademische Lehrabteilung der LMU München. Das Klinikunternehmen steht mit seinen Einrichtungen aufgrund der sich verschärfenden gesundheitsregulatorischen Rahmenbedingungen und des damit verbundenen administrativen Aufwands vor großen Herausforderungen in einem intensiven Wettbewerbsumfeld. In diesem Umfeld und zur Weiterentwicklung der Krankenhäuser beabsichtigen die Träger der Kliniken Ostallgäu-Kaufbeuren, für einen definierten Zeitraum das Management einem Unternehmen zu übertragen, das über profunde Erfahrung im Management von vergleichbaren Einrichtungen des Gesundheitswesens verfügt. Leistungsgegenstand: 1. Managementteam Das Managementteam besteht aus einem Projektkoordinator, einem Alleinvorstand sowie - je nach Konzeption des Auftragnehmers - weiteren Personen. Der Projektkoordinator nimmt die grundlegenden Weichenstellungen vor und leitet das Managementteam. Er fungiert zudem als primärer Ansprechpartner für den Auftraggeber, insbesondere zu übergeordneten strategischen Belangen. Er muss über langjährige und umfassende Erfahrung im Bereich Krankenhausmanagement verfügen. Die Kliniken Ostallgäu-Kaufbeuren werden von einem erfahrenen Alleinvorstand geführt. Er verfügt über besondere Expertise in der Führung von Krankenhäusern und ist der Ansprechpartner des Auftraggebers im operativen Geschäft. 2. Strategiekonzept Innerhalb der ersten sechs Monate der Vertragslaufzeit ist ein umfassendes Strategiekonzept über konkrete Maßnahmen zur Erreichung einer Ergebnisverbesserung aufzuzeigen. Dieses ist sodann mit dem Auftraggeber abzustimmen und freizugeben. Der Auftragnehmer informiert den Auftraggeber regelmäßig über den Stand der Umsetzung des Konzeptes. Das Strategiekonzept muss inhaltlich zahlreiche Themenkomplexe abdecken, die in folgende Kategorien einzuteilen sind: - Analyse der Entwicklungsmöglichkeiten bezüglich des medizinischen Leistungsangebots, - Analyse der wesentlichen den Krankenhausbetrieb unterstützenden Leistungen (z.B. Küche, Reinigung, Wäscherei, Medizintechnik), - Analyse der administrativen Strukturen der Kliniken Ostallgäu-Kaufbeuren (z.B. Finanz- und Rechnungswesen, Controlling, Leistungsabrechnung, Medizincontrolling, Einkauf), - Analyse der medizinischen Kernprozesse von der Aufnahme bis zur Entlassung. Der Auftragnehmer übernimmt auch die Umsetzung der in dem Strategiekonzept vorgesehenen Maßnahmen, insbesondere durch den von diesem gestellten Alleinvorstand. 3. Implementierung von Standards und Tools Der Auftraggeber bzw. die drei von ihm betriebenen Krankenhäuser erhalten von dem Auftragnehmer während der gesamten Vertragsdauer vollen Zugriff auf Standards und Managementtools, über welche der Auftragnehmer im Bereich der unter Nr. 2 aufgelisteten Kategorien verfügt.",
+      "cpv": "79000000",
+      "pays": "DEU",
       "deadline": "",
       "montant": 0,
-      "publication": "2026-07-02",
+      "publication": "2026-07-03",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/455983-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/456990-2026",
       "segment": "Autre",
       "keyword_hits": [
         "habilitation"
@@ -722,45 +655,6 @@
         "com": 5,
         "admin": 7,
         "delay": 3
-      },
-      "score_status": "no",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "26-73486",
-      "ref": "26-73486",
-      "acheteur": "Centre hospitalier du Mans",
-      "objet": "Logiciel de Réservation des Salles & Matériels POUR LE POLE REGIONAL D'EXCELLENCE",
-      "description": "Logiciel de Réservation des Salles & Matériels POUR LE POLE REGIONAL D'EXCELLENCE",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-09-08",
-      "montant": 150,
-      "publication": "2026-07-23",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-73486",
-      "_boamp": {
-        "famille": "Marchés entre 90 k€ et seuils européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Logiciel"
-        ],
-        "departement": "72"
-      },
-      "segment": "FPH",
-      "keyword_hits": [
-        "Excel"
-      ],
-      "score": 49,
-      "score_detail": {
-        "fit": 10,
-        "size": 10,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
       },
       "score_status": "no",
       "notes": "",

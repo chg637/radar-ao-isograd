@@ -1,0 +1,602 @@
+{
+  "generated_at": "2026-08-03T09:33:08.682Z",
+  "source": "TED",
+  "window_days": 30,
+  "total_fetched": 500,
+  "total_matched": 19,
+  "total_go": 0,
+  "notices": [
+    {
+      "id": "468112-2026",
+      "ref": "468112-2026",
+      "acheteur": "GRDF",
+      "objet": "France – Services de conseil en systèmes informatiques – AMOA AMOE développeur SAP",
+      "description": "La Direction des Systèmes d'Information de GRDF dispose actuellement de plusieurs contrats d'assistance à maîtrise d'ouvrage (AMOA) et d'assistance à maîtrise d'œuvre (AMOE) relatifs à l'environnement SAP ISU, arrivant à échéance. Ces prestations contribuent au maintien en condition opérationnelle, à la maintenance évolutive et corrective ainsi qu'à la transformation du SI OMEGA, système critique au cœur des activités de GRDF. La présente consultation a pour objet le renouvellement de ces prestations afin d'assurer la continuité des activités, de sécuriser les compétences SAP ISU et de permettre la réalisation des projets d'évolution du système d'information. Le marché vise à mettre à disposition de GRDF des profils experts AMOA et AMOE intervenant sur les technologies SAP ISU afin de couvrir notamment les activités suivantes : pilotage fonctionnel et technique, recueil et analyse des besoins, rédaction des spécifications, accompagnement des métiers, conception, développement, paramétrage, recette, gestion des incidents et support aux utilisateurs. Les prestations attendues devront permettre : d'assurer le maintien en condition opérationnelle des applications SAP ISU ; de réaliser les évolutions fonctionnelles et techniques du SI ; d'accompagner les projets de transformation et de modernisation du système d'information ; de garantir la qualité de service, la fiabilité des données et la continuité des opérations ; de renforcer les capacités de pilotage et d'expertise de la DSI sur les domaines SAP concernés. Le titulaire interviendra sous la forme de prestations d'assistance à maîtrise d'ouvrage et/ou d'assistance à maîtrise d'œuvre réalisées en étroite collaboration avec les équipes GRDF. Le présent lot (LOT 1) concerne : Lot 1 : Prestations d'Assistance à Maîtrise d'Ouvrage (AMOA) SAP ISU ; Merci de joindre impérativement à votre dossier de candidature les documents listés ci-dessous. Ils doivent être fournis par le candidat et par chaque membre du groupement en cas de candidature groupée : A01 : Formulaire DC1 ou lettre de candidature. En cas de candidature groupée, chaque membre du groupement renseigne le formulaire DC1, et produit les renseignements ou documents demandés par l’acheteur. A02 : Formulaire DC2, comportant l’ensemble des renseignements et documents demandés au titre des sections. En cas d’allotissement, ce document doit être fourni pour chacun des lots de la consultation. En cas de candidature groupée, il est fourni par chaque membre du groupement. A03 : Les pouvoirs habilitant le signataire à engager le candidat individuel ou chaque membre du groupement (pouvoir d’engagement). A04 : Attestation de régularité fiscale. A05 : Attestations de régularité sociale. A06 : Attestation d’assurance de responsabilité civile professionnelle, couvrant les activités professionnelles en rapport avec l’objet de la consultation. (Attestation RC). A07 : Immatriculation (Numéro SIREN). A08 : Liasses fiscales des 3 derniers exercices. A09 : Attestation de non-condamnation. A10 : DUME (Si pas de DC1/DC2). A11 : Références A12 : Copie du jugement d’ouverture du redressement judiciaire et du plan de continuité d’activité, si le candidat fait l’objet d’une telle procédure, A13 : Le cadre de réponse « 26-DA-PROC14129_cadre de réponse de candidature » dument remplie au format word. Merci de respecter la numérotation « A01, A02, … » dans le nom des documents fournis. A13b : Le fichier de réponse nommé 26-DA-PROC14129-REPONSE TECHNIQUE_NOMSOCIETE_LOT1OU2 La phase dites RFI sera noté via ces critères : 1- Les capacités techniques et professionnelles, à développer en Point E du présent dossier de demande de participation (pondération 80%). Moyens humains de l’entreprise en lien avec l’objet du marché Pondération 35% Moyen technique de l'entreprise en lien avec l'objet du marché Pondération 35% Qualité et pertinence de 3 références datant de moins de 3 ans, en lien avec l’objet du marché concerné. Pondération 30% 2- Les capacités économiques et financières, à compléter au Point D du présent dossier de demande de participation (pondération 20%). Ces capacités seront appréciées au regard des capacités financières dont dispose le candidat pour assurer la bonne et complète exécution de l'objet du présent avis de marché : Evolution du Ratio EBITDA sur le Chiffre d’affaires sur les derniers exercices (2024/2023/2022) Pondération 35% Evolution du cash-flow opérationnel sur les 3 dernières exercices. (2024/2023/2022) Pondération 30% Evolution du taux d’endettement sur les 3 derniers exercices. (2024/2023/2022) Pondération 35% / La Direction des Systèmes d'Information de GRDF dispose actuellement de plusieurs contrats d'assistance à maîtrise d'ouvrage (AMOA) et d'assistance à maîtrise d'œuvre (AMOE) relatifs à l'environnement SAP ISU, arrivant à échéance. Ces prestations contribuent au maintien en condition opérationnelle, à la maintenance évolutive et corrective ainsi qu'à la transformation du SI OMEGA, système critique au cœur des activités de GRDF. La présente consultation a pour objet le renouvellement de ces prestations afin d'assurer la continuité des activités, de sécuriser les compétences SAP ISU et de permettre la réalisation des projets d'évolution du système d'information. Le marché vise à mettre à disposition de GRDF des profils experts AMOA et AMOE intervenant sur les technologies SAP ISU afin de couvrir notamment les activités suivantes : pilotage fonctionnel et technique, recueil et analyse des besoins, rédaction des spécifications, accompagnement des métiers, conception, développement, paramétrage, recette, gestion des incidents et support aux utilisateurs. Les prestations attendues devront permettre : d'assurer le maintien en condition opérationnelle des applications SAP ISU ; de réaliser les évolutions fonctionnelles et techniques du SI ; d'accompagner les projets de transformation et de modernisation du système d'information ; de garantir la qualité de service, la fiabilité des données et la continuité des opérations ; de renforcer les capacités de pilotage et d'expertise de la DSI sur les domaines SAP concernés. Le titulaire interviendra sous la forme de prestations d'assistance à maîtrise d'ouvrage et/ou d'assistance à maîtrise d'œuvre réalisées en étroite collaboration avec les équipes GRDF. Le présent lot (LOT 2) concerne : Lot 2 : Prestations d'Assistance à Maîtrise d'Œuvre (AMOE) et Développement SAP ISU. Merci de joindre impérativement à votre dossier de candidature les documents listés ci-dessous. Ils doivent être fournis par le candidat et par chaque membre du groupement en cas de candidature groupée : A01 : Formulaire DC1 ou lettre de candidature. En cas de candidature groupée, chaque membre du groupement renseigne le formulaire DC1, et produit les renseignements ou documents demandés par l’acheteur. A02 : Formulaire DC2, comportant l’ensemble des renseignements et documents demandés au titre des sections. En cas d’allotissement, ce document doit être fourni pour chacun des lots de la consultation. En cas de candidature groupée, il est fourni par chaque membre du groupement. A03 : Les pouvoirs habilitant le signataire à engager le candidat individuel ou chaque membre du groupement (pouvoir d’engagement). A04 : Attestation de régularité fiscale. A05 : Attestations de régularité sociale. A06 : Attestation d’assurance de responsabilité civile professionnelle, couvrant les activités professionnelles en rapport avec l’objet de la consultation. (Attestation RC). A07 : Immatriculation (Numéro SIREN). A08 : Liasses fiscales des 3 derniers exercices. A09 : Attestation de non-condamnation. A10 : DUME (Si pas de DC1/DC2). A11 : Références A12 : Copie du jugement d’ouverture du redressement judiciaire et du plan de continuité d’activité, si le candidat fait l’objet d’une telle procédure, A13 : Le cadre de réponse « 26-DA-PROC14129_cadre de réponse de candidature » dument remplie au format word. Merci de respecter la numérotation « A01, A02, … » dans le nom des documents fournis. A13b : Le fichier de réponse nommé 26-DA-PROC14129-REPONSE TECHNIQUE_NOMSOCIETE_LOT1OU2 La phase dites RFI sera noté via ces critères : 1- Les capacités techniques et professionnelles, à développer en Point E du présent dossier de demande de participation (pondération 80%). Moyens humains de l’entreprise en lien avec l’objet du marché Pondération 35% Moyen technique de l'entreprise en lien avec l'objet du marché Pondération 35% Qualité et pertinence de 3 références datant de moins de 3 ans, en lien avec l’objet du marché concerné. Pondération 30% 2- Les capacités économiques et financières, à compléter au Point D du présent dossier de demande de participation (pondération 20%). Ces capacités seront appréciées au regard des capacités financières dont dispose le candidat pour assurer la bonne et complète exécution de l'objet du présent avis de marché : Evolution du Ratio EBITDA sur le Chiffre d’affaires sur les derniers exercices (2024/2023/2022) Pondération 35% Evolution du cash-flow opérationnel sur les 3 dernières exercices. (2024/2023/2022) Pondération 30% Evolution du taux d’endettement sur les 3 derniers exercices. (2024/2023/2022) Pondération 35%",
+      "cpv": "72246000",
+      "pays": "FRA",
+      "deadline": "",
+      "montant": 14500,
+      "publication": "2026-07-07",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/468112-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "480167-2026",
+      "ref": "480167-2026",
+      "acheteur": "Stichting Lokaal en Internationaal Funderend Onderwijs (SILFO)",
+      "objet": "Pays-Bas – Services d'implémentation de logiciels – Europese aanbesteding selectie Implementatiepartner AFAS28",
+      "description": "Stichting Onderwijsgroep Oost-Brabant is penvoerder voor een Europese aanbesteding volgens de openbare procedure voor de opdracht Implementatiepartner AFAS28. De opdracht ziet op het contracteren van één AFAS-implementatiepartner voor de fusieorganisatie van Secvo, Silfo en OGOB. De opdracht omvat het inrichten van AFAS volgens Best Practices, gegevensmigratie uit de bestaande drie AFAS-systemen naar AFAS28, het inrichten van koppelingen met omliggende applicaties, training van gebruikers en advisering bij het inrichten van de beheerorganisatie. AFAS28 dient per 1 januari 2028 in bedrijf te zijn. Fase 2 eindigt uiterlijk op 30 juni 2028. Inschrijvingen dienen uitsluitend digitaal via het aanbestedingsplatform te worden ingediend. De aanbestedingsstukken, waaronder het Beschrijvend document en de bijlagen, zijn leidend.",
+      "cpv": "72263000",
+      "pays": "NLD",
+      "deadline": "2026-09-28",
+      "montant": 415,
+      "publication": "2026-07-13",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/480167-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "480664-2026",
+      "ref": "480664-2026",
+      "acheteur": "Veiligheidsregio Gelderland-Zuid",
+      "objet": "Pays-Bas – Services relatifs aux logiciels – Vrijwillige transparantie t.b.v. AI in de meldkamer RAV",
+      "description": "Veiligheidsregio Gelderland Zuid (VRGZ), Veiligheids- en Gezondheidsregio Gelderland Midden (VGGM) en RAV Noord- en Oost Gelderland (NOG) schaffen gezamenlijk de Seconds-software van Timelab aan. Deze applicatie ondersteunt centralisten op de meldkamer bij het uitgifte- en positioneringsproces van ambulances. Het systeem adviseert welke ambulance het meest optimaal naar een incident gestuurd kan worden en positioneert ambulances proactief op basis van een voorspellend AI-model. Hierbij worden meerdere databronnen gelijktijdig verwerkt: historische ritdata, actuele verkeersinformatie, weersomstandigheden, voertuigbeschikbaarheid en personeelsplanning. De drie regio's verzorgen samen jaarlijks circa 148.000 ambulance-inzetten. De software vervangt handmatige besluitvorming door datagedreven ondersteuning, wat leidt tot kortere responstijden en minder cognitieve belasting voor centralisten. De initiële overeenkomst heeft een looptijd van één jaar, met drie eenzijdige verlengingsopties van De opdracht betreft een overeenkomst met een initiële looptijd van één jaar, met de mogelijkheid tot driemaal eenzijdige verlenging van elk één jaar, wat resulteert in een maximale looptijd van vier jaar. De geschatte jaarlijkse licentiekosten bedragen 60.500 euro voor VRGZ, 77.000 euro voor VGGM en 106.000 euro voor RAV NOG. Daarnaast wordt eenmalig 30.000 euro geraamd voor de gezamenlijke implementatie van de software in de drie regio's. De geschatte totale contractwaarde over de maximale looptijd bedraagt 1.010.000 euro.",
+      "cpv": "72260000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 1010,
+      "publication": "2026-07-13",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/480664-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "465810-2026",
+      "ref": "465810-2026",
+      "acheteur": "Provincie Drenthe",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – ICT - beheer Drents Museum",
+      "description": "Het Drents Museum wil het beheer van de ICT-omgevingen opnieuw aanbesteden en onderbrengen bij één leverancier. De leverancier beheert de omgevingen, biedt daarnaast ondersteuning bij technische en functionele aanpassingen en heeft voldoende kennis beschikbaar om kwaliteit, veiligheid, continuïteit, innovatie en toekomstvastheid van de ICT-omgevingen te borgen. Op grond van artikel 2.57a van de Aanbestedingswet 2012 worden enkele documenten niet openbaar gepubliceerd via TenderNed/Mercell. Openbaarmaking van deze documenten zou de beveiliging van de ICT omgeving, de openbare orde of de bedrijfscontinuïteit van het Drents Museum kunnen schaden. Het betreft documenten met informatie waarvan ongecontroleerde verspreiding risico’s met zich meebrengt. De volgende bijlagen worden daarom niet openbaar gepubliceerd en uitsluitend op verzoek beschikbaar gesteld via de berichtenmodule in Mercell: • Bijlage 1 – Programma van Eisen • Bijlage 8 – Beschrijving huidige situatie • Bijlage 9 – Eerstelijns werkzaamheden • Bijlage 10 – Inventarisatie applicaties • Bijlage 11 – SLA ICT beheer Drents Museum Iedere kandidaat-inschrijver kan een verzoek tot inzage indienen en ontvangt, na verificatie van de aanmelding, op gelijke wijze toegang tot dezelfde documenten. De documenten worden onder vertrouwelijkheid verstrekt en mogen niet verder worden verspreid.",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 625,
+      "publication": "2026-07-07",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/465810-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "477781-2026",
+      "ref": "477781-2026",
+      "acheteur": "Hessische Hochschule für öffentliches Management und Sicherheit",
+      "objet": "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Beschaffung einer SLM-Software",
+      "description": "Beschaffungsgegenstand sind neben der Software insbesondere verschiedenartige Dienstleistungen (Wartung, Pflege, Entwicklungs- und Anpassungsleistungen). Es handelt sich nicht um ein Standardsoftwareprodukt, sondern um eine Individualsoftware, die auf die spezifischen Anforderungen des Auftraggebers zugeschnitten wurde. Es sind umfangreiche Entwicklungs- und Anpassungsleistungen vorgenommen worden.",
+      "cpv": "72000000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 640,
+      "publication": "2026-07-10",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/477781-2026",
+      "segment": "FPH",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "464239-2026",
+      "ref": "464239-2026",
+      "acheteur": "Diamant-groep",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Softwarebroker",
+      "description": "Softwarebroker De geschatte opdrachtwaarde bedraagt gemiddeld circa € 600.000,00 excl. BTW per jaar. Dit is echter wel een indicatie. Hier kunnen dan ook geen rechten aan ontleend worden.",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "2026-09-30",
+      "montant": 0,
+      "publication": "2026-07-06",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/464239-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 67,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "465853-2026",
+      "ref": "465853-2026",
+      "acheteur": "Stichting ROC Midden Nederland",
+      "objet": "Pays-Bas – Services de programmation de progiciels – Aankondiging van vrijwillige transparantie vooraf geïntegreerd softwarepakket e-HRM en Finance",
+      "description": "ROC MN is op zoek naar een op elkaar afgestemde oplossing voor de Financiële- en HRM administratie waarbij het volgende gerealiseerd dient te worden: • Financiële administratie o Integratie met andere modules zoals Human Resource Management (HRM), Payroll en Materiële vaste activa (MVA). o Mogelijkheden voor koppeling met andere systemen zoals het Gegevens Uitwisselings Platform (= GUP, het Operationele Data Store-systeem van ROCMN), Spend Cloud (voor processen van bestellen tot betalen en contractbeheer), EduArte (studenten informatiesysteem) en SURFConext (voor ‘single sign on’ inloggen). o Rapportagemogelijkheden voor financiële analyses en budgettering. o Geautomatiseerde terugkerende financiële processen. o Ondersteunen van meerdere verbijzonderingsdimensies (en vrije velden). o Mogelijkheid tot exporteren naar Excel vanuit de hoofdfunctionaliteiten (grootboekadministratie inclusief grootboek en alle dimensies). o UBD Aangifte (IB47) aanmaken, controleren en rechtstreeks doorsturen naar de Belastingdienst. o Voldoen aan de laatste (fiscale) wet- en regelgeving. • HRM o Intuïtieve gebruikersinterface met een zelfservice-optie voor zowel medewerkers) als managers om zelf gegevens te beheren en aanvragen in te dienen. o Tools voor prestatiebeoordelingen en talentontwikkeling. o Mogelijkheid tot exporteren naar Excel vanuit de hoofdfunctionaliteiten. o Voldoen aan (laatste) arbeidswetgeving en privacyregels. o Automatisch doorsturen van de verschillende wettelijke HRM-gerelateerde aangiftes, zoals loonheffing, pensioen, etc. o Dashboardmogelijkheden voor HRM-gerelateerde analyses, zoals verzuim en de wettelijk verplichte CO2-registratie. o Mogelijkheden voor koppeling met andere systemen zoals StudyTube (een leerplatform voor medewerkers), Applicant Tracking System (ATS), arbodienst, etc. o Automatische installering van cao-updates, nieuwe versies, patches en wettelijke wijzigingen. • Payroll o Betrouwbare en nauwkeurige salarisverwerking. o Gedetailleerde salarisrapportages en analyses o Koppeling met HRM-systeem en Financiële administratie. o Geautomatiseerde controles als gevolg van fiscale en arbeidsrechtelijke verplichtingen. o Voldoen aan fiscale en arbeidsrechtelijke verplichtingen. • CRM o Effectief beheer van relaties met studenten, medewerkers en externe partners. o Koppeling met andere modules zoals HRM en Projecten. o Inzicht in klantgedrag en -behoeften. o Dossiervastlegging, inclusief vastlegging van dossier gekoppeld vanuit declaraties modules van intern personeel en externen. • Workflows en AI o Automatiseren van administratieve processen en workflows, inclusief ingerichte goedkeuringsworkflows. o Integratie met andere modules, zoals Human Resource Management (HRM), Payroll en Materiële vaste activa (MVA). • Dashboards o Realtime inzicht in belangrijke prestatie-indicatoren. o Mogelijkheid om dashboards aan te passen aan de behoeften van verschillende gebruikers. o Eenvoudige navigatie en visualisatie van gegevens. • Documentenbeheer o Veilige opslag en beheer van documenten. o Gemakkelijke toegang tot documenten voor bevoegde gebruikers. o Koppeling met andere modules zoals HRM en Projecten. o Voldoen aan regelgeving omtrent gegevensbescherming. • Projecten o Tools voor projectplanning en -beheer. o Gedetailleerde projectrapportages en voortgangsanalyses. o Koppeling met financiële en HRM-systemen. o Faciliteren van samenwerking tussen projectteams. • Organisatiestructuur o Duidelijke visualisatie van de organisatiestructuur. o Eenvoudig beheer en bijwerken van het organigram. o Koppeling met HRM-systemen voor actuele gegevens. o Intuïtieve interface voor het beheren van de organisatiestructuur. Op basis van de uitgaven in voorgaande 4 jaren verwachten wij een omvang van de opdracht van € 650k inclusief BTW.",
+      "cpv": "72210000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-07-07",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/465853-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Excel",
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 67,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 14,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "470900-2026",
+      "ref": "470900-2026",
+      "acheteur": "Vrije Universiteit Brussel",
+      "objet": "Belgique – Services de développement de logiciels de gestion d'internet et d'intranet – Raamovereenkomst ter configuratie en ondersteuning van een nieuwe intranet-omgeving voor personeel, studenten en PhD-studenten",
+      "description": "De huidige intranet-omgeving op basis van MS SharePoint wordt midden 2027 niet langer ondersteund. De huidige leverancier bood op basis van Microsoft-technologie een eigen configuratiepakket. Deze leverancier stopt hiermee. We moeten een vernieuwde configuratie realiseren met een nieuw te selecteren leverancier. De opdracht omvat de realisatie en ondersteuning van de intranetomgeving gedurende de volledige looptijd van de raamovereenkomst, zoals bepaald in artikel II.7.",
+      "cpv": "72212220",
+      "pays": "BEL",
+      "deadline": "2026-09-04",
+      "montant": 0,
+      "publication": "2026-07-08",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/470900-2026",
+      "segment": "ESR",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 67,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "485195-2026",
+      "ref": "485195-2026",
+      "acheteur": "Ministerium für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz des Landes Brandenburg",
+      "objet": "Allemagne – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Projektmanagement für Leistungen zur Umsetzung des Maßnahmenplans des Landesniedrigwasserkonzeptes 2.0",
+      "description": "Die Leistung setzt sich insbesondere aus folgenden Punkten zusammen: 1) Projektmanagement Das Projektmanagement, steuert und koordiniert aktiv die nachfolgend unter Punkt 2 und ggf. 3 genannten Leistungen über die gesamte Vertragslaufzeit. 2) Weiterführung Flussgebietsarbeit Durch eine intensive Kommunikation des Themas \"Niedrigwasser\" konnte eine breite Aufmerksamkeit und ein Problembewusstsein bei allen lokalen Akteuren erzeugt werden. Die Entscheidungsträger (Wasser-, Naturschutz- und tlw. Landwirtschaftsbehörden der Landkreise / kreisfreien Städte, LfU, einschließlich Großschutzgebiete), die das Wassermanagement operativ steuernden GUV und ggf. weitere Institutionen (Naturschutzverbände, Landschaftspflegeverbände, Natura2000-Teams, VLF, Kommunen, engagierte Einzelpersonen usw.) sind involviert und arbeiten unterschiedlich intensiv an der Thematik mit. 3) Erarbeitung flussgebietsbezogener Bewirtschaftungskonzepte Die sich in der Ideenphase befindlichen 16 Konzepte (Phase 1 und 2) sind gemeinsam mit den Trägern bis zur Antragsreife (Richtlinie LWH) zu entwickeln und die Antragstellung bei der ILB zu begleiten. Weitere mindestes 10 Konzepte sollen - eine erfolgreiche Antragstellung und Mittelverfügbarkeit vorausgesetzt - bei der Bearbeitung begleitet werden. Es bestehen bisher nicht weiterverfolgte weitere Ideen der Akteure zu potenziellen Bewirtschaftungs- bzw. Staukonzepten in allen Flussgebieten tlw. auch von Seiten des LfU für Gewässer 1. Ordnung. Aufgrund einer derzeit nicht genau bekannten Anzahl o.g. Ideen ist die Leistung für 10 Konzepte anzubieten. 4) Qualifizierung und Weiterentwicklung LWH-Vorhaben und Leuchttürmen Mit LWH-Vorhaben sind Vorhaben gemeint, die den Fördergegenständen der Richtlinien LWH (GAK und ELER) des MLEUV entsprechen und die von den Antragstellern zur Förderung aus Drittmitteln vorgesehen sind. Entwicklung von Projekten aus Initiierungsphase (50) bis zu antragsreifer Projektskizze. Entwicklung fortgeschrittene Projekte (100) bis zu antragsreifer Projektskizze . Begleitung abgeschlossener (20) Projekte Begleitung der laufenden Leuchtturmprojekte Initiiierung von neuen Leuchtturmprojekte (z.B. Dränagen) 5) Fachübergreifende Anforderungen Im Rahmen des Erstauftrages wurden bereits diverse fachübergreifende Treffen, Gespräche etc. initiiert und ausgewertet). Diese sog. fachübergreifenden Gespräche mit Akteuren z.B. der Landwirtschaft, des Naturschutzes, der Forst, der Flurneuordnung sowie der Landes- und Regionalplanung sollen federführend durch den Auftragnehmer weitergeführt und im Bereich Siedlungs- und Gewerbegebietsentwicklung / Bau- und Stadtplanung aufgegriffen werden. Vertieft werden soll der Themenbereich Schifffahrt und Wassertourismus hinsichtlich der Wasserbewirtschaftung und möglicher Handlungsspielräume und Entwicklungsperspektiven hin zur Klimaanpassung und zu einem verringerten Wasserdargebot. Im Zusammenhang mit dem Umbau eines Staubauwerkes wurde im Rahmen des Erstauftrages ein umfangreiches, modellgestütztes Werkzeug entwickelt, welches die Auswirkungen veränderter Stauhaltungen auf den Wasserrückhalt quantifiziert. Das Werkzeug erlaubt darüber hinaus eine grafische Darstellung der flächigen Auswirkungen veränderter Wasserstände oberhalb eines Staubauwerkes. Für das Werkzeug wurden vorhandene Modellansätze in die kommerzielle Rechensoftware MS Excel überführt. Ferner wurde eine Schnittstelle programmiert, die eine Darstellung der Ergebnisse in einem GIS-System erlaubt. Die Anwendung des sog. Excel-Tools (Anlage 5: Dokumentation) wurde sowohl durch das LfU als auch durch die NW-Koordinatoren für weitere Projekte in anderen Flussgebieten testweise durchgeführt. Es ist gewünscht, das Excel-Tool (oder ein vergleichbares Instrument) künftig als Werkzeug zur Folgenabschätzung und Visualisierung stärker systematisch einzubinden. 6) Verknüpfung mit dem Moorschutz Moorschutz und Wassermanagement sind inhaltlich eng verwoben, dementsprechend erfolgt MLEUV-intern eine enge organisatorisch-inhaltliche Abstimmung zur Thematik Moorschutz. Bei der Umsetzung des Landesniedrigwasserkonzeptes ist auch auf ein nachhaltiges Moorbodenmanagement zu setzen. Das Moorschutzprogramm Brandenburg bildet den Rahmen für alle Aktivitäten im Zusammenhang mit Mooren. Um eine Synchronisation der Ziele von Moorschutz und Niedrigwasservorsorge bei der Projektentwicklung vor Ort und insbesondere bei der Erarbeitung von Bewirtschaftungskonzepten zu gewährleisten, ist ein fachkundiger Ansprechpartner zu benennen. Dieser sammelt und koordiniert alle moorbezogenen Fragen, begleitet ggf. Ortstermine und steht als zentraler Ansprechpartner zur Verfügung. Die o.g. Flussgebietssteckbriefe sind in enger Zusammenarbeit mit dem LfU um ein Kapitel zum Moorschutz zu ergänzen. 7) Öffentlichkeitsarbeit Ziel des Leistungspunktes ist daher die Entwicklung einer zielgruppenorientierten Kommunikationsstrategie zur Unterstützung der Umsetzung des LNWK 2.0. Die Kommunikationsstrategie soll dazu beitragen, Verständnis, Akzeptanz und Mitwirkung zentraler Akteure bei Maßnahmen der Niedrigwasservorsorge und der -bewältigung zu stärken. Dabei sollen insbesondere Informationsbedarfe, Entscheidungsstrukturen und mögliche Hemmnisse in den relevanten Zielgruppen berücksichtigt werden. Auf Basis der strategischen Konzeption sollen geeignete Kommunikationsmaßnahmen entwickelt, priorisiert und in einem Umsetzungsplan dargestellt werden. Optionale Leistungen: 1) Verbindung wasserbaulicher Maßnahmen mit Agrar-, Umwelt- und Klimamaßnahmen (AUKM) 2) Durchführung ausgewählter Maßnahmen des im Rahmen der Öffentlichkeitsarbeit entwickelten Umsetzungsplanes aus Nr. 7) Im Detail siehe Vergabeunterlagen Teil B - Leistungsbeschreibung Nr. 2 und 3.",
+      "cpv": "71000000",
+      "pays": "DEU",
+      "deadline": "2026-09-04",
+      "montant": 0,
+      "publication": "2026-07-14",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/485195-2026",
+      "segment": "FPH",
+      "keyword_hits": [
+        "Excel"
+      ],
+      "bureautique": true,
+      "score": 67,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "464555-2026",
+      "ref": "464555-2026",
+      "acheteur": "Société des grands projets",
+      "objet": "France – Services de conseil en analyse d'exploitation – Conseil au pilotage de la DSI de la SGP",
+      "description": "Les prestations attendues dans ce lot couvrent les réflexions concernant une vision long terme de l’organisation de la DSI afin d’en optimiser son pilotage et de maximiser la valeur des services fournis. Ces prestations ont le plus souvent pour origine des besoins exprimés au plus haut niveau de la SGP ou de ses tutelles mais peuvent être issues de réflexions au niveau de la DSI et de sa gouvernance. Ces commandes peuvent intervenir par exemple dans le cadre de la mise en place, de la refonte d’organisations, de la création d’une nouvelle entité, de la revue de mission/services ou de périmètre d’intervention, etc. Elles peuvent revêtir différentes formes, en fonction de la maturité de la réflexion. S’appuyant sur des faits orientés ou non, les prestations de conseil demandées apportent un éclairage au DSI en charge de la prise de décision. Elles contiennent notamment :  - La définition fine des enjeux et du niveau d’ambition du sujet, intégrant le cas échéant des scénarii alternatifs ;  - La définition de scénarios de gouvernance, intégrant notamment l’analyse des impacts sur l’organisation de la DSI, à divers horizons de temps ;  - La qualification de l’ensemble des moyens nécessaires, humains, techniques et financiers, à la mise en œuvre des scénarios et du niveau d’effort requis pour chaque scénario (ex : communication et accompagnement, moyens techniques, prérequis juridiques, impacts organisationnels, impacts sur les métiers et les modes de fonctionnement, besoins d’accompagnement technique et humain) ; - L’identification des facteurs clefs de succès de mise en œuvre, des risques associés ou interdépendances / zones d’adhérence et des modalités de suivi (indicateurs de performance et de résultats) ; - La préparation de l’exécution, notamment par la fourniture d’une feuille de route intégrant les différentes dimensions du projet. Cette feuille de route doit permettre la prise de décisions stratégiques ; - Le pilotage et la préparation à la prise de décision, notamment par la production de tout support de synthèse adapté à la prise de décision (présentations, tableurs ou tout autre support équivalent). / Ce lot est destiné à traduire de façon opérationnelle un changement ou une évolution déjà définie par la DSI de la SGP, fixer les objectifs associés, définir un chemin pour y parvenir, évaluer le dimensionnement, le coût, l’impact prévisionnel, préparer le démarrage du projet et accompagner son déploiement. Chaque prestation intègre le champ de contraintes propres aux organisations concernées par le projet en association avec les parties prenantes. / Ce lot a pour objet la réalisation d’audits pouvant porter sur les différents domaines couverts par la DSI de la SGP, hors audits de sécurité et audits techniques. Plusieurs types d’audits opérationnels sont envisagés : - Audits portant sur un processus ou un ensemble de processus ; - Audits portant sur tout ou partie d’un projet ; - Audits portant sur tout ou partie d’un document ; - Audits portant sur tout ou partie d’un outillage. / Ce lot a vocation à soutenir les actions d’accompagnement au changement menées par la DSI de la SGP. L’objectif est d’optimiser l’information et l’adhésion de la SGP et ses partenaires aux applications et processus de la DSI en recourant, notamment, à une méthodologie d’ingénierie, itérative et innovante intitulée MAC (Modèle d’Accompagnement au Changement). A ce titre, la finalité est d’accompagner les opérations d’optimisation ou de mise en place de nouveaux processus de travail, outils, gouvernance, politiques ou chartes. Ces processus peuvent être des processus opérationnels relatifs à la délivrance des services de la DSI à la SGP ou s’attacher à des dispositifs de Pilotage de la Direction. Les prestations attendues couvrent l’ensemble des phases d’analyse, de conception et de mise en œuvre de la stratégie d’accompagnement du changement.",
+      "cpv": "72221000",
+      "pays": "FRA",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-07-06",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/464555-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "tableur"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "460867-2026",
+      "ref": "460867-2026",
+      "acheteur": "REGION BOURGOGNE-FRANCHE-COMTE",
+      "objet": "France – Services de formation – PPSMJ 2027",
+      "description": "Une action de formation certifiante dans le domaine du bâtiment second œuvre - travaux de finitions - maintenance des bâtiments. 300 h réalisées par l'OF. - Validation totale ou partielle d'un titre, diplôme ou certificat, - Certification Sauveteur Secouriste du Travail (SST), - Habilitation échafaudage - sensibilisation aux travaux en hauteur et aux règles de sécurité. / Une action de formation certifiante dans le domaine du nettoyage industriel / propreté et hygiène des locaux. 240 h réalisées par l'OF. - Validation totale ou partielle d'un titre, diplôme ou certificat, - Certification Sauveteur Secouriste du Travail (SST). / Une action de formation certifiante dans le domaine de la cuisine / restauration collective. 504 h réalisées par l'OF. 12 h découverte métier à l'extérieur, pour les personnes permissionnables. 28 h de stage en entreprise, pour les personnes permissionnables. - Validation totale ou partielle d'un titre, diplôme ou certificat, - Certification Sauveteur Secouriste du Travail (SST). - Attestation de formation spécifique en Hygiène alimentaire adaptée à l’activité des établissements de restauration commerciale / Une action de formation certifiante dans le domaine de la logistique. 252 h réalisées par l'OF. - Validation totale ou partielle d'un titre, diplôme ou certificat, - Certification Sauveteur Secouriste du Travail (SST). - CACES R489 catégories 1B, 3 et 5. Les validations des CACES R489 catégories 1B, 3 et 5 devront se faire à l'extérieur de l'établissement pénitentiaire. / Une action de formation certifiante dans le domaine du commerce et de la vente. 270 h réalisées par l'OF. 30 h animées par l'ULE (Unité Locale Enseignement). 35 h de stage en entreprise, pour les personnes permissionnables. - Validation totale ou partielle d'un titre, diplôme ou certificat, - Certification Sauveteur Secouriste du Travail (SST). / Une action de formation préqualifiante dans le domaine du second œuvre - travaux de finitions du bâtiment, permettant l'acquisition du socle de connaissances et de compétences professionnelles. 250 h réalisées par l'OF. 40 h réalisées par l'ULE (Unité Locale Enseignement). - Validation totale ou partielle de la certification CléA - Certification Sauveteur Secouriste du Travail (SST). / Une action de formation dans le domaine de la logistique.Cette action pourra donner lieu à une certification dans le domaine de la logistique. 180 h réalisées par l'OF. 35 h de stage en entreprise, pour les personnes permissionnables. - Certification Sauveteur Secouriste du Travail (SST). - CACES R489 catégories 1B et 3. Les validations des CACES R489 catégories 1B et 3 devront se faire à l'extérieur de l'établissement pénitentiaire. / Une action de formation certifiante dans le domaine du nettoyage industriel / propreté et hygiène des locaux. 240 h réalisées par l'OF. 40 h réalisées par l'ULE (Unité Locale Enseignement). - Validation totale ou partielle d'un titre, diplôme ou certificat, - Certification Sauveteur Secouriste du Travail (SST). / Une action de formation certifiante, à raison de 2 sessions dans l'année, visant une validation du socle de connaissances et de compétences professionnelles. 130 h réalisées par l'OF. 100 h réalisées par l'ULE (Unité Locale Enseignement). 9 h de co-intervention OF + ULE en présence des stagiaires - Validation totale ou partielle de la certification CléA, - Certification Sauveteur Secouriste du Travail (SST). / Une action de formation dans le domaine des espaces verts. Cette action pourra permettre d'obtenir une certification technique associée au métier. 300 h réalisées par l'OF. 50 h réalisées par l'ULE (Unité Locale Enseignement). - Certification Sauveteur Secouriste du Travail (SST). / Une action de formation certifiante visant une validation du socle de connaissances et de compétences professionnelles. 224 h réalisées par l'OF, dont 24 h en sous-groupe dans le cadre de mises en œuvre techniques. - Validation totale ou partielle de la certification CléA, - Certification Sauveteur Secouriste du Travail (SST). / Une action de formation certifiante dans le domaine du nettoyage industriel / propreté et hygiène des locaux. 250 h réalisées par l'OF. 50 h réalisées par l'ULE (Unité Locale Enseignement). - Validation totale ou partielle de blocs de compétences, titre, diplôme ou certificat, - Certification Sauveteur Secouriste du Travail (SST). / Une action de formation certifiante dans le domaine de la cuisine / restauration collective. 504 h réalisées par l'OF. - Validation totale ou partielle de blocs de compétences, titre, diplôme ou certificat, - Attestation de formation spécifique en hygiène alimentaire adaptée à l’activité des établissements de restauration commerciale. - Certification Sauveteur Secouriste du Travail (SST).",
+      "cpv": "80500000",
+      "pays": "FRA",
+      "deadline": "2026-09-11",
+      "montant": 0,
+      "publication": "2026-07-06",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/460867-2026",
+      "segment": "Collectivités",
+      "keyword_hits": [
+        "habilitation"
+      ],
+      "bureautique": false,
+      "score": 62,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "462484-2026",
+      "ref": "462484-2026",
+      "acheteur": "Goethe-Institut e.V. - Zentrale",
+      "objet": "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Leistungen im Bereich Internet des Goethe-Institut e.V.",
+      "description": "Leistungsumfang - Iteratives Testing von Designs, Funktionalitäten, Templates und Outputtypes im Test-, Produktiv-System und online hinsichtlich Darstellungsfehlern, Abhängigkeiten, Funktionalität, Abweichungen zum Entwurfsstand sowie Barrierefreiheit - Testing der Darstellung auf verschiedenen Screengrößen (Desktop, Tablet, Tablet Landscape, Mobil) - Testing von Design- und HTML-Prototypen hinsichtlich der Einhaltung des Corporate Designs, UX-Prinzipien, Barrierefreiheit sowie Grobeinschätzung der Umsetzbarkeit (derzeit Figma) - Erstellung, Pflege und Nachhalten von Testdokumentationen im Tool des Auftraggebers (derzeit Confluence) - Kommunikation und Ticketbearbeitung im Ticketsystem des Auftraggebers (derzeit JIRA) - Erstellung und Durchführung von Tests zur Reproduktion, Einordnung und Weitergabe von Bugs und Begleitung der Bugbeseitigung - Formale Qualitätssicherung und Konsolidierung von Templates und Outputtypes, Erfassung und Dokumentation der Verwendung von Templates, Outputtypes und Instanzvariablen - Durchführung von Rollouts neuer Templates und Funktionalitäten im CMS, inkl. Einholen und Anlegen von Übersetzungen, Terminabstimmung, Klärung von Sonderfällen sowie Erfassen und Pflege des Status in Statustabellen - Umstellung von Templates inkl. Anpassung von Instanzvariablen, Primärkategorien und Subobjekten, Optimierung des Seitenaufbaus, formale Qualitätssicherung und Überprüfung/ Korrektur von Verlinkungen und Weiterleitungen - Anlegen von Vorlagen und Demo-Seiten - Anlegen und Aktualisierung von Applikationen - Erstellung, Pflege und Aktualisierung von Anleitungen und Dokumentationen (z.B. innerhalb der Contens-Hilfe) - Vorbereitung und Durchführung von Schulungen und Webseminaren v.a. zum Thema Templates und Outputtypes - Einrichtung, Durchführung und Auswertung von unmoderierten UX-Tests und Umfragen sowie Reports zu Zugriffen und Nutzungsverhalten - Erstellung und Auswertung von Performance- und Core Web Vitals-Berichten sowie Ableitung von Handlungsempfehlungen - First-Level-Support der Redakteur*innen zu Templates im CMS - Korrespondenz und Rücksprache mit beauftragenden Personen sowie Abstimmung mit weiteren Beteiligten - Erstellung, Pflege und Aktualisierung von Webseiten per CMS, Anlegen neuer Inhalte (z.B. Artikel, Veranstaltungen, Teaser, Formulare, Newsletter) sowie der Einrichtung und Pflege von Webapplikationen und deren Parametern - Bild- und Videobearbeitung - Marktrecherche und Beratung / Leistungsumfang - CMS-Backend-Administration, z.B. Anlegen und Aktualisieren von Textbausteinen, Konfiguration und Dekonfiguration von Websites und Applikationen - Unterstützung im Bereich IT-Sicherheit (Testing von Websites und Applikationen mit gängigen Security Testing Tools) - Manuelles Testing von Webapplikationen und Webseiten - Testautomatisierung (Entwicklung, Pflege, Durchführung und Dokumentation von Software-Tests) - Performance- und Loadtesting - Monitoring von Webanwendungen - Administration Mailinglisten-Software, z.B. Anlegen von Listen, Änderung der Konfiguration - First-Level-Support Mailinglisten: Beantwortung von Nutzeranfragen zur Einschreibung, Einstellung der Mailingliste usw. - Programmierung von dynamischen Applikationen inkl. Datenbankanbindung - Implementierungsunterstützung zur Webanalyse (Anpassung Tracking-Code, Anpassung der Konfiguration)/ (technischer) Support - Überprüfung und Reproduktion von gemeldeten Fehlern und ggfs. Erstellung von Fehlerprotokollen als Grundlage zur Fehlerbehebung - Ticketbearbeitung (derzeit mit Jira) - Codeverwaltung mit GIT (derzeit mit Bitbucket) - Erstellung von Anleitungen und Dokumentationen (u.a. in Confluence) - Vorbereitung und Durchführung von Schulungen und Webseminaren v.a. zum Thema CMS - Erstellung und Pflege von Webseiten per CMS - Eingabe und Aktualisierung von Inhalten per CMS, z.B. Artikel, Veranstaltungen, Teaser, Formulare, Newsletter sowie der Einrichtung und Pflege von Webapplikationen und deren Parametern. - Formularmanagement: Einrichtung und Verwaltung von Formularen für Anmeldungen im Kontext der Kultur-, Informations- und Spracharbeit - Technischer Video-Support: Analyse von Fehlermeldungen, wenn Videos (und Audios) nicht korrekt ausgegeben werden, Fehlerbehebung/Umwandlung, Recherchen in Zusammenhang mit Video/Audio-Fragestellungen) - Bild- und Videobearbeitung - Marktrecherche und Beratung - First-Level-Support der Redakteur*innen zu CMS Contens und den eingesetzten Tools - Qualitätssicherung des Webauftritts inklusive Kommunikation mit den Auslandsinstituten / Leistungsumfang - Erstellung und Auswertung von Statistiken / Erstellung von Reports für Webanalyse und SEO/AIO (u.a. mittels Mapp, SEO/AIO-Tools auf Anfrage) - Reportaufbereitung (in Excel, aber auch zur Präsentation in Word und PowerPoint), Interpretation der Daten und Ableiten von Empfehlungen - Durchführung von Maßnahmen zur Optimierung des Webauftritts für Suchmaschinen/KI und zur Qualitätssicherung in Abstimmung mit dem SEO/AIO-Team und ggf. den betroffenen Goethe-Instituten (z.B. Qualitätssicherung der Google MyBusiness Auftritte, Anpassung von Textbausteinen und Inhalten im CMS Contens) - Pflege der Dokumentation der ausgeführten Maßnahmen - Backend-Administration des Webanalyse Tools Mapp, z.B. Konfiguration der Nutzer*innenprofile, Einrichtung und Anpassung von Reports und Analysen - redaktionelle Überarbeitung von Digitalangeboten im SEO/AIO-Kontext (Content und Meta-Daten) - Konfiguration des Crawlers, Durchführung von Crawls für Suchmaschinen- / AI- und Qualitätssicherung (z.B. mit ScreamingFrog) - Vorbereitung und Durchführung von Schulungen und Webseminaren v.a. zum Thema Webanalyse und Suchmaschinenoptimierung/AIO - Ticketbearbeitung mit Jira, Testing von Tickets im Kontext Webanalyse und SEO/AIO - Backend-Administration von Mindbreeze InSpire (Appliance, die die Suche für Goethe.de bereitstellt), z.B. Optimierung Suchergebnisse der On-Site-Suche, Erstellung Reports und Analysen - Erstellung und Pflege von Webseiten per CMS - Eingabe und Aktualisierung von Inhalten per CMS, z.B. Artikel, Veranstaltungen, URL-Objekte, Formulare, Newsletter sowie der Einrichtung und Pflege von Webapplikationen und deren Parametern. - Tests hinsichtlich der korrekten Darstellung auf Desktop und Mobil - Bild- und Videobearbeitung - Marktrecherche und Beratung - First Level Support der Redakteur*innen zu den Themen Webanalyse und Suchmaschinenoptimierung (SEO/AIO) - Qualitätssicherung des Webauftritts inklusive Kommunikation mit den Auslandsinstituten / Leistungsumfang - Durchführung von Restrukturierungsprojekten, Anpassung der Informationsarchitektur, Rollouts (Übernahme von einzelnen Webseiten oder Seitenclustern auf andere Websites, z.B. Länderportale) - Aufbau von Strukturprototypen im CMS - Pflege von Webseiten per CMS, Eingabe und Aktualisierung von Inhalten per CMS, z.B. Artikel, Veranstaltungen, Teasern, Formulare, Newsletter sowie der Einrichtung und Pflege von Webapplikationen und deren Parametern. - Beratung der Redakteur*innen für den optimalen technischen Einsatz von Templates, Objektklassen und Outputtypes - redaktionelle Überarbeitung von Digitalangeboten - Anpassung von interaktiven Website-Elementen (z.B. SVG-Karten) - Qualitätssicherung des Webauftritts inklusive Kommunikation mit den Instituten - Administration der Mailinglisten-Software z.B. Anlegen von Listen, Änderung der Konfiguration - First Level Support Mailinglisten Beantwortung von Nutzeranfragen zur Einschreibung, Einstellung der Mailingliste usw. - First Level Support der Redakteur*innen zu CMS Contens und den eingesetzten Tools - Tests einzelner CMS-Seiten hinsichtlich der korrekten Darstellung auf Desktop, Tablet und Mobil - Bild- und Videobearbeitung - Marktrecherche und Beratung - Vorbereitung und Durchführung von Schulungen und Webseminaren / Leistungsumfang - Umsetzung funktionaler Erweiterungen, Formate und Features für das Webangebot - CMS-Backend-Administration, z.B. Anlegen und Aktualisieren von Textbausteinen, Konfiguration von Newslettern, Konfiguration und Dekonfiguration von Websites usw. - Erstellung und Aktualisierung von Inhalten für die Contens-Hilfe/ die Systemdokumentation/ Anleitungen - Qualitätssicherung des Webauftritts inklusive Kommunikation mit den Auslandsinstituten - Qualitätssicherung von CMS-Komponenten - Durchführung von manuellem Testing von Webapplikationen und Webseiten - Verifikation von gemeldeten Fehlern und ggfs. Erstellung Fehlerprotokoll - Second Level Support für das CMS Contens - First und Second Level Support für das Kund*innenportal Mein Goethe.de (Beantwortung von Kund*innenanfragen, Administration) - Beratung zu Google-Diensten, z.B. Maps - Ticketbearbeitung mit Jira - Erstellung von Anleitungen und Dokumentationen (u.a. in Confluence) - Administration Mailinglisten-Software z.B. Anlegen von Listen, Änderung der Konfiguration - First Level Support Mailinglisten Beantwortung von Nutzeranfragen zur Einschreibung, Einstellung der Mailingliste usw. - Erstellung und Pflege von Webseiten per CMS - Erstellung von statistischen Auswertungen (z.B. Anfragen Websupport, Newsletter) - Eingabe und Aktualisierung von Webinhalten mittels CMS, z.B. Artikeln, Veranstaltungen, Teasern, Formularen und Newslettern sowie der Einrichtung und Pflege von Webapplikationen und deren Parametern. - Formularmanagement: Einrichtung und Verwaltung von Formularen für Anmeldungen im Kontext der Kultur-, Informations- und Spracharbeit - Tests hinsichtlich der korrekten Darstellung auf Desktop und Mobil - Bild- und Videobearbeitung - Marktrecherche und Beratung - First Level Support der Redakteur*innen zu CMS Contens und den eingesetzten Tools - Vorbereitung und Durchführung von Schulungen und Webseminaren / Leistungsumfang - First Level Support für CMS-Redakteur*innen: Unterstützung und Beratung bei technischen Fragen zum CMS Contens, inklusive Hinweis auf die entsprechenden Anleitungen in der CMS-Hilfe - Erstellung und Aktualisierung von Inhalten für die Contens-Hilfe/ die Systemdokumentation/ Anleitungen - Beratung für den optimalen technischen Einsatz von Templates, Objektklassen und Outputtypes - First und Second Level Support für den Einsatz weiterer Darstellungsformen (z.B. SVG-Karten) - Erstellung von statistischen Auswertungen (z.B. Anfragen Websupport, Newsletter) - Übernahme von einzelnen Webseiten oder Seitenclustern auf andere Websites, z.B. Länderportale - First Level Support bei Fragen zur Publikation von Online-Inhalten - Objekte zur Bearbeitung freigeben (Berechtigungen anpassen) - First Level Support zum Thema Newsletter (z.B. neue Kopiervorlage anlegen, Aufbau eines Newsletters, Versand) - First und Second Level Support für das Kund*innenportal Mein Goethe.de (Beantwortung von Kund*innenanfragen, Administration) - Shortcuts und Weiterleitungen einrichten oder ändern - Administration Mailinglisten-Software z.B. Anlegen von Listen, Änderung der Konfiguration - First Level Support Mailinglisten Beantwortung von Nutzeranfragen zur Einschreibung, Einstellung der Mailingliste usw. - Erstellung und Pflege von Webseiten per CMS - Eingabe und Aktualisierung von Inhalten per CMS, z.B. Artikel, Veranstaltungen, Formulare, Newsletter sowie der Einrichtung und Pflege von Webapplikationen und deren Parametern. - Formularmanagement: Einrichtung und Verwaltung von Formularen für Anmeldungen im Kontext der Kultur-, Informations- und Spracharbeit - Tests hinsichtlich der korrekten Darstellung auf Desktop und Mobil - Bild- und Videobearbeitung - Marktrecherche und Beratung - Qualitätssicherung des Webauftritts inklusive Kommunikation mit den Auslandsinstituten - Vorbereitung und Durchführung von Schulungen und Webseminaren",
+      "cpv": "72000000",
+      "pays": "DEU",
+      "deadline": "2026-08-04",
+      "montant": 0,
+      "publication": "2026-07-06",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/462484-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Excel",
+        "Word",
+        "PowerPoint"
+      ],
+      "bureautique": true,
+      "score": 62,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "468149-2026",
+      "ref": "468149-2026",
+      "acheteur": "Deutsche Gesetzliche Unfallversicherung e.V.",
+      "objet": "Allemagne – Services de programmation et de conseil en logiciels – Open Text",
+      "description": "Die im AG Umfeld eingesetzte ECM Software - xECM (Content Server) 24.1 der Firma O-penText unterliegt ständigen Anpassungen und funktionalen Erweiterung und muss regelmä-ßig gewartet und aktualisiert werden. Der AG setzt im Kollaborationsteil des Content Ma-nagement vermehrt auf Funktionen und Software aus M365 im Cloudbetrieb. Die beiden Sys-teme sollen zukünftig über die OpenText Office 365-Integration miteinander verbunden wer-den. Die Beratungs- und Unterstützungsleistungen umfassen",
+      "cpv": "72200000",
+      "pays": "DEU",
+      "deadline": "2026-08-06",
+      "montant": 0,
+      "publication": "2026-07-07",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/468149-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Office 365"
+      ],
+      "bureautique": true,
+      "score": 62,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "482630-2026",
+      "ref": "482630-2026",
+      "acheteur": "CAMPUS D'EXCELLENCE INDUSTRIE DU FUTUR - SUD",
+      "objet": "France – Services de conseil en gestion financière – PRESTATION D’ASSISTANCE A LA COORDINATION ADMINISTRATIVE, FINANCIERE ET REGLEMENTAIRE DES PROJETS STRUCTURANTS DE L'ASSOCIATION",
+      "description": "Afin de sécuriser les financements remportés par l’Association Campus d’Excellence Industrie du Futur – Sud, cette dernière lance un accord-cadre de prestations intellectuelles permettant de mobiliser, par bons de commande, un appui spécialisé pour la gestion administrative et financière de ses subventions et des autres financements privés obtenus, et ce jusqu’à la réalisation des demandes de soldes.",
+      "cpv": "79412000",
+      "pays": "FRA",
+      "deadline": "2026-08-11",
+      "montant": 0,
+      "publication": "2026-07-13",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/482630-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Excel"
+      ],
+      "bureautique": true,
+      "score": 62,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "484210-2026",
+      "ref": "484210-2026",
+      "acheteur": "Freie und Hansestadt Hamburg, vertreten durch Behörde für Verkehr und Mobilitätswende, Abteilung Öffentliche Mobilität",
+      "objet": "Allemagne – Services de conseil en affaires et en gestion – Rahmenvereinbarung über verkehrswirtschaftliche Beratungsleistungen (inkl. Projektmanagement) im Rahmen der Beschaffung einer neuen Fahrzeuggeneration zum Einsatz im Schienenpersonennahverkehr (SPNV)",
+      "description": "Die Freie und Hansestadt Hamburg (FHH), die Landesnahverkehrsgesellschaft Niedersachsen mbH (LNVG) und das Land Schleswig-Holstein (SH) haben Verkehrsleistungen der Personenbeförderung im Schienenpersonennahverkehr (SPNV) im Netz der S-Bahn Hamburg von 2018-2033 in einem europaweiten Vergabeverfahren ausgeschrieben und vergeben. Dieses Netz liegt im Verantwortungsbereich der drei o.g. Aufgabenträger, deshalb ist zwischen FHH, LNVG und SH eine Ländervereinbarung mit Regelungen über die gemeinsame Zusammenarbeit geschlossen worden. Im Rahmen des Verkehrsvertrages zur Durchführung der o.g. Verkehre sind FHH (Federführung), die LNVG und SH Auftraggeber gegenüber dem Eisen-bahnverkehrsunternehmen (EVU) S-Bahn Hamburg GmbH (SBH) als Auftragnehmer. Zur unterbrechungsfreien Sicherstellung der Fahrzeugverfügbarkeit im laufenden Vertragszeit-raum und insbesondere auch darüber hinaus ist aufgrund der sehr langwierigen Vorlauf- bzw. Entwicklungszeiten einer neuen Fahrzeuggeneration zeitnah ein Fahrzeugbeschaffungsprozess durchzuführen. Die neu zu beschaffenden Fahrzeuge sollen mit Auslieferung und Abnahme in das Eigentum der FHH bzw. eines von der FHH benannten Dritten übergehen. Nach heutigem Zeitplan ist der Zuschlag an den Fahrzeughersteller für das Jahr 2029 geplant. Gegenstand der vorliegend ausgeschriebenen Rahmenvereinbarung (RV) ist die verkehrs-wirtschaftliche Begleitung des Fahrzeugbeschaffungsprozesses einschließlich des begleiten-den Projektmanagements. Die juristische Begleitung wurde bereits im ersten Halbjahr 2026 an eine externe Kanzlei vergeben. Eine Rahmenvereinbarung für den technischen Dienstleister zur Erstellung des Lastenhefts und der technischen Begleitung der Fahrzeugausschreibung wurde 2025 beauftragt, eine Rahmenvereinbarung zu Finanzierungsfragen der Fahrzeugbeschaffung wird noch aus-geschrieben werden. Es wird erwartet, dass der Auftragnehmer konstruktiv mit sämtlichen in- und externen Projekt-beteiligten (neben der LNVG und dem Land SH z.B. der hvv, der SBH und der DB InfraGO AG) zusammenarbeitet. Zum jetzigen Zeitpunkt ist die Entscheidung, ob neben der Fahrzeugherstellung auch die Instandhaltung für bis zu 30 Jahre in die Zuständigkeit des Fahrzeugherstellers übergehen wird, noch nicht getroffen worden. Die Ausgestaltung der Instandhaltung wird ein wichtiges Thema in der neuen Rahmenvereinbarung werden. Die FHH schätzt den Aufwand wie folgt: - Position 1: Beratungsleistungen inkl. Projektmanagement 10.300 Stunden - Position 2: Reisepauschale (pro Person und An-/Abreise) 80 Stück Diese Mengen stellen zugleich die verbindliche Höchstabnahmegrenze (bezogen auf die Gesamtlaufzeit der Rahmenvereinbarung). Die Rahmenvereinbarung beginnt mit Zuschlagserteilung und hat eine Laufzeit von 4 Jahren. Nach Ablauf dieser Vertragslaufzeit endet die Rahmenvereinbarung automatisch, ohne dass es einer Kündigung bedarf. Gleiches gilt, soweit die vorgesehene verbindliche Höchstabnahmegrenze vor dem Ablauf der Vertragslaufzeit erreicht wird.",
+      "cpv": "79410000",
+      "pays": "DEU",
+      "deadline": "2026-08-10",
+      "montant": 0,
+      "publication": "2026-07-14",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/484210-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 62,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "482436-2026",
+      "ref": "482436-2026",
+      "acheteur": "Rehazentrum Gesundheit Nordhessen GmbH",
+      "objet": "Allemagne – Services récréatifs, culturels et sportifs – Trainingsgeräte inkl. Wartung und Softwarelösungen für das Reha-Zentrum",
+      "description": "Das Reha-Zentrum Wilhelmshöher Allee plant die Beschaffung, Inbetriebnahme und Wartung von modernen Trainingsgeräten, die den neuesten medizinischen und sportwissenschaftlichen Standards entsprechen. Diese Geräte sollen zur Unterstützung der Patientenrehabilitation und für eine kontinuierliche Steigerung der Therapiequalität beitragen. Im Rahmen dieser Ausschreibung werden auch begleitende Softwarelösungen benötigt, um eine nahtlose Integration der Trainingsgeräte in die Patientenverwaltung zu gewährleisten.",
+      "cpv": "92000000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-07-13",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/482436-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "habilitation"
+      ],
+      "bureautique": false,
+      "score": 60,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "481044-2026",
+      "ref": "481044-2026",
+      "acheteur": "Conseil Départemental des Bouches du Rhône",
+      "objet": "France – Services de formation en matière de sécurité – Formations certifiantes portant sur la sécurité des agents du Département des Bouches-du-Rhône 3 lots",
+      "description": "Formations prévention et opération d’incendie et de secours, prévention et protection du public / Formations habilitations électriques / Formations à l’autorisation d’intervention à proximité des réseaux - AIPR",
+      "cpv": "80330000",
+      "pays": "FRA",
+      "deadline": "2026-08-14",
+      "montant": 0,
+      "publication": "2026-07-13",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/481044-2026",
+      "segment": "Collectivités",
+      "keyword_hits": [
+        "habilitation"
+      ],
+      "bureautique": false,
+      "score": 57,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "472561-2026",
+      "ref": "472561-2026",
+      "acheteur": "Regione Puglia",
+      "objet": "Italie – Services de maintenance des systèmes et services d'assistance – Servizi manutenzione HW/SW CED Innovapuglia 18 Lotti",
+      "description": "Dell EMC2 / Lenovo / HPE / NetApp / Juniper / Palo Alto Network / Cisco / Radware / Fortinet / GIGAMON / ARMIS / Qualys / Domain Tools / Virus Total/GTI / Darktrace / Rapid7 / CyberArk / Archer",
+      "cpv": "72250000",
+      "pays": "ITA",
+      "deadline": "",
+      "montant": 7362,
+      "publication": "2026-07-09",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/472561-2026",
+      "segment": "Collectivités",
+      "keyword_hits": [
+        "VAP"
+      ],
+      "bureautique": false,
+      "score": 52,
+      "score_detail": {
+        "fit": 10,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "484386-2026",
+      "ref": "484386-2026",
+      "acheteur": "BG Kliniken - Klinikverbund der gesetzlichen Unfallversicherung gGmbH",
+      "objet": "Allemagne – Services de développement de logiciels de veille économique – Entwicklung Software für Infrastruktur Investitionscontrolling (Los 1) und Software für Projektkostensteuerung (Los 2)",
+      "description": "Beschreibung der Sollprozesse Für die Umsetzung der Anforderungen aus Los 1 wird es erforderlich sein, dass der AN zusammen mit Vertretern der Fachabteilungen des AG die fachlichen Prozesse aufnimmt und neu definiert. Dies soll im Rahmen von Workshops erfolgen und ist der eigentlichen Entwicklung der Software vorangestellt. Die Leistung wird gesondert abgefragt und vergütet. Zielsetzung des Verfahrens Ziel ist die Entwicklung und Implementierung von Cloudlösungen für die nachfolgend dargestellten Lose. Los 1 -System für Infrastruktur Investitionscontrolling Strategische Perspektivplanung - Mehrperiodenfähigkeit mit langfristigem Planungshorizont - Abgleich mit übergeordneten Unternehmenszielen (z. B. Investitionsquote) - Szenarien- und Simulationsfähigkeit (besonders wichtig!) - Visualisierung von Investitionsverläufen und Finanzierungsfähigkeit Mittelfristige Ziel- und Finanzplanung - Verwaltung aller Maßnahmen mit Stammdaten, Zeit- und Finanzierungszuordnung - Transparente Mittelbindung je Finanzierungsperiode - Einhaltung verbindlicher Finanzierungsrahmen - Verschiebungslogik bei Mittelknappheit mit Prüf- und Warnfunktion Fördermittel- und Antragsmanagement - Abbildung eines mehrstufigen Antragsverfahrens; falls möglich mit Funktion zur Übermittlung der Anträge per Eingabemaske und Datei-Upload; dann Workflow zur Prüfung, Kommentierung/ Korrekturumlauf, Freigabe; dann Übernahme der Daten in Datenbank - Verwaltung von Testierungen, Zuwendungsverträgen und Verteilungsplänen - Status-Tracking und Gremienvorbereitung - Historisierung und Revisionssicherheit Mittelbedarfs- und Liquiditätsplanung - Quartalsweise Mittelabfluss- und Zuflussplanung - Darstellung von Vorfinanzierungsbedarfen aus Ableitung von Differenzen s.o. - Abbildung von Auszahlungsterminen und kurzfristigen Verbindlichkeiten Reporting und Governance - Maßnahmenübersichten - Filterbare Berichte - Historisierung aller Beschlüsse - Rollen- und Rechtekonzept Los 2 - Software für Projektkostensteuerung Kosten- und Reservensteuerung - Kostenerfassung nach DIN 276; Metadaten- und Filtermöglichkeit - Varianten- und Prognosevergleich - Fortschreibung der Finanzierungsreserve - Automatisierte Warnmechanismen bei Überschreitungen Mittelbedarfs- und Liquiditätsplanung - Quartalsweise Mittelabfluss- und Zuflussplanung - Darstellung von Vorfinanzierungsbedarfen aus Ableitung von Differenzen s.o. - Abbildung von Auszahlungsterminen und kurzfristigen Verbindlichkeiten Reporting und Governance - Maßnahmenübersichten - Filterbare Berichte - Historisierung aller Beschlüsse - Rollen- und Rechtekonzept Die Lösungen müssen mehrperiodenfähig, historisierend, revisionssicher und auswertungsstark sein. Während das Investitionsmanagement die Finanzierungslogik und Fördermittelsteuerung abbildet, muss die Baukostenverfolgungssoftware die kosten- und revisionssichere, belastbare Datenbasis liefern. Sie sind damit das operative Steuerungsinstrument für: - Budgettreue - Vergabesicherheit - Nachtragskontrolle - Liquiditätssteuerung - Kostenwahrheit Abgrenzung zwischen den Losen: 1 - System Infrastruktur Investitions- Controlling Investitionsmanagement strategischer Finanzrahmen Förderverfahren Mittelzuteilung Portfolioebene 2 - System Projektkostensteuerung Baukostenverfolgung operative Kostensteuerung AVA- und Vertragssteuerung Rechnungsprüfung und Freigabe (Amondis) Projektebene",
+      "cpv": "72212482",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-07-14",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/484386-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "VPL"
+      ],
+      "bureautique": false,
+      "score": 45,
+      "score_detail": {
+        "fit": 10,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true
+    }
+  ]
+}

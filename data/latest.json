@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-08-04T08:35:16.862Z",
+  "generated_at": "2026-08-05T08:34:26.570Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 19,
+      "matched": 18,
       "go": 0,
-      "generated_at": "2026-08-04T08:28:17.965Z"
+      "generated_at": "2026-08-05T08:27:18.080Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 2,
       "go": 0,
-      "generated_at": "2026-08-04T08:35:16.343Z"
+      "generated_at": "2026-08-05T08:34:25.837Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-08-04T08:35:16.772Z"
+      "generated_at": "2026-08-05T08:34:26.461Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 21,
+  "total_matched": 20,
   "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -190,68 +190,6 @@
       "auto": true
     },
     {
-      "id": "485195-2026",
-      "ref": "485195-2026",
-      "acheteur": "Ministerium für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz des Landes Brandenburg",
-      "objet": "Allemagne – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Projektmanagement für Leistungen zur Umsetzung des Maßnahmenplans des Landesniedrigwasserkonzeptes 2.0",
-      "description": "Die Leistung setzt sich insbesondere aus folgenden Punkten zusammen: 1) Projektmanagement Das Projektmanagement, steuert und koordiniert aktiv die nachfolgend unter Punkt 2 und ggf. 3 genannten Leistungen über die gesamte Vertragslaufzeit. 2) Weiterführung Flussgebietsarbeit Durch eine intensive Kommunikation des Themas \"Niedrigwasser\" konnte eine breite Aufmerksamkeit und ein Problembewusstsein bei allen lokalen Akteuren erzeugt werden. Die Entscheidungsträger (Wasser-, Naturschutz- und tlw. Landwirtschaftsbehörden der Landkreise / kreisfreien Städte, LfU, einschließlich Großschutzgebiete), die das Wassermanagement operativ steuernden GUV und ggf. weitere Institutionen (Naturschutzverbände, Landschaftspflegeverbände, Natura2000-Teams, VLF, Kommunen, engagierte Einzelpersonen usw.) sind involviert und arbeiten unterschiedlich intensiv an der Thematik mit. 3) Erarbeitung flussgebietsbezogener Bewirtschaftungskonzepte Die sich in der Ideenphase befindlichen 16 Konzepte (Phase 1 und 2) sind gemeinsam mit den Trägern bis zur Antragsreife (Richtlinie LWH) zu entwickeln und die Antragstellung bei der ILB zu begleiten. Weitere mindestes 10 Konzepte sollen - eine erfolgreiche Antragstellung und Mittelverfügbarkeit vorausgesetzt - bei der Bearbeitung begleitet werden. Es bestehen bisher nicht weiterverfolgte weitere Ideen der Akteure zu potenziellen Bewirtschaftungs- bzw. Staukonzepten in allen Flussgebieten tlw. auch von Seiten des LfU für Gewässer 1. Ordnung. Aufgrund einer derzeit nicht genau bekannten Anzahl o.g. Ideen ist die Leistung für 10 Konzepte anzubieten. 4) Qualifizierung und Weiterentwicklung LWH-Vorhaben und Leuchttürmen Mit LWH-Vorhaben sind Vorhaben gemeint, die den Fördergegenständen der Richtlinien LWH (GAK und ELER) des MLEUV entsprechen und die von den Antragstellern zur Förderung aus Drittmitteln vorgesehen sind. Entwicklung von Projekten aus Initiierungsphase (50) bis zu antragsreifer Projektskizze. Entwicklung fortgeschrittene Projekte (100) bis zu antragsreifer Projektskizze . Begleitung abgeschlossener (20) Projekte Begleitung der laufenden Leuchtturmprojekte Initiiierung von neuen Leuchtturmprojekte (z.B. Dränagen) 5) Fachübergreifende Anforderungen Im Rahmen des Erstauftrages wurden bereits diverse fachübergreifende Treffen, Gespräche etc. initiiert und ausgewertet). Diese sog. fachübergreifenden Gespräche mit Akteuren z.B. der Landwirtschaft, des Naturschutzes, der Forst, der Flurneuordnung sowie der Landes- und Regionalplanung sollen federführend durch den Auftragnehmer weitergeführt und im Bereich Siedlungs- und Gewerbegebietsentwicklung / Bau- und Stadtplanung aufgegriffen werden. Vertieft werden soll der Themenbereich Schifffahrt und Wassertourismus hinsichtlich der Wasserbewirtschaftung und möglicher Handlungsspielräume und Entwicklungsperspektiven hin zur Klimaanpassung und zu einem verringerten Wasserdargebot. Im Zusammenhang mit dem Umbau eines Staubauwerkes wurde im Rahmen des Erstauftrages ein umfangreiches, modellgestütztes Werkzeug entwickelt, welches die Auswirkungen veränderter Stauhaltungen auf den Wasserrückhalt quantifiziert. Das Werkzeug erlaubt darüber hinaus eine grafische Darstellung der flächigen Auswirkungen veränderter Wasserstände oberhalb eines Staubauwerkes. Für das Werkzeug wurden vorhandene Modellansätze in die kommerzielle Rechensoftware MS Excel überführt. Ferner wurde eine Schnittstelle programmiert, die eine Darstellung der Ergebnisse in einem GIS-System erlaubt. Die Anwendung des sog. Excel-Tools (Anlage 5: Dokumentation) wurde sowohl durch das LfU als auch durch die NW-Koordinatoren für weitere Projekte in anderen Flussgebieten testweise durchgeführt. Es ist gewünscht, das Excel-Tool (oder ein vergleichbares Instrument) künftig als Werkzeug zur Folgenabschätzung und Visualisierung stärker systematisch einzubinden. 6) Verknüpfung mit dem Moorschutz Moorschutz und Wassermanagement sind inhaltlich eng verwoben, dementsprechend erfolgt MLEUV-intern eine enge organisatorisch-inhaltliche Abstimmung zur Thematik Moorschutz. Bei der Umsetzung des Landesniedrigwasserkonzeptes ist auch auf ein nachhaltiges Moorbodenmanagement zu setzen. Das Moorschutzprogramm Brandenburg bildet den Rahmen für alle Aktivitäten im Zusammenhang mit Mooren. Um eine Synchronisation der Ziele von Moorschutz und Niedrigwasservorsorge bei der Projektentwicklung vor Ort und insbesondere bei der Erarbeitung von Bewirtschaftungskonzepten zu gewährleisten, ist ein fachkundiger Ansprechpartner zu benennen. Dieser sammelt und koordiniert alle moorbezogenen Fragen, begleitet ggf. Ortstermine und steht als zentraler Ansprechpartner zur Verfügung. Die o.g. Flussgebietssteckbriefe sind in enger Zusammenarbeit mit dem LfU um ein Kapitel zum Moorschutz zu ergänzen. 7) Öffentlichkeitsarbeit Ziel des Leistungspunktes ist daher die Entwicklung einer zielgruppenorientierten Kommunikationsstrategie zur Unterstützung der Umsetzung des LNWK 2.0. Die Kommunikationsstrategie soll dazu beitragen, Verständnis, Akzeptanz und Mitwirkung zentraler Akteure bei Maßnahmen der Niedrigwasservorsorge und der -bewältigung zu stärken. Dabei sollen insbesondere Informationsbedarfe, Entscheidungsstrukturen und mögliche Hemmnisse in den relevanten Zielgruppen berücksichtigt werden. Auf Basis der strategischen Konzeption sollen geeignete Kommunikationsmaßnahmen entwickelt, priorisiert und in einem Umsetzungsplan dargestellt werden. Optionale Leistungen: 1) Verbindung wasserbaulicher Maßnahmen mit Agrar-, Umwelt- und Klimamaßnahmen (AUKM) 2) Durchführung ausgewählter Maßnahmen des im Rahmen der Öffentlichkeitsarbeit entwickelten Umsetzungsplanes aus Nr. 7) Im Detail siehe Vergabeunterlagen Teil B - Leistungsbeschreibung Nr. 2 und 3.",
-      "cpv": "71000000",
-      "pays": "DEU",
-      "deadline": "2026-09-04",
-      "montant": 0,
-      "publication": "2026-07-14",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/485195-2026",
-      "segment": "FPH",
-      "keyword_hits": [
-        "Excel"
-      ],
-      "bureautique": true,
-      "score": 67,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "470900-2026",
-      "ref": "470900-2026",
-      "acheteur": "Vrije Universiteit Brussel",
-      "objet": "Belgique – Services de développement de logiciels de gestion d'internet et d'intranet – Raamovereenkomst ter configuratie en ondersteuning van een nieuwe intranet-omgeving voor personeel, studenten en PhD-studenten",
-      "description": "De huidige intranet-omgeving op basis van MS SharePoint wordt midden 2027 niet langer ondersteund. De huidige leverancier bood op basis van Microsoft-technologie een eigen configuratiepakket. Deze leverancier stopt hiermee. We moeten een vernieuwde configuratie realiseren met een nieuw te selecteren leverancier. De opdracht omvat de realisatie en ondersteuning van de intranetomgeving gedurende de volledige looptijd van de raamovereenkomst, zoals bepaald in artikel II.7.",
-      "cpv": "72212220",
-      "pays": "BEL",
-      "deadline": "2026-09-04",
-      "montant": 0,
-      "publication": "2026-07-08",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/470900-2026",
-      "segment": "ESR",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 67,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "465853-2026",
       "ref": "465853-2026",
       "acheteur": "Stichting ROC Midden Nederland",
@@ -309,6 +247,68 @@
         "com": 5,
         "admin": 7,
         "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "485195-2026",
+      "ref": "485195-2026",
+      "acheteur": "Ministerium für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz des Landes Brandenburg",
+      "objet": "Allemagne – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Projektmanagement für Leistungen zur Umsetzung des Maßnahmenplans des Landesniedrigwasserkonzeptes 2.0",
+      "description": "Die Leistung setzt sich insbesondere aus folgenden Punkten zusammen: 1) Projektmanagement Das Projektmanagement, steuert und koordiniert aktiv die nachfolgend unter Punkt 2 und ggf. 3 genannten Leistungen über die gesamte Vertragslaufzeit. 2) Weiterführung Flussgebietsarbeit Durch eine intensive Kommunikation des Themas \"Niedrigwasser\" konnte eine breite Aufmerksamkeit und ein Problembewusstsein bei allen lokalen Akteuren erzeugt werden. Die Entscheidungsträger (Wasser-, Naturschutz- und tlw. Landwirtschaftsbehörden der Landkreise / kreisfreien Städte, LfU, einschließlich Großschutzgebiete), die das Wassermanagement operativ steuernden GUV und ggf. weitere Institutionen (Naturschutzverbände, Landschaftspflegeverbände, Natura2000-Teams, VLF, Kommunen, engagierte Einzelpersonen usw.) sind involviert und arbeiten unterschiedlich intensiv an der Thematik mit. 3) Erarbeitung flussgebietsbezogener Bewirtschaftungskonzepte Die sich in der Ideenphase befindlichen 16 Konzepte (Phase 1 und 2) sind gemeinsam mit den Trägern bis zur Antragsreife (Richtlinie LWH) zu entwickeln und die Antragstellung bei der ILB zu begleiten. Weitere mindestes 10 Konzepte sollen - eine erfolgreiche Antragstellung und Mittelverfügbarkeit vorausgesetzt - bei der Bearbeitung begleitet werden. Es bestehen bisher nicht weiterverfolgte weitere Ideen der Akteure zu potenziellen Bewirtschaftungs- bzw. Staukonzepten in allen Flussgebieten tlw. auch von Seiten des LfU für Gewässer 1. Ordnung. Aufgrund einer derzeit nicht genau bekannten Anzahl o.g. Ideen ist die Leistung für 10 Konzepte anzubieten. 4) Qualifizierung und Weiterentwicklung LWH-Vorhaben und Leuchttürmen Mit LWH-Vorhaben sind Vorhaben gemeint, die den Fördergegenständen der Richtlinien LWH (GAK und ELER) des MLEUV entsprechen und die von den Antragstellern zur Förderung aus Drittmitteln vorgesehen sind. Entwicklung von Projekten aus Initiierungsphase (50) bis zu antragsreifer Projektskizze. Entwicklung fortgeschrittene Projekte (100) bis zu antragsreifer Projektskizze . Begleitung abgeschlossener (20) Projekte Begleitung der laufenden Leuchtturmprojekte Initiiierung von neuen Leuchtturmprojekte (z.B. Dränagen) 5) Fachübergreifende Anforderungen Im Rahmen des Erstauftrages wurden bereits diverse fachübergreifende Treffen, Gespräche etc. initiiert und ausgewertet). Diese sog. fachübergreifenden Gespräche mit Akteuren z.B. der Landwirtschaft, des Naturschutzes, der Forst, der Flurneuordnung sowie der Landes- und Regionalplanung sollen federführend durch den Auftragnehmer weitergeführt und im Bereich Siedlungs- und Gewerbegebietsentwicklung / Bau- und Stadtplanung aufgegriffen werden. Vertieft werden soll der Themenbereich Schifffahrt und Wassertourismus hinsichtlich der Wasserbewirtschaftung und möglicher Handlungsspielräume und Entwicklungsperspektiven hin zur Klimaanpassung und zu einem verringerten Wasserdargebot. Im Zusammenhang mit dem Umbau eines Staubauwerkes wurde im Rahmen des Erstauftrages ein umfangreiches, modellgestütztes Werkzeug entwickelt, welches die Auswirkungen veränderter Stauhaltungen auf den Wasserrückhalt quantifiziert. Das Werkzeug erlaubt darüber hinaus eine grafische Darstellung der flächigen Auswirkungen veränderter Wasserstände oberhalb eines Staubauwerkes. Für das Werkzeug wurden vorhandene Modellansätze in die kommerzielle Rechensoftware MS Excel überführt. Ferner wurde eine Schnittstelle programmiert, die eine Darstellung der Ergebnisse in einem GIS-System erlaubt. Die Anwendung des sog. Excel-Tools (Anlage 5: Dokumentation) wurde sowohl durch das LfU als auch durch die NW-Koordinatoren für weitere Projekte in anderen Flussgebieten testweise durchgeführt. Es ist gewünscht, das Excel-Tool (oder ein vergleichbares Instrument) künftig als Werkzeug zur Folgenabschätzung und Visualisierung stärker systematisch einzubinden. 6) Verknüpfung mit dem Moorschutz Moorschutz und Wassermanagement sind inhaltlich eng verwoben, dementsprechend erfolgt MLEUV-intern eine enge organisatorisch-inhaltliche Abstimmung zur Thematik Moorschutz. Bei der Umsetzung des Landesniedrigwasserkonzeptes ist auch auf ein nachhaltiges Moorbodenmanagement zu setzen. Das Moorschutzprogramm Brandenburg bildet den Rahmen für alle Aktivitäten im Zusammenhang mit Mooren. Um eine Synchronisation der Ziele von Moorschutz und Niedrigwasservorsorge bei der Projektentwicklung vor Ort und insbesondere bei der Erarbeitung von Bewirtschaftungskonzepten zu gewährleisten, ist ein fachkundiger Ansprechpartner zu benennen. Dieser sammelt und koordiniert alle moorbezogenen Fragen, begleitet ggf. Ortstermine und steht als zentraler Ansprechpartner zur Verfügung. Die o.g. Flussgebietssteckbriefe sind in enger Zusammenarbeit mit dem LfU um ein Kapitel zum Moorschutz zu ergänzen. 7) Öffentlichkeitsarbeit Ziel des Leistungspunktes ist daher die Entwicklung einer zielgruppenorientierten Kommunikationsstrategie zur Unterstützung der Umsetzung des LNWK 2.0. Die Kommunikationsstrategie soll dazu beitragen, Verständnis, Akzeptanz und Mitwirkung zentraler Akteure bei Maßnahmen der Niedrigwasservorsorge und der -bewältigung zu stärken. Dabei sollen insbesondere Informationsbedarfe, Entscheidungsstrukturen und mögliche Hemmnisse in den relevanten Zielgruppen berücksichtigt werden. Auf Basis der strategischen Konzeption sollen geeignete Kommunikationsmaßnahmen entwickelt, priorisiert und in einem Umsetzungsplan dargestellt werden. Optionale Leistungen: 1) Verbindung wasserbaulicher Maßnahmen mit Agrar-, Umwelt- und Klimamaßnahmen (AUKM) 2) Durchführung ausgewählter Maßnahmen des im Rahmen der Öffentlichkeitsarbeit entwickelten Umsetzungsplanes aus Nr. 7) Im Detail siehe Vergabeunterlagen Teil B - Leistungsbeschreibung Nr. 2 und 3.",
+      "cpv": "71000000",
+      "pays": "DEU",
+      "deadline": "2026-09-04",
+      "montant": 0,
+      "publication": "2026-07-14",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/485195-2026",
+      "segment": "FPH",
+      "keyword_hits": [
+        "Excel"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "470900-2026",
+      "ref": "470900-2026",
+      "acheteur": "Vrije Universiteit Brussel",
+      "objet": "Belgique – Services de développement de logiciels de gestion d'internet et d'intranet – Raamovereenkomst ter configuratie en ondersteuning van een nieuwe intranet-omgeving voor personeel, studenten en PhD-studenten",
+      "description": "De huidige intranet-omgeving op basis van MS SharePoint wordt midden 2027 niet langer ondersteund. De huidige leverancier bood op basis van Microsoft-technologie een eigen configuratiepakket. Deze leverancier stopt hiermee. We moeten een vernieuwde configuratie realiseren met een nieuw te selecteren leverancier. De opdracht omvat de realisatie en ondersteuning van de intranetomgeving gedurende de volledige looptijd van de raamovereenkomst, zoals bepaald in artikel II.7.",
+      "cpv": "72212220",
+      "pays": "BEL",
+      "deadline": "2026-09-04",
+      "montant": 0,
+      "publication": "2026-07-08",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/470900-2026",
+      "segment": "ESR",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -503,39 +503,6 @@
         "com": 5,
         "admin": 7,
         "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "462484-2026",
-      "ref": "462484-2026",
-      "acheteur": "Goethe-Institut e.V. - Zentrale",
-      "objet": "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Leistungen im Bereich Internet des Goethe-Institut e.V.",
-      "description": "Leistungsumfang - Iteratives Testing von Designs, Funktionalitäten, Templates und Outputtypes im Test-, Produktiv-System und online hinsichtlich Darstellungsfehlern, Abhängigkeiten, Funktionalität, Abweichungen zum Entwurfsstand sowie Barrierefreiheit - Testing der Darstellung auf verschiedenen Screengrößen (Desktop, Tablet, Tablet Landscape, Mobil) - Testing von Design- und HTML-Prototypen hinsichtlich der Einhaltung des Corporate Designs, UX-Prinzipien, Barrierefreiheit sowie Grobeinschätzung der Umsetzbarkeit (derzeit Figma) - Erstellung, Pflege und Nachhalten von Testdokumentationen im Tool des Auftraggebers (derzeit Confluence) - Kommunikation und Ticketbearbeitung im Ticketsystem des Auftraggebers (derzeit JIRA) - Erstellung und Durchführung von Tests zur Reproduktion, Einordnung und Weitergabe von Bugs und Begleitung der Bugbeseitigung - Formale Qualitätssicherung und Konsolidierung von Templates und Outputtypes, Erfassung und Dokumentation der Verwendung von Templates, Outputtypes und Instanzvariablen - Durchführung von Rollouts neuer Templates und Funktionalitäten im CMS, inkl. Einholen und Anlegen von Übersetzungen, Terminabstimmung, Klärung von Sonderfällen sowie Erfassen und Pflege des Status in Statustabellen - Umstellung von Templates inkl. Anpassung von Instanzvariablen, Primärkategorien und Subobjekten, Optimierung des Seitenaufbaus, formale Qualitätssicherung und Überprüfung/ Korrektur von Verlinkungen und Weiterleitungen - Anlegen von Vorlagen und Demo-Seiten - Anlegen und Aktualisierung von Applikationen - Erstellung, Pflege und Aktualisierung von Anleitungen und Dokumentationen (z.B. innerhalb der Contens-Hilfe) - Vorbereitung und Durchführung von Schulungen und Webseminaren v.a. zum Thema Templates und Outputtypes - Einrichtung, Durchführung und Auswertung von unmoderierten UX-Tests und Umfragen sowie Reports zu Zugriffen und Nutzungsverhalten - Erstellung und Auswertung von Performance- und Core Web Vitals-Berichten sowie Ableitung von Handlungsempfehlungen - First-Level-Support der Redakteur*innen zu Templates im CMS - Korrespondenz und Rücksprache mit beauftragenden Personen sowie Abstimmung mit weiteren Beteiligten - Erstellung, Pflege und Aktualisierung von Webseiten per CMS, Anlegen neuer Inhalte (z.B. Artikel, Veranstaltungen, Teaser, Formulare, Newsletter) sowie der Einrichtung und Pflege von Webapplikationen und deren Parametern - Bild- und Videobearbeitung - Marktrecherche und Beratung / Leistungsumfang - CMS-Backend-Administration, z.B. Anlegen und Aktualisieren von Textbausteinen, Konfiguration und Dekonfiguration von Websites und Applikationen - Unterstützung im Bereich IT-Sicherheit (Testing von Websites und Applikationen mit gängigen Security Testing Tools) - Manuelles Testing von Webapplikationen und Webseiten - Testautomatisierung (Entwicklung, Pflege, Durchführung und Dokumentation von Software-Tests) - Performance- und Loadtesting - Monitoring von Webanwendungen - Administration Mailinglisten-Software, z.B. Anlegen von Listen, Änderung der Konfiguration - First-Level-Support Mailinglisten: Beantwortung von Nutzeranfragen zur Einschreibung, Einstellung der Mailingliste usw. - Programmierung von dynamischen Applikationen inkl. Datenbankanbindung - Implementierungsunterstützung zur Webanalyse (Anpassung Tracking-Code, Anpassung der Konfiguration)/ (technischer) Support - Überprüfung und Reproduktion von gemeldeten Fehlern und ggfs. Erstellung von Fehlerprotokollen als Grundlage zur Fehlerbehebung - Ticketbearbeitung (derzeit mit Jira) - Codeverwaltung mit GIT (derzeit mit Bitbucket) - Erstellung von Anleitungen und Dokumentationen (u.a. in Confluence) - Vorbereitung und Durchführung von Schulungen und Webseminaren v.a. zum Thema CMS - Erstellung und Pflege von Webseiten per CMS - Eingabe und Aktualisierung von Inhalten per CMS, z.B. Artikel, Veranstaltungen, Teaser, Formulare, Newsletter sowie der Einrichtung und Pflege von Webapplikationen und deren Parametern. - Formularmanagement: Einrichtung und Verwaltung von Formularen für Anmeldungen im Kontext der Kultur-, Informations- und Spracharbeit - Technischer Video-Support: Analyse von Fehlermeldungen, wenn Videos (und Audios) nicht korrekt ausgegeben werden, Fehlerbehebung/Umwandlung, Recherchen in Zusammenhang mit Video/Audio-Fragestellungen) - Bild- und Videobearbeitung - Marktrecherche und Beratung - First-Level-Support der Redakteur*innen zu CMS Contens und den eingesetzten Tools - Qualitätssicherung des Webauftritts inklusive Kommunikation mit den Auslandsinstituten / Leistungsumfang - Erstellung und Auswertung von Statistiken / Erstellung von Reports für Webanalyse und SEO/AIO (u.a. mittels Mapp, SEO/AIO-Tools auf Anfrage) - Reportaufbereitung (in Excel, aber auch zur Präsentation in Word und PowerPoint), Interpretation der Daten und Ableiten von Empfehlungen - Durchführung von Maßnahmen zur Optimierung des Webauftritts für Suchmaschinen/KI und zur Qualitätssicherung in Abstimmung mit dem SEO/AIO-Team und ggf. den betroffenen Goethe-Instituten (z.B. Qualitätssicherung der Google MyBusiness Auftritte, Anpassung von Textbausteinen und Inhalten im CMS Contens) - Pflege der Dokumentation der ausgeführten Maßnahmen - Backend-Administration des Webanalyse Tools Mapp, z.B. Konfiguration der Nutzer*innenprofile, Einrichtung und Anpassung von Reports und Analysen - redaktionelle Überarbeitung von Digitalangeboten im SEO/AIO-Kontext (Content und Meta-Daten) - Konfiguration des Crawlers, Durchführung von Crawls für Suchmaschinen- / AI- und Qualitätssicherung (z.B. mit ScreamingFrog) - Vorbereitung und Durchführung von Schulungen und Webseminaren v.a. zum Thema Webanalyse und Suchmaschinenoptimierung/AIO - Ticketbearbeitung mit Jira, Testing von Tickets im Kontext Webanalyse und SEO/AIO - Backend-Administration von Mindbreeze InSpire (Appliance, die die Suche für Goethe.de bereitstellt), z.B. Optimierung Suchergebnisse der On-Site-Suche, Erstellung Reports und Analysen - Erstellung und Pflege von Webseiten per CMS - Eingabe und Aktualisierung von Inhalten per CMS, z.B. Artikel, Veranstaltungen, URL-Objekte, Formulare, Newsletter sowie der Einrichtung und Pflege von Webapplikationen und deren Parametern. - Tests hinsichtlich der korrekten Darstellung auf Desktop und Mobil - Bild- und Videobearbeitung - Marktrecherche und Beratung - First Level Support der Redakteur*innen zu den Themen Webanalyse und Suchmaschinenoptimierung (SEO/AIO) - Qualitätssicherung des Webauftritts inklusive Kommunikation mit den Auslandsinstituten / Leistungsumfang - Durchführung von Restrukturierungsprojekten, Anpassung der Informationsarchitektur, Rollouts (Übernahme von einzelnen Webseiten oder Seitenclustern auf andere Websites, z.B. Länderportale) - Aufbau von Strukturprototypen im CMS - Pflege von Webseiten per CMS, Eingabe und Aktualisierung von Inhalten per CMS, z.B. Artikel, Veranstaltungen, Teasern, Formulare, Newsletter sowie der Einrichtung und Pflege von Webapplikationen und deren Parametern. - Beratung der Redakteur*innen für den optimalen technischen Einsatz von Templates, Objektklassen und Outputtypes - redaktionelle Überarbeitung von Digitalangeboten - Anpassung von interaktiven Website-Elementen (z.B. SVG-Karten) - Qualitätssicherung des Webauftritts inklusive Kommunikation mit den Instituten - Administration der Mailinglisten-Software z.B. Anlegen von Listen, Änderung der Konfiguration - First Level Support Mailinglisten Beantwortung von Nutzeranfragen zur Einschreibung, Einstellung der Mailingliste usw. - First Level Support der Redakteur*innen zu CMS Contens und den eingesetzten Tools - Tests einzelner CMS-Seiten hinsichtlich der korrekten Darstellung auf Desktop, Tablet und Mobil - Bild- und Videobearbeitung - Marktrecherche und Beratung - Vorbereitung und Durchführung von Schulungen und Webseminaren / Leistungsumfang - Umsetzung funktionaler Erweiterungen, Formate und Features für das Webangebot - CMS-Backend-Administration, z.B. Anlegen und Aktualisieren von Textbausteinen, Konfiguration von Newslettern, Konfiguration und Dekonfiguration von Websites usw. - Erstellung und Aktualisierung von Inhalten für die Contens-Hilfe/ die Systemdokumentation/ Anleitungen - Qualitätssicherung des Webauftritts inklusive Kommunikation mit den Auslandsinstituten - Qualitätssicherung von CMS-Komponenten - Durchführung von manuellem Testing von Webapplikationen und Webseiten - Verifikation von gemeldeten Fehlern und ggfs. Erstellung Fehlerprotokoll - Second Level Support für das CMS Contens - First und Second Level Support für das Kund*innenportal Mein Goethe.de (Beantwortung von Kund*innenanfragen, Administration) - Beratung zu Google-Diensten, z.B. Maps - Ticketbearbeitung mit Jira - Erstellung von Anleitungen und Dokumentationen (u.a. in Confluence) - Administration Mailinglisten-Software z.B. Anlegen von Listen, Änderung der Konfiguration - First Level Support Mailinglisten Beantwortung von Nutzeranfragen zur Einschreibung, Einstellung der Mailingliste usw. - Erstellung und Pflege von Webseiten per CMS - Erstellung von statistischen Auswertungen (z.B. Anfragen Websupport, Newsletter) - Eingabe und Aktualisierung von Webinhalten mittels CMS, z.B. Artikeln, Veranstaltungen, Teasern, Formularen und Newslettern sowie der Einrichtung und Pflege von Webapplikationen und deren Parametern. - Formularmanagement: Einrichtung und Verwaltung von Formularen für Anmeldungen im Kontext der Kultur-, Informations- und Spracharbeit - Tests hinsichtlich der korrekten Darstellung auf Desktop und Mobil - Bild- und Videobearbeitung - Marktrecherche und Beratung - First Level Support der Redakteur*innen zu CMS Contens und den eingesetzten Tools - Vorbereitung und Durchführung von Schulungen und Webseminaren / Leistungsumfang - First Level Support für CMS-Redakteur*innen: Unterstützung und Beratung bei technischen Fragen zum CMS Contens, inklusive Hinweis auf die entsprechenden Anleitungen in der CMS-Hilfe - Erstellung und Aktualisierung von Inhalten für die Contens-Hilfe/ die Systemdokumentation/ Anleitungen - Beratung für den optimalen technischen Einsatz von Templates, Objektklassen und Outputtypes - First und Second Level Support für den Einsatz weiterer Darstellungsformen (z.B. SVG-Karten) - Erstellung von statistischen Auswertungen (z.B. Anfragen Websupport, Newsletter) - Übernahme von einzelnen Webseiten oder Seitenclustern auf andere Websites, z.B. Länderportale - First Level Support bei Fragen zur Publikation von Online-Inhalten - Objekte zur Bearbeitung freigeben (Berechtigungen anpassen) - First Level Support zum Thema Newsletter (z.B. neue Kopiervorlage anlegen, Aufbau eines Newsletters, Versand) - First und Second Level Support für das Kund*innenportal Mein Goethe.de (Beantwortung von Kund*innenanfragen, Administration) - Shortcuts und Weiterleitungen einrichten oder ändern - Administration Mailinglisten-Software z.B. Anlegen von Listen, Änderung der Konfiguration - First Level Support Mailinglisten Beantwortung von Nutzeranfragen zur Einschreibung, Einstellung der Mailingliste usw. - Erstellung und Pflege von Webseiten per CMS - Eingabe und Aktualisierung von Inhalten per CMS, z.B. Artikel, Veranstaltungen, Formulare, Newsletter sowie der Einrichtung und Pflege von Webapplikationen und deren Parametern. - Formularmanagement: Einrichtung und Verwaltung von Formularen für Anmeldungen im Kontext der Kultur-, Informations- und Spracharbeit - Tests hinsichtlich der korrekten Darstellung auf Desktop und Mobil - Bild- und Videobearbeitung - Marktrecherche und Beratung - Qualitätssicherung des Webauftritts inklusive Kommunikation mit den Auslandsinstituten - Vorbereitung und Durchführung von Schulungen und Webseminaren",
-      "cpv": "72000000",
-      "pays": "DEU",
-      "deadline": "2026-08-04",
-      "montant": 0,
-      "publication": "2026-07-06",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/462484-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Excel",
-        "Word",
-        "PowerPoint"
-      ],
-      "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
       },
       "score_status": "cond",
       "notes": "",

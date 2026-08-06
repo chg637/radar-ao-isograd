@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-08-05T08:34:26.570Z",
+  "generated_at": "2026-08-06T08:32:40.717Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 18,
+      "matched": 16,
       "go": 0,
-      "generated_at": "2026-08-05T08:27:18.080Z"
+      "generated_at": "2026-08-06T08:25:38.114Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 2,
       "go": 0,
-      "generated_at": "2026-08-05T08:34:25.837Z"
+      "generated_at": "2026-08-06T08:32:40.042Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-08-05T08:34:26.461Z"
+      "generated_at": "2026-08-06T08:32:40.585Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 20,
+  "total_matched": 18,
   "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -222,31 +222,31 @@
       "auto": true
     },
     {
-      "id": "464239-2026",
-      "ref": "464239-2026",
-      "acheteur": "Diamant-groep",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Softwarebroker",
-      "description": "Softwarebroker De geschatte opdrachtwaarde bedraagt gemiddeld circa € 600.000,00 excl. BTW per jaar. Dit is echter wel een indicatie. Hier kunnen dan ook geen rechten aan ontleend worden.",
-      "cpv": "72000000",
-      "pays": "NLD",
-      "deadline": "2026-09-30",
-      "montant": 0,
-      "publication": "2026-07-06",
+      "id": "487797-2026",
+      "ref": "487797-2026",
+      "acheteur": "Ville d'Échirolles",
+      "objet": "France – Services de formation en matière de sécurité – FORMATION DE PREVENTION HYGIENE, SANTE ET SECURITE AU TRAVAIL DU PERSONNEL DE LA COMMUNE D'ECHIROLLES",
+      "description": "Conduite d'engins de chantier et de levage / Autorisation d'intervention à proximité des réseaux (AIPR)&amp;lt;br/&amp;gt; / Habilitations Electriques&amp;lt;br/&amp;gt; / Travail en hauteur&amp;lt;br/&amp;gt; / Secourisme et sécurité routière&amp;lt;br/&amp;gt; / Incendie et évacuation&amp;lt;br/&amp;gt; / Gestes et postures&amp;lt;br/&amp;gt; / Permis&amp;lt;br/&amp;gt; / Certificat d'Aptitude au Travail en Espaces Confinés (CATEC)&amp;lt;br/&amp;gt; / ATmosphère EXplosive (ATEX)&amp;lt;br/&amp;gt; / Grimpeur-se Sauveteur-se dans l'Arbre (GSA) / Certiphyto&amp;lt;br/&amp;gt; / Amiante sous section 4&amp;lt;br/&amp;gt; / Certibiocide&amp;lt;br/&amp;gt;",
+      "cpv": "80330000",
+      "pays": "FRA",
+      "deadline": "2026-09-01",
+      "montant": 992,
+      "publication": "2026-07-15",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/464239-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/487797-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Word"
+        "habilitation"
       ],
-      "bureautique": true,
-      "score": 67,
+      "bureautique": false,
+      "score": 65,
       "score_detail": {
-        "fit": 30,
-        "size": 8,
+        "fit": 25,
+        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -299,37 +299,6 @@
       "segment": "ESR",
       "keyword_hits": [
         "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "464555-2026",
-      "ref": "464555-2026",
-      "acheteur": "Société des grands projets",
-      "objet": "France – Services de conseil en analyse d'exploitation – Conseil au pilotage de la DSI de la SGP",
-      "description": "Les prestations attendues dans ce lot couvrent les réflexions concernant une vision long terme de l’organisation de la DSI afin d’en optimiser son pilotage et de maximiser la valeur des services fournis. Ces prestations ont le plus souvent pour origine des besoins exprimés au plus haut niveau de la SGP ou de ses tutelles mais peuvent être issues de réflexions au niveau de la DSI et de sa gouvernance. Ces commandes peuvent intervenir par exemple dans le cadre de la mise en place, de la refonte d’organisations, de la création d’une nouvelle entité, de la revue de mission/services ou de périmètre d’intervention, etc. Elles peuvent revêtir différentes formes, en fonction de la maturité de la réflexion. S’appuyant sur des faits orientés ou non, les prestations de conseil demandées apportent un éclairage au DSI en charge de la prise de décision. Elles contiennent notamment :  - La définition fine des enjeux et du niveau d’ambition du sujet, intégrant le cas échéant des scénarii alternatifs ;  - La définition de scénarios de gouvernance, intégrant notamment l’analyse des impacts sur l’organisation de la DSI, à divers horizons de temps ;  - La qualification de l’ensemble des moyens nécessaires, humains, techniques et financiers, à la mise en œuvre des scénarios et du niveau d’effort requis pour chaque scénario (ex : communication et accompagnement, moyens techniques, prérequis juridiques, impacts organisationnels, impacts sur les métiers et les modes de fonctionnement, besoins d’accompagnement technique et humain) ; - L’identification des facteurs clefs de succès de mise en œuvre, des risques associés ou interdépendances / zones d’adhérence et des modalités de suivi (indicateurs de performance et de résultats) ; - La préparation de l’exécution, notamment par la fourniture d’une feuille de route intégrant les différentes dimensions du projet. Cette feuille de route doit permettre la prise de décisions stratégiques ; - Le pilotage et la préparation à la prise de décision, notamment par la production de tout support de synthèse adapté à la prise de décision (présentations, tableurs ou tout autre support équivalent). / Ce lot est destiné à traduire de façon opérationnelle un changement ou une évolution déjà définie par la DSI de la SGP, fixer les objectifs associés, définir un chemin pour y parvenir, évaluer le dimensionnement, le coût, l’impact prévisionnel, préparer le démarrage du projet et accompagner son déploiement. Chaque prestation intègre le champ de contraintes propres aux organisations concernées par le projet en association avec les parties prenantes. / Ce lot a pour objet la réalisation d’audits pouvant porter sur les différents domaines couverts par la DSI de la SGP, hors audits de sécurité et audits techniques. Plusieurs types d’audits opérationnels sont envisagés : - Audits portant sur un processus ou un ensemble de processus ; - Audits portant sur tout ou partie d’un projet ; - Audits portant sur tout ou partie d’un document ; - Audits portant sur tout ou partie d’un outillage. / Ce lot a vocation à soutenir les actions d’accompagnement au changement menées par la DSI de la SGP. L’objectif est d’optimiser l’information et l’adhésion de la SGP et ses partenaires aux applications et processus de la DSI en recourant, notamment, à une méthodologie d’ingénierie, itérative et innovante intitulée MAC (Modèle d’Accompagnement au Changement). A ce titre, la finalité est d’accompagner les opérations d’optimisation ou de mise en place de nouveaux processus de travail, outils, gouvernance, politiques ou chartes. Ces processus peuvent être des processus opérationnels relatifs à la délivrance des services de la DSI à la SGP ou s’attacher à des dispositifs de Pilotage de la Direction. Les prestations attendues couvrent l’ensemble des phases d’analyse, de conception et de mise en œuvre de la stratégie d’accompagnement du changement.",
-      "cpv": "72221000",
-      "pays": "FRA",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-07-06",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/464555-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "tableur"
       ],
       "bureautique": true,
       "score": 65,
@@ -472,37 +441,6 @@
         "com": 5,
         "admin": 7,
         "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "460867-2026",
-      "ref": "460867-2026",
-      "acheteur": "REGION BOURGOGNE-FRANCHE-COMTE",
-      "objet": "France – Services de formation – PPSMJ 2027",
-      "description": "Une action de formation certifiante dans le domaine du bâtiment second œuvre - travaux de finitions - maintenance des bâtiments. 300 h réalisées par l'OF. - Validation totale ou partielle d'un titre, diplôme ou certificat, - Certification Sauveteur Secouriste du Travail (SST), - Habilitation échafaudage - sensibilisation aux travaux en hauteur et aux règles de sécurité. / Une action de formation certifiante dans le domaine du nettoyage industriel / propreté et hygiène des locaux. 240 h réalisées par l'OF. - Validation totale ou partielle d'un titre, diplôme ou certificat, - Certification Sauveteur Secouriste du Travail (SST). / Une action de formation certifiante dans le domaine de la cuisine / restauration collective. 504 h réalisées par l'OF. 12 h découverte métier à l'extérieur, pour les personnes permissionnables. 28 h de stage en entreprise, pour les personnes permissionnables. - Validation totale ou partielle d'un titre, diplôme ou certificat, - Certification Sauveteur Secouriste du Travail (SST). - Attestation de formation spécifique en Hygiène alimentaire adaptée à l’activité des établissements de restauration commerciale / Une action de formation certifiante dans le domaine de la logistique. 252 h réalisées par l'OF. - Validation totale ou partielle d'un titre, diplôme ou certificat, - Certification Sauveteur Secouriste du Travail (SST). - CACES R489 catégories 1B, 3 et 5. Les validations des CACES R489 catégories 1B, 3 et 5 devront se faire à l'extérieur de l'établissement pénitentiaire. / Une action de formation certifiante dans le domaine du commerce et de la vente. 270 h réalisées par l'OF. 30 h animées par l'ULE (Unité Locale Enseignement). 35 h de stage en entreprise, pour les personnes permissionnables. - Validation totale ou partielle d'un titre, diplôme ou certificat, - Certification Sauveteur Secouriste du Travail (SST). / Une action de formation préqualifiante dans le domaine du second œuvre - travaux de finitions du bâtiment, permettant l'acquisition du socle de connaissances et de compétences professionnelles. 250 h réalisées par l'OF. 40 h réalisées par l'ULE (Unité Locale Enseignement). - Validation totale ou partielle de la certification CléA - Certification Sauveteur Secouriste du Travail (SST). / Une action de formation dans le domaine de la logistique.Cette action pourra donner lieu à une certification dans le domaine de la logistique. 180 h réalisées par l'OF. 35 h de stage en entreprise, pour les personnes permissionnables. - Certification Sauveteur Secouriste du Travail (SST). - CACES R489 catégories 1B et 3. Les validations des CACES R489 catégories 1B et 3 devront se faire à l'extérieur de l'établissement pénitentiaire. / Une action de formation certifiante dans le domaine du nettoyage industriel / propreté et hygiène des locaux. 240 h réalisées par l'OF. 40 h réalisées par l'ULE (Unité Locale Enseignement). - Validation totale ou partielle d'un titre, diplôme ou certificat, - Certification Sauveteur Secouriste du Travail (SST). / Une action de formation certifiante, à raison de 2 sessions dans l'année, visant une validation du socle de connaissances et de compétences professionnelles. 130 h réalisées par l'OF. 100 h réalisées par l'ULE (Unité Locale Enseignement). 9 h de co-intervention OF + ULE en présence des stagiaires - Validation totale ou partielle de la certification CléA, - Certification Sauveteur Secouriste du Travail (SST). / Une action de formation dans le domaine des espaces verts. Cette action pourra permettre d'obtenir une certification technique associée au métier. 300 h réalisées par l'OF. 50 h réalisées par l'ULE (Unité Locale Enseignement). - Certification Sauveteur Secouriste du Travail (SST). / Une action de formation certifiante visant une validation du socle de connaissances et de compétences professionnelles. 224 h réalisées par l'OF, dont 24 h en sous-groupe dans le cadre de mises en œuvre techniques. - Validation totale ou partielle de la certification CléA, - Certification Sauveteur Secouriste du Travail (SST). / Une action de formation certifiante dans le domaine du nettoyage industriel / propreté et hygiène des locaux. 250 h réalisées par l'OF. 50 h réalisées par l'ULE (Unité Locale Enseignement). - Validation totale ou partielle de blocs de compétences, titre, diplôme ou certificat, - Certification Sauveteur Secouriste du Travail (SST). / Une action de formation certifiante dans le domaine de la cuisine / restauration collective. 504 h réalisées par l'OF. - Validation totale ou partielle de blocs de compétences, titre, diplôme ou certificat, - Attestation de formation spécifique en hygiène alimentaire adaptée à l’activité des établissements de restauration commerciale. - Certification Sauveteur Secouriste du Travail (SST).",
-      "cpv": "80500000",
-      "pays": "FRA",
-      "deadline": "2026-09-11",
-      "montant": 0,
-      "publication": "2026-07-06",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/460867-2026",
-      "segment": "Collectivités",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "bureautique": false,
-      "score": 62,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
       },
       "score_status": "cond",
       "notes": "",

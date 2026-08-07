@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-08-06T08:32:40.717Z",
+  "generated_at": "2026-08-07T07:12:56.353Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 16,
+      "matched": 15,
       "go": 0,
-      "generated_at": "2026-08-06T08:25:38.114Z"
+      "generated_at": "2026-08-07T07:06:03.572Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 2,
       "go": 0,
-      "generated_at": "2026-08-06T08:32:40.042Z"
+      "generated_at": "2026-08-07T07:12:55.802Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-08-06T08:32:40.585Z"
+      "generated_at": "2026-08-07T07:12:56.206Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 18,
+  "total_matched": 17,
   "total_go": 0,
   "total_dedup_collisions": 0,
   "dedup_breakdown": {
@@ -34,6 +34,68 @@
     "fuzzy_jaccard": 0
   },
   "notices": [
+    {
+      "id": "490115-2026",
+      "ref": "490115-2026",
+      "acheteur": "Gemeente Rotterdam",
+      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Procesautomatisering Civiele Kunstwerken",
+      "description": "Deze opdracht met kenmerk 1-D-0024204-25 gaat over procesautomatisering van civiele kunstwerken. Deze opdracht richt zich specifiek op het onderhoud en beheer van de procesautomatiseringssystemen van de civiele kunstwerken, met de nadruk op het waarborgen van een stabiele, veilige en betrouwbare werking van de procesautomatiseringssystemen, terwijl tegelijkertijd de ambitie van de aanbestedende dienst op het gebied van cybersecurity wordt gerealiseerd.",
+      "cpv": "72200000",
+      "pays": "NLD",
+      "deadline": "2026-10-20",
+      "montant": 1500,
+      "publication": "2026-07-15",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/490115-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 74,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "492781-2026",
+      "ref": "492781-2026",
+      "acheteur": "Ministerie van Buitenlandse Zaken",
+      "objet": "Pays-Bas – Services de formation pour l'épanouissement de la personnalité – Leergang L&M en leergang coördineren",
+      "description": "Het ministerie van Buitenlandse Zaken (BZ) wil dat haar leidinggevenden en coördinatoren zich verder ontwikkelen om effectief bij te kunnen dragen aan een wendbaar en weerbaar BZ, extern- en resultaatgericht, waarin op inclusieve wijze wordt samengewerkt. Het leer- en ontwikkelprogramma voor formeel leidinggevenden en voor coördinatoren is hierbij essentieel. Idealiter krijgen alle collega’s uit de doelgroepen de mogelijkheid om één van de leergangen te volgen in het eerste jaar in een leidinggevende of coördinerende rol. Dit betekent dat de academie jaarlijks 7 tot 12 uitvoeringen met maximaal 15 deelnemers wil aanbieden. Dit resulteert in een totaal aantal van 105 tot 180 deelnemers per jaar. Van de opdrachtnemer wordt een integrale en professionele dienstverlening verwacht. De intentie is om een raamovereenkomst af te sluiten met één dienstverlener van juli 2026 tot en met juni 2032. 5.040.000,-",
+      "cpv": "80570000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 5040,
+      "publication": "2026-07-16",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/492781-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
     {
       "id": "480167-2026",
       "ref": "480167-2026",
@@ -97,27 +159,27 @@
       "auto": true
     },
     {
-      "id": "468112-2026",
-      "ref": "468112-2026",
-      "acheteur": "GRDF",
-      "objet": "France – Services de conseil en systèmes informatiques – AMOA AMOE développeur SAP",
-      "description": "La Direction des Systèmes d'Information de GRDF dispose actuellement de plusieurs contrats d'assistance à maîtrise d'ouvrage (AMOA) et d'assistance à maîtrise d'œuvre (AMOE) relatifs à l'environnement SAP ISU, arrivant à échéance. Ces prestations contribuent au maintien en condition opérationnelle, à la maintenance évolutive et corrective ainsi qu'à la transformation du SI OMEGA, système critique au cœur des activités de GRDF. La présente consultation a pour objet le renouvellement de ces prestations afin d'assurer la continuité des activités, de sécuriser les compétences SAP ISU et de permettre la réalisation des projets d'évolution du système d'information. Le marché vise à mettre à disposition de GRDF des profils experts AMOA et AMOE intervenant sur les technologies SAP ISU afin de couvrir notamment les activités suivantes : pilotage fonctionnel et technique, recueil et analyse des besoins, rédaction des spécifications, accompagnement des métiers, conception, développement, paramétrage, recette, gestion des incidents et support aux utilisateurs. Les prestations attendues devront permettre : d'assurer le maintien en condition opérationnelle des applications SAP ISU ; de réaliser les évolutions fonctionnelles et techniques du SI ; d'accompagner les projets de transformation et de modernisation du système d'information ; de garantir la qualité de service, la fiabilité des données et la continuité des opérations ; de renforcer les capacités de pilotage et d'expertise de la DSI sur les domaines SAP concernés. Le titulaire interviendra sous la forme de prestations d'assistance à maîtrise d'ouvrage et/ou d'assistance à maîtrise d'œuvre réalisées en étroite collaboration avec les équipes GRDF. Le présent lot (LOT 1) concerne : Lot 1 : Prestations d'Assistance à Maîtrise d'Ouvrage (AMOA) SAP ISU ; Merci de joindre impérativement à votre dossier de candidature les documents listés ci-dessous. Ils doivent être fournis par le candidat et par chaque membre du groupement en cas de candidature groupée : A01 : Formulaire DC1 ou lettre de candidature. En cas de candidature groupée, chaque membre du groupement renseigne le formulaire DC1, et produit les renseignements ou documents demandés par l’acheteur. A02 : Formulaire DC2, comportant l’ensemble des renseignements et documents demandés au titre des sections. En cas d’allotissement, ce document doit être fourni pour chacun des lots de la consultation. En cas de candidature groupée, il est fourni par chaque membre du groupement. A03 : Les pouvoirs habilitant le signataire à engager le candidat individuel ou chaque membre du groupement (pouvoir d’engagement). A04 : Attestation de régularité fiscale. A05 : Attestations de régularité sociale. A06 : Attestation d’assurance de responsabilité civile professionnelle, couvrant les activités professionnelles en rapport avec l’objet de la consultation. (Attestation RC). A07 : Immatriculation (Numéro SIREN). A08 : Liasses fiscales des 3 derniers exercices. A09 : Attestation de non-condamnation. A10 : DUME (Si pas de DC1/DC2). A11 : Références A12 : Copie du jugement d’ouverture du redressement judiciaire et du plan de continuité d’activité, si le candidat fait l’objet d’une telle procédure, A13 : Le cadre de réponse « 26-DA-PROC14129_cadre de réponse de candidature » dument remplie au format word. Merci de respecter la numérotation « A01, A02, … » dans le nom des documents fournis. A13b : Le fichier de réponse nommé 26-DA-PROC14129-REPONSE TECHNIQUE_NOMSOCIETE_LOT1OU2 La phase dites RFI sera noté via ces critères : 1- Les capacités techniques et professionnelles, à développer en Point E du présent dossier de demande de participation (pondération 80%). Moyens humains de l’entreprise en lien avec l’objet du marché Pondération 35% Moyen technique de l'entreprise en lien avec l'objet du marché Pondération 35% Qualité et pertinence de 3 références datant de moins de 3 ans, en lien avec l’objet du marché concerné. Pondération 30% 2- Les capacités économiques et financières, à compléter au Point D du présent dossier de demande de participation (pondération 20%). Ces capacités seront appréciées au regard des capacités financières dont dispose le candidat pour assurer la bonne et complète exécution de l'objet du présent avis de marché : Evolution du Ratio EBITDA sur le Chiffre d’affaires sur les derniers exercices (2024/2023/2022) Pondération 35% Evolution du cash-flow opérationnel sur les 3 dernières exercices. (2024/2023/2022) Pondération 30% Evolution du taux d’endettement sur les 3 derniers exercices. (2024/2023/2022) Pondération 35% / La Direction des Systèmes d'Information de GRDF dispose actuellement de plusieurs contrats d'assistance à maîtrise d'ouvrage (AMOA) et d'assistance à maîtrise d'œuvre (AMOE) relatifs à l'environnement SAP ISU, arrivant à échéance. Ces prestations contribuent au maintien en condition opérationnelle, à la maintenance évolutive et corrective ainsi qu'à la transformation du SI OMEGA, système critique au cœur des activités de GRDF. La présente consultation a pour objet le renouvellement de ces prestations afin d'assurer la continuité des activités, de sécuriser les compétences SAP ISU et de permettre la réalisation des projets d'évolution du système d'information. Le marché vise à mettre à disposition de GRDF des profils experts AMOA et AMOE intervenant sur les technologies SAP ISU afin de couvrir notamment les activités suivantes : pilotage fonctionnel et technique, recueil et analyse des besoins, rédaction des spécifications, accompagnement des métiers, conception, développement, paramétrage, recette, gestion des incidents et support aux utilisateurs. Les prestations attendues devront permettre : d'assurer le maintien en condition opérationnelle des applications SAP ISU ; de réaliser les évolutions fonctionnelles et techniques du SI ; d'accompagner les projets de transformation et de modernisation du système d'information ; de garantir la qualité de service, la fiabilité des données et la continuité des opérations ; de renforcer les capacités de pilotage et d'expertise de la DSI sur les domaines SAP concernés. Le titulaire interviendra sous la forme de prestations d'assistance à maîtrise d'ouvrage et/ou d'assistance à maîtrise d'œuvre réalisées en étroite collaboration avec les équipes GRDF. Le présent lot (LOT 2) concerne : Lot 2 : Prestations d'Assistance à Maîtrise d'Œuvre (AMOE) et Développement SAP ISU. Merci de joindre impérativement à votre dossier de candidature les documents listés ci-dessous. Ils doivent être fournis par le candidat et par chaque membre du groupement en cas de candidature groupée : A01 : Formulaire DC1 ou lettre de candidature. En cas de candidature groupée, chaque membre du groupement renseigne le formulaire DC1, et produit les renseignements ou documents demandés par l’acheteur. A02 : Formulaire DC2, comportant l’ensemble des renseignements et documents demandés au titre des sections. En cas d’allotissement, ce document doit être fourni pour chacun des lots de la consultation. En cas de candidature groupée, il est fourni par chaque membre du groupement. A03 : Les pouvoirs habilitant le signataire à engager le candidat individuel ou chaque membre du groupement (pouvoir d’engagement). A04 : Attestation de régularité fiscale. A05 : Attestations de régularité sociale. A06 : Attestation d’assurance de responsabilité civile professionnelle, couvrant les activités professionnelles en rapport avec l’objet de la consultation. (Attestation RC). A07 : Immatriculation (Numéro SIREN). A08 : Liasses fiscales des 3 derniers exercices. A09 : Attestation de non-condamnation. A10 : DUME (Si pas de DC1/DC2). A11 : Références A12 : Copie du jugement d’ouverture du redressement judiciaire et du plan de continuité d’activité, si le candidat fait l’objet d’une telle procédure, A13 : Le cadre de réponse « 26-DA-PROC14129_cadre de réponse de candidature » dument remplie au format word. Merci de respecter la numérotation « A01, A02, … » dans le nom des documents fournis. A13b : Le fichier de réponse nommé 26-DA-PROC14129-REPONSE TECHNIQUE_NOMSOCIETE_LOT1OU2 La phase dites RFI sera noté via ces critères : 1- Les capacités techniques et professionnelles, à développer en Point E du présent dossier de demande de participation (pondération 80%). Moyens humains de l’entreprise en lien avec l’objet du marché Pondération 35% Moyen technique de l'entreprise en lien avec l'objet du marché Pondération 35% Qualité et pertinence de 3 références datant de moins de 3 ans, en lien avec l’objet du marché concerné. Pondération 30% 2- Les capacités économiques et financières, à compléter au Point D du présent dossier de demande de participation (pondération 20%). Ces capacités seront appréciées au regard des capacités financières dont dispose le candidat pour assurer la bonne et complète exécution de l'objet du présent avis de marché : Evolution du Ratio EBITDA sur le Chiffre d’affaires sur les derniers exercices (2024/2023/2022) Pondération 35% Evolution du cash-flow opérationnel sur les 3 dernières exercices. (2024/2023/2022) Pondération 30% Evolution du taux d’endettement sur les 3 derniers exercices. (2024/2023/2022) Pondération 35%",
-      "cpv": "72246000",
-      "pays": "FRA",
+      "id": "490833-2026",
+      "ref": "490833-2026",
+      "acheteur": "Gemeente Lansingerland",
+      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Systeemapplicatie Contractenbank",
+      "description": "De opdracht betreft de ontwikkeling en implementatie van een contractenbeheersysteem dat zich richt op contractmanagement, inclusief het beheer, de invoering en het creëren van overzicht. Het doel is om alle contracten (inkoop en niet-inkoop) op één centrale plek te beheren en door te voeren, zodat er een transparante en zorgvuldige uitvoering ontstaat. De scope van de opdracht ziet toe op systeemondersteuning en bijbehorende dienstverlening op het gebied van: Contractbeheer: vanaf het moment van ondertekening (post-signing) waaronder te verstaan het registreren en opslaan van contractinformatie, up-to-date houden van het contractdossier en zorg dragen voor een archiveringsfunctie die voldoet aan wettelijke verplichtingen (Archiefwet). Contractmanagement: waaronder te verstaan het actief managen van de uitvoering van contractuele afspraken in een cyclisch proces (PDCA), waarbij doelstellingen worden vastgesteld, afspraken worden nagekomen, de voortgang wordt gemonitord en eventuele afwijkingen worden gecorrigeerd en verbetermaatregelen worden genomen. Het doel is de effectiviteit van de contractuitvoering te waarborgen en continu te verbeteren. Leveranciersmanagement: waaronder te verstaan het beheren van leveranciersinformatie op een gestructureerde manier, zodat leveranciersrelaties effectief kunnen worden gemanaged. Met focus op het optimaal beheren van het gehele leveranciersportfolio. In deze aanbesteding wordt een prijsbandbreedte gehanteerd waarbinnen inschrijvers hun prijs mogen indienen. Deze prijsbandbreedte wordt vastgesteld op jaarbasis. Voor het jaarlijks tarief geldt een ondergrens en een bovengrens: Ondergrens eerste jaar: € 60.000 Bovengrens eerste jaar: € 115.000 Inschrijvingen met een aangeboden prijs die hoger is dan de bovengrens van de prijsbandbreedte worden ongeldig verklaard en van verdere beoordeling uitgesloten. Het is toegestaan een prijs in te dienen die onder de ondergrens van de prijsbandbreedte ligt.",
+      "cpv": "72200000",
+      "pays": "NLD",
       "deadline": "",
-      "montant": 14500,
-      "publication": "2026-07-07",
+      "montant": 312,
+      "publication": "2026-07-16",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/468112-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/490833-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
       "bureautique": true,
-      "score": 72,
+      "score": 70,
       "score_detail": {
         "fit": 30,
-        "size": 15,
+        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -150,69 +212,6 @@
         "fit": 30,
         "size": 13,
         "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "465810-2026",
-      "ref": "465810-2026",
-      "acheteur": "Provincie Drenthe",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – ICT - beheer Drents Museum",
-      "description": "Het Drents Museum wil het beheer van de ICT-omgevingen opnieuw aanbesteden en onderbrengen bij één leverancier. De leverancier beheert de omgevingen, biedt daarnaast ondersteuning bij technische en functionele aanpassingen en heeft voldoende kennis beschikbaar om kwaliteit, veiligheid, continuïteit, innovatie en toekomstvastheid van de ICT-omgevingen te borgen. Op grond van artikel 2.57a van de Aanbestedingswet 2012 worden enkele documenten niet openbaar gepubliceerd via TenderNed/Mercell. Openbaarmaking van deze documenten zou de beveiliging van de ICT omgeving, de openbare orde of de bedrijfscontinuïteit van het Drents Museum kunnen schaden. Het betreft documenten met informatie waarvan ongecontroleerde verspreiding risico’s met zich meebrengt. De volgende bijlagen worden daarom niet openbaar gepubliceerd en uitsluitend op verzoek beschikbaar gesteld via de berichtenmodule in Mercell: • Bijlage 1 – Programma van Eisen • Bijlage 8 – Beschrijving huidige situatie • Bijlage 9 – Eerstelijns werkzaamheden • Bijlage 10 – Inventarisatie applicaties • Bijlage 11 – SLA ICT beheer Drents Museum Iedere kandidaat-inschrijver kan een verzoek tot inzage indienen en ontvangt, na verificatie van de aanmelding, op gelijke wijze toegang tot dezelfde documenten. De documenten worden onder vertrouwelijkheid verstrekt en mogen niet verder worden verspreid.",
-      "cpv": "72000000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 625,
-      "publication": "2026-07-07",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/465810-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "465853-2026",
-      "ref": "465853-2026",
-      "acheteur": "Stichting ROC Midden Nederland",
-      "objet": "Pays-Bas – Services de programmation de progiciels – Aankondiging van vrijwillige transparantie vooraf geïntegreerd softwarepakket e-HRM en Finance",
-      "description": "ROC MN is op zoek naar een op elkaar afgestemde oplossing voor de Financiële- en HRM administratie waarbij het volgende gerealiseerd dient te worden: • Financiële administratie o Integratie met andere modules zoals Human Resource Management (HRM), Payroll en Materiële vaste activa (MVA). o Mogelijkheden voor koppeling met andere systemen zoals het Gegevens Uitwisselings Platform (= GUP, het Operationele Data Store-systeem van ROCMN), Spend Cloud (voor processen van bestellen tot betalen en contractbeheer), EduArte (studenten informatiesysteem) en SURFConext (voor ‘single sign on’ inloggen). o Rapportagemogelijkheden voor financiële analyses en budgettering. o Geautomatiseerde terugkerende financiële processen. o Ondersteunen van meerdere verbijzonderingsdimensies (en vrije velden). o Mogelijkheid tot exporteren naar Excel vanuit de hoofdfunctionaliteiten (grootboekadministratie inclusief grootboek en alle dimensies). o UBD Aangifte (IB47) aanmaken, controleren en rechtstreeks doorsturen naar de Belastingdienst. o Voldoen aan de laatste (fiscale) wet- en regelgeving. • HRM o Intuïtieve gebruikersinterface met een zelfservice-optie voor zowel medewerkers) als managers om zelf gegevens te beheren en aanvragen in te dienen. o Tools voor prestatiebeoordelingen en talentontwikkeling. o Mogelijkheid tot exporteren naar Excel vanuit de hoofdfunctionaliteiten. o Voldoen aan (laatste) arbeidswetgeving en privacyregels. o Automatisch doorsturen van de verschillende wettelijke HRM-gerelateerde aangiftes, zoals loonheffing, pensioen, etc. o Dashboardmogelijkheden voor HRM-gerelateerde analyses, zoals verzuim en de wettelijk verplichte CO2-registratie. o Mogelijkheden voor koppeling met andere systemen zoals StudyTube (een leerplatform voor medewerkers), Applicant Tracking System (ATS), arbodienst, etc. o Automatische installering van cao-updates, nieuwe versies, patches en wettelijke wijzigingen. • Payroll o Betrouwbare en nauwkeurige salarisverwerking. o Gedetailleerde salarisrapportages en analyses o Koppeling met HRM-systeem en Financiële administratie. o Geautomatiseerde controles als gevolg van fiscale en arbeidsrechtelijke verplichtingen. o Voldoen aan fiscale en arbeidsrechtelijke verplichtingen. • CRM o Effectief beheer van relaties met studenten, medewerkers en externe partners. o Koppeling met andere modules zoals HRM en Projecten. o Inzicht in klantgedrag en -behoeften. o Dossiervastlegging, inclusief vastlegging van dossier gekoppeld vanuit declaraties modules van intern personeel en externen. • Workflows en AI o Automatiseren van administratieve processen en workflows, inclusief ingerichte goedkeuringsworkflows. o Integratie met andere modules, zoals Human Resource Management (HRM), Payroll en Materiële vaste activa (MVA). • Dashboards o Realtime inzicht in belangrijke prestatie-indicatoren. o Mogelijkheid om dashboards aan te passen aan de behoeften van verschillende gebruikers. o Eenvoudige navigatie en visualisatie van gegevens. • Documentenbeheer o Veilige opslag en beheer van documenten. o Gemakkelijke toegang tot documenten voor bevoegde gebruikers. o Koppeling met andere modules zoals HRM en Projecten. o Voldoen aan regelgeving omtrent gegevensbescherming. • Projecten o Tools voor projectplanning en -beheer. o Gedetailleerde projectrapportages en voortgangsanalyses. o Koppeling met financiële en HRM-systemen. o Faciliteren van samenwerking tussen projectteams. • Organisatiestructuur o Duidelijke visualisatie van de organisatiestructuur. o Eenvoudig beheer en bijwerken van het organigram. o Koppeling met HRM-systemen voor actuele gegevens. o Intuïtieve interface voor het beheren van de organisatiestructuur. Op basis van de uitgaven in voorgaande 4 jaren verwachten wij een omvang van de opdracht van € 650k inclusief BTW.",
-      "cpv": "72210000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-07-07",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/465853-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Excel",
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 67,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 14,
         "com": 5,
         "admin": 7,
         "delay": 3
@@ -400,37 +399,6 @@
       "segment": "Autre",
       "keyword_hits": [
         "Excel"
-      ],
-      "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "468149-2026",
-      "ref": "468149-2026",
-      "acheteur": "Deutsche Gesetzliche Unfallversicherung e.V.",
-      "objet": "Allemagne – Services de programmation et de conseil en logiciels – Open Text",
-      "description": "Die im AG Umfeld eingesetzte ECM Software - xECM (Content Server) 24.1 der Firma O-penText unterliegt ständigen Anpassungen und funktionalen Erweiterung und muss regelmä-ßig gewartet und aktualisiert werden. Der AG setzt im Kollaborationsteil des Content Ma-nagement vermehrt auf Funktionen und Software aus M365 im Cloudbetrieb. Die beiden Sys-teme sollen zukünftig über die OpenText Office 365-Integration miteinander verbunden wer-den. Die Beratungs- und Unterstützungsleistungen umfassen",
-      "cpv": "72200000",
-      "pays": "DEU",
-      "deadline": "2026-08-06",
-      "montant": 0,
-      "publication": "2026-07-07",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/468149-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Office 365"
       ],
       "bureautique": true,
       "score": 62,

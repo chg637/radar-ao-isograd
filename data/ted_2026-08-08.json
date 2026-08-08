@@ -1,52 +1,55 @@
 {
-  "generated_at": "2026-08-08T06:48:35.911Z",
-  "source": "MERGE",
-  "sources_summary": {
-    "TED": {
-      "present": true,
-      "fetched": 500,
-      "matched": 24,
-      "go": 0,
-      "generated_at": "2026-08-08T06:41:40.671Z"
-    },
-    "BOAMP": {
-      "present": true,
-      "fetched": 3000,
-      "matched": 2,
-      "go": 0,
-      "generated_at": "2026-08-08T06:48:35.331Z"
-    },
-    "Profil": {
-      "present": true,
-      "fetched": 0,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-08-08T06:48:35.783Z"
-    }
-  },
-  "total_fetched": 3500,
+  "generated_at": "2026-08-08T06:41:40.671Z",
+  "source": "TED",
+  "window_days": 30,
+  "total_fetched": 500,
   "total_matched": 24,
   "total_go": 0,
-  "total_dedup_collisions": 2,
-  "dedup_breakdown": {
-    "by_id": 0,
-    "fuzzy_signature": 1,
-    "fuzzy_jaccard": 1
-  },
   "notices": [
     {
-      "id": "497445-2026",
-      "ref": "497445-2026",
+      "id": "490115-2026",
+      "ref": "490115-2026",
+      "acheteur": "Gemeente Rotterdam",
+      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Procesautomatisering Civiele Kunstwerken",
+      "description": "Deze opdracht met kenmerk 1-D-0024204-25 gaat over procesautomatisering van civiele kunstwerken. Deze opdracht richt zich specifiek op het onderhoud en beheer van de procesautomatiseringssystemen van de civiele kunstwerken, met de nadruk op het waarborgen van een stabiele, veilige en betrouwbare werking van de procesautomatiseringssystemen, terwijl tegelijkertijd de ambitie van de aanbestedende dienst op het gebied van cybersecurity wordt gerealiseerd.",
+      "cpv": "72200000",
+      "pays": "NLD",
+      "deadline": "2026-10-20",
+      "montant": 1500,
+      "publication": "2026-07-15",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/490115-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 74,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "496562-2026",
+      "ref": "496562-2026",
       "acheteur": "EJIE, S.A. - Sociedad Informática del Gobierno Vasco - EJIE-Sociedad Informática del Gobierno Vasco",
-      "objet": "Espagne – Services de conseil en systèmes informatiques – Servicio de Centro de Excelencia Cloud para EJIE",
-      "description": "Servicio de Centro de Excelencia Cloud para EJIE",
+      "objet": "Espagne – Services de conseil en systèmes informatiques – Servicio de Centro de Excelencia IA para EJIE",
+      "description": "Servicio de Centro de Excelencia IA para EJIE",
       "cpv": "72246000",
       "pays": "ESP",
-      "deadline": "2026-09-11",
-      "montant": 3812,
+      "deadline": "2026-09-14",
+      "montant": 4984,
       "publication": "2026-07-17",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/497445-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/496562-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Excel"
@@ -97,21 +100,21 @@
       "auto": true
     },
     {
-      "id": "490115-2026",
-      "ref": "490115-2026",
-      "acheteur": "Gemeente Rotterdam",
-      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Procesautomatisering Civiele Kunstwerken",
-      "description": "Deze opdracht met kenmerk 1-D-0024204-25 gaat over procesautomatisering van civiele kunstwerken. Deze opdracht richt zich specifiek op het onderhoud en beheer van de procesautomatiseringssystemen van de civiele kunstwerken, met de nadruk op het waarborgen van een stabiele, veilige en betrouwbare werking van de procesautomatiseringssystemen, terwijl tegelijkertijd de ambitie van de aanbestedende dienst op het gebied van cybersecurity wordt gerealiseerd.",
-      "cpv": "72200000",
-      "pays": "NLD",
-      "deadline": "2026-10-20",
-      "montant": 1500,
-      "publication": "2026-07-15",
+      "id": "497445-2026",
+      "ref": "497445-2026",
+      "acheteur": "EJIE, S.A. - Sociedad Informática del Gobierno Vasco - EJIE-Sociedad Informática del Gobierno Vasco",
+      "objet": "Espagne – Services de conseil en systèmes informatiques – Servicio de Centro de Excelencia Cloud para EJIE",
+      "description": "Servicio de Centro de Excelencia Cloud para EJIE",
+      "cpv": "72246000",
+      "pays": "ESP",
+      "deadline": "2026-09-11",
+      "montant": 3812,
+      "publication": "2026-07-17",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/490115-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/497445-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Word"
+        "Excel"
       ],
       "bureautique": true,
       "score": 74,
@@ -122,37 +125,6 @@
         "com": 5,
         "admin": 7,
         "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "492781-2026",
-      "ref": "492781-2026",
-      "acheteur": "Ministerie van Buitenlandse Zaken",
-      "objet": "Pays-Bas – Services de formation pour l'épanouissement de la personnalité – Leergang L&M en leergang coördineren",
-      "description": "Het ministerie van Buitenlandse Zaken (BZ) wil dat haar leidinggevenden en coördinatoren zich verder ontwikkelen om effectief bij te kunnen dragen aan een wendbaar en weerbaar BZ, extern- en resultaatgericht, waarin op inclusieve wijze wordt samengewerkt. Het leer- en ontwikkelprogramma voor formeel leidinggevenden en voor coördinatoren is hierbij essentieel. Idealiter krijgen alle collega’s uit de doelgroepen de mogelijkheid om één van de leergangen te volgen in het eerste jaar in een leidinggevende of coördinerende rol. Dit betekent dat de academie jaarlijks 7 tot 12 uitvoeringen met maximaal 15 deelnemers wil aanbieden. Dit resulteert in een totaal aantal van 105 tot 180 deelnemers per jaar. Van de opdrachtnemer wordt een integrale en professionele dienstverlening verwacht. De intentie is om een raamovereenkomst af te sluiten met één dienstverlener van juli 2026 tot en met juni 2032. 5.040.000,-",
-      "cpv": "80570000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 5040,
-      "publication": "2026-07-16",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/492781-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -221,19 +193,50 @@
       "auto": true
     },
     {
-      "id": "495895-2026",
-      "ref": "495895-2026",
-      "acheteur": "Gemeente Venlo",
-      "objet": "Pays-Bas – Feux de circulation – Raamovereenkomst voor het leveren van verkeersregeltoestellen en verkeerslantaarns",
-      "description": "De opdracht betreft het leveren van verkeersregeltoestellen en verkeerslantaarns, inclusief bijkomende werkzaamheden. Daarnaast wordt een servicecontract gesloten met dezelfde Inschrijver voor het correctief en preventief onderhoud van de geleverde verkeersregelautomaten. Deze opdracht betreft een raamovereenkomst met een verwachte omvang van 7 verkeersregeltoestellen en de bijbehorende verkeerslantaarns van de betreffende kruispunten. De maximale omvang over de totale looptijd van de raamovereenkomst bedraagt 9 verkeersregeltoestellen en de bijbehorende verkeerslantaarns van de betreffende kruispunten. Indien de maximale omvang is bereikt, eindigt de raamovereenkomst. De omvang van het servicecontract bedraagt ongeveer €45.000,- exclusief btw per jaar. Dit bedrag is gebaseerd op historische gegevens en betreft een indicatief bedrag. De gemeente Venlo geeft geen (omzet)garanties. U kunt aan deze gegevens dan ook geen (impliciete) verwachtingen en/of rechten ontlenen.",
-      "cpv": "34996100",
+      "id": "492781-2026",
+      "ref": "492781-2026",
+      "acheteur": "Ministerie van Buitenlandse Zaken",
+      "objet": "Pays-Bas – Services de formation pour l'épanouissement de la personnalité – Leergang L&M en leergang coördineren",
+      "description": "Het ministerie van Buitenlandse Zaken (BZ) wil dat haar leidinggevenden en coördinatoren zich verder ontwikkelen om effectief bij te kunnen dragen aan een wendbaar en weerbaar BZ, extern- en resultaatgericht, waarin op inclusieve wijze wordt samengewerkt. Het leer- en ontwikkelprogramma voor formeel leidinggevenden en voor coördinatoren is hierbij essentieel. Idealiter krijgen alle collega’s uit de doelgroepen de mogelijkheid om één van de leergangen te volgen in het eerste jaar in een leidinggevende of coördinerende rol. Dit betekent dat de academie jaarlijks 7 tot 12 uitvoeringen met maximaal 15 deelnemers wil aanbieden. Dit resulteert in een totaal aantal van 105 tot 180 deelnemers per jaar. Van de opdrachtnemer wordt een integrale en professionele dienstverlening verwacht. De intentie is om een raamovereenkomst af te sluiten met één dienstverlener van juli 2026 tot en met juni 2032. 5.040.000,-",
+      "cpv": "80570000",
       "pays": "NLD",
       "deadline": "",
-      "montant": 760,
-      "publication": "2026-07-17",
+      "montant": 5040,
+      "publication": "2026-07-16",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/495895-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/492781-2026",
       "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "477781-2026",
+      "ref": "477781-2026",
+      "acheteur": "Hessische Hochschule für öffentliches Management und Sicherheit",
+      "objet": "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Beschaffung einer SLM-Software",
+      "description": "Beschaffungsgegenstand sind neben der Software insbesondere verschiedenartige Dienstleistungen (Wartung, Pflege, Entwicklungs- und Anpassungsleistungen). Es handelt sich nicht um ein Standardsoftwareprodukt, sondern um eine Individualsoftware, die auf die spezifischen Anforderungen des Auftraggebers zugeschnitten wurde. Es sind umfangreiche Entwicklungs- und Anpassungsleistungen vorgenommen worden.",
+      "cpv": "72000000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 640,
+      "publication": "2026-07-10",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/477781-2026",
+      "segment": "FPH",
       "keyword_hits": [
         "Word"
       ],
@@ -283,19 +286,19 @@
       "auto": true
     },
     {
-      "id": "477781-2026",
-      "ref": "477781-2026",
-      "acheteur": "Hessische Hochschule für öffentliches Management und Sicherheit",
-      "objet": "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Beschaffung einer SLM-Software",
-      "description": "Beschaffungsgegenstand sind neben der Software insbesondere verschiedenartige Dienstleistungen (Wartung, Pflege, Entwicklungs- und Anpassungsleistungen). Es handelt sich nicht um ein Standardsoftwareprodukt, sondern um eine Individualsoftware, die auf die spezifischen Anforderungen des Auftraggebers zugeschnitten wurde. Es sind umfangreiche Entwicklungs- und Anpassungsleistungen vorgenommen worden.",
-      "cpv": "72000000",
-      "pays": "DEU",
+      "id": "495895-2026",
+      "ref": "495895-2026",
+      "acheteur": "Gemeente Venlo",
+      "objet": "Pays-Bas – Feux de circulation – Raamovereenkomst voor het leveren van verkeersregeltoestellen en verkeerslantaarns",
+      "description": "De opdracht betreft het leveren van verkeersregeltoestellen en verkeerslantaarns, inclusief bijkomende werkzaamheden. Daarnaast wordt een servicecontract gesloten met dezelfde Inschrijver voor het correctief en preventief onderhoud van de geleverde verkeersregelautomaten. Deze opdracht betreft een raamovereenkomst met een verwachte omvang van 7 verkeersregeltoestellen en de bijbehorende verkeerslantaarns van de betreffende kruispunten. De maximale omvang over de totale looptijd van de raamovereenkomst bedraagt 9 verkeersregeltoestellen en de bijbehorende verkeerslantaarns van de betreffende kruispunten. Indien de maximale omvang is bereikt, eindigt de raamovereenkomst. De omvang van het servicecontract bedraagt ongeveer €45.000,- exclusief btw per jaar. Dit bedrag is gebaseerd op historische gegevens en betreft een indicatief bedrag. De gemeente Venlo geeft geen (omzet)garanties. U kunt aan deze gegevens dan ook geen (impliciete) verwachtingen en/of rechten ontlenen.",
+      "cpv": "34996100",
+      "pays": "NLD",
       "deadline": "",
-      "montant": 640,
-      "publication": "2026-07-10",
+      "montant": 760,
+      "publication": "2026-07-17",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/477781-2026",
-      "segment": "FPH",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/495895-2026",
+      "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
@@ -376,21 +379,21 @@
       "auto": true
     },
     {
-      "id": "496774-2026",
-      "ref": "496774-2026",
-      "acheteur": "Regisseur Studenten Reisrecht B.V.",
-      "objet": "Pays-Bas – Services de développement de logiciels de communication et de logiciels multimédia – Europese aanbesteding Artificial Intelligence Chatbot (AI-chatbot)",
-      "description": "De scope van de opdracht ziet op het leveren, implementeren, beheren, onderhouden en doorontwikkelen van een AI-chatbotoplossing ter vervanging van de huidige chatbot. De AI-chatbotoplossing dient studenten op een toegankelijke, betrouwbare en efficiënte wijze te ondersteunen en Sessies adequaat af te handelen. Onder de opdracht valt niet alleen de beschikbaarstelling van de oplossing zelf, maar ook de bijbehorende dienstverlening die nodig is om de AI-chatbot gedurende de looptijd goed, veilig en toekomstbestendig te laten functioneren Deze opdracht is niet onderverdeeld in percelen. Aanmelden op een gedeelte van de opdracht is niet toegestaan en leidt tot uitsluiting van verdere deelname aan de aanbestedingsprocedure. De onderhavige opdracht in deze aanbesteding vertegenwoordigt een geschatte opdrachtwaarde van € 96.000,00 exclusief btw per jaar voor het leveren, onderhouden en beheren van de AI-chatbot en inclusief verwerken van 100.000 Sessies. Let op: Deze jaarlijkse opdrachtwaarde is tevens een prijsplafond. Een Gegadigde met een Inschrijving met een prijsindiening in Annex III Prijzenblad waarvan de jaarlijkse kosten hoger zijn dan € 96.000,00 exclusief btw wordt uitgesloten van verdere deelname aan deze aanbesteding.",
-      "cpv": "72212500",
-      "pays": "NLD",
-      "deadline": "",
+      "id": "485195-2026",
+      "ref": "485195-2026",
+      "acheteur": "Ministerium für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz des Landes Brandenburg",
+      "objet": "Allemagne – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Projektmanagement für Leistungen zur Umsetzung des Maßnahmenplans des Landesniedrigwasserkonzeptes 2.0",
+      "description": "Die Leistung setzt sich insbesondere aus folgenden Punkten zusammen: 1) Projektmanagement Das Projektmanagement, steuert und koordiniert aktiv die nachfolgend unter Punkt 2 und ggf. 3 genannten Leistungen über die gesamte Vertragslaufzeit. 2) Weiterführung Flussgebietsarbeit Durch eine intensive Kommunikation des Themas \"Niedrigwasser\" konnte eine breite Aufmerksamkeit und ein Problembewusstsein bei allen lokalen Akteuren erzeugt werden. Die Entscheidungsträger (Wasser-, Naturschutz- und tlw. Landwirtschaftsbehörden der Landkreise / kreisfreien Städte, LfU, einschließlich Großschutzgebiete), die das Wassermanagement operativ steuernden GUV und ggf. weitere Institutionen (Naturschutzverbände, Landschaftspflegeverbände, Natura2000-Teams, VLF, Kommunen, engagierte Einzelpersonen usw.) sind involviert und arbeiten unterschiedlich intensiv an der Thematik mit. 3) Erarbeitung flussgebietsbezogener Bewirtschaftungskonzepte Die sich in der Ideenphase befindlichen 16 Konzepte (Phase 1 und 2) sind gemeinsam mit den Trägern bis zur Antragsreife (Richtlinie LWH) zu entwickeln und die Antragstellung bei der ILB zu begleiten. Weitere mindestes 10 Konzepte sollen - eine erfolgreiche Antragstellung und Mittelverfügbarkeit vorausgesetzt - bei der Bearbeitung begleitet werden. Es bestehen bisher nicht weiterverfolgte weitere Ideen der Akteure zu potenziellen Bewirtschaftungs- bzw. Staukonzepten in allen Flussgebieten tlw. auch von Seiten des LfU für Gewässer 1. Ordnung. Aufgrund einer derzeit nicht genau bekannten Anzahl o.g. Ideen ist die Leistung für 10 Konzepte anzubieten. 4) Qualifizierung und Weiterentwicklung LWH-Vorhaben und Leuchttürmen Mit LWH-Vorhaben sind Vorhaben gemeint, die den Fördergegenständen der Richtlinien LWH (GAK und ELER) des MLEUV entsprechen und die von den Antragstellern zur Förderung aus Drittmitteln vorgesehen sind. Entwicklung von Projekten aus Initiierungsphase (50) bis zu antragsreifer Projektskizze. Entwicklung fortgeschrittene Projekte (100) bis zu antragsreifer Projektskizze . Begleitung abgeschlossener (20) Projekte Begleitung der laufenden Leuchtturmprojekte Initiiierung von neuen Leuchtturmprojekte (z.B. Dränagen) 5) Fachübergreifende Anforderungen Im Rahmen des Erstauftrages wurden bereits diverse fachübergreifende Treffen, Gespräche etc. initiiert und ausgewertet). Diese sog. fachübergreifenden Gespräche mit Akteuren z.B. der Landwirtschaft, des Naturschutzes, der Forst, der Flurneuordnung sowie der Landes- und Regionalplanung sollen federführend durch den Auftragnehmer weitergeführt und im Bereich Siedlungs- und Gewerbegebietsentwicklung / Bau- und Stadtplanung aufgegriffen werden. Vertieft werden soll der Themenbereich Schifffahrt und Wassertourismus hinsichtlich der Wasserbewirtschaftung und möglicher Handlungsspielräume und Entwicklungsperspektiven hin zur Klimaanpassung und zu einem verringerten Wasserdargebot. Im Zusammenhang mit dem Umbau eines Staubauwerkes wurde im Rahmen des Erstauftrages ein umfangreiches, modellgestütztes Werkzeug entwickelt, welches die Auswirkungen veränderter Stauhaltungen auf den Wasserrückhalt quantifiziert. Das Werkzeug erlaubt darüber hinaus eine grafische Darstellung der flächigen Auswirkungen veränderter Wasserstände oberhalb eines Staubauwerkes. Für das Werkzeug wurden vorhandene Modellansätze in die kommerzielle Rechensoftware MS Excel überführt. Ferner wurde eine Schnittstelle programmiert, die eine Darstellung der Ergebnisse in einem GIS-System erlaubt. Die Anwendung des sog. Excel-Tools (Anlage 5: Dokumentation) wurde sowohl durch das LfU als auch durch die NW-Koordinatoren für weitere Projekte in anderen Flussgebieten testweise durchgeführt. Es ist gewünscht, das Excel-Tool (oder ein vergleichbares Instrument) künftig als Werkzeug zur Folgenabschätzung und Visualisierung stärker systematisch einzubinden. 6) Verknüpfung mit dem Moorschutz Moorschutz und Wassermanagement sind inhaltlich eng verwoben, dementsprechend erfolgt MLEUV-intern eine enge organisatorisch-inhaltliche Abstimmung zur Thematik Moorschutz. Bei der Umsetzung des Landesniedrigwasserkonzeptes ist auch auf ein nachhaltiges Moorbodenmanagement zu setzen. Das Moorschutzprogramm Brandenburg bildet den Rahmen für alle Aktivitäten im Zusammenhang mit Mooren. Um eine Synchronisation der Ziele von Moorschutz und Niedrigwasservorsorge bei der Projektentwicklung vor Ort und insbesondere bei der Erarbeitung von Bewirtschaftungskonzepten zu gewährleisten, ist ein fachkundiger Ansprechpartner zu benennen. Dieser sammelt und koordiniert alle moorbezogenen Fragen, begleitet ggf. Ortstermine und steht als zentraler Ansprechpartner zur Verfügung. Die o.g. Flussgebietssteckbriefe sind in enger Zusammenarbeit mit dem LfU um ein Kapitel zum Moorschutz zu ergänzen. 7) Öffentlichkeitsarbeit Ziel des Leistungspunktes ist daher die Entwicklung einer zielgruppenorientierten Kommunikationsstrategie zur Unterstützung der Umsetzung des LNWK 2.0. Die Kommunikationsstrategie soll dazu beitragen, Verständnis, Akzeptanz und Mitwirkung zentraler Akteure bei Maßnahmen der Niedrigwasservorsorge und der -bewältigung zu stärken. Dabei sollen insbesondere Informationsbedarfe, Entscheidungsstrukturen und mögliche Hemmnisse in den relevanten Zielgruppen berücksichtigt werden. Auf Basis der strategischen Konzeption sollen geeignete Kommunikationsmaßnahmen entwickelt, priorisiert und in einem Umsetzungsplan dargestellt werden. Optionale Leistungen: 1) Verbindung wasserbaulicher Maßnahmen mit Agrar-, Umwelt- und Klimamaßnahmen (AUKM) 2) Durchführung ausgewählter Maßnahmen des im Rahmen der Öffentlichkeitsarbeit entwickelten Umsetzungsplanes aus Nr. 7) Im Detail siehe Vergabeunterlagen Teil B - Leistungsbeschreibung Nr. 2 und 3.",
+      "cpv": "71000000",
+      "pays": "DEU",
+      "deadline": "2026-09-04",
       "montant": 0,
-      "publication": "2026-07-17",
+      "publication": "2026-07-14",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/496774-2026",
-      "segment": "Autre",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/485195-2026",
+      "segment": "FPH",
       "keyword_hits": [
-        "Word"
+        "Excel"
       ],
       "bureautique": true,
       "score": 65,
@@ -407,27 +410,27 @@
       "auto": true
     },
     {
-      "id": "497365-2026",
-      "ref": "497365-2026",
-      "acheteur": "Gemeente Oude IJsselstreek",
-      "objet": "Pays-Bas – Services d'enseignement et de formation – Vrijwillige transparantie uitvoering Wet Inburgering 2021 gemeente Oude IJsselstreek",
-      "description": "De volledige uitvoering van de Wet Inburgering 2021. Hier vallen de volgende activiteiten onder: - Het voeren van een brede intake, het afnemen van de leerbaarheidstoets, het opstellen van de PIP, het doen van een passend inburgeringsaanbod. - Het voeren van de regie op het inburgeringstraject voor alle inburgeraars waarbij er één aanspreekpunt is voor de inwoner voor het gehele traject. - Het bieden van activiteiten met als doel te ondersteunen in integratie op verschillende onderwerpen, denk hierbij aan vitaliteit, financiën, digitale vaardigheden, het faciliteren van participatie, het opdoen van werknemersvaardigheden in de eigen beschutte omgeving, het opdoen van werknemersvaardigheden bij reguliere werkgevers, het ontwikkelen van de Nederlandse taal, etc. Hierbij verwacht de gemeente dat deze activiteiten modulair inzetbaar zijn en worden doorontwikkeld binnen de opdracht, passend bij de behoeftes en uitdagingen van de inburgeraars. - Het bieden van taalonderwijs voor de Z-route en de B1-route aan asielmigranten. Waarbij extra aandacht is voor de doelgroep jongeren. - Het bieden van alfabetiseringslessen waar wenselijk. - Het bieden van een voorschakeltraject waar wenselijk. - Het bieden van activiteiten voor het behalen van de participatie uren voor de Z-route. - Het bieden van leerwerktrajecten binnen de eigen organisatie, zoals horeca en logistiek. - Het bieden van een diagnostisch centrum in te zetten om competenties en mogelijkheden inzichtelijk te maken, waar wenselijk. - De inzet van cultuurverbinders, waarbij meerdere culturen vertegenwoordigd zijn. - Het ondersteunen van inburgeraars bij de randvoorwaarden om de inburgering mogelijk te maken, denk aan kinderopvang, reiskosten, het doorverwijzen naar hulpverlenende instanties. - Het functioneren als inkoopcentrale voor de onderdelen die niet zelfstandig worden uitgevoerd. - Het afhandelen van bezwaar en beroep betreffende besluiten Wet Inburgering 2021. - Het bewaken van de kwaliteit van het inburgeringsaanbod.",
-      "cpv": "80000000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-07-17",
+      "id": "487797-2026",
+      "ref": "487797-2026",
+      "acheteur": "Ville d'Échirolles",
+      "objet": "France – Services de formation en matière de sécurité – FORMATION DE PREVENTION HYGIENE, SANTE ET SECURITE AU TRAVAIL DU PERSONNEL DE LA COMMUNE D'ECHIROLLES",
+      "description": "Conduite d'engins de chantier et de levage / Autorisation d'intervention à proximité des réseaux (AIPR)&amp;lt;br/&amp;gt; / Habilitations Electriques&amp;lt;br/&amp;gt; / Travail en hauteur&amp;lt;br/&amp;gt; / Secourisme et sécurité routière&amp;lt;br/&amp;gt; / Incendie et évacuation&amp;lt;br/&amp;gt; / Gestes et postures&amp;lt;br/&amp;gt; / Permis&amp;lt;br/&amp;gt; / Certificat d'Aptitude au Travail en Espaces Confinés (CATEC)&amp;lt;br/&amp;gt; / ATmosphère EXplosive (ATEX)&amp;lt;br/&amp;gt; / Grimpeur-se Sauveteur-se dans l'Arbre (GSA) / Certiphyto&amp;lt;br/&amp;gt; / Amiante sous section 4&amp;lt;br/&amp;gt; / Certibiocide&amp;lt;br/&amp;gt;",
+      "cpv": "80330000",
+      "pays": "FRA",
+      "deadline": "2026-09-01",
+      "montant": 992,
+      "publication": "2026-07-15",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/497365-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/487797-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Word"
+        "habilitation"
       ],
-      "bureautique": true,
+      "bureautique": false,
       "score": 65,
       "score_detail": {
-        "fit": 30,
-        "size": 8,
+        "fit": 25,
+        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -500,27 +503,27 @@
       "auto": true
     },
     {
-      "id": "487797-2026",
-      "ref": "487797-2026",
-      "acheteur": "Ville d'Échirolles",
-      "objet": "France – Services de formation en matière de sécurité – FORMATION DE PREVENTION HYGIENE, SANTE ET SECURITE AU TRAVAIL DU PERSONNEL DE LA COMMUNE D'ECHIROLLES",
-      "description": "Conduite d'engins de chantier et de levage / Autorisation d'intervention à proximité des réseaux (AIPR)&amp;lt;br/&amp;gt; / Habilitations Electriques&amp;lt;br/&amp;gt; / Travail en hauteur&amp;lt;br/&amp;gt; / Secourisme et sécurité routière&amp;lt;br/&amp;gt; / Incendie et évacuation&amp;lt;br/&amp;gt; / Gestes et postures&amp;lt;br/&amp;gt; / Permis&amp;lt;br/&amp;gt; / Certificat d'Aptitude au Travail en Espaces Confinés (CATEC)&amp;lt;br/&amp;gt; / ATmosphère EXplosive (ATEX)&amp;lt;br/&amp;gt; / Grimpeur-se Sauveteur-se dans l'Arbre (GSA) / Certiphyto&amp;lt;br/&amp;gt; / Amiante sous section 4&amp;lt;br/&amp;gt; / Certibiocide&amp;lt;br/&amp;gt;",
-      "cpv": "80330000",
-      "pays": "FRA",
-      "deadline": "2026-09-01",
-      "montant": 992,
-      "publication": "2026-07-15",
+      "id": "496774-2026",
+      "ref": "496774-2026",
+      "acheteur": "Regisseur Studenten Reisrecht B.V.",
+      "objet": "Pays-Bas – Services de développement de logiciels de communication et de logiciels multimédia – Europese aanbesteding Artificial Intelligence Chatbot (AI-chatbot)",
+      "description": "De scope van de opdracht ziet op het leveren, implementeren, beheren, onderhouden en doorontwikkelen van een AI-chatbotoplossing ter vervanging van de huidige chatbot. De AI-chatbotoplossing dient studenten op een toegankelijke, betrouwbare en efficiënte wijze te ondersteunen en Sessies adequaat af te handelen. Onder de opdracht valt niet alleen de beschikbaarstelling van de oplossing zelf, maar ook de bijbehorende dienstverlening die nodig is om de AI-chatbot gedurende de looptijd goed, veilig en toekomstbestendig te laten functioneren Deze opdracht is niet onderverdeeld in percelen. Aanmelden op een gedeelte van de opdracht is niet toegestaan en leidt tot uitsluiting van verdere deelname aan de aanbestedingsprocedure. De onderhavige opdracht in deze aanbesteding vertegenwoordigt een geschatte opdrachtwaarde van € 96.000,00 exclusief btw per jaar voor het leveren, onderhouden en beheren van de AI-chatbot en inclusief verwerken van 100.000 Sessies. Let op: Deze jaarlijkse opdrachtwaarde is tevens een prijsplafond. Een Gegadigde met een Inschrijving met een prijsindiening in Annex III Prijzenblad waarvan de jaarlijkse kosten hoger zijn dan € 96.000,00 exclusief btw wordt uitgesloten van verdere deelname aan deze aanbesteding.",
+      "cpv": "72212500",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-07-17",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/487797-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/496774-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "habilitation"
+        "Word"
       ],
-      "bureautique": false,
+      "bureautique": true,
       "score": 65,
       "score_detail": {
-        "fit": 25,
-        "size": 13,
+        "fit": 30,
+        "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -531,70 +534,31 @@
       "auto": true
     },
     {
-      "id": "26-74673",
-      "ref": "26-74673",
-      "acheteur": "Coallia",
-      "objet": "Gestion des identités et des habilitations (IAM)",
-      "description": "Gestion des identités et des habilitations (IAM)",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-09-10",
+      "id": "497365-2026",
+      "ref": "497365-2026",
+      "acheteur": "Gemeente Oude IJsselstreek",
+      "objet": "Pays-Bas – Services d'enseignement et de formation – Vrijwillige transparantie uitvoering Wet Inburgering 2021 gemeente Oude IJsselstreek",
+      "description": "De volledige uitvoering van de Wet Inburgering 2021. Hier vallen de volgende activiteiten onder: - Het voeren van een brede intake, het afnemen van de leerbaarheidstoets, het opstellen van de PIP, het doen van een passend inburgeringsaanbod. - Het voeren van de regie op het inburgeringstraject voor alle inburgeraars waarbij er één aanspreekpunt is voor de inwoner voor het gehele traject. - Het bieden van activiteiten met als doel te ondersteunen in integratie op verschillende onderwerpen, denk hierbij aan vitaliteit, financiën, digitale vaardigheden, het faciliteren van participatie, het opdoen van werknemersvaardigheden in de eigen beschutte omgeving, het opdoen van werknemersvaardigheden bij reguliere werkgevers, het ontwikkelen van de Nederlandse taal, etc. Hierbij verwacht de gemeente dat deze activiteiten modulair inzetbaar zijn en worden doorontwikkeld binnen de opdracht, passend bij de behoeftes en uitdagingen van de inburgeraars. - Het bieden van taalonderwijs voor de Z-route en de B1-route aan asielmigranten. Waarbij extra aandacht is voor de doelgroep jongeren. - Het bieden van alfabetiseringslessen waar wenselijk. - Het bieden van een voorschakeltraject waar wenselijk. - Het bieden van activiteiten voor het behalen van de participatie uren voor de Z-route. - Het bieden van leerwerktrajecten binnen de eigen organisatie, zoals horeca en logistiek. - Het bieden van een diagnostisch centrum in te zetten om competenties en mogelijkheden inzichtelijk te maken, waar wenselijk. - De inzet van cultuurverbinders, waarbij meerdere culturen vertegenwoordigd zijn. - Het ondersteunen van inburgeraars bij de randvoorwaarden om de inburgering mogelijk te maken, denk aan kinderopvang, reiskosten, het doorverwijzen naar hulpverlenende instanties. - Het functioneren als inkoopcentrale voor de onderdelen die niet zelfstandig worden uitgevoerd. - Het afhandelen van bezwaar en beroep betreffende besluiten Wet Inburgering 2021. - Het bewaken van de kwaliteit van het inburgeringsaanbod.",
+      "cpv": "80000000",
+      "pays": "NLD",
+      "deadline": "",
       "montant": 0,
-      "publication": "2026-07-28",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-74673",
-      "_boamp": {
-        "famille": "Marchés européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Logiciel"
-        ],
-        "departement": "75"
-      },
-      "segment": "Autre",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "score": 62,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "484210-2026",
-      "ref": "484210-2026",
-      "acheteur": "Freie und Hansestadt Hamburg, vertreten durch Behörde für Verkehr und Mobilitätswende, Abteilung Öffentliche Mobilität",
-      "objet": "Allemagne – Services de conseil en affaires et en gestion – Rahmenvereinbarung über verkehrswirtschaftliche Beratungsleistungen (inkl. Projektmanagement) im Rahmen der Beschaffung einer neuen Fahrzeuggeneration zum Einsatz im Schienenpersonennahverkehr (SPNV)",
-      "description": "Die Freie und Hansestadt Hamburg (FHH), die Landesnahverkehrsgesellschaft Niedersachsen mbH (LNVG) und das Land Schleswig-Holstein (SH) haben Verkehrsleistungen der Personenbeförderung im Schienenpersonennahverkehr (SPNV) im Netz der S-Bahn Hamburg von 2018-2033 in einem europaweiten Vergabeverfahren ausgeschrieben und vergeben. Dieses Netz liegt im Verantwortungsbereich der drei o.g. Aufgabenträger, deshalb ist zwischen FHH, LNVG und SH eine Ländervereinbarung mit Regelungen über die gemeinsame Zusammenarbeit geschlossen worden. Im Rahmen des Verkehrsvertrages zur Durchführung der o.g. Verkehre sind FHH (Federführung), die LNVG und SH Auftraggeber gegenüber dem Eisen-bahnverkehrsunternehmen (EVU) S-Bahn Hamburg GmbH (SBH) als Auftragnehmer. Zur unterbrechungsfreien Sicherstellung der Fahrzeugverfügbarkeit im laufenden Vertragszeit-raum und insbesondere auch darüber hinaus ist aufgrund der sehr langwierigen Vorlauf- bzw. Entwicklungszeiten einer neuen Fahrzeuggeneration zeitnah ein Fahrzeugbeschaffungsprozess durchzuführen. Die neu zu beschaffenden Fahrzeuge sollen mit Auslieferung und Abnahme in das Eigentum der FHH bzw. eines von der FHH benannten Dritten übergehen. Nach heutigem Zeitplan ist der Zuschlag an den Fahrzeughersteller für das Jahr 2029 geplant. Gegenstand der vorliegend ausgeschriebenen Rahmenvereinbarung (RV) ist die verkehrs-wirtschaftliche Begleitung des Fahrzeugbeschaffungsprozesses einschließlich des begleiten-den Projektmanagements. Die juristische Begleitung wurde bereits im ersten Halbjahr 2026 an eine externe Kanzlei vergeben. Eine Rahmenvereinbarung für den technischen Dienstleister zur Erstellung des Lastenhefts und der technischen Begleitung der Fahrzeugausschreibung wurde 2025 beauftragt, eine Rahmenvereinbarung zu Finanzierungsfragen der Fahrzeugbeschaffung wird noch aus-geschrieben werden. Es wird erwartet, dass der Auftragnehmer konstruktiv mit sämtlichen in- und externen Projekt-beteiligten (neben der LNVG und dem Land SH z.B. der hvv, der SBH und der DB InfraGO AG) zusammenarbeitet. Zum jetzigen Zeitpunkt ist die Entscheidung, ob neben der Fahrzeugherstellung auch die Instandhaltung für bis zu 30 Jahre in die Zuständigkeit des Fahrzeugherstellers übergehen wird, noch nicht getroffen worden. Die Ausgestaltung der Instandhaltung wird ein wichtiges Thema in der neuen Rahmenvereinbarung werden. Die FHH schätzt den Aufwand wie folgt: - Position 1: Beratungsleistungen inkl. Projektmanagement 10.300 Stunden - Position 2: Reisepauschale (pro Person und An-/Abreise) 80 Stück Diese Mengen stellen zugleich die verbindliche Höchstabnahmegrenze (bezogen auf die Gesamtlaufzeit der Rahmenvereinbarung). Die Rahmenvereinbarung beginnt mit Zuschlagserteilung und hat eine Laufzeit von 4 Jahren. Nach Ablauf dieser Vertragslaufzeit endet die Rahmenvereinbarung automatisch, ohne dass es einer Kündigung bedarf. Gleiches gilt, soweit die vorgesehene verbindliche Höchstabnahmegrenze vor dem Ablauf der Vertragslaufzeit erreicht wird.",
-      "cpv": "79410000",
-      "pays": "DEU",
-      "deadline": "2026-08-10",
-      "montant": 0,
-      "publication": "2026-07-14",
+      "publication": "2026-07-17",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/484210-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/497365-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
       ],
       "bureautique": true,
-      "score": 62,
+      "score": 65,
       "score_detail": {
         "fit": 30,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 0
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -616,6 +580,37 @@
       "segment": "Autre",
       "keyword_hits": [
         "Excel"
+      ],
+      "bureautique": true,
+      "score": 62,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "484210-2026",
+      "ref": "484210-2026",
+      "acheteur": "Freie und Hansestadt Hamburg, vertreten durch Behörde für Verkehr und Mobilitätswende, Abteilung Öffentliche Mobilität",
+      "objet": "Allemagne – Services de conseil en affaires et en gestion – Rahmenvereinbarung über verkehrswirtschaftliche Beratungsleistungen (inkl. Projektmanagement) im Rahmen der Beschaffung einer neuen Fahrzeuggeneration zum Einsatz im Schienenpersonennahverkehr (SPNV)",
+      "description": "Die Freie und Hansestadt Hamburg (FHH), die Landesnahverkehrsgesellschaft Niedersachsen mbH (LNVG) und das Land Schleswig-Holstein (SH) haben Verkehrsleistungen der Personenbeförderung im Schienenpersonennahverkehr (SPNV) im Netz der S-Bahn Hamburg von 2018-2033 in einem europaweiten Vergabeverfahren ausgeschrieben und vergeben. Dieses Netz liegt im Verantwortungsbereich der drei o.g. Aufgabenträger, deshalb ist zwischen FHH, LNVG und SH eine Ländervereinbarung mit Regelungen über die gemeinsame Zusammenarbeit geschlossen worden. Im Rahmen des Verkehrsvertrages zur Durchführung der o.g. Verkehre sind FHH (Federführung), die LNVG und SH Auftraggeber gegenüber dem Eisen-bahnverkehrsunternehmen (EVU) S-Bahn Hamburg GmbH (SBH) als Auftragnehmer. Zur unterbrechungsfreien Sicherstellung der Fahrzeugverfügbarkeit im laufenden Vertragszeit-raum und insbesondere auch darüber hinaus ist aufgrund der sehr langwierigen Vorlauf- bzw. Entwicklungszeiten einer neuen Fahrzeuggeneration zeitnah ein Fahrzeugbeschaffungsprozess durchzuführen. Die neu zu beschaffenden Fahrzeuge sollen mit Auslieferung und Abnahme in das Eigentum der FHH bzw. eines von der FHH benannten Dritten übergehen. Nach heutigem Zeitplan ist der Zuschlag an den Fahrzeughersteller für das Jahr 2029 geplant. Gegenstand der vorliegend ausgeschriebenen Rahmenvereinbarung (RV) ist die verkehrs-wirtschaftliche Begleitung des Fahrzeugbeschaffungsprozesses einschließlich des begleiten-den Projektmanagements. Die juristische Begleitung wurde bereits im ersten Halbjahr 2026 an eine externe Kanzlei vergeben. Eine Rahmenvereinbarung für den technischen Dienstleister zur Erstellung des Lastenhefts und der technischen Begleitung der Fahrzeugausschreibung wurde 2025 beauftragt, eine Rahmenvereinbarung zu Finanzierungsfragen der Fahrzeugbeschaffung wird noch aus-geschrieben werden. Es wird erwartet, dass der Auftragnehmer konstruktiv mit sämtlichen in- und externen Projekt-beteiligten (neben der LNVG und dem Land SH z.B. der hvv, der SBH und der DB InfraGO AG) zusammenarbeitet. Zum jetzigen Zeitpunkt ist die Entscheidung, ob neben der Fahrzeugherstellung auch die Instandhaltung für bis zu 30 Jahre in die Zuständigkeit des Fahrzeugherstellers übergehen wird, noch nicht getroffen worden. Die Ausgestaltung der Instandhaltung wird ein wichtiges Thema in der neuen Rahmenvereinbarung werden. Die FHH schätzt den Aufwand wie folgt: - Position 1: Beratungsleistungen inkl. Projektmanagement 10.300 Stunden - Position 2: Reisepauschale (pro Person und An-/Abreise) 80 Stück Diese Mengen stellen zugleich die verbindliche Höchstabnahmegrenze (bezogen auf die Gesamtlaufzeit der Rahmenvereinbarung). Die Rahmenvereinbarung beginnt mit Zuschlagserteilung und hat eine Laufzeit von 4 Jahren. Nach Ablauf dieser Vertragslaufzeit endet die Rahmenvereinbarung automatisch, ohne dass es einer Kündigung bedarf. Gleiches gilt, soweit die vorgesehene verbindliche Höchstabnahmegrenze vor dem Ablauf der Vertragslaufzeit erreicht wird.",
+      "cpv": "79410000",
+      "pays": "DEU",
+      "deadline": "2026-08-10",
+      "montant": 0,
+      "publication": "2026-07-14",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/484210-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
       ],
       "bureautique": true,
       "score": 62,
@@ -719,45 +714,6 @@
         "com": 5,
         "admin": 7,
         "delay": 3
-      },
-      "score_status": "no",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "26-73486",
-      "ref": "26-73486",
-      "acheteur": "Centre hospitalier du Mans",
-      "objet": "Logiciel de Réservation des Salles & Matériels POUR LE POLE REGIONAL D'EXCELLENCE",
-      "description": "Logiciel de Réservation des Salles & Matériels POUR LE POLE REGIONAL D'EXCELLENCE",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-09-08",
-      "montant": 150,
-      "publication": "2026-07-23",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-73486",
-      "_boamp": {
-        "famille": "Marchés entre 90 k€ et seuils européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Logiciel"
-        ],
-        "departement": "72"
-      },
-      "segment": "FPH",
-      "keyword_hits": [
-        "Excel"
-      ],
-      "score": 49,
-      "score_detail": {
-        "fit": 10,
-        "size": 10,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
       },
       "score_status": "no",
       "notes": "",

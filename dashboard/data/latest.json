@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-08-08T06:48:35.911Z",
+  "generated_at": "2026-08-09T06:52:31.264Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 24,
+      "matched": 28,
       "go": 0,
-      "generated_at": "2026-08-08T06:41:40.671Z"
+      "generated_at": "2026-08-09T06:45:37.808Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 2,
       "go": 0,
-      "generated_at": "2026-08-08T06:48:35.331Z"
+      "generated_at": "2026-08-09T06:52:30.668Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-08-08T06:48:35.783Z"
+      "generated_at": "2026-08-09T06:52:31.135Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 24,
+  "total_matched": 28,
   "total_go": 0,
   "total_dedup_collisions": 2,
   "dedup_breakdown": {
@@ -122,6 +122,37 @@
         "com": 5,
         "admin": 7,
         "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "498661-2026",
+      "ref": "498661-2026",
+      "acheteur": "Provincie Oost-Vlaanderen",
+      "objet": "Belgique – Services de formation dans le domaine de la sécurité – Het organiseren van opleidingen reddingen in snelstromend en overstromingswater",
+      "description": "Voorwerp van de opdracht: Deze opdracht betreft een dienstenopdracht voor het organiseren van opleidingen inzake redding in snelstromend en overstromingswater, ten behoeve van PAULO Brandweer en de deelnemende brandweerzones. De opdracht betreft een sociale en andere specifieke dienst zoals opgesomd in bijlage III van de wet van 17 juni 2016. PAULO Brandweer leidt cursisten op in redding in snelstromend en overstromingswater en beschikt hiervoor over een poule van instructeurs in opleiding. Voor de organisatie van deze opleidingen werkt PAULO samen met een opdrachtnemer die de volledige cursus kan aanbieden (per groep van 12 deelnemers), inclusief optionele componenten zoals hotel, restauratie, theorielokaal, logistiek, materiaal en certificering. Het aantal instructeurs dat de opdrachtnemer moet voorzien, wordt per opleidingstraject door PAULO vastgesteld, afhankelijk van: • het aantal beschikbare PAULO-instructeurs, en • het competentieniveau dat deze instructeurs op dat moment hebben bereikt. De opdrachtnemer biedt een structuur die toelaat dat PAULO-instructeurs: • actief meedraaien in de opleiding, • praktijkervaring opdoen onder supervisie van een volledig gekwalificeerde instructeur, • en gradueel doorgroeien naar autonome inzetbaarheid[MP6.1][MP6.2][ME6.3]. Looptijd overeenkomst: De uitvoeringstermijn van deze opdracht bedraagt 2 jaar, te rekenen vanaf de datum van de kennisgeving van de gunning. Na afloop van deze vaste termijn kan de opdracht stilzwijgend worden verlengd met 2 periodes van telkens 12 maanden, onder dezelfde contractuele voorwaarden.[MP7.1][ME7.2] Deze verlengingen dienen uitsluitend om PAULO toe te laten de kwaliteit, werking en resultaten van de opleidingen te evalueren en eventueel een nieuwe procedure op te starten indien de opdracht na twee jaar niet langer voldoet aan de verwachtingen. Indien de opleidingen postief worden geëvalueerd, kan zij tot 4 jaar van deze dienstverlening genieten, mede gelet op de investeringen en kosten die met dergelijke specialistische opleiding gepaard gaan.",
+      "cpv": "80550000",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 1240,
+      "publication": "2026-07-20",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/498661-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -314,6 +345,68 @@
       "auto": true
     },
     {
+      "id": "498608-2026",
+      "ref": "498608-2026",
+      "acheteur": "CH AGEN-NERAC",
+      "objet": "France – Services de programmation – Mission de programmation et d'assistance à la maîtrise d'ouvrage pour la réhabilitation d'étages d'hospitalisation et de consultations sur le site Saint Esprit du Centre Hospitalier Agen-Nérac",
+      "description": "Le contrat comporte des tranches optionnelles définies au cahier des charges. Le détail du phasage de l'opération figure au cahier des charges. Les prestations sont réglées par des prix forfaitaires",
+      "cpv": "72243000",
+      "pays": "FRA",
+      "deadline": "2026-09-16",
+      "montant": 600,
+      "publication": "2026-07-20",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/498608-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "habilitation"
+      ],
+      "bureautique": false,
+      "score": 67,
+      "score_detail": {
+        "fit": 25,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "499139-2026",
+      "ref": "499139-2026",
+      "acheteur": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
+      "objet": "Espagne – Logiciels et systèmes d'information – Contrato mixto del suministro de licencias office 365 y servicio de securización del correo 365 para el Ayuntamiento de Alcalá de Henares",
+      "description": "conforme a lo establecido en el Pliego de Prescripciones Técnicas",
+      "cpv": "48000000",
+      "pays": "ESP",
+      "deadline": "",
+      "montant": 146,
+      "publication": "2026-07-20",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/499139-2026",
+      "segment": "État",
+      "keyword_hits": [
+        "Office 365"
+      ],
+      "bureautique": true,
+      "score": 67,
+      "score_detail": {
+        "fit": 30,
+        "size": 10,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "494787-2026",
       "ref": "494787-2026",
       "acheteur": "Gemeente Lansingerland",
@@ -370,6 +463,68 @@
         "com": 5,
         "admin": 7,
         "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "498539-2026",
+      "ref": "498539-2026",
+      "acheteur": "Rijkswaterstaat Water, Verkeer en Leefomgeving",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Marktconsultatie toekomstige inrichting en sourcing van rekenomgeving NWM",
+      "description": "Rijkswaterstaat (RWS) onderzoekt de toekomstige inrichting en sourcing van de rekenomgeving voor het Nationaal Watermodel (NWM). Met deze marktconsultatie wordt beoogd: • inzicht te verkrijgen in haalbare en marktconforme oplossingsrichtingen; • kennis op te halen over prijsmodellen, serviceniveaus en organisatiemodellen; • te toetsen in hoeverre marktpartijen kunnen aansluiten op het beoogde end-to-end dienstverleningsmodel; • aandachtspunten en risico’s in een vroeg stadium te identificeren. Ter voorkoming/beperking van risico's voor nationale veiligheid zijn de Algemene Beveiligingseisen voor Rijksoverheidsopdrachten (ABRO) 2026 van toepassing bij een eventuele aanbesteding. Graag verzoek ik u tot het beantwoorden van de vragen uit bijgaand document \"Marktconsultatiedocument v0.92\" in de bijgaande \"Antwoordtemplate_NWM_v1.0\". Bij vragen wil ik u verzoeken via de nota van inlichtingen uw vragen te stellen, opdat alle betrokken partijen bij de marktconsultatie geanonimiseerd de antwoorden kunnen vernemen.",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-07-20",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/498539-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "499564-2026",
+      "ref": "499564-2026",
+      "acheteur": "Universitair Medisch Centrum Utrecht",
+      "objet": "Pays-Bas – Services de formation – Programma leiderschapsontwikkeling UMC Utrecht",
+      "description": "Dit betreft een niet openbare aanbesteding voor leiderschapsontwikkeling van het UMC Utrecht. UMC Utrecht wenst één integraal programma voor leiderschapsontwikkeling in de transformatie. Het programma verbindt leiderschap, gedragsontwikkeling en bedrijfsvoering samen in één programma waarin kennis, vaardigheden en leren in de praktijk elkaar voortdurend versterken. Hiermee wordt gebouwd aan een gezamenlijke leiderschapstaal en een consistente manier van leidinggeven en samenwerken die past bij de ambities van het UMC Utrecht.",
+      "cpv": "80500000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-07-20",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/499564-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
@@ -694,37 +849,6 @@
       "auto": true
     },
     {
-      "id": "472561-2026",
-      "ref": "472561-2026",
-      "acheteur": "Regione Puglia",
-      "objet": "Italie – Services de maintenance des systèmes et services d'assistance – Servizi manutenzione HW/SW CED Innovapuglia 18 Lotti",
-      "description": "Dell EMC2 / Lenovo / HPE / NetApp / Juniper / Palo Alto Network / Cisco / Radware / Fortinet / GIGAMON / ARMIS / Qualys / Domain Tools / Virus Total/GTI / Darktrace / Rapid7 / CyberArk / Archer",
-      "cpv": "72250000",
-      "pays": "ITA",
-      "deadline": "",
-      "montant": 7362,
-      "publication": "2026-07-09",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/472561-2026",
-      "segment": "Collectivités",
-      "keyword_hits": [
-        "VAP"
-      ],
-      "bureautique": false,
-      "score": 52,
-      "score_detail": {
-        "fit": 10,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "no",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "26-73486",
       "ref": "26-73486",
       "acheteur": "Centre hospitalier du Mans",
@@ -750,14 +874,14 @@
       "keyword_hits": [
         "Excel"
       ],
-      "score": 49,
+      "score": 47,
       "score_detail": {
         "fit": 10,
         "size": 10,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 3
       },
       "score_status": "no",
       "notes": "",

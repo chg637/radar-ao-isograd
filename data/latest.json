@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-08-09T06:52:31.264Z",
+  "generated_at": "2026-08-10T07:27:35.701Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 28,
+      "matched": 31,
       "go": 0,
-      "generated_at": "2026-08-09T06:45:37.808Z"
+      "generated_at": "2026-08-10T07:20:35.868Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 2,
       "go": 0,
-      "generated_at": "2026-08-09T06:52:30.668Z"
+      "generated_at": "2026-08-10T07:27:35.062Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-08-09T06:52:31.135Z"
+      "generated_at": "2026-08-10T07:27:35.593Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 28,
+  "total_matched": 31,
   "total_go": 0,
   "total_dedup_collisions": 2,
   "dedup_breakdown": {
@@ -50,37 +50,6 @@
       "segment": "Autre",
       "keyword_hits": [
         "Excel"
-      ],
-      "bureautique": true,
-      "score": 74,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "497008-2026",
-      "ref": "497008-2026",
-      "acheteur": "Ministerie van Volksgezondheid, Welzijn en Sport",
-      "objet": "Pays-Bas – Services relatifs aux logiciels – Pilots Landelijk Dekkend Netwerk (LDN)",
-      "description": "Het Ministerie van Volksgezondheid, Welzijn en Sport (VWS) werkt binnen het programma Lande-lijk Dekkend Netwerk (LDN) aan de realisatie van een landelijk dekkend netwerk van infrastruc-turen en generieke functies. Dit is noodzakelijk voor veilige, betrouwbare en interoperabele elek-tronische gegevensuitwisseling in de zorg. De geraamde waarde van alle nadere opdrachten binnen de raamovereenkomst is € 10.000.000 exclusief btw, gebaseerd op circa 12 pilots van gemiddeld € 500.000 per pilot en PoC’s en pilots voor de infrastructuur. Deze raming is gebaseerd op eerdere ervaringen en inschattingen van de aanbestedende dienst. U kunt hier geen rechten aan ontlenen. De maximale waarde van het geheel van de raamovereenkomst is € 15.000.000 exclusief btw. Wordt deze maximale waarde bereikt? Dan eindigt de raamovereenkomst van rechtswege, ook als de einddatum nog niet is bereikt. U kunt aan de raamovereenkomst geen afnamegarantie ontlenen.",
-      "cpv": "72260000",
-      "pays": "NLD",
-      "deadline": "2026-09-09",
-      "montant": 10000,
-      "publication": "2026-07-17",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/497008-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
       ],
       "bureautique": true,
       "score": 74,
@@ -140,6 +109,37 @@
       "publication": "2026-07-20",
       "source": "TED",
       "url": "https://ted.europa.eu/fr/notice/-/detail/498661-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 72,
+      "score_detail": {
+        "fit": 30,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "497008-2026",
+      "ref": "497008-2026",
+      "acheteur": "Ministerie van Volksgezondheid, Welzijn en Sport",
+      "objet": "Pays-Bas – Services relatifs aux logiciels – Pilots Landelijk Dekkend Netwerk (LDN)",
+      "description": "Het Ministerie van Volksgezondheid, Welzijn en Sport (VWS) werkt binnen het programma Lande-lijk Dekkend Netwerk (LDN) aan de realisatie van een landelijk dekkend netwerk van infrastruc-turen en generieke functies. Dit is noodzakelijk voor veilige, betrouwbare en interoperabele elek-tronische gegevensuitwisseling in de zorg. De geraamde waarde van alle nadere opdrachten binnen de raamovereenkomst is € 10.000.000 exclusief btw, gebaseerd op circa 12 pilots van gemiddeld € 500.000 per pilot en PoC’s en pilots voor de infrastructuur. Deze raming is gebaseerd op eerdere ervaringen en inschattingen van de aanbestedende dienst. U kunt hier geen rechten aan ontlenen. De maximale waarde van het geheel van de raamovereenkomst is € 15.000.000 exclusief btw. Wordt deze maximale waarde bereikt? Dan eindigt de raamovereenkomst van rechtswege, ook als de einddatum nog niet is bereikt. U kunt aan de raamovereenkomst geen afnamegarantie ontlenen.",
+      "cpv": "72260000",
+      "pays": "NLD",
+      "deadline": "2026-09-09",
+      "montant": 10000,
+      "publication": "2026-07-17",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/497008-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -252,6 +252,37 @@
       "auto": true
     },
     {
+      "id": "500549-2026",
+      "ref": "500549-2026",
+      "acheteur": "Gemeente Leeuwarden",
+      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Aanschaf en Implementatie van Plan- en regelsoftware",
+      "description": "• Ondersteuning voor het opstellen, publiceren en beheren van de omgevingsdocumenten zoals het Omgevingsplan, omgevingsprogramma en de Omgevingsvisie. • De Plansoftware moet gekoppeld kunnen worden met het DSO op basis van STOP/TPOD (Standaard officiële publicaties en Toepassingsprofiel) • Implementatie van de applicaties (o.a. installatie, ondersteuning bij inrichting, opleiding en realiseren koppelingen); • Hosting van de software; • Technisch beheer, waaronder updates, upgrades en beheer van de koppelingen • Ondersteuning voor het opstellen, publiceren en beheren van de omgevingsdocumenten zoals het Omgevingsplan, omgevingsprogramma en de Omgevingsvisie. • De Plansoftware moet gekoppeld kunnen worden met het DSO op basis van STOP/TPOD (Standaard officiële publicaties en Toepassingsprofiel) • Implementatie van de applicaties (o.a. installatie, ondersteuning bij inrichting, opleiding en realiseren koppelingen); • Hosting van de software; • Technisch beheer, waaronder updates, upgrades en beheer van de koppelingen / • Ondersteuning voor het opstellen en publiceren van Toepasbare regels. • De TR-Software moet gekoppeld worden met het DSO op basis van de STTR (Standaard Toepasbare Regels) • Implementatie van de applicaties (o.a. installatie, ondersteuning bij inrichting, opleiding en realiseren koppelingen); • Hosting van de software; • Technisch beheer, waaronder updates, upgrades en beheer van de koppelingen; • Ondersteuning voor het opstellen en publiceren van Toepasbare regels. • De TR-Software moet gekoppeld worden met het DSO op basis van de STTR (Standaard Toepasbare Regels) • Implementatie van de applicaties (o.a. installatie, ondersteuning bij inrichting, opleiding en realiseren koppelingen); • Hosting van de software; • Technisch beheer, waaronder updates, upgrades en beheer van de koppelingen;",
+      "cpv": "72000000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 766,
+      "publication": "2026-07-20",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/500549-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 70,
+      "score_detail": {
+        "fit": 30,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
       "id": "495895-2026",
       "ref": "495895-2026",
       "acheteur": "Gemeente Venlo",
@@ -296,37 +327,6 @@
       "source": "TED",
       "url": "https://ted.europa.eu/fr/notice/-/detail/490833-2026",
       "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "477781-2026",
-      "ref": "477781-2026",
-      "acheteur": "Hessische Hochschule für öffentliches Management und Sicherheit",
-      "objet": "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Beschaffung einer SLM-Software",
-      "description": "Beschaffungsgegenstand sind neben der Software insbesondere verschiedenartige Dienstleistungen (Wartung, Pflege, Entwicklungs- und Anpassungsleistungen). Es handelt sich nicht um ein Standardsoftwareprodukt, sondern um eine Individualsoftware, die auf die spezifischen Anforderungen des Auftraggebers zugeschnitten wurde. Es sind umfangreiche Entwicklungs- und Anpassungsleistungen vorgenommen worden.",
-      "cpv": "72000000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 640,
-      "publication": "2026-07-10",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/477781-2026",
-      "segment": "FPH",
       "keyword_hits": [
         "Word"
       ],
@@ -469,18 +469,18 @@
       "auto": true
     },
     {
-      "id": "498539-2026",
-      "ref": "498539-2026",
-      "acheteur": "Rijkswaterstaat Water, Verkeer en Leefomgeving",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Marktconsultatie toekomstige inrichting en sourcing van rekenomgeving NWM",
-      "description": "Rijkswaterstaat (RWS) onderzoekt de toekomstige inrichting en sourcing van de rekenomgeving voor het Nationaal Watermodel (NWM). Met deze marktconsultatie wordt beoogd: • inzicht te verkrijgen in haalbare en marktconforme oplossingsrichtingen; • kennis op te halen over prijsmodellen, serviceniveaus en organisatiemodellen; • te toetsen in hoeverre marktpartijen kunnen aansluiten op het beoogde end-to-end dienstverleningsmodel; • aandachtspunten en risico’s in een vroeg stadium te identificeren. Ter voorkoming/beperking van risico's voor nationale veiligheid zijn de Algemene Beveiligingseisen voor Rijksoverheidsopdrachten (ABRO) 2026 van toepassing bij een eventuele aanbesteding. Graag verzoek ik u tot het beantwoorden van de vragen uit bijgaand document \"Marktconsultatiedocument v0.92\" in de bijgaande \"Antwoordtemplate_NWM_v1.0\". Bij vragen wil ik u verzoeken via de nota van inlichtingen uw vragen te stellen, opdat alle betrokken partijen bij de marktconsultatie geanonimiseerd de antwoorden kunnen vernemen.",
-      "cpv": "72000000",
+      "id": "499564-2026",
+      "ref": "499564-2026",
+      "acheteur": "Universitair Medisch Centrum Utrecht",
+      "objet": "Pays-Bas – Services de formation – Programma leiderschapsontwikkeling UMC Utrecht",
+      "description": "Dit betreft een niet openbare aanbesteding voor leiderschapsontwikkeling van het UMC Utrecht. UMC Utrecht wenst één integraal programma voor leiderschapsontwikkeling in de transformatie. Het programma verbindt leiderschap, gedragsontwikkeling en bedrijfsvoering samen in één programma waarin kennis, vaardigheden en leren in de praktijk elkaar voortdurend versterken. Hiermee wordt gebouwd aan een gezamenlijke leiderschapstaal en een consistente manier van leidinggeven en samenwerken die past bij de ambities van het UMC Utrecht.",
+      "cpv": "80500000",
       "pays": "NLD",
       "deadline": "",
       "montant": 0,
       "publication": "2026-07-20",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/498539-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/499564-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -500,21 +500,83 @@
       "auto": true
     },
     {
-      "id": "499564-2026",
-      "ref": "499564-2026",
-      "acheteur": "Universitair Medisch Centrum Utrecht",
-      "objet": "Pays-Bas – Services de formation – Programma leiderschapsontwikkeling UMC Utrecht",
-      "description": "Dit betreft een niet openbare aanbesteding voor leiderschapsontwikkeling van het UMC Utrecht. UMC Utrecht wenst één integraal programma voor leiderschapsontwikkeling in de transformatie. Het programma verbindt leiderschap, gedragsontwikkeling en bedrijfsvoering samen in één programma waarin kennis, vaardigheden en leren in de praktijk elkaar voortdurend versterken. Hiermee wordt gebouwd aan een gezamenlijke leiderschapstaal en een consistente manier van leidinggeven en samenwerken die past bij de ambities van het UMC Utrecht.",
-      "cpv": "80500000",
+      "id": "500224-2026",
+      "ref": "500224-2026",
+      "acheteur": "Veiligheidsregio Noord- en Oost- Gelderland",
+      "objet": "Pays-Bas – Services de développement de logiciels de sécurité des données – SIEM, SOC, SOAR-dienstverlening",
+      "description": "Veiligheidsregio Noord- en Oost-Gelderland (VNOG) wenst een raamovereenkomst te sluiten met één opdrachtnemer voor de levering, implementatie, inrichting, het beheer en de doorontwikkeling van geïntegreerde SIEM-, SOC- en SOAR-dienstverlening. De dienstverlening is gericht op het monitoren, detecteren, analyseren en opvolgen van cybersecuritydreigingen en beveiligingsincidenten, ter versterking van de digitale weerbaarheid van VNOG. De opdracht betreft het sluiten van een raamovereenkomst met één opdrachtnemer voor de levering, implementatie, inrichting, het beheer en de doorontwikkeling van geïntegreerde SIEM-, SOC- en SOAR-dienstverlening ten behoeve van Veiligheidsregio Noord- en Oost-Gelderland (VNOG). De raamovereenkomst heeft een initiële looptijd van vier (4) jaar en kan tweemaal met twee (2) jaar worden verlengd.",
+      "cpv": "72212732",
       "pays": "NLD",
       "deadline": "",
       "montant": 0,
       "publication": "2026-07-20",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/499564-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/500224-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "501179-2026",
+      "ref": "501179-2026",
+      "acheteur": "Stichting ROC Summa College",
+      "objet": "Pays-Bas – Fourniture de cours de langues – Flexibele inzet NT1- en NT2-docenten",
+      "description": "A. Specifieke behoefte van Summa De opdracht betreft niet uitsluitend het beschikbaar stellen van NT1- en NT2-docenten. Summa heeft behoefte aan een leverancier die gedurende het gehele jaar flexibel kan voorzien in de inzet van gekwalificeerde NT1- en NT2-docenten binnen zowel het bekostigd onderwijs als Leven Lang Ontwikkelen (LLO) en het contractonderwijs. De vraag naar deze dienstverlening is afhankelijk van opdrachten van externe opdrachtgevers en fluctueert gedurende het jaar sterk. Om snel te kunnen inspelen op nieuwe opdrachten, wijzigingen in de vraag en korte doorlooptijden moeten docenten op zeer korte termijn beschikbaar zijn. De opdrachtnemer moet snel kunnen opschalen, meerdere gelijktijdige aanvragen kunnen invullen, ziekte en uitval direct kunnen opvangen en beschikken over voldoende capaciteit om onderwijs op de locaties van Summa te verzorgen. De beschikbaarheid van deze docenten is van directe invloed op het kunnen verwerven en uitvoeren van contractonderwijs en het nakomen van afspraken met opdrachtgevers. De opdracht vraagt daarom om een leverancier die beschikt over een omvangrijke, flexibele en direct inzetbare capaciteit met specialistische kennis van het mbo. B. Specialistische deskundigheid en leveringscapaciteit Voor deze opdracht is een leverancier vereist met diepgaande kennis van het mbo, actuele vakinhoudelijke expertise en de mogelijkheid om snel en in wisselende aantallen gekwalificeerde professionals beschikbaar te stellen. Het Onderwijshuis/Bisbee beschikt over een eigen academie waarin docenten worden opgeleid, geschoold en gecertificeerd. Daarnaast beschikt de organisatie over een omvangrijke pool van gespecialiseerde professionals, waardoor snel kan worden ingespeeld op fluctuaties in de vraag, ziektevervanging, piekbelasting en nieuwe opdrachten. Hierdoor kan de continuïteit van het onderwijs worden gewaarborgd zonder concessies te doen aan de kwaliteit. C. Marktonderzoek Voorafgaand aan deze voorgenomen gunning is een marktonderzoek uitgevoerd door een externe adviseur met kennis van de markt voor NT1- en NT2-dienstverlening. Uit dit marktonderzoek is gebleken dat meerdere organisaties onderdelen van de dienstverlening aanbieden. Uit het onderzoek is echter niet gebleken dat een andere marktpartij de specifieke behoefte van Summa kan invullen in de vereiste combinatie van specialistische mbo-expertise, kwaliteit, flexibiliteit, capaciteit en directe inzetbaarheid. D. Geen redelijk alternatief of substituut Gelet op de specifieke behoefte van Summa, de noodzaak om gedurende het gehele jaar flexibel te kunnen beschikken over gekwalificeerde NT1- en NT2-docenten, de vereiste specialistische expertise, de benodigde capaciteit en de uitkomsten van het uitgevoerde marktonderzoek is de aanbestedende dienst tot de conclusie gekomen dat voor deze opdracht geen redelijk alternatief of substituut bestaat als bedoeld in artikel 2.32, tweede lid, Aanbestedingswet 2012. Om die reden acht de aanbestedende dienst toepassing van artikel 2.32, eerste lid, onder b, sub 2°, Aanbestedingswet 2012 gerechtvaardigd. 1",
+      "cpv": "80580000",
+      "pays": "NLD",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-07-20",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/501179-2026",
+      "segment": "ESR",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "501197-2026",
+      "ref": "501197-2026",
+      "acheteur": "Investitionsbank Schleswig-Holstein",
+      "objet": "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Bereitstellung, Implementierung und Betrieb eines Systems zur Unterstützung von Governance-, Risk- und Compliance-Management-Prozessen GRC-Tool als SaaS-Lösung",
+      "description": "Gegenstand der Ausschreibung ist die Bereitstellung, Implementierung und der Betrieb eines webbasierten Systems (Software-as-a-Service, SaaS) zur Unterstützung und Steuerung von Governance-, Risiko- und Compliance-Prozessen der Auftraggeberin. Das System soll insbesondere die GRC-Funktionen in den Bereichen Zentrales Auslagerungsmanagement (ZAM), Business Continuity Management (BCM), Informationssicherheitsmanagement (ISM) sowie im Kontext der Risiko-Steuerung im Bereich Non-Financial Risk (NFR) unterstützen und eine konsistente sowie nachvollziehbare Bearbeitung dieser Funktionen ermöglichen. Die Implementierung umfasst die fachliche und technische Einführung des Systems in die bestehende Systemlandschaft der Auftraggeberin. Hierzu gehört die Einbindung bestehender Systeme und Datenquellen sowie die Einrichtung und Abstimmung der erforderlichen Datenströme. Dies beinhaltet insbesondere die Definition von Datenmodellen, Schnittstellenformaten sowie die Festlegung von Integrationsmechanismen (z. B. API-basierte Anbindung oder auch strukturierte Datenimporte), einschließlich der Abstimmung von Datenfrequenzen, Verantwortlichkeiten und Fehlerbehandlungsprozessen. Die Datenbereitstellung erfolgt derzeit in wesentlichen Teilen über strukturierte Datenimporte (z. B. Datei-Upload). Gleichzeitig muss das System grundsätzlich auch die Möglichkeit zur Anbindung über standardisierte API-basierte Schnittstellen bieten. Dies gilt insbesondere für Systeme zur Verwaltung von Prozessen und IKT-Systemen sowie für Systeme zur Verwaltung von IKT-Assets und Konfigurationsdaten. Auch für Systeme, die derzeit noch nicht schnittstellenfähig sind, ist perspektivisch eine Integration vorzusehen. Für die technische Integration sind gängige Standards (z. B. REST-basierte Schnittstellen unter Nutzung von HTTPS) zu unterstützen; die Verarbeitung strukturierter Datenimporte (z. B. CSV, Excel) muss validiert, nachvollziehbar protokolliert und wiederholbar ausführbar sein. Dabei ist insbesondere eine priorisierte, bidirektionale Integration der CMDB ServiceNow vorgesehen, während weitere Systeme initial über eine manuelle Datenbereitstellung (Upload/Download) angebunden werden sollen. Das angebotene GRC-System muss bestehende datenhaltende Systeme der Auftraggeberin als Datenquellen anbinden und deren Informationen im GRC-Kontext nutzbar machen können. Eine Ablösung dieser Systeme darf für die Nutzung des GRC-Systems nicht erforderlich sein. Das GRC-System soll hierbei als zentrale Steuerungs- und Auswertungsplattform für GRC-relevante Informationen agieren. Weiterhin muss das System in der Lage sein, Beziehungen zwischen unterschiedlichen Datenobjekten (z. B. IKT-Assets, Prozesse, Risiken, Dienstleister) systemseitig abzubilden und für Auswertungen, Analysen sowie regulatorische Nachweise nutzbar zu machen. In den folgenden Abschnitten sind die Anforderungen zusammenfassend beschrieben. Eine vollumfängliche und detaillierte Auflistung aller Anforderungen findet sich im Lastenheft.",
+      "cpv": "72000000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-07-20",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/501197-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Excel"
       ],
       "bureautique": true,
       "score": 65,
@@ -719,6 +781,37 @@
         "com": 5,
         "admin": 7,
         "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "500073-2026",
+      "ref": "500073-2026",
+      "acheteur": "Vlaamse Overheid",
+      "objet": "Belgique – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – N20 Hasselt ontsluitingsinfrastructuur Jessa: uitvoeringsstudie",
+      "description": "Voor een uitgebreide omschrijving van het voorwerp van de opdracht wordt verwezen naar het technisch gedeelte. Deze opdracht betreft een opdracht in vaste en voorwaardelijke gedeelten zoals beschreven onder titel 3.1 van de technische bepalingen. Voor een uitgebreide omschrijving van het voorwerp van de opdracht wordt verwezen naar de technische bepalingen.",
+      "cpv": "71000000",
+      "pays": "BEL",
+      "deadline": "2026-08-17",
+      "montant": 0,
+      "publication": "2026-07-20",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/500073-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 62,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
       },
       "score_status": "cond",
       "notes": "",

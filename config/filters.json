@@ -127,8 +127,26 @@
     "accréditation",
     "ré-accréditation",
     "renouvellement de certification",
-    "audit Qualiopi"
+    "audit Qualiopi",
+    "test de connaissances",
+    "test de connaissance",
+    "tests de connaissances",
+    "évaluation des connaissances",
+    "solution d'évaluation",
+    "logiciel d'évaluation",
+    "outil d'évaluation",
+    "solution logicielle d'évaluation",
+    "évaluation collaborative",
+    "correction des copies",
+    "copies d'examen",
+    "correction dématérialisée",
+    "dématérialisation de la correction",
+    "QCM",
+    "application concours",
+    "gestion des concours",
+    "plateforme concours"
   ],
+  "_doc_recall_aout_2026": "Mots-clés ajoutés après le test de rappel du 11/08/2026 sur les AO réels du SharePoint : INPI 'Test de connaissance en propriété intellectuelle' (BOAMP 23/06, raté), NEOMA 'Acquisition d'une solution logicielle d'évaluation collaborative' (BOAMP 11/05 et 08/06, raté), AEFE 'Dématérialisation de la correction des copies d'examen' (BOAMP 12/04, aurait été raté). Aucune des formulations réelles ne matchait les phrases existantes, trop spécifiques ('plateforme d'évaluation', 'test de positionnement').",
 
   "keywords_bureautique": [
     "certification bureautique",
@@ -217,7 +235,14 @@
       "validation des acquis de l'expérience",
       "bilan de compétences",
       "audit de compétences",
-      "cartographie des compétences"
+      "cartographie des compétences",
+      "test de connaissances",
+      "test de connaissance",
+      "évaluation collaborative",
+      "solution d'évaluation",
+      "logiciel d'évaluation",
+      "correction des copies",
+      "copies d'examen"
     ],
     "fit_keywords_medium": [
       "évaluation",
@@ -232,7 +257,9 @@
       "RNCP",
       "Qualiopi",
       "habilitation",
-      "qualification professionnelle"
+      "qualification professionnelle",
+      "application concours",
+      "gestion des concours"
     ],
     "_comment_formation_pure": "CPV formation pure — PÉNALITÉ si présents seuls sans keyword certification/évaluation",
     "formation_cpv_penalty": ["80500000", "80510000", "80520000", "80521000", "80530000", "80531200", "79632000"],
@@ -268,7 +295,9 @@
       "banque de questions", "test adaptatif", "psychométrie",
       "ingénierie d'évaluation", "référentiel de compétences",
       "certification bureautique", "certification compétences numériques",
-      "DigComp", "France Compétences", "RNCP enregistrement"
+      "DigComp", "France Compétences", "RNCP enregistrement",
+      "test de connaissance", "évaluation collaborative", "correction des copies",
+      "copies d'examen", "application concours"
     ],
     "solo_ambiguous_keywords": [
       "Excel", "Word", "PowerPoint", "Outlook", "bureautique",

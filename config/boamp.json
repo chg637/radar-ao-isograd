@@ -17,7 +17,8 @@
 
   "window_days": 30,
   "page_size": 100,
-  "max_pages": 30,
+  "max_pages": 50,
+  "_doc_max_pages": "Passé de 30 à 50 (audit 11/08/2026) : la fenêtre 30j contenait 4611 avis pour un cap de 3000 — 1611 avis jamais fetchés, silencieusement.",
 
   "descripteurs_blacklist": [
     "Alarme",
@@ -48,27 +49,13 @@
     "Animation pédagogique"
   ],
 
-  "descripteurs_whitelist": [
-    "Évaluation",
-    "Certification",
-    "Compétences",
-    "E-learning",
-    "Logiciel",
-    "Logiciels",
-    "Services informatiques",
-    "Examen",
-    "Test",
-    "VAE",
-    "Validation des acquis",
-    "Bilan de compétences",
-    "Audit",
-    "Audit RH",
-    "Habilitation",
-    "Qualification",
-    "Conseil RH",
-    "GPEC",
-    "Plateforme",
-    "SaaS"
+  "_doc_whitelist_desactivee": "Whitelist désactivée (audit 11/08/2026) : elle rejetait des AO cœur de cible déjà validés par mots-clés — ex. INPI 'Test de connaissance en propriété intellectuelle' (BOAMP 23/06/2026), descripteur 'Etude', hors whitelist → rejet. Les mots-clés + phrases négatives + blacklist descripteurs + gating v2 suffisent. Ancienne liste conservée ci-dessous pour mémoire.",
+  "descripteurs_whitelist": [],
+  "_ancienne_whitelist_memo": [
+    "Évaluation", "Certification", "Compétences", "E-learning", "Logiciel", "Logiciels",
+    "Services informatiques", "Examen", "Test", "VAE", "Validation des acquis",
+    "Bilan de compétences", "Audit", "Audit RH", "Habilitation", "Qualification",
+    "Conseil RH", "GPEC", "Plateforme", "SaaS"
   ],
 
   "negative_phrases": [

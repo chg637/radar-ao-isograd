@@ -23,7 +23,11 @@ const TED_API_URL = "https://api.ted.europa.eu/v3/notices/search";
 const CONFIG_PATH = path.join(__dirname, "config", "filters.json");
 const DATA_DIR = path.join(__dirname, "data");
 const PAGE_SIZE = 100;
-const MAX_PAGES = 5; // garde-fou : 500 avis max par run, large pour notre périmètre
+// Audit 11/08/2026 : la requête (CPV x pays x 30j) renvoyait 1704 avis pour un cap
+// de 500 — 71% de la fenêtre silencieusement tronquée, sans tri garanti.
+// Cap relevé à 2000 ; la troncature restante est désormais loguée et stockée
+// (total_available dans l'output).
+const MAX_PAGES = 20;
 
 // === Helpers ===
 function log(msg) {
@@ -293,7 +297,10 @@ async function main() {
     page++;
   }
 
-  log(`TED : ${allNotices.length} avis récupérés sur la fenêtre`);
+  log(`TED : ${allNotices.length} avis récupérés sur la fenêtre (total annoncé par l'API : ${totalAvailable ?? "?"})`);
+  if (totalAvailable && allNotices.length < totalAvailable) {
+    log(`⚠ TRONCATURE TED : ${totalAvailable - allNotices.length} avis de la fenêtre non fetchés (cap ${PAGE_SIZE * MAX_PAGES}). Augmenter MAX_PAGES si récurrent.`);
+  }
 
   // Normalisation + filtrage
   const enriched = [];
@@ -332,6 +339,7 @@ async function main() {
     source: "TED",
     window_days: config.publication_window_days,
     total_fetched: allNotices.length,
+    total_available: totalAvailable ?? null,
     total_matched: enriched.length,
     total_go: enriched.filter(n => n.score_status === "go").length,
     gating_stats: gatingStats,

@@ -244,5 +244,57 @@
   },
 
   "_doc_publication_window": "Élargi à 30 jours (v4.1) — quadrupler le volume TED vs v3=7j. Le filtrage métier Python côté veille-hub reste strict, donc pas de risque de noyade.",
-  "publication_window_days": 30
+  "publication_window_days": 30,
+
+  "_doc_gating": "Gating v2 (août 2026) — référentiel de la spec du radar hebdo, désormais appliqué côté repo par lib/gating.js et non plus à la main par l'agent. Whitelist/blacklist CPV, bigrammes contextuels requis pour les keywords solo ambigus, stop-words sémantiques avec overrides.",
+  "gating": {
+    "whitelist_cpv_core": [
+      "80300000", "80400000", "80420000", "80500000", "80510000",
+      "80530000", "80531200", "79132000", "48190000"
+    ],
+    "whitelist_cpv_secondary": [
+      "72200000", "72260000", "72416000", "72212920"
+    ],
+    "blacklist_cpv_exact": [
+      "79400000", "72224000", "75100000"
+    ],
+    "blacklist_cpv_prefix": [
+      "73", "71", "85", "98"
+    ],
+    "context_bigrams": [
+      "plateforme d'évaluation", "plateforme d'examen", "plateforme de certification",
+      "passation en ligne", "examens en ligne", "épreuves dématérialisées",
+      "computer-based testing", "test center", "télésurveillance", "proctoring",
+      "banque de questions", "test adaptatif", "psychométrie",
+      "ingénierie d'évaluation", "référentiel de compétences",
+      "certification bureautique", "certification compétences numériques",
+      "DigComp", "France Compétences", "RNCP enregistrement"
+    ],
+    "solo_ambiguous_keywords": [
+      "Excel", "Word", "PowerPoint", "Outlook", "bureautique",
+      "formation", "certification", "compétences", "numérique", "habilitation"
+    ],
+    "stop_words": [
+      { "phrase": "ISO 9001", "override": ["plateforme certif"] },
+      { "phrase": "ISO 14001", "override": ["plateforme certif"] },
+      { "phrase": "ISO 27001", "override": ["plateforme certif"] },
+      { "phrase": "cybersécurité", "override": ["certification compétences cyber"] },
+      { "phrase": "cyberdéfense", "override": ["certification compétences cyber"] },
+      { "phrase": "ressources humaines", "override": [] },
+      { "phrase": "paie", "override": [] },
+      { "phrase": "soins", "override": [] },
+      { "phrase": "infirmier", "override": [] },
+      { "phrase": "hospitalier", "override": [] },
+      { "phrase": "médical", "override": [] },
+      { "phrase": "BTP", "override": [] },
+      { "phrase": "conseil pédagogique", "override": ["numérique"] },
+      { "phrase": "génie civil", "override": [] },
+      { "phrase": "VRD", "override": [] },
+      { "phrase": "câblage", "override": [] },
+      { "phrase": "insertion sociale", "override": [] },
+      { "phrase": "illettrisme", "override": ["illettrisme numérique"] },
+      { "phrase": "audit juridique", "override": [] },
+      { "phrase": "audit financier", "override": [] }
+    ]
+  }
 }

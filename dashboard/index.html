@@ -476,10 +476,7 @@
       </div>
       <div class="stat">
         <div class="stat-label">Pipeline théorique</div>
-        <div class="stat-value" id="stat-pipe">0 <span class="small">k€</span></div>
-      </div>
-      <div class="stat">
-        <div class="stat-label">Dernière sync</div>
+        <div class="stat-value" id="stat-pipe">0 <span class="small">k€</span></div> </div> <div class="stat"> <div class="stat-label">Écartés (expirés/filtrés)</div> <div class="stat-value" id="stat-hidden" style="font-size:20px; color:var(--grey-500);">0</div> </div> <div class="stat"> <div class="stat-label">Dernière sync</div>
         <div class="stat-value" id="stat-sync" style="font-size:14px; line-height:1.4;">—</div>
       </div>
     </div>
@@ -1243,20 +1240,13 @@ function fmtDate(d) {
   return fmt;
 }
 
-function render() {
+function isExpired(ao) { if (!ao.deadline) return false; const d = new Date(ao.deadline); if (isNaN(d.getTime())) return false; const today = new Date(); today.setHours(0,0,0,0); return d.getTime() < today.getTime(); } function render() {
   const search = document.getElementById("search").value.toLowerCase();
   const fStatus = document.getElementById("filter-status").value;
   const fSource = document.getElementById("filter-source").value;
   const fSegment = document.getElementById("filter-segment").value;
 
-  let filtered = aos.filter(a => {
-    if (fSource && a.source !== fSource) return false;
-    if (fSegment && a.segment !== fSegment) return false;
-    if (fStatus) {
-      const s = statusOf(a).cls;
-      if (s !== fStatus) return false;
-    }
-    if (search) {
+  let hiddenExpired = 0, hiddenFiltered = 0; let filtered = aos.filter(a => { if (fSource && a.source !== fSource) return false; if (fSegment && a.segment !== fSegment) return false; if (fStatus) { const s = statusOf(a).cls; if (s !== fStatus) return false; } else { const s = statusOf(a).cls; if (s === "filtered") { hiddenFiltered++; return false; } if (isExpired(a)) { hiddenExpired++; return false; } } if (search) {
       const blob = (a.acheteur + " " + a.objet + " " + a.ref + " " + a.notes + " " + a.cpv).toLowerCase();
       if (!blob.includes(search)) return false;
     }
@@ -1310,7 +1300,7 @@ function render() {
   document.getElementById("stat-total").textContent = aos.length;
   document.getElementById("stat-go").textContent = aos.filter(a => a.score >= 75).length;
   const pipe = aos.reduce((s, a) => s + (a.score >= 55 ? (a.montant || 0) : 0), 0);
-  document.getElementById("stat-pipe").innerHTML = pipe.toLocaleString("fr-FR") + ' <span class="small">k€</span>';
+  document.getElementById("stat-pipe").innerHTML = pipe.toLocaleString("fr-FR") + ' <span class="small">k€</span>'; document.getElementById("stat-hidden").textContent = hiddenExpired + hiddenFiltered;
 
   // sort indicator
   document.querySelectorAll("th").forEach(th => {

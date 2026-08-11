@@ -18,12 +18,58 @@
  * Usage : node merge_sources.js [date_iso]
  */
 
+const fs = require("fs");
 const path = require("path");
 const { loadJSONIfExists, todayISO, makeLogger, writeJSON } = require("./lib/io");
 const { normalize } = require("./lib/normalize");
 
 const DATA_DIR = path.join(__dirname, "data");
+const FEEDBACK_PATH = path.join(__dirname, "feedback", "verdicts.csv");
 const log = makeLogger("merge");
+
+/**
+ * Métrique précision 4 semaines glissantes (schéma v2).
+ *
+ * Lit feedback/verdicts.csv si présent. Format attendu (souple) :
+ *   Ref,Verdict,Date
+ *   497445-2026,no,2026-08-11
+ * Verdict ∈ {go, no, à creuser} — un "no" sur une notice que le radar avait
+ * affichée (score >= 60) compte comme faux positif.
+ * Retourne { precision_4w, human_verdicts_collected_4w, false_positives_human_verdict_4w }.
+ */
+function computePrecision4w() {
+  const empty = {
+    precision_4w: null,
+    human_verdicts_collected_4w: 0,
+    false_positives_human_verdict_4w: 0
+  };
+  if (!fs.existsSync(FEEDBACK_PATH)) return empty;
+  let lines;
+  try {
+    lines = fs.readFileSync(FEEDBACK_PATH, "utf-8").split(/\r?\n/).filter(Boolean);
+  } catch {
+    return empty;
+  }
+  const cutoff = new Date(Date.now() - 28 * 86400000);
+  let collected = 0;
+  let falsePos = 0;
+  for (const line of lines.slice(1)) { // skip header
+    const cols = line.split(",").map(c => c.trim());
+    if (cols.length < 2) continue;
+    const verdict = normalize(cols[1] || "");
+    const dateStr = cols[2] || "";
+    const d = dateStr ? new Date(dateStr) : null;
+    if (d && !isNaN(d) && d < cutoff) continue; // hors fenêtre 4 semaines
+    if (!verdict) continue;
+    collected++;
+    if (verdict === "no") falsePos++;
+  }
+  return {
+    precision_4w: collected > 0 ? Math.round(100 * (1 - falsePos / collected)) : null,
+    human_verdicts_collected_4w: collected,
+    false_positives_human_verdict_4w: falsePos
+  };
+}
 
 /**
  * Signature fuzzy d'une notice. On hash la FIN de l'objet (et pas le début)
@@ -175,9 +221,29 @@ function main() {
     return (b.publication || "").localeCompare(a.publication || "");
   });
 
+  // === Bloc metrics (schéma v2) ===
+  // Agrège les compteurs de gating remontés par chaque sync (gating_stats),
+  // compte les notices affichables, et calcule la précision 4 semaines
+  // glissantes depuis feedback/verdicts.csv si le fichier existe.
+  const gatingAgg = { filtered_cpv_blacklist: 0, filtered_stopword: 0, capped_no_context: 0 };
+  for (const s of sources) {
+    const d = loadJSONIfExists(s.path);
+    const gs = d && d.gating_stats ? d.gating_stats : {};
+    gatingAgg.filtered_cpv_blacklist += gs.filtered_cpv_blacklist || 0;
+    gatingAgg.filtered_stopword += gs.filtered_stopword || 0;
+    gatingAgg.capped_no_context += gs.capped_no_context || 0;
+  }
+  const precision = computePrecision4w();
+  const metrics = {
+    ...precision,
+    ...gatingAgg,
+    displayed_in_radar: merged.filter(n => n.score >= 60 && n.score_status !== "filtered").length
+  };
+
   const out = {
     generated_at: new Date().toISOString(),
     source: "MERGE",
+    schema_version: 2,
     sources_summary: summary,
     total_fetched: Object.values(summary).reduce((s, x) => s + x.fetched, 0),
     total_matched: merged.length,
@@ -188,6 +254,7 @@ function main() {
       fuzzy_signature: collisionsSig,
       fuzzy_jaccard: collisionsJaccard
     },
+    metrics,
     notices: merged
   };
 

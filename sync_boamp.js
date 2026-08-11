@@ -19,6 +19,7 @@ const path = require("path");
 const { loadJSON, ensureDir, todayISO, daysAgoISO, makeLogger, writeJSON } = require("./lib/io");
 const { matchesKeywords, passesNegativePhrases, detectSegment } = require("./lib/keywords");
 const { autoScore, scoreStatus } = require("./lib/scoring");
+const { applyGating } = require("./lib/gating");
 const { normalize } = require("./lib/normalize");
 
 const FILTERS_PATH = path.join(__dirname, "config", "filters.json");
@@ -204,6 +205,7 @@ async function main() {
 
   // Normalisation + filtrage applicatif (resserrage)
   const enriched = [];
+  const gatingStats = {};
   let rejectedByDesc = 0;
   let rejectedByNeg = 0;
   for (const rec of allRecords) {
@@ -227,8 +229,11 @@ async function main() {
     n.score_status = scoreStatus(score, filters.scoring.thresholds);
     n.notes = "";
     n.auto = true;
+    // Gating v2 : CPV blacklist (vide côté BOAMP, pas de CPV), stop-words, bigrammes
+    applyGating(n, filters, gatingStats);
     enriched.push(n);
   }
+  log(`Gating v2 : ${JSON.stringify(gatingStats)}`);
 
   enriched.sort((a, b) => b.score - a.score);
 
@@ -240,6 +245,7 @@ async function main() {
     total_fetched: allRecords.length,
     total_matched: enriched.length,
     total_go: enriched.filter(n => n.score_status === "go").length,
+    gating_stats: gatingStats,
     notices: enriched
   };
 

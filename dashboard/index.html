@@ -185,6 +185,9 @@
   .pill-go { background: #DCF5E8; color: var(--green); }
   .pill-cond { background: #FEF3C7; color: #92400E; }
   .pill-no { background: #FEE2E2; color: var(--red); }
+  .pill-filtered { background: #E5E7EB; color: var(--grey-500); }
+  .pill-cpvclass { background: #E1EFEF; color: #05676A; font-family: monospace; font-size: 9px; padding: 2px 6px; margin-left: 4px; }
+  .pill-noise { background: #F3F4F6; color: var(--grey-500); font-size: 9px; padding: 2px 6px; margin-left: 4px; }
   .pill-cpv { background: var(--teal-light); color: var(--teal-dark); font-family: ui-monospace, monospace; }
   .pill-source { background: var(--grey-100); color: var(--grey-700); }
   .pill-source-TED { background: #DBE7F4; color: #1B4079; }
@@ -235,6 +238,7 @@
   .score-go .score-fill { background: var(--green); }
   .score-cond .score-fill { background: var(--amber); }
   .score-no .score-fill { background: var(--red); }
+  .score-filtered .score-fill { background: var(--grey-500); }
   .score-num { font-size: 13px; font-weight: 700; color: var(--grey-900); }
 
   .grid-2 {
@@ -506,6 +510,7 @@
       <option value="go">Go ferme (≥75)</option>
       <option value="cond">Go conditionnel (55-74)</option>
       <option value="no">No-go (<55)</option>
+      <option value="filtered">Filtrées (gating v2)</option>
     </select>
     <select id="filter-source">
       <option value="">Toutes sources</option>
@@ -1211,7 +1216,15 @@ document.querySelectorAll(".tab").forEach(t => {
 });
 
 // ========== TABLE ==========
-function statusOf(score) {
+// v2 (août 2026) : accepte l'objet AO complet pour respecter score_status
+// "filtered" posé par le gating côté repo (lib/gating.js). Rétro-compatible :
+// accepte aussi un score numérique brut.
+function statusOf(aoOrScore) {
+  const isObj = typeof aoOrScore === "object" && aoOrScore !== null;
+  if (isObj && aoOrScore.score_status === "filtered") {
+    return { cls: "filtered", label: "Filtré (gating)" };
+  }
+  const score = isObj ? aoOrScore.score : aoOrScore;
   if (score >= 75) return { cls: "go", label: "Go ferme" };
   if (score >= 55) return { cls: "cond", label: "Conditionnel" };
   return { cls: "no", label: "No-go" };
@@ -1240,7 +1253,7 @@ function render() {
     if (fSource && a.source !== fSource) return false;
     if (fSegment && a.segment !== fSegment) return false;
     if (fStatus) {
-      const s = statusOf(a.score).cls;
+      const s = statusOf(a).cls;
       if (s !== fStatus) return false;
     }
     if (search) {
@@ -1262,7 +1275,7 @@ function render() {
 
   const tbody = document.getElementById("ao-tbody");
   tbody.innerHTML = filtered.map(a => {
-    const st = statusOf(a.score);
+    const st = statusOf(a);
     return `
       <tr data-id="${a.id}" class="ao-row">
         <td>
@@ -1271,14 +1284,14 @@ function render() {
           <div style="color:var(--grey-500); font-size:11px;">${escape(a.ref)}</div>
         </td>
         <td>${escape(a.objet)}</td>
-        <td><span class="pill pill-cpv">${escape(a.cpv)}</span></td>
+        <td><span class="pill pill-cpv">${escape(a.cpv)}</span>${a.cpv_class && a.cpv_class !== "unknown" ? `<span class="pill pill-cpvclass" title="Classification gating v2">${escape(a.cpv_class)}</span>` : ''}</td>
         <td>${escape(a.segment)}</td>
         <td><span class="pill pill-source pill-source-${escape(a.source)}">${escape(a.source)}</span>${a._also_seen_in && a._also_seen_in.length ? `<div style="font-size:10px; color:var(--grey-500); margin-top:2px;">+ ${a._also_seen_in.join(', ')}</div>` : ''}</td>
         <td style="text-align:right; font-variant-numeric: tabular-nums;">${a.montant ? a.montant.toLocaleString("fr-FR") : "—"}</td>
         <td>${fmtDate(a.deadline)}</td>
         <td>
-          <span class="pill pill-${st.cls}">${st.label}</span>
-          <div class="score-num">${a.score}/100</div>
+          <span class="pill pill-${st.cls}" ${a.gating_reason ? `title="${escape(a.gating_reason)}"` : ''}>${st.label}</span>${a.quality_flag === "noise" && st.cls !== "filtered" ? '<span class="pill pill-noise" title="quality_flag: noise (gating v2)">bruit</span>' : ''}
+          <div class="score-num">${a.score}/100${typeof a.score_raw === "number" && a.score_raw !== a.score ? ` <span style="font-size:10px; color:var(--grey-500);" title="Score avant gating v2">(brut ${a.score_raw})</span>` : ''}</div>
           <div class="score-bar score-${st.cls}"><div class="score-fill" style="width:${a.score}%;"></div></div>
         </td>
         <td class="cell-action">
@@ -1337,7 +1350,7 @@ function toggleDetail(id) {
         <div><strong>Source</strong>${escape(ao.source)}</div>
         <div><strong>Montant</strong>${ao.montant ? ao.montant + " k€" : "—"}</div>
         <div><strong>Deadline</strong>${fmtDate(ao.deadline)}</div>
-        <div><strong>Score</strong>${ao.score}/100 — ${statusOf(ao.score).label}</div>
+        <div><strong>Score</strong>${ao.score}/100 — ${statusOf(ao).label}${ao.gating_reason ? ` · <span style="color:var(--grey-500);">${escape(ao.gating_reason)}</span>` : ''}${ao.bigrams_matched && ao.bigrams_matched.length ? ` · bigrammes : ${ao.bigrams_matched.map(escape).join(", ")}` : ''}</div>
         ${ao.url ? '<div style="grid-column: 1 / -1;"><strong>URL</strong><a href="' + escape(ao.url) + '" target="_blank" style="color:var(--teal);">' + escape(ao.url) + '</a></div>' : ''}
         <div style="grid-column: 1 / -1;"><strong>Notes</strong>${escape(ao.notes).replace(/\n/g, "<br>")}</div>
       </div>

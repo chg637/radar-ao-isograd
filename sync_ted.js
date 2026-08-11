@@ -15,6 +15,8 @@
 
 const fs = require("fs");
 const path = require("path");
+const { matchesKeywords: matchesKeywordsLib } = require("./lib/keywords");
+const { applyGating } = require("./lib/gating");
 
 // === Constantes ===
 const TED_API_URL = "https://api.ted.europa.eu/v3/notices/search";
@@ -170,18 +172,13 @@ function normalizeNotice(raw, config) {
 }
 
 // === Filtrage par mots-clés ===
-// On considère qu'un AO matche si l'un des mots-clés cibles (FR/EN/bureautique)
-// apparaît dans le titre, la description ou l'acheteur. Les hits servent au scoring.
+// Fix août 2026 : on délègue à lib/keywords.js (partagé avec BOAMP), qui
+// normalise les accents ET matche les mots-clés mono-token en mot entier.
+// L'ancienne version inline faisait un includes() en sous-chaîne : "Excel"
+// matchait "Excelencia" (ES), "Word" matchait "wordt" (NL) — 22 faux positifs
+// sur 30 notices au run du 11/08/2026.
 function matchesKeywords(notice, config) {
-  const blob = `${notice.objet || ""} ${notice.description || ""} ${notice.acheteur || ""}`.toLowerCase();
-  const allKw = [
-    ...(config.keywords_fr || []),
-    ...(config.keywords_en || []),
-    ...(config.keywords_bureautique || [])
-  ];
-  const hits = allKw.filter(kw => blob.includes(kw.toLowerCase()));
-  const bureautique = (config.keywords_bureautique || []).some(kw => blob.includes(kw.toLowerCase()));
-  return { matched: hits.length > 0, hits, bureautique };
+  return matchesKeywordsLib(notice, config);
 }
 
 // === Détection du segment acheteur ===
@@ -300,6 +297,7 @@ async function main() {
 
   // Normalisation + filtrage
   const enriched = [];
+  const gatingStats = {};
   for (const raw of allNotices) {
     const n = normalizeNotice(raw, config);
     const { matched, hits, bureautique } = matchesKeywords(n, config);
@@ -315,8 +313,11 @@ async function main() {
                    : "no";
     n.notes = "";
     n.auto = true;
+    // Gating v2 : CPV blacklist, stop-words, bigrammes (annote + ajuste le score)
+    applyGating(n, config, gatingStats);
     enriched.push(n);
   }
+  log(`Gating v2 : ${JSON.stringify(gatingStats)}`);
 
   // Tri par score décroissant
   enriched.sort((a, b) => b.score - a.score);
@@ -333,6 +334,7 @@ async function main() {
     total_fetched: allNotices.length,
     total_matched: enriched.length,
     total_go: enriched.filter(n => n.score_status === "go").length,
+    gating_stats: gatingStats,
     notices: enriched
   };
 

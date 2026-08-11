@@ -145,8 +145,11 @@ jobs:
             --data "$(jq -n --arg t "$MESSAGE" '{text: $t}')" \
             "$SLACK_WEBHOOK" || true
 
-      # Alerte si une source est manquante (data/*_TODAY.json absent ou vide).
-      # Évite que continue-on-error masque une source qui plante en boucle.
+      # Alerte si une source est manquante OU vide (fetched = 0).
+      # Fix août 2026 : l'ancienne version ne regardait que 'present', qui reste
+      # true même quand un sync sort proprement avec 0 résultat — c'est comme ça
+      # que la panne APIFY_TOKEN de la source Profils est restée invisible
+      # pendant des mois. Un fetched=0 déclenche maintenant l'alerte.
       - name: Alerte source manquante
         if: success()
         env:
@@ -157,8 +160,8 @@ jobs:
             const d = require('./data/latest.json');
             const s = d.sources_summary || {};
             const missing = Object.entries(s)
-              .filter(([k, v]) => !v.present)
-              .map(([k]) => k);
+              .filter(([k, v]) => !v.present || (v.fetched || 0) === 0)
+              .map(([k, v]) => !v.present ? k + ' (absente)' : k + ' (0 fetched)');
             console.log(missing.join(','));
           ")
           if [ -n "$MISSING" ]; then

@@ -1,380 +1,49 @@
 {
-  "generated_at": "2026-08-11T07:04:10.753Z",
+  "generated_at": "2026-08-11T11:35:30.788Z",
   "source": "MERGE",
+  "schema_version": 2,
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 30,
+      "matched": 11,
       "go": 0,
-      "generated_at": "2026-08-11T06:56:53.137Z"
+      "generated_at": "2026-08-11T11:28:31.391Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
-      "matched": 2,
+      "matched": 1,
       "go": 0,
-      "generated_at": "2026-08-11T07:04:10.108Z"
+      "generated_at": "2026-08-11T11:35:30.400Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-08-11T07:04:10.628Z"
+      "generated_at": "2026-08-11T11:35:30.658Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 30,
+  "total_matched": 11,
   "total_go": 0,
-  "total_dedup_collisions": 2,
+  "total_dedup_collisions": 1,
   "dedup_breakdown": {
     "by_id": 0,
     "fuzzy_signature": 1,
-    "fuzzy_jaccard": 1
+    "fuzzy_jaccard": 0
+  },
+  "metrics": {
+    "precision_4w": null,
+    "human_verdicts_collected_4w": 0,
+    "false_positives_human_verdict_4w": 0,
+    "filtered_cpv_blacklist": 2,
+    "filtered_stopword": 1,
+    "capped_no_context": 4,
+    "displayed_in_radar": 4
   },
   "notices": [
-    {
-      "id": "497445-2026",
-      "ref": "497445-2026",
-      "acheteur": "EJIE, S.A. - Sociedad Informática del Gobierno Vasco - EJIE-Sociedad Informática del Gobierno Vasco",
-      "objet": "Espagne – Services de conseil en systèmes informatiques – Servicio de Centro de Excelencia Cloud para EJIE",
-      "description": "Servicio de Centro de Excelencia Cloud para EJIE",
-      "cpv": "72246000",
-      "pays": "ESP",
-      "deadline": "2026-09-11",
-      "montant": 3812,
-      "publication": "2026-07-17",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/497445-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Excel"
-      ],
-      "bureautique": true,
-      "score": 74,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "490115-2026",
-      "ref": "490115-2026",
-      "acheteur": "Gemeente Rotterdam",
-      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Procesautomatisering Civiele Kunstwerken",
-      "description": "Deze opdracht met kenmerk 1-D-0024204-25 gaat over procesautomatisering van civiele kunstwerken. Deze opdracht richt zich specifiek op het onderhoud en beheer van de procesautomatiseringssystemen van de civiele kunstwerken, met de nadruk op het waarborgen van een stabiele, veilige en betrouwbare werking van de procesautomatiseringssystemen, terwijl tegelijkertijd de ambitie van de aanbestedende dienst op het gebied van cybersecurity wordt gerealiseerd.",
-      "cpv": "72200000",
-      "pays": "NLD",
-      "deadline": "2026-10-20",
-      "montant": 1500,
-      "publication": "2026-07-15",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/490115-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 74,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "498661-2026",
-      "ref": "498661-2026",
-      "acheteur": "Provincie Oost-Vlaanderen",
-      "objet": "Belgique – Services de formation dans le domaine de la sécurité – Het organiseren van opleidingen reddingen in snelstromend en overstromingswater",
-      "description": "Voorwerp van de opdracht: Deze opdracht betreft een dienstenopdracht voor het organiseren van opleidingen inzake redding in snelstromend en overstromingswater, ten behoeve van PAULO Brandweer en de deelnemende brandweerzones. De opdracht betreft een sociale en andere specifieke dienst zoals opgesomd in bijlage III van de wet van 17 juni 2016. PAULO Brandweer leidt cursisten op in redding in snelstromend en overstromingswater en beschikt hiervoor over een poule van instructeurs in opleiding. Voor de organisatie van deze opleidingen werkt PAULO samen met een opdrachtnemer die de volledige cursus kan aanbieden (per groep van 12 deelnemers), inclusief optionele componenten zoals hotel, restauratie, theorielokaal, logistiek, materiaal en certificering. Het aantal instructeurs dat de opdrachtnemer moet voorzien, wordt per opleidingstraject door PAULO vastgesteld, afhankelijk van: • het aantal beschikbare PAULO-instructeurs, en • het competentieniveau dat deze instructeurs op dat moment hebben bereikt. De opdrachtnemer biedt een structuur die toelaat dat PAULO-instructeurs: • actief meedraaien in de opleiding, • praktijkervaring opdoen onder supervisie van een volledig gekwalificeerde instructeur, • en gradueel doorgroeien naar autonome inzetbaarheid[MP6.1][MP6.2][ME6.3]. Looptijd overeenkomst: De uitvoeringstermijn van deze opdracht bedraagt 2 jaar, te rekenen vanaf de datum van de kennisgeving van de gunning. Na afloop van deze vaste termijn kan de opdracht stilzwijgend worden verlengd met 2 periodes van telkens 12 maanden, onder dezelfde contractuele voorwaarden.[MP7.1][ME7.2] Deze verlengingen dienen uitsluitend om PAULO toe te laten de kwaliteit, werking en resultaten van de opleidingen te evalueren en eventueel een nieuwe procedure op te starten indien de opdracht na twee jaar niet langer voldoet aan de verwachtingen. Indien de opleidingen postief worden geëvalueerd, kan zij tot 4 jaar van deze dienstverlening genieten, mede gelet op de investeringen en kosten die met dergelijke specialistische opleiding gepaard gaan.",
-      "cpv": "80550000",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 1240,
-      "publication": "2026-07-20",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/498661-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "497008-2026",
-      "ref": "497008-2026",
-      "acheteur": "Ministerie van Volksgezondheid, Welzijn en Sport",
-      "objet": "Pays-Bas – Services relatifs aux logiciels – Pilots Landelijk Dekkend Netwerk (LDN)",
-      "description": "Het Ministerie van Volksgezondheid, Welzijn en Sport (VWS) werkt binnen het programma Lande-lijk Dekkend Netwerk (LDN) aan de realisatie van een landelijk dekkend netwerk van infrastruc-turen en generieke functies. Dit is noodzakelijk voor veilige, betrouwbare en interoperabele elek-tronische gegevensuitwisseling in de zorg. De geraamde waarde van alle nadere opdrachten binnen de raamovereenkomst is € 10.000.000 exclusief btw, gebaseerd op circa 12 pilots van gemiddeld € 500.000 per pilot en PoC’s en pilots voor de infrastructuur. Deze raming is gebaseerd op eerdere ervaringen en inschattingen van de aanbestedende dienst. U kunt hier geen rechten aan ontlenen. De maximale waarde van het geheel van de raamovereenkomst is € 15.000.000 exclusief btw. Wordt deze maximale waarde bereikt? Dan eindigt de raamovereenkomst van rechtswege, ook als de einddatum nog niet is bereikt. U kunt aan de raamovereenkomst geen afnamegarantie ontlenen.",
-      "cpv": "72260000",
-      "pays": "NLD",
-      "deadline": "2026-09-09",
-      "montant": 10000,
-      "publication": "2026-07-17",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/497008-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "492781-2026",
-      "ref": "492781-2026",
-      "acheteur": "Ministerie van Buitenlandse Zaken",
-      "objet": "Pays-Bas – Services de formation pour l'épanouissement de la personnalité – Leergang L&M en leergang coördineren",
-      "description": "Het ministerie van Buitenlandse Zaken (BZ) wil dat haar leidinggevenden en coördinatoren zich verder ontwikkelen om effectief bij te kunnen dragen aan een wendbaar en weerbaar BZ, extern- en resultaatgericht, waarin op inclusieve wijze wordt samengewerkt. Het leer- en ontwikkelprogramma voor formeel leidinggevenden en voor coördinatoren is hierbij essentieel. Idealiter krijgen alle collega’s uit de doelgroepen de mogelijkheid om één van de leergangen te volgen in het eerste jaar in een leidinggevende of coördinerende rol. Dit betekent dat de academie jaarlijks 7 tot 12 uitvoeringen met maximaal 15 deelnemers wil aanbieden. Dit resulteert in een totaal aantal van 105 tot 180 deelnemers per jaar. Van de opdrachtnemer wordt een integrale en professionele dienstverlening verwacht. De intentie is om een raamovereenkomst af te sluiten met één dienstverlener van juli 2026 tot en met juni 2032. 5.040.000,-",
-      "cpv": "80570000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 5040,
-      "publication": "2026-07-16",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/492781-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "480167-2026",
-      "ref": "480167-2026",
-      "acheteur": "Stichting Lokaal en Internationaal Funderend Onderwijs (SILFO)",
-      "objet": "Pays-Bas – Services d'implémentation de logiciels – Europese aanbesteding selectie Implementatiepartner AFAS28",
-      "description": "Stichting Onderwijsgroep Oost-Brabant is penvoerder voor een Europese aanbesteding volgens de openbare procedure voor de opdracht Implementatiepartner AFAS28. De opdracht ziet op het contracteren van één AFAS-implementatiepartner voor de fusieorganisatie van Secvo, Silfo en OGOB. De opdracht omvat het inrichten van AFAS volgens Best Practices, gegevensmigratie uit de bestaande drie AFAS-systemen naar AFAS28, het inrichten van koppelingen met omliggende applicaties, training van gebruikers en advisering bij het inrichten van de beheerorganisatie. AFAS28 dient per 1 januari 2028 in bedrijf te zijn. Fase 2 eindigt uiterlijk op 30 juni 2028. Inschrijvingen dienen uitsluitend digitaal via het aanbestedingsplatform te worden ingediend. De aanbestedingsstukken, waaronder het Beschrijvend document en de bijlagen, zijn leidend.",
-      "cpv": "72263000",
-      "pays": "NLD",
-      "deadline": "2026-09-28",
-      "montant": 415,
-      "publication": "2026-07-13",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/480167-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "480664-2026",
-      "ref": "480664-2026",
-      "acheteur": "Veiligheidsregio Gelderland-Zuid",
-      "objet": "Pays-Bas – Services relatifs aux logiciels – Vrijwillige transparantie t.b.v. AI in de meldkamer RAV",
-      "description": "Veiligheidsregio Gelderland Zuid (VRGZ), Veiligheids- en Gezondheidsregio Gelderland Midden (VGGM) en RAV Noord- en Oost Gelderland (NOG) schaffen gezamenlijk de Seconds-software van Timelab aan. Deze applicatie ondersteunt centralisten op de meldkamer bij het uitgifte- en positioneringsproces van ambulances. Het systeem adviseert welke ambulance het meest optimaal naar een incident gestuurd kan worden en positioneert ambulances proactief op basis van een voorspellend AI-model. Hierbij worden meerdere databronnen gelijktijdig verwerkt: historische ritdata, actuele verkeersinformatie, weersomstandigheden, voertuigbeschikbaarheid en personeelsplanning. De drie regio's verzorgen samen jaarlijks circa 148.000 ambulance-inzetten. De software vervangt handmatige besluitvorming door datagedreven ondersteuning, wat leidt tot kortere responstijden en minder cognitieve belasting voor centralisten. De initiële overeenkomst heeft een looptijd van één jaar, met drie eenzijdige verlengingsopties van De opdracht betreft een overeenkomst met een initiële looptijd van één jaar, met de mogelijkheid tot driemaal eenzijdige verlenging van elk één jaar, wat resulteert in een maximale looptijd van vier jaar. De geschatte jaarlijkse licentiekosten bedragen 60.500 euro voor VRGZ, 77.000 euro voor VGGM en 106.000 euro voor RAV NOG. Daarnaast wordt eenmalig 30.000 euro geraamd voor de gezamenlijke implementatie van de software in de drie regio's. De geschatte totale contractwaarde over de maximale looptijd bedraagt 1.010.000 euro.",
-      "cpv": "72260000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 1010,
-      "publication": "2026-07-13",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/480664-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 72,
-      "score_detail": {
-        "fit": 30,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "500549-2026",
-      "ref": "500549-2026",
-      "acheteur": "Gemeente Leeuwarden",
-      "objet": "Pays-Bas – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Aanschaf en Implementatie van Plan- en regelsoftware",
-      "description": "• Ondersteuning voor het opstellen, publiceren en beheren van de omgevingsdocumenten zoals het Omgevingsplan, omgevingsprogramma en de Omgevingsvisie. • De Plansoftware moet gekoppeld kunnen worden met het DSO op basis van STOP/TPOD (Standaard officiële publicaties en Toepassingsprofiel) • Implementatie van de applicaties (o.a. installatie, ondersteuning bij inrichting, opleiding en realiseren koppelingen); • Hosting van de software; • Technisch beheer, waaronder updates, upgrades en beheer van de koppelingen • Ondersteuning voor het opstellen, publiceren en beheren van de omgevingsdocumenten zoals het Omgevingsplan, omgevingsprogramma en de Omgevingsvisie. • De Plansoftware moet gekoppeld kunnen worden met het DSO op basis van STOP/TPOD (Standaard officiële publicaties en Toepassingsprofiel) • Implementatie van de applicaties (o.a. installatie, ondersteuning bij inrichting, opleiding en realiseren koppelingen); • Hosting van de software; • Technisch beheer, waaronder updates, upgrades en beheer van de koppelingen / • Ondersteuning voor het opstellen en publiceren van Toepasbare regels. • De TR-Software moet gekoppeld worden met het DSO op basis van de STTR (Standaard Toepasbare Regels) • Implementatie van de applicaties (o.a. installatie, ondersteuning bij inrichting, opleiding en realiseren koppelingen); • Hosting van de software; • Technisch beheer, waaronder updates, upgrades en beheer van de koppelingen; • Ondersteuning voor het opstellen en publiceren van Toepasbare regels. • De TR-Software moet gekoppeld worden met het DSO op basis van de STTR (Standaard Toepasbare Regels) • Implementatie van de applicaties (o.a. installatie, ondersteuning bij inrichting, opleiding en realiseren koppelingen); • Hosting van de software; • Technisch beheer, waaronder updates, upgrades en beheer van de koppelingen;",
-      "cpv": "72000000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 766,
-      "publication": "2026-07-20",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/500549-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "495895-2026",
-      "ref": "495895-2026",
-      "acheteur": "Gemeente Venlo",
-      "objet": "Pays-Bas – Feux de circulation – Raamovereenkomst voor het leveren van verkeersregeltoestellen en verkeerslantaarns",
-      "description": "De opdracht betreft het leveren van verkeersregeltoestellen en verkeerslantaarns, inclusief bijkomende werkzaamheden. Daarnaast wordt een servicecontract gesloten met dezelfde Inschrijver voor het correctief en preventief onderhoud van de geleverde verkeersregelautomaten. Deze opdracht betreft een raamovereenkomst met een verwachte omvang van 7 verkeersregeltoestellen en de bijbehorende verkeerslantaarns van de betreffende kruispunten. De maximale omvang over de totale looptijd van de raamovereenkomst bedraagt 9 verkeersregeltoestellen en de bijbehorende verkeerslantaarns van de betreffende kruispunten. Indien de maximale omvang is bereikt, eindigt de raamovereenkomst. De omvang van het servicecontract bedraagt ongeveer €45.000,- exclusief btw per jaar. Dit bedrag is gebaseerd op historische gegevens en betreft een indicatief bedrag. De gemeente Venlo geeft geen (omzet)garanties. U kunt aan deze gegevens dan ook geen (impliciete) verwachtingen en/of rechten ontlenen.",
-      "cpv": "34996100",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 760,
-      "publication": "2026-07-17",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/495895-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "490833-2026",
-      "ref": "490833-2026",
-      "acheteur": "Gemeente Lansingerland",
-      "objet": "Pays-Bas – Services de programmation et de conseil en logiciels – Systeemapplicatie Contractenbank",
-      "description": "De opdracht betreft de ontwikkeling en implementatie van een contractenbeheersysteem dat zich richt op contractmanagement, inclusief het beheer, de invoering en het creëren van overzicht. Het doel is om alle contracten (inkoop en niet-inkoop) op één centrale plek te beheren en door te voeren, zodat er een transparante en zorgvuldige uitvoering ontstaat. De scope van de opdracht ziet toe op systeemondersteuning en bijbehorende dienstverlening op het gebied van: Contractbeheer: vanaf het moment van ondertekening (post-signing) waaronder te verstaan het registreren en opslaan van contractinformatie, up-to-date houden van het contractdossier en zorg dragen voor een archiveringsfunctie die voldoet aan wettelijke verplichtingen (Archiefwet). Contractmanagement: waaronder te verstaan het actief managen van de uitvoering van contractuele afspraken in een cyclisch proces (PDCA), waarbij doelstellingen worden vastgesteld, afspraken worden nagekomen, de voortgang wordt gemonitord en eventuele afwijkingen worden gecorrigeerd en verbetermaatregelen worden genomen. Het doel is de effectiviteit van de contractuitvoering te waarborgen en continu te verbeteren. Leveranciersmanagement: waaronder te verstaan het beheren van leveranciersinformatie op een gestructureerde manier, zodat leveranciersrelaties effectief kunnen worden gemanaged. Met focus op het optimaal beheren van het gehele leveranciersportfolio. In deze aanbesteding wordt een prijsbandbreedte gehanteerd waarbinnen inschrijvers hun prijs mogen indienen. Deze prijsbandbreedte wordt vastgesteld op jaarbasis. Voor het jaarlijks tarief geldt een ondergrens en een bovengrens: Ondergrens eerste jaar: € 60.000 Bovengrens eerste jaar: € 115.000 Inschrijvingen met een aangeboden prijs die hoger is dan de bovengrens van de prijsbandbreedte worden ongeldig verklaard en van verdere beoordeling uitgesloten. Het is toegestaan een prijs in te dienen die onder de ondergrens van de prijsbandbreedte ligt.",
-      "cpv": "72200000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 312,
-      "publication": "2026-07-16",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/490833-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 70,
-      "score_detail": {
-        "fit": 30,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "498608-2026",
-      "ref": "498608-2026",
-      "acheteur": "CH AGEN-NERAC",
-      "objet": "France – Services de programmation – Mission de programmation et d'assistance à la maîtrise d'ouvrage pour la réhabilitation d'étages d'hospitalisation et de consultations sur le site Saint Esprit du Centre Hospitalier Agen-Nérac",
-      "description": "Le contrat comporte des tranches optionnelles définies au cahier des charges. Le détail du phasage de l'opération figure au cahier des charges. Les prestations sont réglées par des prix forfaitaires",
-      "cpv": "72243000",
-      "pays": "FRA",
-      "deadline": "2026-09-16",
-      "montant": 600,
-      "publication": "2026-07-20",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/498608-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "bureautique": false,
-      "score": 67,
-      "score_detail": {
-        "fit": 25,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
     {
       "id": "499139-2026",
       "ref": "499139-2026",
@@ -404,334 +73,30 @@
       },
       "score_status": "cond",
       "notes": "",
-      "auto": true
+      "auto": true,
+      "score_raw": 67,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "actionable",
+      "gating_reason": ""
     },
     {
-      "id": "494787-2026",
-      "ref": "494787-2026",
-      "acheteur": "Gemeente Lansingerland",
-      "objet": "Pays-Bas – Logiciels de serveur de communications – Api Gateway en ESB",
-      "description": "Rechtmatige, veilige en toekomstbestendige inrichting van het berichtenverkeer tussen gemeentelijke applicaties door middel van een API Gateway en Enterprise Service Bus (ESB), waarmee de continuïteit van kritische koppelingen, informatiebeveiliging en aansluiting op het Cloud-firstbeleid worden geborgd. 600.000",
-      "cpv": "48219700",
-      "pays": "NLD",
-      "deadline": "2026-10-01",
-      "montant": 0,
-      "publication": "2026-07-17",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/494787-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 67,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "496412-2026",
-      "ref": "496412-2026",
-      "acheteur": "Stichting ROC Midden Nederland",
-      "objet": "Pays-Bas – Services de conseils financiers – Accountantsdiensten",
-      "description": "De opdracht is gericht op het benoemen van een registeraccountant die: - de controle van de geconsolideerde jaarrekening ex artikel 393 lid 1 Boek 2 Burgerlijk Wetboek uitvoert en hiervan verslag uitbrengt; - de natuurlijke adviesfunctie vervult welke voortvloeit uit de bevindingen van de controle, mede tot uitdrukking komend in een managementletter na afronding van de tussentijdse controle; - de bijzondere controles (inclusief de controle van de bekostigingsgegevens) vervult welke de bedrijfsvoering van ROC MN met zich meebrengt. Vanwege de nauwe verbondenheid worden deze drie onderwerpen gecombineerd als één opdracht in de markt gezet en wordt de aanbesteding niet verdeeld in percelen. De natuurlijke adviesfunctie kent een logische samenhang met de controle (bevindingen) en het is organisatorisch efficiënt en effectief om bijzondere controles uit te besteden aan een accountant die de organisatie en de administratie kent. Zie voor verdere details het aanbestedingsdocument. Op basis van de aanbestedingswet en het ROC MN inkoopbeleid zal een Europees openbare aanbestedingsprocedure worden gevolgd.",
-      "cpv": "66171000",
-      "pays": "NLD",
-      "deadline": "2026-11-20",
-      "montant": 0,
-      "publication": "2026-07-17",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/496412-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 67,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "499564-2026",
-      "ref": "499564-2026",
-      "acheteur": "Universitair Medisch Centrum Utrecht",
-      "objet": "Pays-Bas – Services de formation – Programma leiderschapsontwikkeling UMC Utrecht",
-      "description": "Dit betreft een niet openbare aanbesteding voor leiderschapsontwikkeling van het UMC Utrecht. UMC Utrecht wenst één integraal programma voor leiderschapsontwikkeling in de transformatie. Het programma verbindt leiderschap, gedragsontwikkeling en bedrijfsvoering samen in één programma waarin kennis, vaardigheden en leren in de praktijk elkaar voortdurend versterken. Hiermee wordt gebouwd aan een gezamenlijke leiderschapstaal en een consistente manier van leidinggeven en samenwerken die past bij de ambities van het UMC Utrecht.",
-      "cpv": "80500000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-07-20",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/499564-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "500224-2026",
-      "ref": "500224-2026",
-      "acheteur": "Veiligheidsregio Noord- en Oost- Gelderland",
-      "objet": "Pays-Bas – Services de développement de logiciels de sécurité des données – SIEM, SOC, SOAR-dienstverlening",
-      "description": "Veiligheidsregio Noord- en Oost-Gelderland (VNOG) wenst een raamovereenkomst te sluiten met één opdrachtnemer voor de levering, implementatie, inrichting, het beheer en de doorontwikkeling van geïntegreerde SIEM-, SOC- en SOAR-dienstverlening. De dienstverlening is gericht op het monitoren, detecteren, analyseren en opvolgen van cybersecuritydreigingen en beveiligingsincidenten, ter versterking van de digitale weerbaarheid van VNOG. De opdracht betreft het sluiten van een raamovereenkomst met één opdrachtnemer voor de levering, implementatie, inrichting, het beheer en de doorontwikkeling van geïntegreerde SIEM-, SOC- en SOAR-dienstverlening ten behoeve van Veiligheidsregio Noord- en Oost-Gelderland (VNOG). De raamovereenkomst heeft een initiële looptijd van vier (4) jaar en kan tweemaal met twee (2) jaar worden verlengd.",
-      "cpv": "72212732",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-07-20",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/500224-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "501179-2026",
-      "ref": "501179-2026",
-      "acheteur": "Stichting ROC Summa College",
-      "objet": "Pays-Bas – Fourniture de cours de langues – Flexibele inzet NT1- en NT2-docenten",
-      "description": "A. Specifieke behoefte van Summa De opdracht betreft niet uitsluitend het beschikbaar stellen van NT1- en NT2-docenten. Summa heeft behoefte aan een leverancier die gedurende het gehele jaar flexibel kan voorzien in de inzet van gekwalificeerde NT1- en NT2-docenten binnen zowel het bekostigd onderwijs als Leven Lang Ontwikkelen (LLO) en het contractonderwijs. De vraag naar deze dienstverlening is afhankelijk van opdrachten van externe opdrachtgevers en fluctueert gedurende het jaar sterk. Om snel te kunnen inspelen op nieuwe opdrachten, wijzigingen in de vraag en korte doorlooptijden moeten docenten op zeer korte termijn beschikbaar zijn. De opdrachtnemer moet snel kunnen opschalen, meerdere gelijktijdige aanvragen kunnen invullen, ziekte en uitval direct kunnen opvangen en beschikken over voldoende capaciteit om onderwijs op de locaties van Summa te verzorgen. De beschikbaarheid van deze docenten is van directe invloed op het kunnen verwerven en uitvoeren van contractonderwijs en het nakomen van afspraken met opdrachtgevers. De opdracht vraagt daarom om een leverancier die beschikt over een omvangrijke, flexibele en direct inzetbare capaciteit met specialistische kennis van het mbo. B. Specialistische deskundigheid en leveringscapaciteit Voor deze opdracht is een leverancier vereist met diepgaande kennis van het mbo, actuele vakinhoudelijke expertise en de mogelijkheid om snel en in wisselende aantallen gekwalificeerde professionals beschikbaar te stellen. Het Onderwijshuis/Bisbee beschikt over een eigen academie waarin docenten worden opgeleid, geschoold en gecertificeerd. Daarnaast beschikt de organisatie over een omvangrijke pool van gespecialiseerde professionals, waardoor snel kan worden ingespeeld op fluctuaties in de vraag, ziektevervanging, piekbelasting en nieuwe opdrachten. Hierdoor kan de continuïteit van het onderwijs worden gewaarborgd zonder concessies te doen aan de kwaliteit. C. Marktonderzoek Voorafgaand aan deze voorgenomen gunning is een marktonderzoek uitgevoerd door een externe adviseur met kennis van de markt voor NT1- en NT2-dienstverlening. Uit dit marktonderzoek is gebleken dat meerdere organisaties onderdelen van de dienstverlening aanbieden. Uit het onderzoek is echter niet gebleken dat een andere marktpartij de specifieke behoefte van Summa kan invullen in de vereiste combinatie van specialistische mbo-expertise, kwaliteit, flexibiliteit, capaciteit en directe inzetbaarheid. D. Geen redelijk alternatief of substituut Gelet op de specifieke behoefte van Summa, de noodzaak om gedurende het gehele jaar flexibel te kunnen beschikken over gekwalificeerde NT1- en NT2-docenten, de vereiste specialistische expertise, de benodigde capaciteit en de uitkomsten van het uitgevoerde marktonderzoek is de aanbestedende dienst tot de conclusie gekomen dat voor deze opdracht geen redelijk alternatief of substituut bestaat als bedoeld in artikel 2.32, tweede lid, Aanbestedingswet 2012. Om die reden acht de aanbestedende dienst toepassing van artikel 2.32, eerste lid, onder b, sub 2°, Aanbestedingswet 2012 gerechtvaardigd. 1",
-      "cpv": "80580000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-07-20",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/501179-2026",
-      "segment": "ESR",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "501197-2026",
-      "ref": "501197-2026",
-      "acheteur": "Investitionsbank Schleswig-Holstein",
-      "objet": "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Bereitstellung, Implementierung und Betrieb eines Systems zur Unterstützung von Governance-, Risk- und Compliance-Management-Prozessen GRC-Tool als SaaS-Lösung",
-      "description": "Gegenstand der Ausschreibung ist die Bereitstellung, Implementierung und der Betrieb eines webbasierten Systems (Software-as-a-Service, SaaS) zur Unterstützung und Steuerung von Governance-, Risiko- und Compliance-Prozessen der Auftraggeberin. Das System soll insbesondere die GRC-Funktionen in den Bereichen Zentrales Auslagerungsmanagement (ZAM), Business Continuity Management (BCM), Informationssicherheitsmanagement (ISM) sowie im Kontext der Risiko-Steuerung im Bereich Non-Financial Risk (NFR) unterstützen und eine konsistente sowie nachvollziehbare Bearbeitung dieser Funktionen ermöglichen. Die Implementierung umfasst die fachliche und technische Einführung des Systems in die bestehende Systemlandschaft der Auftraggeberin. Hierzu gehört die Einbindung bestehender Systeme und Datenquellen sowie die Einrichtung und Abstimmung der erforderlichen Datenströme. Dies beinhaltet insbesondere die Definition von Datenmodellen, Schnittstellenformaten sowie die Festlegung von Integrationsmechanismen (z. B. API-basierte Anbindung oder auch strukturierte Datenimporte), einschließlich der Abstimmung von Datenfrequenzen, Verantwortlichkeiten und Fehlerbehandlungsprozessen. Die Datenbereitstellung erfolgt derzeit in wesentlichen Teilen über strukturierte Datenimporte (z. B. Datei-Upload). Gleichzeitig muss das System grundsätzlich auch die Möglichkeit zur Anbindung über standardisierte API-basierte Schnittstellen bieten. Dies gilt insbesondere für Systeme zur Verwaltung von Prozessen und IKT-Systemen sowie für Systeme zur Verwaltung von IKT-Assets und Konfigurationsdaten. Auch für Systeme, die derzeit noch nicht schnittstellenfähig sind, ist perspektivisch eine Integration vorzusehen. Für die technische Integration sind gängige Standards (z. B. REST-basierte Schnittstellen unter Nutzung von HTTPS) zu unterstützen; die Verarbeitung strukturierter Datenimporte (z. B. CSV, Excel) muss validiert, nachvollziehbar protokolliert und wiederholbar ausführbar sein. Dabei ist insbesondere eine priorisierte, bidirektionale Integration der CMDB ServiceNow vorgesehen, während weitere Systeme initial über eine manuelle Datenbereitstellung (Upload/Download) angebunden werden sollen. Das angebotene GRC-System muss bestehende datenhaltende Systeme der Auftraggeberin als Datenquellen anbinden und deren Informationen im GRC-Kontext nutzbar machen können. Eine Ablösung dieser Systeme darf für die Nutzung des GRC-Systems nicht erforderlich sein. Das GRC-System soll hierbei als zentrale Steuerungs- und Auswertungsplattform für GRC-relevante Informationen agieren. Weiterhin muss das System in der Lage sein, Beziehungen zwischen unterschiedlichen Datenobjekten (z. B. IKT-Assets, Prozesse, Risiken, Dienstleister) systemseitig abzubilden und für Auswertungen, Analysen sowie regulatorische Nachweise nutzbar zu machen. In den folgenden Abschnitten sind die Anforderungen zusammenfassend beschrieben. Eine vollumfängliche und detaillierte Auflistung aller Anforderungen findet sich im Lastenheft.",
+      "id": "482167-2026",
+      "ref": "482167-2026",
+      "acheteur": "Centre de gestion du personnel et de l'organisation de l'État",
+      "objet": "Luxembourg – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Épreuve d'aptitude générale 2026-2027",
+      "description": "Ce lot porte sur la fourniture et l’administration de tests informatisés de raisonnement, destinés à évaluer les capacités cognitives générales des candidats, incluant notamment: - le raisonnement abstrait; - le raisonnement verbal; - le raisonnement numérique. Les tests s’appliquent aux groupes de traitement A1, A2, B1, C1 et C2, selon les exigences propres à chaque niveau de qualification, et doivent permettre une évaluation standardisée sur l’échelle en Stanine. / Ce lot porte sur la fourniture et l’administration de tests informatisés d’aptitudes spécifiques, destinés à mesurer certaines capacités fonctionnelles des candidats, incluant notamment: - la capacité de planification des tâches d'une équipe et/ou de ses propres tâches; - la capacité de contrôle et de précision. Les tests sont intégrés à l’épreuve d’aptitude générale pour les groupes de traitement concernés, conformément aux dispositions réglementaires applicables, et donnent lieu à une évaluation standardisée sur l’échelle en Stanine. / Ce lot porte sur la fourniture et l’administration de questionnaires de jugement situationnel informatisés, visant à évaluer des compétences comportementales et professionnelles des candidats dans des situations de travail représentatives du service public, incluant notamment: - la compétence \"servir le client-usager\"; - la compétence \"conseiller\"; - la compétence \"coopérer\". Les questionnaires sont adaptés aux différents groupes de traitement et intégrés à l’épreuve d’aptitude générale selon les compétences attendues pour chaque niveau.",
       "cpv": "72000000",
-      "pays": "DEU",
+      "pays": "LUX",
       "deadline": "",
-      "montant": 0,
-      "publication": "2026-07-20",
+      "montant": 482,
+      "publication": "2026-07-13",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/501197-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/482167-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Excel"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "496774-2026",
-      "ref": "496774-2026",
-      "acheteur": "Regisseur Studenten Reisrecht B.V.",
-      "objet": "Pays-Bas – Services de développement de logiciels de communication et de logiciels multimédia – Europese aanbesteding Artificial Intelligence Chatbot (AI-chatbot)",
-      "description": "De scope van de opdracht ziet op het leveren, implementeren, beheren, onderhouden en doorontwikkelen van een AI-chatbotoplossing ter vervanging van de huidige chatbot. De AI-chatbotoplossing dient studenten op een toegankelijke, betrouwbare en efficiënte wijze te ondersteunen en Sessies adequaat af te handelen. Onder de opdracht valt niet alleen de beschikbaarstelling van de oplossing zelf, maar ook de bijbehorende dienstverlening die nodig is om de AI-chatbot gedurende de looptijd goed, veilig en toekomstbestendig te laten functioneren Deze opdracht is niet onderverdeeld in percelen. Aanmelden op een gedeelte van de opdracht is niet toegestaan en leidt tot uitsluiting van verdere deelname aan de aanbestedingsprocedure. De onderhavige opdracht in deze aanbesteding vertegenwoordigt een geschatte opdrachtwaarde van € 96.000,00 exclusief btw per jaar voor het leveren, onderhouden en beheren van de AI-chatbot en inclusief verwerken van 100.000 Sessies. Let op: Deze jaarlijkse opdrachtwaarde is tevens een prijsplafond. Een Gegadigde met een Inschrijving met een prijsindiening in Annex III Prijzenblad waarvan de jaarlijkse kosten hoger zijn dan € 96.000,00 exclusief btw wordt uitgesloten van verdere deelname aan deze aanbesteding.",
-      "cpv": "72212500",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-07-17",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/496774-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "497365-2026",
-      "ref": "497365-2026",
-      "acheteur": "Gemeente Oude IJsselstreek",
-      "objet": "Pays-Bas – Services d'enseignement et de formation – Vrijwillige transparantie uitvoering Wet Inburgering 2021 gemeente Oude IJsselstreek",
-      "description": "De volledige uitvoering van de Wet Inburgering 2021. Hier vallen de volgende activiteiten onder: - Het voeren van een brede intake, het afnemen van de leerbaarheidstoets, het opstellen van de PIP, het doen van een passend inburgeringsaanbod. - Het voeren van de regie op het inburgeringstraject voor alle inburgeraars waarbij er één aanspreekpunt is voor de inwoner voor het gehele traject. - Het bieden van activiteiten met als doel te ondersteunen in integratie op verschillende onderwerpen, denk hierbij aan vitaliteit, financiën, digitale vaardigheden, het faciliteren van participatie, het opdoen van werknemersvaardigheden in de eigen beschutte omgeving, het opdoen van werknemersvaardigheden bij reguliere werkgevers, het ontwikkelen van de Nederlandse taal, etc. Hierbij verwacht de gemeente dat deze activiteiten modulair inzetbaar zijn en worden doorontwikkeld binnen de opdracht, passend bij de behoeftes en uitdagingen van de inburgeraars. - Het bieden van taalonderwijs voor de Z-route en de B1-route aan asielmigranten. Waarbij extra aandacht is voor de doelgroep jongeren. - Het bieden van alfabetiseringslessen waar wenselijk. - Het bieden van een voorschakeltraject waar wenselijk. - Het bieden van activiteiten voor het behalen van de participatie uren voor de Z-route. - Het bieden van leerwerktrajecten binnen de eigen organisatie, zoals horeca en logistiek. - Het bieden van een diagnostisch centrum in te zetten om competenties en mogelijkheden inzichtelijk te maken, waar wenselijk. - De inzet van cultuurverbinders, waarbij meerdere culturen vertegenwoordigd zijn. - Het ondersteunen van inburgeraars bij de randvoorwaarden om de inburgering mogelijk te maken, denk aan kinderopvang, reiskosten, het doorverwijzen naar hulpverlenende instanties. - Het functioneren als inkoopcentrale voor de onderdelen die niet zelfstandig worden uitgevoerd. - Het afhandelen van bezwaar en beroep betreffende besluiten Wet Inburgering 2021. - Het bewaken van de kwaliteit van het inburgeringsaanbod.",
-      "cpv": "80000000",
-      "pays": "NLD",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-07-17",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/497365-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "493551-2026",
-      "ref": "493551-2026",
-      "acheteur": "Ministerium für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz des Landes Brandenburg",
-      "objet": "Allemagne – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Projektmanagement für Leistungen zur Umsetzung des Maßnahmenplans des Landesniedrigwasserkonzeptes 2.0",
-      "description": "Die Leistung setzt sich insbesondere aus folgenden Punkten zusammen: 1) Projektmanagement Das Projektmanagement, steuert und koordiniert aktiv die nachfolgend unter Punkt 2 und ggf. 3 genannten Leistungen über die gesamte Vertragslaufzeit. 2) Weiterführung Flussgebietsarbeit Durch eine intensive Kommunikation des Themas \"Niedrigwasser\" konnte eine breite Aufmerksamkeit und ein Problembewusstsein bei allen lokalen Akteuren erzeugt werden. Die Entscheidungsträger (Wasser-, Naturschutz- und tlw. Landwirtschaftsbehörden der Landkreise / kreisfreien Städte, LfU, einschließlich Großschutzgebiete), die das Wassermanagement operativ steuernden GUV und ggf. weitere Institutionen (Naturschutzverbände, Landschaftspflegeverbände, Natura2000-Teams, VLF, Kommunen, engagierte Einzelpersonen usw.) sind involviert und arbeiten unterschiedlich intensiv an der Thematik mit. 3) Erarbeitung flussgebietsbezogener Bewirtschaftungskonzepte Die sich in der Ideenphase befindlichen 16 Konzepte (Phase 1 und 2) sind gemeinsam mit den Trägern bis zur Antragsreife (Richtlinie LWH) zu entwickeln und die Antragstellung bei der ILB zu begleiten. Weitere mindestes 10 Konzepte sollen - eine erfolgreiche Antragstellung und Mittelverfügbarkeit vorausgesetzt - bei der Bearbeitung begleitet werden. Es bestehen bisher nicht weiterverfolgte weitere Ideen der Akteure zu potenziellen Bewirtschaftungs- bzw. Staukonzepten in allen Flussgebieten tlw. auch von Seiten des LfU für Gewässer 1. Ordnung. Aufgrund einer derzeit nicht genau bekannten Anzahl o.g. Ideen ist die Leistung für 10 Konzepte anzubieten. 4) Qualifizierung und Weiterentwicklung LWH-Vorhaben und Leuchttürmen Mit LWH-Vorhaben sind Vorhaben gemeint, die den Fördergegenständen der Richtlinien LWH (GAK und ELER) des MLEUV entsprechen und die von den Antragstellern zur Förderung aus Drittmitteln vorgesehen sind. Entwicklung von Projekten aus Initiierungsphase (50) bis zu antragsreifer Projektskizze. Entwicklung fortgeschrittene Projekte (100) bis zu antragsreifer Projektskizze . Begleitung abgeschlossener (20) Projekte Begleitung der laufenden Leuchtturmprojekte Initiiierung von neuen Leuchtturmprojekte (z.B. Dränagen) 5) Fachübergreifende Anforderungen Im Rahmen des Erstauftrages wurden bereits diverse fachübergreifende Treffen, Gespräche etc. initiiert und ausgewertet). Diese sog. fachübergreifenden Gespräche mit Akteuren z.B. der Landwirtschaft, des Naturschutzes, der Forst, der Flurneuordnung sowie der Landes- und Regionalplanung sollen federführend durch den Auftragnehmer weitergeführt und im Bereich Siedlungs- und Gewerbegebietsentwicklung / Bau- und Stadtplanung aufgegriffen werden. Vertieft werden soll der Themenbereich Schifffahrt und Wassertourismus hinsichtlich der Wasserbewirtschaftung und möglicher Handlungsspielräume und Entwicklungsperspektiven hin zur Klimaanpassung und zu einem verringerten Wasserdargebot. Im Zusammenhang mit dem Umbau eines Staubauwerkes wurde im Rahmen des Erstauftrages ein umfangreiches, modellgestütztes Werkzeug entwickelt, welches die Auswirkungen veränderter Stauhaltungen auf den Wasserrückhalt quantifiziert. Das Werkzeug erlaubt darüber hinaus eine grafische Darstellung der flächigen Auswirkungen veränderter Wasserstände oberhalb eines Staubauwerkes. Für das Werkzeug wurden vorhandene Modellansätze in die kommerzielle Rechensoftware MS Excel überführt. Ferner wurde eine Schnittstelle programmiert, die eine Darstellung der Ergebnisse in einem GIS-System erlaubt. Die Anwendung des sog. Excel-Tools (Anlage 5: Dokumentation) wurde sowohl durch das LfU als auch durch die NW-Koordinatoren für weitere Projekte in anderen Flussgebieten testweise durchgeführt. Es ist gewünscht, das Excel-Tool (oder ein vergleichbares Instrument) künftig als Werkzeug zur Folgenabschätzung und Visualisierung stärker systematisch einzubinden. 6) Verknüpfung mit dem Moorschutz Moorschutz und Wassermanagement sind inhaltlich eng verwoben, dementsprechend erfolgt MLEUV-intern eine enge organisatorisch-inhaltliche Abstimmung zur Thematik Moorschutz. Bei der Umsetzung des Landesniedrigwasserkonzeptes ist auch auf ein nachhaltiges Moorbodenmanagement zu setzen. Das Moorschutzprogramm Brandenburg bildet den Rahmen für alle Aktivitäten im Zusammenhang mit Mooren. Um eine Synchronisation der Ziele von Moorschutz und Niedrigwasservorsorge bei der Projektentwicklung vor Ort und insbesondere bei der Erarbeitung von Bewirtschaftungskonzepten zu gewährleisten, ist ein fachkundiger Ansprechpartner zu benennen. Dieser sammelt und koordiniert alle moorbezogenen Fragen, begleitet ggf. Ortstermine und steht als zentraler Ansprechpartner zur Verfügung. Die o.g. Flussgebietssteckbriefe sind in enger Zusammenarbeit mit dem LfU um ein Kapitel zum Moorschutz zu ergänzen. 7) Öffentlichkeitsarbeit Ziel des Leistungspunktes ist daher die Entwicklung einer zielgruppenorientierten Kommunikationsstrategie zur Unterstützung der Umsetzung des LNWK 2.0. Die Kommunikationsstrategie soll dazu beitragen, Verständnis, Akzeptanz und Mitwirkung zentraler Akteure bei Maßnahmen der Niedrigwasservorsorge und der -bewältigung zu stärken. Dabei sollen insbesondere Informationsbedarfe, Entscheidungsstrukturen und mögliche Hemmnisse in den relevanten Zielgruppen berücksichtigt werden. Auf Basis der strategischen Konzeption sollen geeignete Kommunikationsmaßnahmen entwickelt, priorisiert und in einem Umsetzungsplan dargestellt werden. Optionale Leistungen: 1) Verbindung wasserbaulicher Maßnahmen mit Agrar-, Umwelt- und Klimamaßnahmen (AUKM) 2) Durchführung ausgewählter Maßnahmen des im Rahmen der Öffentlichkeitsarbeit entwickelten Umsetzungsplanes aus Nr. 7) Im Detail siehe Vergabeunterlagen Teil B - Leistungsbeschreibung Nr. 2 und 3.",
-      "cpv": "71000000",
-      "pays": "DEU",
-      "deadline": "2026-09-04",
-      "montant": 0,
-      "publication": "2026-07-16",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/493551-2026",
-      "segment": "FPH",
-      "keyword_hits": [
-        "Excel"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "493767-2026",
-      "ref": "493767-2026",
-      "acheteur": "Bundesministerium für Arbeit und Soziales",
-      "objet": "Allemagne – Services de relations publiques – Kommunikations- und PR-Maßnahmen des Bundesministeriums für Arbeit und Soziales",
-      "description": "Das Bundesministerium für Arbeit und Soziales (BMAS) ist thematisch verantwortlich für die Grundsatzfragen des Sozialstaats und der Arbeitswelt sowie der Digitalen Arbeitsgesellschaft, für Qualifizierung, Aus- und Weiterbildung und Fachkräftesicherung, für Arbeitsmarktpolitik, Arbeitslosenversicherung, Grundsicherung für Arbeitsuchende, Arbeitsrecht, Arbeitsschutz, Sozialversicherung, Alterssicherung, Teilhabe und Belange von Menschen mit Behinderungen, Soziale Entschädigung, Sozialhilfe, europäische und internationale Beschäftigungs- und Sozialpolitik sowie Europäische Fonds für Beschäftigung, z.B. ESF Plus. Das BMAS setzt zudem langfristig angelegte Programme und Initiativen der Bundesregierung um, beispielsweise Initiative Neue Qualität der Arbeit (INQA), Zukunftszentren, MY TURN, Servicestelle SGB II, Arbeit: Sicher und Gesund (ASUG), rehapro oder KI-Observatorium. Das BMAS vergibt die Dienstleistung über die Kommunikations- und PR-Maßnahmen mit folgendem Leistungsspektrum: Strategie und Konzeption, Issue Management und Agenda Setting, Presse- und Medienarbeit, Text-, Redaktions- und Gestaltungsarbeiten, Unterstützung bei Tagungen, Kongressen und sonstige Veranstaltungen, Monitoring, Analyse und Evaluation der Kommunikationswirkung sowie allgemeine Aufgaben und Barrierefreiheit. Die Unterbreitung von Angeboten für einen Teil der Dienstleistung ist nicht möglich. Die Auftragnehmerin unterstützt das BMAS bei der Konzeption von zielgruppengerechten PR- und Kommunikationsmaßnahmen unter Berücksichtigung der wichtigsten Kernbotschaften, Kommunikationskanäle und passender Wordings. Der Auftrag umfasst außerdem die strategische, kommunikative und konzeptionelle Begleitung und Unterstützung von Initiativen, Projekten und Förderprogrammen, die durch das BMAS gesteuert werden oder punktuelle Einzelmaßnahmen. Bereits während der Konzeptionsphase sind die Belange der Barrierefreiheit für die finale Ausgestaltung von PR- und Kommunikationsmaßnahmen zu berücksichtigen sowie das jeweils gültige Corporate Design des BMAS und der Bundesregierung. Bitte beachten Sie die beigefügten Vergabeunterlagen.",
-      "cpv": "79416000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-07-16",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/493767-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "487797-2026",
-      "ref": "487797-2026",
-      "acheteur": "Ville d'Échirolles",
-      "objet": "France – Services de formation en matière de sécurité – FORMATION DE PREVENTION HYGIENE, SANTE ET SECURITE AU TRAVAIL DU PERSONNEL DE LA COMMUNE D'ECHIROLLES",
-      "description": "Conduite d'engins de chantier et de levage / Autorisation d'intervention à proximité des réseaux (AIPR)&amp;lt;br/&amp;gt; / Habilitations Electriques&amp;lt;br/&amp;gt; / Travail en hauteur&amp;lt;br/&amp;gt; / Secourisme et sécurité routière&amp;lt;br/&amp;gt; / Incendie et évacuation&amp;lt;br/&amp;gt; / Gestes et postures&amp;lt;br/&amp;gt; / Permis&amp;lt;br/&amp;gt; / Certificat d'Aptitude au Travail en Espaces Confinés (CATEC)&amp;lt;br/&amp;gt; / ATmosphère EXplosive (ATEX)&amp;lt;br/&amp;gt; / Grimpeur-se Sauveteur-se dans l'Arbre (GSA) / Certiphyto&amp;lt;br/&amp;gt; / Amiante sous section 4&amp;lt;br/&amp;gt; / Certibiocide&amp;lt;br/&amp;gt;",
-      "cpv": "80330000",
-      "pays": "FRA",
-      "deadline": "2026-09-01",
-      "montant": 992,
-      "publication": "2026-07-15",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/487797-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "habilitation"
+        "centre de tests"
       ],
       "bureautique": false,
       "score": 65,
@@ -745,69 +110,124 @@
       },
       "score_status": "cond",
       "notes": "",
-      "auto": true
+      "auto": true,
+      "score_raw": 65,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "actionable",
+      "gating_reason": ""
     },
     {
-      "id": "500073-2026",
-      "ref": "500073-2026",
-      "acheteur": "Vlaamse Overheid",
-      "objet": "Belgique – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – N20 Hasselt ontsluitingsinfrastructuur Jessa: uitvoeringsstudie",
-      "description": "Voor een uitgebreide omschrijving van het voorwerp van de opdracht wordt verwezen naar het technisch gedeelte. Deze opdracht betreft een opdracht in vaste en voorwaardelijke gedeelten zoals beschreven onder titel 3.1 van de technische bepalingen. Voor een uitgebreide omschrijving van het voorwerp van de opdracht wordt verwezen naar de technische bepalingen.",
-      "cpv": "71000000",
-      "pays": "BEL",
-      "deadline": "2026-08-17",
-      "montant": 0,
-      "publication": "2026-07-20",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/500073-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "482630-2026",
-      "ref": "482630-2026",
-      "acheteur": "CAMPUS D'EXCELLENCE INDUSTRIE DU FUTUR - SUD",
-      "objet": "France – Services de conseil en gestion financière – PRESTATION D’ASSISTANCE A LA COORDINATION ADMINISTRATIVE, FINANCIERE ET REGLEMENTAIRE DES PROJETS STRUCTURANTS DE L'ASSOCIATION",
-      "description": "Afin de sécuriser les financements remportés par l’Association Campus d’Excellence Industrie du Futur – Sud, cette dernière lance un accord-cadre de prestations intellectuelles permettant de mobiliser, par bons de commande, un appui spécialisé pour la gestion administrative et financière de ses subventions et des autres financements privés obtenus, et ce jusqu’à la réalisation des demandes de soldes.",
-      "cpv": "79412000",
+      "id": "483039-2026",
+      "ref": "483039-2026",
+      "acheteur": "Côte d'Azur Habitat (OPAM de Nice)",
+      "objet": "France – Services de comptabilité et d'audit – DESIGNATION D'UN COMMISSAIRE AUX COMPTES EN VUE DE LA CERTIFICATION DES COMPTES DE COTE D'AZUR HABITAT POUR LES EXERCICES 2026 A 2031",
+      "description": "DESIGNATION D'UN COMMISSAIRE AUX COMPTES EN VUE DE LA CERTIFICATION DES COMPTES DE COTE D'AZUR HABITAT POUR LES EXERCICES 2026 A 2031",
+      "cpv": "79210000",
       "pays": "FRA",
-      "deadline": "2026-08-11",
-      "montant": 0,
+      "deadline": "",
+      "montant": 216,
       "publication": "2026-07-13",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/482630-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/483039-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Excel"
+        "certification services"
       ],
-      "bureautique": true,
-      "score": 62,
+      "bureautique": false,
+      "score": 65,
       "score_detail": {
-        "fit": 30,
+        "fit": 25,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true,
+      "score_raw": 65,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "actionable",
+      "gating_reason": ""
+    },
+    {
+      "id": "488319-2026",
+      "ref": "488319-2026",
+      "acheteur": "RTE Réseau de Transport d'Electricité",
+      "objet": "France – Services de formation spécialisée – Evaluation certification SF6",
+      "description": "prestation d'évaluation certification SF6",
+      "cpv": "80510000",
+      "pays": "FRA",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-07-15",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/488319-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "certification services"
+      ],
+      "bureautique": false,
+      "score": 60,
+      "score_detail": {
+        "fit": 25,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 0
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
-      "auto": true
+      "auto": true,
+      "score_raw": 60,
+      "cpv_class": "core",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "actionable",
+      "gating_reason": ""
+    },
+    {
+      "id": "499681-2026",
+      "ref": "499681-2026",
+      "acheteur": "Université Toulouse Jean Jaurès",
+      "objet": "France – Services de formation du personnel – Formation du personnel",
+      "description": "Cet accord-cadre vise à renforcer la maîtrise des outils numériques dans un contexte professionnel en constante évolution afin d’améliorer l’efficacité, la collaboration et la sécurité dans les usages professionnels. Cet accord-cadre vise également à sensibiliser les agents aux enjeux liés à l’intelligence artificielle. / Cet accord-cadre vise à sensibiliser les agents aux enjeux sociaux et environnementaux, à favoriser des pratiques professionnelles durables, responsables et respectueuses de chacun. Les formations devront favoriser la mise en œuvre d’actions concrètes au sein des services, avec des indicateurs de progression environnementale et sociale. / Cet accord-cadre a pour objectif de renforcer les compétences individuelles et collectives en matière de communication, de gestion de soi et de coopération, afin de renforcer la qualité des relations de travail et de favoriser un climat professionnel serein et constructif. / Cet accord-cadre a pour objectif d’accompagner les personnels exerçants ou appelés à exercer des fonctions d’encadrement dans le développement de leurs compétences managériales, de conduite d’équipe et de gestion de projet, afin de favoriser une organisation efficace et collaborative des activités. / Cet accord-cadre a pour objectif de garantir la santé et la sécurité des agents en développant leurs compétences en prévention des risques professionnels et en promotion du bien-être au travail. / Cet accord-cadre a pour objectif de développer les compétences linguistiques des agents dans des contextes professionnels variés. Les formations incluront un positionnement initial et final permettant d’évaluer la progression linguistique. / Cet accord-cadre a pour objectif de renforcer les compétences des agents dans la relation avec les usagers, en consolidant leurs pratiques d’accueil, de communication et de gestion des situations sensibles. / Cet accord-cadre a pour objectif d’accompagner les agents dans leur évolution et leur mobilité professionnelles, en leur apportant les outils nécessaires à la réussite des concours, à la valorisation de leur parcours et à une meilleure compréhension de leur environnement administratif. Ces actions s’inscrivent dans la politique de valorisation des parcours professionnels et d’accompagnement à la mobilité interne et inter-fonctions publiques.",
+      "cpv": "80511000",
+      "pays": "FRA",
+      "deadline": "",
+      "montant": 400,
+      "publication": "2026-07-20",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/499681-2026",
+      "segment": "ESR",
+      "keyword_hits": [
+        "compétences numériques"
+      ],
+      "bureautique": false,
+      "score": 50,
+      "score_detail": {
+        "fit": 10,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true,
+      "score_raw": 50,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
+      "gating_reason": ""
     },
     {
       "id": "26-74673",
@@ -835,7 +255,7 @@
       "keyword_hits": [
         "habilitation"
       ],
-      "score": 60,
+      "score": 35,
       "score_detail": {
         "fit": 25,
         "size": 8,
@@ -844,40 +264,89 @@
         "admin": 7,
         "delay": 3
       },
-      "score_status": "cond",
+      "score_status": "no",
       "notes": "",
-      "auto": true
+      "auto": true,
+      "score_raw": 60,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
+      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
     },
     {
-      "id": "482436-2026",
-      "ref": "482436-2026",
-      "acheteur": "Rehazentrum Gesundheit Nordhessen GmbH",
-      "objet": "Allemagne – Services récréatifs, culturels et sportifs – Trainingsgeräte inkl. Wartung und Softwarelösungen für das Reha-Zentrum",
-      "description": "Das Reha-Zentrum Wilhelmshöher Allee plant die Beschaffung, Inbetriebnahme und Wartung von modernen Trainingsgeräten, die den neuesten medizinischen und sportwissenschaftlichen Standards entsprechen. Diese Geräte sollen zur Unterstützung der Patientenrehabilitation und für eine kontinuierliche Steigerung der Therapiequalität beitragen. Im Rahmen dieser Ausschreibung werden auch begleitende Softwarelösungen benötigt, um eine nahtlose Integration der Trainingsgeräte in die Patientenverwaltung zu gewährleisten.",
-      "cpv": "92000000",
+      "id": "501197-2026",
+      "ref": "501197-2026",
+      "acheteur": "Investitionsbank Schleswig-Holstein",
+      "objet": "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Bereitstellung, Implementierung und Betrieb eines Systems zur Unterstützung von Governance-, Risk- und Compliance-Management-Prozessen GRC-Tool als SaaS-Lösung",
+      "description": "Gegenstand der Ausschreibung ist die Bereitstellung, Implementierung und der Betrieb eines webbasierten Systems (Software-as-a-Service, SaaS) zur Unterstützung und Steuerung von Governance-, Risiko- und Compliance-Prozessen der Auftraggeberin. Das System soll insbesondere die GRC-Funktionen in den Bereichen Zentrales Auslagerungsmanagement (ZAM), Business Continuity Management (BCM), Informationssicherheitsmanagement (ISM) sowie im Kontext der Risiko-Steuerung im Bereich Non-Financial Risk (NFR) unterstützen und eine konsistente sowie nachvollziehbare Bearbeitung dieser Funktionen ermöglichen. Die Implementierung umfasst die fachliche und technische Einführung des Systems in die bestehende Systemlandschaft der Auftraggeberin. Hierzu gehört die Einbindung bestehender Systeme und Datenquellen sowie die Einrichtung und Abstimmung der erforderlichen Datenströme. Dies beinhaltet insbesondere die Definition von Datenmodellen, Schnittstellenformaten sowie die Festlegung von Integrationsmechanismen (z. B. API-basierte Anbindung oder auch strukturierte Datenimporte), einschließlich der Abstimmung von Datenfrequenzen, Verantwortlichkeiten und Fehlerbehandlungsprozessen. Die Datenbereitstellung erfolgt derzeit in wesentlichen Teilen über strukturierte Datenimporte (z. B. Datei-Upload). Gleichzeitig muss das System grundsätzlich auch die Möglichkeit zur Anbindung über standardisierte API-basierte Schnittstellen bieten. Dies gilt insbesondere für Systeme zur Verwaltung von Prozessen und IKT-Systemen sowie für Systeme zur Verwaltung von IKT-Assets und Konfigurationsdaten. Auch für Systeme, die derzeit noch nicht schnittstellenfähig sind, ist perspektivisch eine Integration vorzusehen. Für die technische Integration sind gängige Standards (z. B. REST-basierte Schnittstellen unter Nutzung von HTTPS) zu unterstützen; die Verarbeitung strukturierter Datenimporte (z. B. CSV, Excel) muss validiert, nachvollziehbar protokolliert und wiederholbar ausführbar sein. Dabei ist insbesondere eine priorisierte, bidirektionale Integration der CMDB ServiceNow vorgesehen, während weitere Systeme initial über eine manuelle Datenbereitstellung (Upload/Download) angebunden werden sollen. Das angebotene GRC-System muss bestehende datenhaltende Systeme der Auftraggeberin als Datenquellen anbinden und deren Informationen im GRC-Kontext nutzbar machen können. Eine Ablösung dieser Systeme darf für die Nutzung des GRC-Systems nicht erforderlich sein. Das GRC-System soll hierbei als zentrale Steuerungs- und Auswertungsplattform für GRC-relevante Informationen agieren. Weiterhin muss das System in der Lage sein, Beziehungen zwischen unterschiedlichen Datenobjekten (z. B. IKT-Assets, Prozesse, Risiken, Dienstleister) systemseitig abzubilden und für Auswertungen, Analysen sowie regulatorische Nachweise nutzbar zu machen. In den folgenden Abschnitten sind die Anforderungen zusammenfassend beschrieben. Eine vollumfängliche und detaillierte Auflistung aller Anforderungen findet sich im Lastenheft.",
+      "cpv": "72000000",
       "pays": "DEU",
       "deadline": "",
       "montant": 0,
-      "publication": "2026-07-13",
+      "publication": "2026-07-20",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/482436-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/501197-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Excel"
+      ],
+      "bureautique": true,
+      "score": 35,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true,
+      "score_raw": 65,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
+      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
+    },
+    {
+      "id": "487797-2026",
+      "ref": "487797-2026",
+      "acheteur": "Ville d'Échirolles",
+      "objet": "France – Services de formation en matière de sécurité – FORMATION DE PREVENTION HYGIENE, SANTE ET SECURITE AU TRAVAIL DU PERSONNEL DE LA COMMUNE D'ECHIROLLES",
+      "description": "Conduite d'engins de chantier et de levage / Autorisation d'intervention à proximité des réseaux (AIPR)&amp;lt;br/&amp;gt; / Habilitations Electriques&amp;lt;br/&amp;gt; / Travail en hauteur&amp;lt;br/&amp;gt; / Secourisme et sécurité routière&amp;lt;br/&amp;gt; / Incendie et évacuation&amp;lt;br/&amp;gt; / Gestes et postures&amp;lt;br/&amp;gt; / Permis&amp;lt;br/&amp;gt; / Certificat d'Aptitude au Travail en Espaces Confinés (CATEC)&amp;lt;br/&amp;gt; / ATmosphère EXplosive (ATEX)&amp;lt;br/&amp;gt; / Grimpeur-se Sauveteur-se dans l'Arbre (GSA) / Certiphyto&amp;lt;br/&amp;gt; / Amiante sous section 4&amp;lt;br/&amp;gt; / Certibiocide&amp;lt;br/&amp;gt;",
+      "cpv": "80330000",
+      "pays": "FRA",
+      "deadline": "2026-09-01",
+      "montant": 992,
+      "publication": "2026-07-15",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/487797-2026",
       "segment": "Autre",
       "keyword_hits": [
         "habilitation"
       ],
       "bureautique": false,
-      "score": 60,
+      "score": 35,
       "score_detail": {
         "fit": 25,
-        "size": 8,
+        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
         "delay": 3
       },
-      "score_status": "cond",
+      "score_status": "no",
       "notes": "",
-      "auto": true
+      "auto": true,
+      "score_raw": 65,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
+      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
     },
     {
       "id": "481044-2026",
@@ -897,7 +366,7 @@
         "habilitation"
       ],
       "bureautique": false,
-      "score": 57,
+      "score": 35,
       "score_detail": {
         "fit": 25,
         "size": 8,
@@ -906,79 +375,92 @@
         "admin": 7,
         "delay": 0
       },
-      "score_status": "cond",
+      "score_status": "no",
       "notes": "",
-      "auto": true
+      "auto": true,
+      "score_raw": 57,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
+      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
     },
     {
-      "id": "26-73486",
-      "ref": "26-73486",
-      "acheteur": "Centre hospitalier du Mans",
-      "objet": "Logiciel de Réservation des Salles & Matériels POUR LE POLE REGIONAL D'EXCELLENCE",
-      "description": "Logiciel de Réservation des Salles & Matériels POUR LE POLE REGIONAL D'EXCELLENCE",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-09-08",
-      "montant": 150,
-      "publication": "2026-07-23",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-73486",
-      "_boamp": {
-        "famille": "Marchés entre 90 k€ et seuils européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Logiciel"
-        ],
-        "departement": "72"
-      },
+      "id": "493551-2026",
+      "ref": "493551-2026",
+      "acheteur": "Ministerium für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz des Landes Brandenburg",
+      "objet": "Allemagne – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Projektmanagement für Leistungen zur Umsetzung des Maßnahmenplans des Landesniedrigwasserkonzeptes 2.0",
+      "description": "Die Leistung setzt sich insbesondere aus folgenden Punkten zusammen: 1) Projektmanagement Das Projektmanagement, steuert und koordiniert aktiv die nachfolgend unter Punkt 2 und ggf. 3 genannten Leistungen über die gesamte Vertragslaufzeit. 2) Weiterführung Flussgebietsarbeit Durch eine intensive Kommunikation des Themas \"Niedrigwasser\" konnte eine breite Aufmerksamkeit und ein Problembewusstsein bei allen lokalen Akteuren erzeugt werden. Die Entscheidungsträger (Wasser-, Naturschutz- und tlw. Landwirtschaftsbehörden der Landkreise / kreisfreien Städte, LfU, einschließlich Großschutzgebiete), die das Wassermanagement operativ steuernden GUV und ggf. weitere Institutionen (Naturschutzverbände, Landschaftspflegeverbände, Natura2000-Teams, VLF, Kommunen, engagierte Einzelpersonen usw.) sind involviert und arbeiten unterschiedlich intensiv an der Thematik mit. 3) Erarbeitung flussgebietsbezogener Bewirtschaftungskonzepte Die sich in der Ideenphase befindlichen 16 Konzepte (Phase 1 und 2) sind gemeinsam mit den Trägern bis zur Antragsreife (Richtlinie LWH) zu entwickeln und die Antragstellung bei der ILB zu begleiten. Weitere mindestes 10 Konzepte sollen - eine erfolgreiche Antragstellung und Mittelverfügbarkeit vorausgesetzt - bei der Bearbeitung begleitet werden. Es bestehen bisher nicht weiterverfolgte weitere Ideen der Akteure zu potenziellen Bewirtschaftungs- bzw. Staukonzepten in allen Flussgebieten tlw. auch von Seiten des LfU für Gewässer 1. Ordnung. Aufgrund einer derzeit nicht genau bekannten Anzahl o.g. Ideen ist die Leistung für 10 Konzepte anzubieten. 4) Qualifizierung und Weiterentwicklung LWH-Vorhaben und Leuchttürmen Mit LWH-Vorhaben sind Vorhaben gemeint, die den Fördergegenständen der Richtlinien LWH (GAK und ELER) des MLEUV entsprechen und die von den Antragstellern zur Förderung aus Drittmitteln vorgesehen sind. Entwicklung von Projekten aus Initiierungsphase (50) bis zu antragsreifer Projektskizze. Entwicklung fortgeschrittene Projekte (100) bis zu antragsreifer Projektskizze . Begleitung abgeschlossener (20) Projekte Begleitung der laufenden Leuchtturmprojekte Initiiierung von neuen Leuchtturmprojekte (z.B. Dränagen) 5) Fachübergreifende Anforderungen Im Rahmen des Erstauftrages wurden bereits diverse fachübergreifende Treffen, Gespräche etc. initiiert und ausgewertet). Diese sog. fachübergreifenden Gespräche mit Akteuren z.B. der Landwirtschaft, des Naturschutzes, der Forst, der Flurneuordnung sowie der Landes- und Regionalplanung sollen federführend durch den Auftragnehmer weitergeführt und im Bereich Siedlungs- und Gewerbegebietsentwicklung / Bau- und Stadtplanung aufgegriffen werden. Vertieft werden soll der Themenbereich Schifffahrt und Wassertourismus hinsichtlich der Wasserbewirtschaftung und möglicher Handlungsspielräume und Entwicklungsperspektiven hin zur Klimaanpassung und zu einem verringerten Wasserdargebot. Im Zusammenhang mit dem Umbau eines Staubauwerkes wurde im Rahmen des Erstauftrages ein umfangreiches, modellgestütztes Werkzeug entwickelt, welches die Auswirkungen veränderter Stauhaltungen auf den Wasserrückhalt quantifiziert. Das Werkzeug erlaubt darüber hinaus eine grafische Darstellung der flächigen Auswirkungen veränderter Wasserstände oberhalb eines Staubauwerkes. Für das Werkzeug wurden vorhandene Modellansätze in die kommerzielle Rechensoftware MS Excel überführt. Ferner wurde eine Schnittstelle programmiert, die eine Darstellung der Ergebnisse in einem GIS-System erlaubt. Die Anwendung des sog. Excel-Tools (Anlage 5: Dokumentation) wurde sowohl durch das LfU als auch durch die NW-Koordinatoren für weitere Projekte in anderen Flussgebieten testweise durchgeführt. Es ist gewünscht, das Excel-Tool (oder ein vergleichbares Instrument) künftig als Werkzeug zur Folgenabschätzung und Visualisierung stärker systematisch einzubinden. 6) Verknüpfung mit dem Moorschutz Moorschutz und Wassermanagement sind inhaltlich eng verwoben, dementsprechend erfolgt MLEUV-intern eine enge organisatorisch-inhaltliche Abstimmung zur Thematik Moorschutz. Bei der Umsetzung des Landesniedrigwasserkonzeptes ist auch auf ein nachhaltiges Moorbodenmanagement zu setzen. Das Moorschutzprogramm Brandenburg bildet den Rahmen für alle Aktivitäten im Zusammenhang mit Mooren. Um eine Synchronisation der Ziele von Moorschutz und Niedrigwasservorsorge bei der Projektentwicklung vor Ort und insbesondere bei der Erarbeitung von Bewirtschaftungskonzepten zu gewährleisten, ist ein fachkundiger Ansprechpartner zu benennen. Dieser sammelt und koordiniert alle moorbezogenen Fragen, begleitet ggf. Ortstermine und steht als zentraler Ansprechpartner zur Verfügung. Die o.g. Flussgebietssteckbriefe sind in enger Zusammenarbeit mit dem LfU um ein Kapitel zum Moorschutz zu ergänzen. 7) Öffentlichkeitsarbeit Ziel des Leistungspunktes ist daher die Entwicklung einer zielgruppenorientierten Kommunikationsstrategie zur Unterstützung der Umsetzung des LNWK 2.0. Die Kommunikationsstrategie soll dazu beitragen, Verständnis, Akzeptanz und Mitwirkung zentraler Akteure bei Maßnahmen der Niedrigwasservorsorge und der -bewältigung zu stärken. Dabei sollen insbesondere Informationsbedarfe, Entscheidungsstrukturen und mögliche Hemmnisse in den relevanten Zielgruppen berücksichtigt werden. Auf Basis der strategischen Konzeption sollen geeignete Kommunikationsmaßnahmen entwickelt, priorisiert und in einem Umsetzungsplan dargestellt werden. Optionale Leistungen: 1) Verbindung wasserbaulicher Maßnahmen mit Agrar-, Umwelt- und Klimamaßnahmen (AUKM) 2) Durchführung ausgewählter Maßnahmen des im Rahmen der Öffentlichkeitsarbeit entwickelten Umsetzungsplanes aus Nr. 7) Im Detail siehe Vergabeunterlagen Teil B - Leistungsbeschreibung Nr. 2 und 3.",
+      "cpv": "71000000",
+      "pays": "DEU",
+      "deadline": "2026-09-04",
+      "montant": 0,
+      "publication": "2026-07-16",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/493551-2026",
       "segment": "FPH",
       "keyword_hits": [
         "Excel"
       ],
-      "score": 47,
+      "bureautique": true,
+      "score": 0,
       "score_detail": {
-        "fit": 10,
-        "size": 10,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "no",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "484386-2026",
-      "ref": "484386-2026",
-      "acheteur": "BG Kliniken - Klinikverbund der gesetzlichen Unfallversicherung gGmbH",
-      "objet": "Allemagne – Services de développement de logiciels de veille économique – Entwicklung Software für Infrastruktur Investitionscontrolling (Los 1) und Software für Projektkostensteuerung (Los 2)",
-      "description": "Beschreibung der Sollprozesse Für die Umsetzung der Anforderungen aus Los 1 wird es erforderlich sein, dass der AN zusammen mit Vertretern der Fachabteilungen des AG die fachlichen Prozesse aufnimmt und neu definiert. Dies soll im Rahmen von Workshops erfolgen und ist der eigentlichen Entwicklung der Software vorangestellt. Die Leistung wird gesondert abgefragt und vergütet. Zielsetzung des Verfahrens Ziel ist die Entwicklung und Implementierung von Cloudlösungen für die nachfolgend dargestellten Lose. Los 1 -System für Infrastruktur Investitionscontrolling Strategische Perspektivplanung - Mehrperiodenfähigkeit mit langfristigem Planungshorizont - Abgleich mit übergeordneten Unternehmenszielen (z. B. Investitionsquote) - Szenarien- und Simulationsfähigkeit (besonders wichtig!) - Visualisierung von Investitionsverläufen und Finanzierungsfähigkeit Mittelfristige Ziel- und Finanzplanung - Verwaltung aller Maßnahmen mit Stammdaten, Zeit- und Finanzierungszuordnung - Transparente Mittelbindung je Finanzierungsperiode - Einhaltung verbindlicher Finanzierungsrahmen - Verschiebungslogik bei Mittelknappheit mit Prüf- und Warnfunktion Fördermittel- und Antragsmanagement - Abbildung eines mehrstufigen Antragsverfahrens; falls möglich mit Funktion zur Übermittlung der Anträge per Eingabemaske und Datei-Upload; dann Workflow zur Prüfung, Kommentierung/ Korrekturumlauf, Freigabe; dann Übernahme der Daten in Datenbank - Verwaltung von Testierungen, Zuwendungsverträgen und Verteilungsplänen - Status-Tracking und Gremienvorbereitung - Historisierung und Revisionssicherheit Mittelbedarfs- und Liquiditätsplanung - Quartalsweise Mittelabfluss- und Zuflussplanung - Darstellung von Vorfinanzierungsbedarfen aus Ableitung von Differenzen s.o. - Abbildung von Auszahlungsterminen und kurzfristigen Verbindlichkeiten Reporting und Governance - Maßnahmenübersichten - Filterbare Berichte - Historisierung aller Beschlüsse - Rollen- und Rechtekonzept Los 2 - Software für Projektkostensteuerung Kosten- und Reservensteuerung - Kostenerfassung nach DIN 276; Metadaten- und Filtermöglichkeit - Varianten- und Prognosevergleich - Fortschreibung der Finanzierungsreserve - Automatisierte Warnmechanismen bei Überschreitungen Mittelbedarfs- und Liquiditätsplanung - Quartalsweise Mittelabfluss- und Zuflussplanung - Darstellung von Vorfinanzierungsbedarfen aus Ableitung von Differenzen s.o. - Abbildung von Auszahlungsterminen und kurzfristigen Verbindlichkeiten Reporting und Governance - Maßnahmenübersichten - Filterbare Berichte - Historisierung aller Beschlüsse - Rollen- und Rechtekonzept Die Lösungen müssen mehrperiodenfähig, historisierend, revisionssicher und auswertungsstark sein. Während das Investitionsmanagement die Finanzierungslogik und Fördermittelsteuerung abbildet, muss die Baukostenverfolgungssoftware die kosten- und revisionssichere, belastbare Datenbasis liefern. Sie sind damit das operative Steuerungsinstrument für: - Budgettreue - Vergabesicherheit - Nachtragskontrolle - Liquiditätssteuerung - Kostenwahrheit Abgrenzung zwischen den Losen: 1 - System Infrastruktur Investitions- Controlling Investitionsmanagement strategischer Finanzrahmen Förderverfahren Mittelzuteilung Portfolioebene 2 - System Projektkostensteuerung Baukostenverfolgung operative Kostensteuerung AVA- und Vertragssteuerung Rechnungsprüfung und Freigabe (Amondis) Projektebene",
-      "cpv": "72212482",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-07-14",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/484386-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "VPL"
-      ],
-      "bureautique": false,
-      "score": 45,
-      "score_detail": {
-        "fit": 10,
+        "fit": 30,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
         "delay": 3
       },
-      "score_status": "no",
+      "score_status": "filtered",
       "notes": "",
-      "auto": true
+      "auto": true,
+      "score_raw": 65,
+      "cpv_class": "blacklist",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
+      "gating_reason": "CPV blacklist (71000000)"
+    },
+    {
+      "id": "489729-2026",
+      "ref": "489729-2026",
+      "acheteur": "Coallia",
+      "objet": "France – Services relatifs aux logiciels – Outil de gestion de planning des professionnels des ESMS de Coallia",
+      "description": "Mise à disposition d'une solution logicielle de gestion de planning des professionnels des établissements et services médico-sociaux de Coallia, capable de s'interfacer avec le logiciel de paie ADP, ainsi que l'ensemble des prestations associées à son déploiement, son intégration, son paramétrage, sa maintenance, son évolution et son support utilisateur. Le marché est à prix global et forfaitaire (périmètre DPGF), certaines prestations optionnelles (formations complémentaires, évolutions fonctionnelles, reprise de données) étant exécutées sur bons de commande. La solution devra être référencée Ségur du numérique en santé (vague 1) ; le candidat devra justifier d'une certification ISO 27001 et, en cas d'hébergement externalisé, d'une certification HDS.",
+      "cpv": "72260000",
+      "pays": "FRA",
+      "deadline": "2026-09-15",
+      "montant": 390,
+      "publication": "2026-07-15",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/489729-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "certification services"
+      ],
+      "bureautique": false,
+      "score": 0,
+      "score_detail": {
+        "fit": 25,
+        "size": 13,
+        "tech": 14,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "filtered",
+      "notes": "",
+      "auto": true,
+      "score_raw": 69,
+      "cpv_class": "secondary",
+      "bigrams_matched": [],
+      "stop_hits": [
+        "ISO 27001",
+        "paie"
+      ],
+      "quality_flag": "noise",
+      "gating_reason": "stop-word : ISO 27001, paie"
     }
   ]
 }

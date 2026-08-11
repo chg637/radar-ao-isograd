@@ -1,0 +1,88 @@
+{
+  "generated_at": "2026-08-11T07:04:10.108Z",
+  "source": "BOAMP",
+  "window_days": 30,
+  "total_fetched": 3000,
+  "total_matched": 2,
+  "total_go": 0,
+  "notices": [
+    {
+      "id": "26-74673",
+      "ref": "26-74673",
+      "acheteur": "Coallia",
+      "objet": "Gestion des identités et des habilitations (IAM)",
+      "description": "Gestion des identités et des habilitations (IAM)",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-09-10",
+      "montant": 0,
+      "publication": "2026-07-28",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-74673",
+      "_boamp": {
+        "famille": "Marchés européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Logiciel"
+        ],
+        "departement": "75"
+      },
+      "segment": "Autre",
+      "keyword_hits": [
+        "habilitation"
+      ],
+      "score": 60,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "26-73486",
+      "ref": "26-73486",
+      "acheteur": "Centre hospitalier du Mans",
+      "objet": "Logiciel de Réservation des Salles & Matériels POUR LE POLE REGIONAL D'EXCELLENCE",
+      "description": "Logiciel de Réservation des Salles & Matériels POUR LE POLE REGIONAL D'EXCELLENCE",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-09-08",
+      "montant": 150,
+      "publication": "2026-07-23",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-73486",
+      "_boamp": {
+        "famille": "Marchés entre 90 k€ et seuils européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Logiciel"
+        ],
+        "departement": "72"
+      },
+      "segment": "FPH",
+      "keyword_hits": [
+        "Excel"
+      ],
+      "score": 47,
+      "score_detail": {
+        "fit": 10,
+        "size": 10,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true
+    }
+  ]
+}

@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-08-10T07:27:35.701Z",
+  "generated_at": "2026-08-11T07:04:10.753Z",
   "source": "MERGE",
   "sources_summary": {
     "TED": {
       "present": true,
       "fetched": 500,
-      "matched": 31,
+      "matched": 30,
       "go": 0,
-      "generated_at": "2026-08-10T07:20:35.868Z"
+      "generated_at": "2026-08-11T06:56:53.137Z"
     },
     "BOAMP": {
       "present": true,
       "fetched": 3000,
       "matched": 2,
       "go": 0,
-      "generated_at": "2026-08-10T07:27:35.062Z"
+      "generated_at": "2026-08-11T07:04:10.108Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-08-10T07:27:35.593Z"
+      "generated_at": "2026-08-11T07:04:10.628Z"
     }
   },
   "total_fetched": 3500,
-  "total_matched": 31,
+  "total_matched": 30,
   "total_go": 0,
   "total_dedup_collisions": 2,
   "dedup_breakdown": {
@@ -748,45 +748,6 @@
       "auto": true
     },
     {
-      "id": "26-74673",
-      "ref": "26-74673",
-      "acheteur": "Coallia",
-      "objet": "Gestion des identités et des habilitations (IAM)",
-      "description": "Gestion des identités et des habilitations (IAM)",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-09-10",
-      "montant": 0,
-      "publication": "2026-07-28",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-74673",
-      "_boamp": {
-        "famille": "Marchés européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Logiciel"
-        ],
-        "departement": "75"
-      },
-      "segment": "Autre",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "score": 62,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
       "id": "500073-2026",
       "ref": "500073-2026",
       "acheteur": "Vlaamse Overheid",
@@ -799,37 +760,6 @@
       "publication": "2026-07-20",
       "source": "TED",
       "url": "https://ted.europa.eu/fr/notice/-/detail/500073-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true
-    },
-    {
-      "id": "484210-2026",
-      "ref": "484210-2026",
-      "acheteur": "Freie und Hansestadt Hamburg, vertreten durch Behörde für Verkehr und Mobilitätswende, Abteilung Öffentliche Mobilität",
-      "objet": "Allemagne – Services de conseil en affaires et en gestion – Rahmenvereinbarung über verkehrswirtschaftliche Beratungsleistungen (inkl. Projektmanagement) im Rahmen der Beschaffung einer neuen Fahrzeuggeneration zum Einsatz im Schienenpersonennahverkehr (SPNV)",
-      "description": "Die Freie und Hansestadt Hamburg (FHH), die Landesnahverkehrsgesellschaft Niedersachsen mbH (LNVG) und das Land Schleswig-Holstein (SH) haben Verkehrsleistungen der Personenbeförderung im Schienenpersonennahverkehr (SPNV) im Netz der S-Bahn Hamburg von 2018-2033 in einem europaweiten Vergabeverfahren ausgeschrieben und vergeben. Dieses Netz liegt im Verantwortungsbereich der drei o.g. Aufgabenträger, deshalb ist zwischen FHH, LNVG und SH eine Ländervereinbarung mit Regelungen über die gemeinsame Zusammenarbeit geschlossen worden. Im Rahmen des Verkehrsvertrages zur Durchführung der o.g. Verkehre sind FHH (Federführung), die LNVG und SH Auftraggeber gegenüber dem Eisen-bahnverkehrsunternehmen (EVU) S-Bahn Hamburg GmbH (SBH) als Auftragnehmer. Zur unterbrechungsfreien Sicherstellung der Fahrzeugverfügbarkeit im laufenden Vertragszeit-raum und insbesondere auch darüber hinaus ist aufgrund der sehr langwierigen Vorlauf- bzw. Entwicklungszeiten einer neuen Fahrzeuggeneration zeitnah ein Fahrzeugbeschaffungsprozess durchzuführen. Die neu zu beschaffenden Fahrzeuge sollen mit Auslieferung und Abnahme in das Eigentum der FHH bzw. eines von der FHH benannten Dritten übergehen. Nach heutigem Zeitplan ist der Zuschlag an den Fahrzeughersteller für das Jahr 2029 geplant. Gegenstand der vorliegend ausgeschriebenen Rahmenvereinbarung (RV) ist die verkehrs-wirtschaftliche Begleitung des Fahrzeugbeschaffungsprozesses einschließlich des begleiten-den Projektmanagements. Die juristische Begleitung wurde bereits im ersten Halbjahr 2026 an eine externe Kanzlei vergeben. Eine Rahmenvereinbarung für den technischen Dienstleister zur Erstellung des Lastenhefts und der technischen Begleitung der Fahrzeugausschreibung wurde 2025 beauftragt, eine Rahmenvereinbarung zu Finanzierungsfragen der Fahrzeugbeschaffung wird noch aus-geschrieben werden. Es wird erwartet, dass der Auftragnehmer konstruktiv mit sämtlichen in- und externen Projekt-beteiligten (neben der LNVG und dem Land SH z.B. der hvv, der SBH und der DB InfraGO AG) zusammenarbeitet. Zum jetzigen Zeitpunkt ist die Entscheidung, ob neben der Fahrzeugherstellung auch die Instandhaltung für bis zu 30 Jahre in die Zuständigkeit des Fahrzeugherstellers übergehen wird, noch nicht getroffen worden. Die Ausgestaltung der Instandhaltung wird ein wichtiges Thema in der neuen Rahmenvereinbarung werden. Die FHH schätzt den Aufwand wie folgt: - Position 1: Beratungsleistungen inkl. Projektmanagement 10.300 Stunden - Position 2: Reisepauschale (pro Person und An-/Abreise) 80 Stück Diese Mengen stellen zugleich die verbindliche Höchstabnahmegrenze (bezogen auf die Gesamtlaufzeit der Rahmenvereinbarung). Die Rahmenvereinbarung beginnt mit Zuschlagserteilung und hat eine Laufzeit von 4 Jahren. Nach Ablauf dieser Vertragslaufzeit endet die Rahmenvereinbarung automatisch, ohne dass es einer Kündigung bedarf. Gleiches gilt, soweit die vorgesehene verbindliche Höchstabnahmegrenze vor dem Ablauf der Vertragslaufzeit erreicht wird.",
-      "cpv": "79410000",
-      "pays": "DEU",
-      "deadline": "2026-08-10",
-      "montant": 0,
-      "publication": "2026-07-14",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/484210-2026",
       "segment": "Autre",
       "keyword_hits": [
         "Word"
@@ -874,6 +804,45 @@
         "com": 5,
         "admin": 7,
         "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true
+    },
+    {
+      "id": "26-74673",
+      "ref": "26-74673",
+      "acheteur": "Coallia",
+      "objet": "Gestion des identités et des habilitations (IAM)",
+      "description": "Gestion des identités et des habilitations (IAM)",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-09-10",
+      "montant": 0,
+      "publication": "2026-07-28",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-74673",
+      "_boamp": {
+        "famille": "Marchés européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Logiciel"
+        ],
+        "departement": "75"
+      },
+      "segment": "Autre",
+      "keyword_hits": [
+        "habilitation"
+      ],
+      "score": 60,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",

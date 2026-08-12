@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-11T12:27:59.311Z",
+  "generated_at": "2026-08-12T07:28:27.117Z",
   "source": "MERGE",
   "schema_version": 2,
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 1704,
+      "fetched": 1753,
       "matched": 34,
       "go": 0,
-      "generated_at": "2026-08-11T12:14:59.723Z"
+      "generated_at": "2026-08-12T07:16:12.755Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 4636,
-      "matched": 6,
+      "fetched": 4442,
+      "matched": 7,
       "go": 1,
-      "generated_at": "2026-08-11T12:27:58.788Z"
+      "generated_at": "2026-08-12T07:28:26.662Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-08-11T12:27:59.189Z"
+      "generated_at": "2026-08-12T07:28:26.979Z"
     }
   },
-  "total_fetched": 6340,
+  "total_fetched": 6195,
   "total_matched": 39,
   "total_go": 1,
-  "total_dedup_collisions": 1,
+  "total_dedup_collisions": 2,
   "dedup_breakdown": {
     "by_id": 0,
-    "fuzzy_signature": 1,
+    "fuzzy_signature": 2,
     "fuzzy_jaccard": 0
   },
   "metrics": {
@@ -126,6 +126,54 @@
       "stop_hits": [],
       "quality_flag": "actionable",
       "gating_reason": ""
+    },
+    {
+      "id": "26-79755",
+      "ref": "26-79755",
+      "acheteur": "OPCO ATLAS",
+      "objet": "Marché d'assistance à maîtrise d'ouvrage (AMO) sur le champ de la certification professionnelle - Accompagnement à la sécurisation des processus qualité des certifications de branche",
+      "description": "Marché d'assistance à maîtrise d'ouvrage (AMO) sur le champ de la certification professionnelle - Accompagnement à la sécurisation des processus qualité des certifications de branche",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-09-14",
+      "montant": 0,
+      "publication": "2026-08-12",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-79755",
+      "_boamp": {
+        "famille": "Marchés européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Assistance à maîtrise d'ouvrage"
+        ],
+        "departement": "75"
+      },
+      "segment": "Formation pro",
+      "keyword_hits": [
+        "certification professionnelle"
+      ],
+      "score": 67,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true,
+      "score_raw": 67,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "actionable",
+      "gating_reason": "",
+      "_also_seen_in": [
+        "TED"
+      ]
     },
     {
       "id": "499139-2026",
@@ -353,43 +401,6 @@
       "auto": true,
       "score_raw": 62,
       "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "actionable",
-      "gating_reason": ""
-    },
-    {
-      "id": "538435-2026",
-      "ref": "538435-2026",
-      "acheteur": "Deutsche Gesetzliche Unfallversicherung e.V.",
-      "objet": "Allemagne – Services de programmation et de conseil en logiciels – Open Text",
-      "description": "Die im AG Umfeld eingesetzte ECM Software - xECM (Content Server) 24.1 der Firma O-penText unterliegt ständigen Anpassungen und funktionalen Erweiterung und muss regelmä-ßig gewartet und aktualisiert werden. Der AG setzt im Kollaborationsteil des Content Ma-nagement vermehrt auf Funktionen und Software aus M365 im Cloudbetrieb. Die beiden Sys-teme sollen zukünftig über die OpenText Office 365-Integration miteinander verbunden wer-den. Die Beratungs- und Unterstützungsleistungen umfassen",
-      "cpv": "72200000",
-      "pays": "DEU",
-      "deadline": "2026-08-11",
-      "montant": 0,
-      "publication": "2026-08-04",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/538435-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Office 365"
-      ],
-      "bureautique": true,
-      "score": 62,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true,
-      "score_raw": 62,
-      "cpv_class": "secondary",
       "bigrams_matched": [],
       "stop_hits": [],
       "quality_flag": "actionable",

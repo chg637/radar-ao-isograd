@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-12T07:28:27.117Z",
+  "generated_at": "2026-08-13T07:31:08.840Z",
   "source": "MERGE",
   "schema_version": 2,
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 1753,
-      "matched": 34,
+      "fetched": 1735,
+      "matched": 31,
       "go": 0,
-      "generated_at": "2026-08-12T07:16:12.755Z"
+      "generated_at": "2026-08-13T07:18:32.157Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 4442,
-      "matched": 7,
+      "fetched": 4520,
+      "matched": 8,
       "go": 1,
-      "generated_at": "2026-08-12T07:28:26.662Z"
+      "generated_at": "2026-08-13T07:31:08.435Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-08-12T07:28:26.979Z"
+      "generated_at": "2026-08-13T07:31:08.709Z"
     }
   },
-  "total_fetched": 6195,
-  "total_matched": 39,
+  "total_fetched": 6255,
+  "total_matched": 37,
   "total_go": 1,
   "total_dedup_collisions": 2,
   "dedup_breakdown": {
@@ -40,8 +40,8 @@
     "false_positives_human_verdict_4w": 0,
     "filtered_cpv_blacklist": 3,
     "filtered_stopword": 6,
-    "capped_no_context": 13,
-    "displayed_in_radar": 14
+    "capped_no_context": 12,
+    "displayed_in_radar": 12
   },
   "notices": [
     {
@@ -245,80 +245,6 @@
       "auto": true,
       "score_raw": 65,
       "cpv_class": "secondary",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "actionable",
-      "gating_reason": ""
-    },
-    {
-      "id": "482167-2026",
-      "ref": "482167-2026",
-      "acheteur": "Centre de gestion du personnel et de l'organisation de l'État",
-      "objet": "Luxembourg – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Épreuve d'aptitude générale 2026-2027",
-      "description": "Ce lot porte sur la fourniture et l’administration de tests informatisés de raisonnement, destinés à évaluer les capacités cognitives générales des candidats, incluant notamment: - le raisonnement abstrait; - le raisonnement verbal; - le raisonnement numérique. Les tests s’appliquent aux groupes de traitement A1, A2, B1, C1 et C2, selon les exigences propres à chaque niveau de qualification, et doivent permettre une évaluation standardisée sur l’échelle en Stanine. / Ce lot porte sur la fourniture et l’administration de tests informatisés d’aptitudes spécifiques, destinés à mesurer certaines capacités fonctionnelles des candidats, incluant notamment: - la capacité de planification des tâches d'une équipe et/ou de ses propres tâches; - la capacité de contrôle et de précision. Les tests sont intégrés à l’épreuve d’aptitude générale pour les groupes de traitement concernés, conformément aux dispositions réglementaires applicables, et donnent lieu à une évaluation standardisée sur l’échelle en Stanine. / Ce lot porte sur la fourniture et l’administration de questionnaires de jugement situationnel informatisés, visant à évaluer des compétences comportementales et professionnelles des candidats dans des situations de travail représentatives du service public, incluant notamment: - la compétence \"servir le client-usager\"; - la compétence \"conseiller\"; - la compétence \"coopérer\". Les questionnaires sont adaptés aux différents groupes de traitement et intégrés à l’épreuve d’aptitude générale selon les compétences attendues pour chaque niveau.",
-      "cpv": "72000000",
-      "pays": "LUX",
-      "deadline": "",
-      "montant": 482,
-      "publication": "2026-07-13",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/482167-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "centre de tests"
-      ],
-      "bureautique": false,
-      "score": 65,
-      "score_detail": {
-        "fit": 25,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true,
-      "score_raw": 65,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "actionable",
-      "gating_reason": ""
-    },
-    {
-      "id": "483039-2026",
-      "ref": "483039-2026",
-      "acheteur": "Côte d'Azur Habitat (OPAM de Nice)",
-      "objet": "France – Services de comptabilité et d'audit – DESIGNATION D'UN COMMISSAIRE AUX COMPTES EN VUE DE LA CERTIFICATION DES COMPTES DE COTE D'AZUR HABITAT POUR LES EXERCICES 2026 A 2031",
-      "description": "DESIGNATION D'UN COMMISSAIRE AUX COMPTES EN VUE DE LA CERTIFICATION DES COMPTES DE COTE D'AZUR HABITAT POUR LES EXERCICES 2026 A 2031",
-      "cpv": "79210000",
-      "pays": "FRA",
-      "deadline": "",
-      "montant": 216,
-      "publication": "2026-07-13",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/483039-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "certification services"
-      ],
-      "bureautique": false,
-      "score": 65,
-      "score_detail": {
-        "fit": 25,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true,
-      "score_raw": 65,
-      "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
       "quality_flag": "actionable",
@@ -589,6 +515,51 @@
       "bigrams_matched": [],
       "stop_hits": [],
       "quality_flag": "actionable",
+      "gating_reason": ""
+    },
+    {
+      "id": "26-79761",
+      "ref": "26-79761",
+      "acheteur": "Hospices Civils de Lyon",
+      "objet": "Prestation de sous-traitance d’examens d’anatomo-pathologie pour le GHT Val Rhône Centre",
+      "description": "Prestation de sous-traitance d’examens d’anatomo-pathologie pour le GHT Val Rhône Centre",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-09-07",
+      "montant": 0,
+      "publication": "2026-08-13",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-79761",
+      "_boamp": {
+        "famille": "Marchés européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Analyses médicales, biologiques"
+        ],
+        "departement": "38,69"
+      },
+      "segment": "Formation pro",
+      "keyword_hits": [
+        "centre d'examens"
+      ],
+      "score": 50,
+      "score_detail": {
+        "fit": 15,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true,
+      "score_raw": 50,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
       "gating_reason": ""
     },
     {
@@ -1196,49 +1167,12 @@
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 3
+        "delay": 1
       },
       "score_status": "no",
       "notes": "",
       "auto": true,
-      "score_raw": 65,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "noise",
-      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
-    },
-    {
-      "id": "481044-2026",
-      "ref": "481044-2026",
-      "acheteur": "Conseil Départemental des Bouches du Rhône",
-      "objet": "France – Services de formation en matière de sécurité – Formations certifiantes portant sur la sécurité des agents du Département des Bouches-du-Rhône 3 lots",
-      "description": "Formations prévention et opération d’incendie et de secours, prévention et protection du public / Formations habilitations électriques / Formations à l’autorisation d’intervention à proximité des réseaux - AIPR",
-      "cpv": "80330000",
-      "pays": "FRA",
-      "deadline": "2026-08-14",
-      "montant": 0,
-      "publication": "2026-07-13",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/481044-2026",
-      "segment": "Collectivités",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "bureautique": false,
-      "score": 35,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "no",
-      "notes": "",
-      "auto": true,
-      "score_raw": 57,
+      "score_raw": 63,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],

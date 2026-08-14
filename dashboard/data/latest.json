@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-13T07:31:08.840Z",
+  "generated_at": "2026-08-14T07:29:30.410Z",
   "source": "MERGE",
   "schema_version": 2,
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 1735,
-      "matched": 31,
+      "fetched": 1723,
+      "matched": 32,
       "go": 0,
-      "generated_at": "2026-08-13T07:18:32.157Z"
+      "generated_at": "2026-08-14T07:16:47.127Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 4520,
-      "matched": 8,
+      "fetched": 4600,
+      "matched": 9,
       "go": 1,
-      "generated_at": "2026-08-13T07:31:08.435Z"
+      "generated_at": "2026-08-14T07:29:29.800Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-08-13T07:31:08.709Z"
+      "generated_at": "2026-08-14T07:29:30.289Z"
     }
   },
-  "total_fetched": 6255,
-  "total_matched": 37,
+  "total_fetched": 6323,
+  "total_matched": 39,
   "total_go": 1,
   "total_dedup_collisions": 2,
   "dedup_breakdown": {
@@ -38,10 +38,10 @@
     "precision_4w": null,
     "human_verdicts_collected_4w": 0,
     "false_positives_human_verdict_4w": 0,
-    "filtered_cpv_blacklist": 3,
+    "filtered_cpv_blacklist": 2,
     "filtered_stopword": 6,
     "capped_no_context": 12,
-    "displayed_in_radar": 12
+    "displayed_in_radar": 13
   },
   "notices": [
     {
@@ -213,6 +213,46 @@
       "gating_reason": ""
     },
     {
+      "id": "565844-2026",
+      "ref": "565844-2026",
+      "acheteur": "DFS Deutsche Flugsicherung GmbH",
+      "objet": "Allemagne – Services de formation de personnel – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+      "description": "Die DFS Deutsche Flugsicherung GmbH verfolgt das Ziel, einen strukturierten und unternehmensweiten Ansatz zum Aufbau von Kompetenzen im Bereich Künstliche Intelligenz (KI) zu etablieren. Mitarbeitende und Führungskräfte sollen im Sinne der KI-VO befähigt werden, KI-Anwendungen sicher, verantwortungsvoll und effizient im Arbeitsalltag einzusetzen sowie Potenziale für die Organisation systematisch zu erschließen. Hierzu soll ein mehrstufiges Befähigungskonzept umgesetzt werden, das unterschiedliche Zielgruppen und Kompetenzniveaus adressiert. Zentrale Bestandteile sollen modular aufgebaute Lernreisen für Mitarbeitende und Führungskräfte sein, die eine Kombination aus virtuellen Trainingsformaten, begleitetem Selbststudium sowie praxisnahen Übungen umfassen. Das Copilot Lizenz Kompakt Modul soll auf den Lernreisen für Mitarbeitenden und Führungskräften aufbauen. Inhaltlich sollen sowohl Grundlagen der Künstlichen Intelligenz als auch deren konkrete Anwendung im Arbeitskontext der DFS vermittelt werden. Schwerpunkte sollen insbesondere die Nutzung von Microsoft Copilot (Basic/Chat und Premium/mit Lizenz), praxisorientiertes Prompting und die Nutzung von Agenten, die Identifikation und Umsetzung von Anwendungsfällen sowie die Reflexion von Chancen, Grenzen und Risiken umfassen. Darüber hinaus sollen zielgruppenspezifische Formate vorgesehen werden: Für Mitarbeitende soll der Fokus auf der sicheren und effizienten Anwendung von KI im Tagesgeschäft liegen, während Formate für Führungskräfte insbesondere deren Rolle in der Steuerung, Förderung und kulturellen Verankerung von KI-Nutzung im eigenen Verantwortungsbereich adressieren sollen. Ein wesentliches Element der vorgesehenen Transferformate soll ein Erfahrungskreis „Prompting“ darstellen. Dabei soll es sich um ein strukturiertes Austauschformat handeln, in dem Mitarbeitende ihre Erfahrungen im Umgang mit generativer KI – insbesondere bei der Erstellung und Anwendung von Prompts – teilen und weiterentwickeln. Ziel soll es sein, Best Practices transparent zu machen, die Qualität der erzeugten Ergebnisse zu steigern und den nachhaltigen Transfer in den Arbeitsalltag zu unterstützen. Der Erfahrungskreis soll damit zur organisationsweiten Vernetzung sowie zur Etablierung einer lernorientierten, offenen Nutzungskultur im Umgang mit KI beitragen. Insgesamt soll der Ansatz auf einen breiten, praxisnahen Kompetenzaufbau ausgerichtet sein, der sowohl die individuelle Handlungssicherheit im Umgang mit KI stärkt als auch die strategische Weiterentwicklung und Effizienzsteigerung innerhalb der DFS unterstützt. Der Fokus der Seminare liegt hierbei insbesondere auf folgenden Schwerpunkten: • Lernreise KI für Führungskräfte (Modularer Aufbau/ Virtuell / In Summe 1 Tag) • Lernreise KI Copilot Chat Grundkurs für Mitarbeitende (Modularer Aufbau/ Virtuell / In Summe 1 Tag) • Lernreise KI Copilot mit Lizenz Grundkurs für Mitarbeitende (Modularer Aufbau / Virtuell / In Summe 1 Tag) • Aufbaumodul Copilot mit Lizenz für Führungskräfte und Mitarbeitende, die unterjährig eine Lizenz bekommen haben (Virtuell / halbtägig) • Promptathon (Präsenz in Langen / halbtägig bis max. 1 Tag) / Die Seminare sollen die Kommunikations-, Team-, Moderations- und Präsentationskompetenzen der Mitarbeitenden stärken und sie befähigen, in unterschiedlichen beruflichen Situationen souverän, überzeugend und zielgruppengerecht zu agieren. Die Maßnahmen sollen insbesondere die Schwerpunkte Kommunikation, Teamarbeit, überzeugendes Auftreten, Moderation von Workshops sowie wirkungsvolle Präsentation umfassen. Ein hoher Praxisbezug mit Übungen, Simulationen, Reflexion und individuellem Feedback zur nachhaltigen Anwendung im DFS-Arbeitsalltag soll sichergestellt werden. Der Fokus der Seminare liegt hierbei insbesondere auf folgenden Schwerpunkten: • Schlüsselfaktoren erfolgreicher Kommunikation (Präsenz / 2 Tage) • Teamfähigkeit und Teamarbeit (Präsenz / 2 Tage) • Überzeugend Auftreten und Wirken (Präsenz / 2 Tage) • Moderation von Workshops (Präsenz / 2 Tage) • Wirkungsvoll Präsentieren (Präsenz / 2 Tage) / Ziel der Trainings ist es, Mitarbeitende dabei zu unterstützen, ihre persönlichen Ressourcen gezielt einzusetzen, Belastungen gesund zu bewältigen und ihre Arbeitsweise nachhaltig zu optimieren. Die angebotenen Maßnahmen sollen praxisnah aufzeigen, wie Resilienz gestärkt, Belastungen frühzeitig erkannt und wirksame Strategien zur Stressbewältigung im Arbeitsalltag angewendet werden können. Gleichzeitig sollen die Teilnehmenden befähigt werden, ihre Zeit und Aufgaben gezielt zu priorisieren, ihre Arbeitsorganisation zu optimieren und so ihre persönliche Leistungsfähigkeit nachhaltig zu fördern. Die Trainings sollen konkrete Werkzeuge und Methoden vermitteln, die unmittelbar im Arbeitsalltag eingesetzt werden können und einen nachhaltigen Transfer in die Praxis ermöglichen. Der Fokus der Seminare liegt hierbei insbesondere auf folgenden Schwerpunkten: • Resilienz & Stressmanagement (Präsenz / 2 Tag) • Zeitmanagement und Selbsteffizienz (Präsenz / 2 Tage) Für das Los 3 kommt außerdem die Begleitung/ Moderation der \"Erfahrungskreise\" hinzu Bei den \"Erfahrungskreisen\" geht es um die Reflexion der eigenen Entwicklung der Mitarbeiterinnen und Mitarbeiter der DFS nach dem Training. Der Erfahrungskreis ist eine moderierte Austauschplattform (Präsenz oder virtuell) für die Trainingsteilnehmenden, bei dem diese sich unter Verwendung verschiedener Methoden zu Fragen oder Erfahrungswerten austauschen können. Dabei können konkrete Fragestellungen aus dem eigenen Arbeitsalltag oder DFS-aktuelle Themen bearbeitet werden. / Die DFS setzt auf moderne digitale Arbeitsweisen und eine effiziente standortübergreifende Zusammenarbeit. Die Trainings dieses Loses sollen Mitarbeitende dabei unterstützen, die vorhandenen Werkzeuge sicher, effizient und zielgerichtet einzusetzen. Die Maßnahmen umfassen sowohl Grundlagen- als auch Vertiefungstrainings zu den eingesetzten Microsoft-Anwendungen. Neben der Vermittlung fachlicher Kenntnisse wird besonderer Wert auf praxisnahe Anwendungsfälle aus dem Arbeitsalltag gelegt. Zu den inhaltlichen Schwerpunkten zählen unter anderem die Analyse und Aufbereitung von Daten in Excel, die professionelle Erstellung von Präsentationen mit PowerPoint, die Nutzung moderner Kollaborationswerkzeuge wie Microsoft Teams, OneNote und Whiteboard sowie die effiziente Anwendung der Microsoft-365-Umgebung zur Unterstützung von Kommunikation, Wissensmanagement und Zusammenarbeit. Der Fokus der Seminare liegt hierbei insbesondere auf folgenden Schwerpunkten: • Excel Anfänger (Virtuell / 1 Tag) • Excel Fortgeschrittene (Virtuell / 1 Tag) • Office 365 (Virtuell / 4 Stunden bis max. 1 Tag) • PowerPoint (Virtuell / 4 Stunden) • Microsoft Teams, OneNote & Whiteboard (Virtuell / 1 Tag) / Mit der Lernreise „Female Empowerment“ setzt die DFS ein sichtbares Zeichen für die nachhaltige Förderung von Mitarbeiterinnen und unterstreicht den Anspruch, weibliche Talente gezielt auf ihrem beruflichen und persönlichen Weg zu begleiten. Die Lernreise soll Frauen dabei unterstützen, ihre Stärken gezielt einzusetzen, ihre Sichtbarkeit und Einflussnahme zu erhöhen sowie ihre Karriere selbstbewusst, authentisch und erfolgreich zu gestalten. Gleichzeitig sollen Räume für Vernetzung, gegenseitige Unterstützung und gemeinsames Lernen geschaffen werden. Die Teilnehmerinnen sollen ihre persönliche Wirkung stärken, Sicherheit im Umgang mit anspruchsvollen beruflichen Situationen gewinnen und befähigt werden, Verantwortung zu übernehmen, Veränderungen aktiv mitzugestalten und Impulse für die Weiterentwicklung der DFS zu setzen. Die Lernreise soll inspirierende Lernerfahrungen mit einem hohen Praxisbezug verbinden, neue Perspektiven eröffnen und die Teilnehmerinnen darin bestärken, ihre individuellen Entwicklungs- und Karriereziele konsequent zu verfolgen. Im Mittelpunkt stehen insbesondere die Themen Selbstführung, persönliche Wirksamkeit, Kommunikation, Einflussnahme, strategisches Netzwerken, Stakeholdermanagement, Resilienz, Sichtbarkeit, professionelle Positionierung sowie Karriere- und Laufbahnentwicklung. Ergänzend sind innovative Lern- und Austauschformate gewünscht, die die Vernetzung stärken, bereichsübergreifende Lerngemeinschaften fördern und einen nachhaltigen Erfahrungsaustausch ermöglichen. Die Maßnahme ist als hochwertiges, langfristig angelegtes Entwicklungsprogramm mit einer Laufzeit von bis zu zwei Jahren auszugestalten. Die Maßnahme ist als hochwertiges und langfristig angelegtes Entwicklungsprogramm mit einer Laufzeit von bis zu zwei Jahren auszugestalten. (Laufzeit max. 2 Jahre / max. 6-8 Seminartage im Kalenderjahr / Präsenz in Langen)",
+      "cpv": "79632000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-08-14",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/565844-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Microsoft Office",
+        "Office 365",
+        "Excel",
+        "PowerPoint"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true,
+      "score_raw": 65,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "actionable",
+      "gating_reason": ""
+    },
+    {
       "id": "508856-2026",
       "ref": "508856-2026",
       "acheteur": "Banque de France",
@@ -281,6 +321,43 @@
       "notes": "",
       "auto": true,
       "score_raw": 63,
+      "cpv_class": "core",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "actionable",
+      "gating_reason": ""
+    },
+    {
+      "id": "564901-2026",
+      "ref": "564901-2026",
+      "acheteur": "Tours Métropole Habitat",
+      "objet": "France – Services de certification – Désignation d'un commissaire aux comptes en vue de la certification des comptes de Tours Métropole Habitat",
+      "description": "Désignation d'un commissaire aux comptes pour Tours Métropole Habitat, Office Public de l'Habitat de 15 599 logements, premier bailleur social de la Métropole Tourangelle. Mission légale de commissariat aux comptes comprenant la certification des comptes annuels et l'ensemble des diligences et vérifications prévues par les dispositions du Code de commerce et la réglementation applicable aux Offices Publics de l'Habitat, pour les exercices 2026 à 2031 inclus, jusqu'à l'approbation des comptes 2031",
+      "cpv": "79132000",
+      "pays": "FRA",
+      "deadline": "2026-09-18",
+      "montant": 0,
+      "publication": "2026-08-14",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/564901-2026",
+      "segment": "Collectivités",
+      "keyword_hits": [
+        "certification services"
+      ],
+      "bureautique": false,
+      "score": 62,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true,
+      "score_raw": 62,
       "cpv_class": "core",
       "bigrams_matched": [],
       "stop_hits": [],
@@ -444,43 +521,6 @@
       "gating_reason": ""
     },
     {
-      "id": "505526-2026",
-      "ref": "505526-2026",
-      "acheteur": "FIT FORMATION",
-      "objet": "France – Services de formation – Réalisation d'actions de formation en Français Langue Étrangère (FLE)",
-      "description": "AURILLAC - FLE VIE QUOTIDIENNE / ACCÈS AU DROIT COMMUN&amp;lt;br/&amp;gt; / AURILLAC - FLE ALPHA / POST-ALPHA&amp;lt;br/&amp;gt; / AURILLAC - PRÉPARATION CERTIFICATION A2/B1&amp;lt;br/&amp;gt; / LE PUY-EN-VELAY - FLE VIE QUOTIDIENNE&amp;lt;br/&amp;gt; / LE PUY-EN-VELAY - FLE ALPHA / POST-ALPHA&amp;lt;br/&amp;gt;",
-      "cpv": "80500000",
-      "pays": "FRA",
-      "deadline": "2026-08-28",
-      "montant": 195,
-      "publication": "2026-07-22",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/505526-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "certification services"
-      ],
-      "bureautique": false,
-      "score": 60,
-      "score_detail": {
-        "fit": 25,
-        "size": 10,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 1
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true,
-      "score_raw": 60,
-      "cpv_class": "core",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "actionable",
-      "gating_reason": ""
-    },
-    {
       "id": "488319-2026",
       "ref": "488319-2026",
       "acheteur": "RTE Réseau de Transport d'Electricité",
@@ -515,6 +555,43 @@
       "bigrams_matched": [],
       "stop_hits": [],
       "quality_flag": "actionable",
+      "gating_reason": ""
+    },
+    {
+      "id": "505526-2026",
+      "ref": "505526-2026",
+      "acheteur": "FIT FORMATION",
+      "objet": "France – Services de formation – Réalisation d'actions de formation en Français Langue Étrangère (FLE)",
+      "description": "AURILLAC - FLE VIE QUOTIDIENNE / ACCÈS AU DROIT COMMUN&amp;lt;br/&amp;gt; / AURILLAC - FLE ALPHA / POST-ALPHA&amp;lt;br/&amp;gt; / AURILLAC - PRÉPARATION CERTIFICATION A2/B1&amp;lt;br/&amp;gt; / LE PUY-EN-VELAY - FLE VIE QUOTIDIENNE&amp;lt;br/&amp;gt; / LE PUY-EN-VELAY - FLE ALPHA / POST-ALPHA&amp;lt;br/&amp;gt;",
+      "cpv": "80500000",
+      "pays": "FRA",
+      "deadline": "2026-08-28",
+      "montant": 195,
+      "publication": "2026-07-22",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/505526-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "certification services"
+      ],
+      "bureautique": false,
+      "score": 59,
+      "score_detail": {
+        "fit": 25,
+        "size": 10,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true,
+      "score_raw": 59,
+      "cpv_class": "core",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
       "gating_reason": ""
     },
     {

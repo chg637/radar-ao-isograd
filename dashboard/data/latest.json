@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-14T07:29:30.410Z",
+  "generated_at": "2026-08-15T06:40:57.815Z",
   "source": "MERGE",
   "schema_version": 2,
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 1723,
-      "matched": 32,
+      "fetched": 1669,
+      "matched": 29,
       "go": 0,
-      "generated_at": "2026-08-14T07:16:47.127Z"
+      "generated_at": "2026-08-15T06:28:07.779Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 4600,
+      "fetched": 4523,
       "matched": 9,
       "go": 1,
-      "generated_at": "2026-08-14T07:29:29.800Z"
+      "generated_at": "2026-08-15T06:40:57.187Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-08-14T07:29:30.289Z"
+      "generated_at": "2026-08-15T06:40:57.689Z"
     }
   },
-  "total_fetched": 6323,
-  "total_matched": 39,
+  "total_fetched": 6192,
+  "total_matched": 36,
   "total_go": 1,
   "total_dedup_collisions": 2,
   "dedup_breakdown": {
@@ -39,9 +39,9 @@
     "human_verdicts_collected_4w": 0,
     "false_positives_human_verdict_4w": 0,
     "filtered_cpv_blacklist": 2,
-    "filtered_stopword": 6,
-    "capped_no_context": 12,
-    "displayed_in_radar": 13
+    "filtered_stopword": 5,
+    "capped_no_context": 11,
+    "displayed_in_radar": 12
   },
   "notices": [
     {
@@ -128,54 +128,6 @@
       "gating_reason": ""
     },
     {
-      "id": "26-79755",
-      "ref": "26-79755",
-      "acheteur": "OPCO ATLAS",
-      "objet": "Marché d'assistance à maîtrise d'ouvrage (AMO) sur le champ de la certification professionnelle - Accompagnement à la sécurisation des processus qualité des certifications de branche",
-      "description": "Marché d'assistance à maîtrise d'ouvrage (AMO) sur le champ de la certification professionnelle - Accompagnement à la sécurisation des processus qualité des certifications de branche",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-09-14",
-      "montant": 0,
-      "publication": "2026-08-12",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-79755",
-      "_boamp": {
-        "famille": "Marchés européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Assistance à maîtrise d'ouvrage"
-        ],
-        "departement": "75"
-      },
-      "segment": "Formation pro",
-      "keyword_hits": [
-        "certification professionnelle"
-      ],
-      "score": 67,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true,
-      "score_raw": 67,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "actionable",
-      "gating_reason": "",
-      "_also_seen_in": [
-        "TED"
-      ]
-    },
-    {
       "id": "499139-2026",
       "ref": "499139-2026",
       "acheteur": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
@@ -251,6 +203,54 @@
       "stop_hits": [],
       "quality_flag": "actionable",
       "gating_reason": ""
+    },
+    {
+      "id": "26-79755",
+      "ref": "26-79755",
+      "acheteur": "OPCO ATLAS",
+      "objet": "Marché d'assistance à maîtrise d'ouvrage (AMO) sur le champ de la certification professionnelle - Accompagnement à la sécurisation des processus qualité des certifications de branche",
+      "description": "Marché d'assistance à maîtrise d'ouvrage (AMO) sur le champ de la certification professionnelle - Accompagnement à la sécurisation des processus qualité des certifications de branche",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-09-14",
+      "montant": 0,
+      "publication": "2026-08-12",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-79755",
+      "_boamp": {
+        "famille": "Marchés européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Assistance à maîtrise d'ouvrage"
+        ],
+        "departement": "75"
+      },
+      "segment": "Formation pro",
+      "keyword_hits": [
+        "certification professionnelle"
+      ],
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true,
+      "score_raw": 65,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "actionable",
+      "gating_reason": "",
+      "_also_seen_in": [
+        "TED"
+      ]
     },
     {
       "id": "508856-2026",
@@ -365,51 +365,6 @@
       "gating_reason": ""
     },
     {
-      "id": "26-79132",
-      "ref": "26-79132",
-      "acheteur": "MULHOUSE ALSACE AGGLOMERATION",
-      "objet": "Marché d'insertion et de qualification professionnelle ayant comme prestation support des prestations de service des repas pour les périscolaires et autres établissements de m2A",
-      "description": "Marché d'insertion et de qualification professionnelle ayant comme prestation support des prestations de service des repas pour les périscolaires et autres établissements de m2A",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-09-14",
-      "montant": 0,
-      "publication": "2026-08-09",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-79132",
-      "_boamp": {
-        "famille": "Marchés européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure NC",
-        "descripteurs": [
-          "Prestations de services"
-        ],
-        "departement": "68"
-      },
-      "segment": "Autre",
-      "keyword_hits": [
-        "qualification professionnelle"
-      ],
-      "score": 62,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true,
-      "score_raw": 62,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "actionable",
-      "gating_reason": ""
-    },
-    {
       "id": "521289-2026",
       "ref": "521289-2026",
       "acheteur": "CAP HOLDING SPA",
@@ -447,36 +402,44 @@
       "gating_reason": ""
     },
     {
-      "id": "505460-2026",
-      "ref": "505460-2026",
-      "acheteur": "CAISSE CENTRALE MSA",
-      "objet": "France – Maintenance de logiciels de technologies de l'information – PRESTATION DE TIERCE MAINTENANCE APPLICATIVE (TMA) DES PROJETS DE LA MOS PREVENTION DE LA CCMSA",
-      "description": "Lot 1 : Socle applicatif EM Prévention et dispositifs associés (entretiens motivationnels, bilans de prévention, parcours utilisateurs) / LOT 2 – Outil WebReport et solutions d’évaluation des actions de prévention « Bien vieillir » / LOT 3 - Dispositifs institutionnels complémentaires et applications connexes de prévention",
-      "cpv": "72267100",
+      "id": "26-79132",
+      "ref": "26-79132",
+      "acheteur": "MULHOUSE ALSACE AGGLOMERATION",
+      "objet": "Marché d'insertion et de qualification professionnelle ayant comme prestation support des prestations de service des repas pour les périscolaires et autres établissements de m2A",
+      "description": "Marché d'insertion et de qualification professionnelle ayant comme prestation support des prestations de service des repas pour les périscolaires et autres établissements de m2A",
+      "cpv": "",
       "pays": "FRA",
       "deadline": "2026-09-14",
       "montant": 0,
-      "publication": "2026-07-22",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/505460-2026",
+      "publication": "2026-08-09",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-79132",
+      "_boamp": {
+        "famille": "Marchés européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure NC",
+        "descripteurs": [
+          "Prestations de services"
+        ],
+        "departement": "68"
+      },
       "segment": "Autre",
       "keyword_hits": [
-        "outil d'évaluation"
+        "qualification professionnelle"
       ],
-      "bureautique": false,
-      "score": 62,
+      "score": 60,
       "score_detail": {
         "fit": 25,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 3
       },
       "score_status": "cond",
       "notes": "",
       "auto": true,
-      "score_raw": 62,
+      "score_raw": 60,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
@@ -521,21 +484,21 @@
       "gating_reason": ""
     },
     {
-      "id": "488319-2026",
-      "ref": "488319-2026",
-      "acheteur": "RTE Réseau de Transport d'Electricité",
-      "objet": "France – Services de formation spécialisée – Evaluation certification SF6",
-      "description": "prestation d'évaluation certification SF6",
-      "cpv": "80510000",
+      "id": "505460-2026",
+      "ref": "505460-2026",
+      "acheteur": "CAISSE CENTRALE MSA",
+      "objet": "France – Maintenance de logiciels de technologies de l'information – PRESTATION DE TIERCE MAINTENANCE APPLICATIVE (TMA) DES PROJETS DE LA MOS PREVENTION DE LA CCMSA",
+      "description": "Lot 1 : Socle applicatif EM Prévention et dispositifs associés (entretiens motivationnels, bilans de prévention, parcours utilisateurs) / LOT 2 – Outil WebReport et solutions d’évaluation des actions de prévention « Bien vieillir » / LOT 3 - Dispositifs institutionnels complémentaires et applications connexes de prévention",
+      "cpv": "72267100",
       "pays": "FRA",
-      "deadline": "",
+      "deadline": "2026-09-14",
       "montant": 0,
-      "publication": "2026-07-15",
+      "publication": "2026-07-22",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/488319-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/505460-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "certification services"
+        "outil d'évaluation"
       ],
       "bureautique": false,
       "score": 60,
@@ -551,7 +514,7 @@
       "notes": "",
       "auto": true,
       "score_raw": 60,
-      "cpv_class": "core",
+      "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
       "quality_flag": "actionable",
@@ -895,12 +858,12 @@
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 3
+        "delay": 1
       },
       "score_status": "no",
       "notes": "",
       "auto": true,
-      "score_raw": 60,
+      "score_raw": 58,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
@@ -969,12 +932,12 @@
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 3
       },
       "score_status": "no",
       "notes": "",
       "auto": true,
-      "score_raw": 62,
+      "score_raw": 60,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
@@ -1213,43 +1176,6 @@
       "notes": "",
       "auto": true,
       "score_raw": 65,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "noise",
-      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
-    },
-    {
-      "id": "487797-2026",
-      "ref": "487797-2026",
-      "acheteur": "Ville d'Échirolles",
-      "objet": "France – Services de formation en matière de sécurité – FORMATION DE PREVENTION HYGIENE, SANTE ET SECURITE AU TRAVAIL DU PERSONNEL DE LA COMMUNE D'ECHIROLLES",
-      "description": "Conduite d'engins de chantier et de levage / Autorisation d'intervention à proximité des réseaux (AIPR)&amp;lt;br/&amp;gt; / Habilitations Electriques&amp;lt;br/&amp;gt; / Travail en hauteur&amp;lt;br/&amp;gt; / Secourisme et sécurité routière&amp;lt;br/&amp;gt; / Incendie et évacuation&amp;lt;br/&amp;gt; / Gestes et postures&amp;lt;br/&amp;gt; / Permis&amp;lt;br/&amp;gt; / Certificat d'Aptitude au Travail en Espaces Confinés (CATEC)&amp;lt;br/&amp;gt; / ATmosphère EXplosive (ATEX)&amp;lt;br/&amp;gt; / Grimpeur-se Sauveteur-se dans l'Arbre (GSA) / Certiphyto&amp;lt;br/&amp;gt; / Amiante sous section 4&amp;lt;br/&amp;gt; / Certibiocide&amp;lt;br/&amp;gt;",
-      "cpv": "80330000",
-      "pays": "FRA",
-      "deadline": "2026-09-01",
-      "montant": 992,
-      "publication": "2026-07-15",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/487797-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "bureautique": false,
-      "score": 35,
-      "score_detail": {
-        "fit": 25,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 1
-      },
-      "score_status": "no",
-      "notes": "",
-      "auto": true,
-      "score_raw": 63,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
@@ -1544,46 +1470,6 @@
       "stop_hits": [],
       "quality_flag": "noise",
       "gating_reason": "CPV blacklist (71000000)"
-    },
-    {
-      "id": "489729-2026",
-      "ref": "489729-2026",
-      "acheteur": "Coallia",
-      "objet": "France – Services relatifs aux logiciels – Outil de gestion de planning des professionnels des ESMS de Coallia",
-      "description": "Mise à disposition d'une solution logicielle de gestion de planning des professionnels des établissements et services médico-sociaux de Coallia, capable de s'interfacer avec le logiciel de paie ADP, ainsi que l'ensemble des prestations associées à son déploiement, son intégration, son paramétrage, sa maintenance, son évolution et son support utilisateur. Le marché est à prix global et forfaitaire (périmètre DPGF), certaines prestations optionnelles (formations complémentaires, évolutions fonctionnelles, reprise de données) étant exécutées sur bons de commande. La solution devra être référencée Ségur du numérique en santé (vague 1) ; le candidat devra justifier d'une certification ISO 27001 et, en cas d'hébergement externalisé, d'une certification HDS.",
-      "cpv": "72260000",
-      "pays": "FRA",
-      "deadline": "2026-09-15",
-      "montant": 390,
-      "publication": "2026-07-15",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/489729-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "certification services"
-      ],
-      "bureautique": false,
-      "score": 0,
-      "score_detail": {
-        "fit": 25,
-        "size": 13,
-        "tech": 14,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "filtered",
-      "notes": "",
-      "auto": true,
-      "score_raw": 69,
-      "cpv_class": "secondary",
-      "bigrams_matched": [],
-      "stop_hits": [
-        "ISO 27001",
-        "paie"
-      ],
-      "quality_flag": "noise",
-      "gating_reason": "stop-word : ISO 27001, paie"
     }
   ]
 }

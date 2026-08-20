@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-19T06:46:08.438Z",
+  "generated_at": "2026-08-20T06:48:09.307Z",
   "source": "MERGE",
   "schema_version": 2,
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 1692,
-      "matched": 30,
+      "fetched": 1500,
+      "matched": 26,
       "go": 0,
-      "generated_at": "2026-08-19T06:34:43.946Z"
+      "generated_at": "2026-08-20T06:36:36.587Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 4094,
+      "fetched": 4185,
       "matched": 9,
       "go": 0,
-      "generated_at": "2026-08-19T06:46:07.753Z"
+      "generated_at": "2026-08-20T06:48:08.828Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-08-19T06:46:08.308Z"
+      "generated_at": "2026-08-20T06:48:09.169Z"
     }
   },
-  "total_fetched": 5786,
-  "total_matched": 34,
+  "total_fetched": 5685,
+  "total_matched": 32,
   "total_go": 0,
-  "total_dedup_collisions": 5,
+  "total_dedup_collisions": 3,
   "dedup_breakdown": {
     "by_id": 0,
-    "fuzzy_signature": 5,
+    "fuzzy_signature": 3,
     "fuzzy_jaccard": 0
   },
   "metrics": {
@@ -40,8 +40,8 @@
     "false_positives_human_verdict_4w": 0,
     "filtered_cpv_blacklist": 1,
     "filtered_stopword": 5,
-    "capped_no_context": 14,
-    "displayed_in_radar": 10
+    "capped_no_context": 12,
+    "displayed_in_radar": 9
   },
   "notices": [
     {
@@ -75,43 +75,6 @@
       "notes": "",
       "auto": true,
       "score_raw": 68,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "actionable",
-      "gating_reason": ""
-    },
-    {
-      "id": "499139-2026",
-      "ref": "499139-2026",
-      "acheteur": "Junta de Gobierno del Ayuntamiento de Alcalá de Henares",
-      "objet": "Espagne – Logiciels et systèmes d'information – Contrato mixto del suministro de licencias office 365 y servicio de securización del correo 365 para el Ayuntamiento de Alcalá de Henares",
-      "description": "conforme a lo establecido en el Pliego de Prescripciones Técnicas",
-      "cpv": "48000000",
-      "pays": "ESP",
-      "deadline": "",
-      "montant": 146,
-      "publication": "2026-07-20",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/499139-2026",
-      "segment": "État",
-      "keyword_hits": [
-        "Office 365"
-      ],
-      "bureautique": true,
-      "score": 67,
-      "score_detail": {
-        "fit": 30,
-        "size": 10,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true,
-      "score_raw": 67,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
@@ -549,44 +512,6 @@
       "gating_reason": ""
     },
     {
-      "id": "499681-2026",
-      "ref": "499681-2026",
-      "acheteur": "Université Toulouse Jean Jaurès",
-      "objet": "France – Services de formation du personnel – Formation du personnel",
-      "description": "Cet accord-cadre vise à renforcer la maîtrise des outils numériques dans un contexte professionnel en constante évolution afin d’améliorer l’efficacité, la collaboration et la sécurité dans les usages professionnels. Cet accord-cadre vise également à sensibiliser les agents aux enjeux liés à l’intelligence artificielle. / Cet accord-cadre vise à sensibiliser les agents aux enjeux sociaux et environnementaux, à favoriser des pratiques professionnelles durables, responsables et respectueuses de chacun. Les formations devront favoriser la mise en œuvre d’actions concrètes au sein des services, avec des indicateurs de progression environnementale et sociale. / Cet accord-cadre a pour objectif de renforcer les compétences individuelles et collectives en matière de communication, de gestion de soi et de coopération, afin de renforcer la qualité des relations de travail et de favoriser un climat professionnel serein et constructif. / Cet accord-cadre a pour objectif d’accompagner les personnels exerçants ou appelés à exercer des fonctions d’encadrement dans le développement de leurs compétences managériales, de conduite d’équipe et de gestion de projet, afin de favoriser une organisation efficace et collaborative des activités. / Cet accord-cadre a pour objectif de garantir la santé et la sécurité des agents en développant leurs compétences en prévention des risques professionnels et en promotion du bien-être au travail. / Cet accord-cadre a pour objectif de développer les compétences linguistiques des agents dans des contextes professionnels variés. Les formations incluront un positionnement initial et final permettant d’évaluer la progression linguistique. / Cet accord-cadre a pour objectif de renforcer les compétences des agents dans la relation avec les usagers, en consolidant leurs pratiques d’accueil, de communication et de gestion des situations sensibles. / Cet accord-cadre a pour objectif d’accompagner les agents dans leur évolution et leur mobilité professionnelles, en leur apportant les outils nécessaires à la réussite des concours, à la valorisation de leur parcours et à une meilleure compréhension de leur environnement administratif. Ces actions s’inscrivent dans la politique de valorisation des parcours professionnels et d’accompagnement à la mobilité interne et inter-fonctions publiques.",
-      "cpv": "80511000",
-      "pays": "FRA",
-      "deadline": "",
-      "montant": 400,
-      "publication": "2026-07-20",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/499681-2026",
-      "segment": "ESR",
-      "keyword_hits": [
-        "compétences numériques",
-        "gestion des concours"
-      ],
-      "bureautique": false,
-      "score": 50,
-      "score_detail": {
-        "fit": 10,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "no",
-      "notes": "",
-      "auto": true,
-      "score_raw": 50,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "noise",
-      "gating_reason": ""
-    },
-    {
       "id": "26-79761",
       "ref": "26-79761",
       "acheteur": "Hospices Civils de Lyon",
@@ -704,43 +629,6 @@
       "stop_hits": [],
       "quality_flag": "noise",
       "gating_reason": ""
-    },
-    {
-      "id": "571060-2026",
-      "ref": "571060-2026",
-      "acheteur": "Coallia",
-      "objet": "France – Services de maintenance et de réparation de logiciels – Gestion des identités et des habilitations (IAM)",
-      "description": "Mise en place d'une solution modulaire de gestion des identités et des accès (IAM), intégrant en priorité un module IGA (Identity Governance and Administration) ainsi qu'un module PAM (Privileged Access Management). La solution doit permettre à Coallia de disposer d'un socle IAM complet, avec une première mise en oeuvre centrée sur l'IGA et l'implémentation d'un premier niveau de fonctionnalités PAM standards pour la gestion, la sécurisation et la traçabilité des accès à privilèges. Les prestations comprennent la fourniture de la solution, son intégration et son paramétrage, le déploiement des connecteurs avec les systèmes cibles (ADP, Microsoft Active Directory et Entra ID, Efficia/GLPI, Microsoft Fabric, applications métiers), les tests et la recette, le déploiement, la formation et la conduite du changement, ainsi que le support utilisateur et la maintenance. Périmètre indicatif : environ 5 200 identités internes et 200 identités externes, entre 30 et 40 applications à interconnecter, entre 100 et 1 000 utilisateurs de la solution.",
-      "cpv": "72267000",
-      "pays": "FRA",
-      "deadline": "2026-09-10",
-      "montant": 0,
-      "publication": "2026-08-18",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/571060-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "bureautique": false,
-      "score": 35,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "no",
-      "notes": "",
-      "auto": true,
-      "score_raw": 60,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "noise",
-      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
     },
     {
       "id": "568163-2026",
@@ -886,12 +774,12 @@
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 1
+        "delay": 0
       },
       "score_status": "no",
       "notes": "",
       "auto": true,
-      "score_raw": 58,
+      "score_raw": 57,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
@@ -1067,6 +955,43 @@
       "publication": "2026-07-28",
       "source": "TED",
       "url": "https://ted.europa.eu/fr/notice/-/detail/520542-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "habilitation"
+      ],
+      "bureautique": false,
+      "score": 35,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true,
+      "score_raw": 60,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
+      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
+    },
+    {
+      "id": "520847-2026",
+      "ref": "520847-2026",
+      "acheteur": "Coallia",
+      "objet": "France – Services de maintenance et de réparation de logiciels – Gestion des identités et des habilitations (IAM)",
+      "description": "Mise en place d'une solution modulaire de gestion des identités et des accès (IAM), intégrant en priorité un module IGA (Identity Governance and Administration) ainsi qu'un module PAM (Privileged Access Management). La solution doit permettre à Coallia de disposer d'un socle IAM complet, avec une première mise en oeuvre centrée sur l'IGA et l'implémentation d'un premier niveau de fonctionnalités PAM standards pour la gestion, la sécurisation et la traçabilité des accès à privilèges. Les prestations comprennent la fourniture de la solution, son intégration et son paramétrage, le déploiement des connecteurs avec les systèmes cibles (ADP, Microsoft Active Directory et Entra ID, Efficia/GLPI, Microsoft Fabric, applications métiers), les tests et la recette, le déploiement, la formation et la conduite du changement, ainsi que le support utilisateur et la maintenance. Périmètre indicatif : environ 5 200 identités internes et 100 identités externes, entre 30 et 40 applications à interconnecter, entre 100 et 1 000 utilisateurs de la solution.",
+      "cpv": "72267000",
+      "pays": "FRA",
+      "deadline": "2026-09-10",
+      "montant": 0,
+      "publication": "2026-07-28",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/520847-2026",
       "segment": "Autre",
       "keyword_hits": [
         "habilitation"

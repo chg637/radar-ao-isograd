@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-22T06:41:46.226Z",
+  "generated_at": "2026-08-23T06:42:21.622Z",
   "source": "MERGE",
   "schema_version": 2,
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 1575,
-      "matched": 25,
+      "fetched": 1507,
+      "matched": 24,
       "go": 1,
-      "generated_at": "2026-08-22T06:30:17.144Z"
+      "generated_at": "2026-08-23T06:31:31.429Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 4015,
+      "fetched": 3813,
       "matched": 9,
       "go": 0,
-      "generated_at": "2026-08-22T06:41:45.565Z"
+      "generated_at": "2026-08-23T06:42:21.257Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-08-22T06:41:46.099Z"
+      "generated_at": "2026-08-23T06:42:21.529Z"
     }
   },
-  "total_fetched": 5590,
-  "total_matched": 30,
+  "total_fetched": 5320,
+  "total_matched": 29,
   "total_go": 1,
   "total_dedup_collisions": 4,
   "dedup_breakdown": {
@@ -41,7 +41,7 @@
     "filtered_cpv_blacklist": 1,
     "filtered_stopword": 5,
     "capped_no_context": 13,
-    "displayed_in_radar": 9
+    "displayed_in_radar": 8
   },
   "notices": [
     {
@@ -243,44 +243,6 @@
       "_also_seen_in": [
         "TED"
       ]
-    },
-    {
-      "id": "508856-2026",
-      "ref": "508856-2026",
-      "acheteur": "Banque de France",
-      "objet": "France – Services de programmation et de conseil en logiciels – PRESTATION DE SUPPORT MAINTENANCE SERVEURS ET LOGICIELS",
-      "description": "Le marché régi par le présent Cahier des Clauses Administratives (CCA) a pour objet une « PRESTATION DE SUPPORT MAINTENANCE DES SERVEURS ET LOGICIELS » pour l’Imprimerie de la Banque de France (Direction de la Fabrication de Billets) et Europafi, ci-après désignés comme « le Pouvoir adjudicateur ». Le marché fait l’objet d’une exécution conjointe par les différents Pouvoirs Adjudicateurs. La Banque de France est coordonnatrice du groupement. Le présent marché porte sur la maintenance et le support des serveurs et équipements associés avec processeurs Power et des logiciels systèmes AIX. La perte de la certification IBM (transmission obligatoire au pouvoir adjudicateur d’une attestation de certification à fournir à chaque renouvellement de celle-ci) est une cause de résiliation du contrat pour faute du titulaire. Le TITULAIRE ne fait pas usage de dispositif de prise de main à distance ou de télémaintenance et n’impose pas au pouvoir adjudicateur, la mise en place d’un quelconque dispositif logiciel et/ou matériel.",
-      "cpv": "72200000",
-      "pays": "FRA",
-      "deadline": "",
-      "montant": 260,
-      "publication": "2026-07-23",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/508856-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "renouvellement de certification",
-        "certification services"
-      ],
-      "bureautique": false,
-      "score": 65,
-      "score_detail": {
-        "fit": 25,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true,
-      "score_raw": 65,
-      "cpv_class": "secondary",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "actionable",
-      "gating_reason": ""
     },
     {
       "id": "521289-2026",

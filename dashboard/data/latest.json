@@ -1,87 +1,49 @@
 {
-  "generated_at": "2026-08-23T06:42:21.622Z",
+  "generated_at": "2026-08-24T06:54:57.025Z",
   "source": "MERGE",
   "schema_version": 2,
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 1507,
-      "matched": 24,
-      "go": 1,
-      "generated_at": "2026-08-23T06:31:31.429Z"
+      "fetched": 1100,
+      "matched": 19,
+      "go": 0,
+      "generated_at": "2026-08-24T06:44:32.925Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 3813,
+      "fetched": 3693,
       "matched": 9,
       "go": 0,
-      "generated_at": "2026-08-23T06:42:21.257Z"
+      "generated_at": "2026-08-24T06:54:56.410Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-08-23T06:42:21.529Z"
+      "generated_at": "2026-08-24T06:54:56.901Z"
     }
   },
-  "total_fetched": 5320,
-  "total_matched": 29,
-  "total_go": 1,
-  "total_dedup_collisions": 4,
+  "total_fetched": 4793,
+  "total_matched": 25,
+  "total_go": 0,
+  "total_dedup_collisions": 3,
   "dedup_breakdown": {
     "by_id": 0,
-    "fuzzy_signature": 4,
+    "fuzzy_signature": 3,
     "fuzzy_jaccard": 0
   },
   "metrics": {
     "precision_4w": null,
     "human_verdicts_collected_4w": 0,
     "false_positives_human_verdict_4w": 0,
-    "filtered_cpv_blacklist": 1,
+    "filtered_cpv_blacklist": 0,
     "filtered_stopword": 5,
-    "capped_no_context": 13,
-    "displayed_in_radar": 8
+    "capped_no_context": 11,
+    "displayed_in_radar": 6
   },
   "notices": [
-    {
-      "id": "576686-2026",
-      "ref": "576686-2026",
-      "acheteur": "Inria - Service achats marchés",
-      "objet": "France – Services de formation du personnel – Prestations relatives à la mise en place d’un dispositif d’accompagnement des parcours professionnels",
-      "description": "Lot 1.1 « Bilan de parcours professionnel » – Région Sud Est (Centres de Côtes d’azur, de Grenoble et de Lyon) / Lot 1.2 « Bilan de parcours professionnel » – Région Sud-Ouest (Centre de Bordeaux) / Lot 1.3 « Bilan de parcours professionnel » – Région Nord/Nord-Est (Centres de Lille et de Lorraine) / Lot 1.4 « Bilan de parcours professionnel » – Région Ouest (Centre de Rennes) / Lot 1.5 « Bilan de parcours professionnel » – Région Ile-de-France (Centres de Saclay, Paris et le Siège) / Lot 2.1 « Bilan de compétences » –Région Sud Est (Centres de Côtes d’azur, de Grenoble et de Lyon) / Lot 2.2 « Bilan de compétences » – Région Sud-Ouest (Centre de Bordeaux) / Lot 2.3 « Bilan de compétences » – Région Nord/Nord-Est (Centres de Lille et de Lorraine) / Lot 2.4 « Bilan de compétences » – Région Ouest (Centre de Rennes) / Lot 2.5 « Bilan de compétences » – Région Ile-de-France (Centres de Saclay, Paris et le Siège)",
-      "cpv": "80511000",
-      "pays": "FRA",
-      "deadline": "2026-09-30",
-      "montant": 450,
-      "publication": "2026-08-20",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/576686-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "bilan de compétences",
-        "bilan professionnel"
-      ],
-      "bureautique": false,
-      "score": 82,
-      "score_detail": {
-        "fit": 40,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "go",
-      "notes": "",
-      "auto": true,
-      "score_raw": 82,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "actionable",
-      "gating_reason": ""
-    },
     {
       "id": "545950-2026",
       "ref": "545950-2026",
@@ -114,43 +76,6 @@
       "auto": true,
       "score_raw": 67,
       "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "actionable",
-      "gating_reason": ""
-    },
-    {
-      "id": "580141-2026",
-      "ref": "580141-2026",
-      "acheteur": "Deutsche Gesetzliche Unfallversicherung e.V.",
-      "objet": "Allemagne – Services de programmation et de conseil en logiciels – Open Text",
-      "description": "Die im AG Umfeld eingesetzte ECM Software - xECM (Content Server) 24.1 der Firma O-penText unterliegt ständigen Anpassungen und funktionalen Erweiterung und muss regelmä-ßig gewartet und aktualisiert werden. Der AG setzt im Kollaborationsteil des Content Ma-nagement vermehrt auf Funktionen und Software aus M365 im Cloudbetrieb. Die beiden Sys-teme sollen zukünftig über die OpenText Office 365-Integration miteinander verbunden wer-den. Die Beratungs- und Unterstützungsleistungen umfassen",
-      "cpv": "72200000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-08-21",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/580141-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Office 365"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true,
-      "score_raw": 65,
-      "cpv_class": "secondary",
       "bigrams_matched": [],
       "stop_hits": [],
       "quality_flag": "actionable",
@@ -381,19 +306,19 @@
         "certification services"
       ],
       "bureautique": false,
-      "score": 58,
+      "score": 57,
       "score_detail": {
         "fit": 25,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 1
+        "delay": 0
       },
       "score_status": "cond",
       "notes": "",
       "auto": true,
-      "score_raw": 58,
+      "score_raw": 57,
       "cpv_class": "core",
       "bigrams_matched": [],
       "stop_hits": [],
@@ -426,19 +351,19 @@
       "keyword_hits": [
         "centre d'examens"
       ],
-      "score": 48,
+      "score": 47,
       "score_detail": {
         "fit": 15,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 1
+        "delay": 0
       },
       "score_status": "no",
       "notes": "",
       "auto": true,
-      "score_raw": 48,
+      "score_raw": 47,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
@@ -500,98 +425,24 @@
         "test center"
       ],
       "bureautique": false,
-      "score": 43,
+      "score": 42,
       "score_detail": {
         "fit": 10,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 1
+        "delay": 0
       },
       "score_status": "no",
       "notes": "",
       "auto": true,
-      "score_raw": 43,
+      "score_raw": 42,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
       "quality_flag": "noise",
       "gating_reason": ""
-    },
-    {
-      "id": "571060-2026",
-      "ref": "571060-2026",
-      "acheteur": "Coallia",
-      "objet": "France – Services de maintenance et de réparation de logiciels – Gestion des identités et des habilitations (IAM)",
-      "description": "Mise en place d'une solution modulaire de gestion des identités et des accès (IAM), intégrant en priorité un module IGA (Identity Governance and Administration) ainsi qu'un module PAM (Privileged Access Management). La solution doit permettre à Coallia de disposer d'un socle IAM complet, avec une première mise en oeuvre centrée sur l'IGA et l'implémentation d'un premier niveau de fonctionnalités PAM standards pour la gestion, la sécurisation et la traçabilité des accès à privilèges. Les prestations comprennent la fourniture de la solution, son intégration et son paramétrage, le déploiement des connecteurs avec les systèmes cibles (ADP, Microsoft Active Directory et Entra ID, Efficia/GLPI, Microsoft Fabric, applications métiers), les tests et la recette, le déploiement, la formation et la conduite du changement, ainsi que le support utilisateur et la maintenance. Périmètre indicatif : environ 5 200 identités internes et 200 identités externes, entre 30 et 40 applications à interconnecter, entre 100 et 1 000 utilisateurs de la solution.",
-      "cpv": "72267000",
-      "pays": "FRA",
-      "deadline": "2026-09-10",
-      "montant": 0,
-      "publication": "2026-08-18",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/571060-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "bureautique": false,
-      "score": 35,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 1
-      },
-      "score_status": "no",
-      "notes": "",
-      "auto": true,
-      "score_raw": 58,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "noise",
-      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
-    },
-    {
-      "id": "568163-2026",
-      "ref": "568163-2026",
-      "acheteur": "Investitionsbank Schleswig-Holstein",
-      "objet": "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Bereitstellung, Implementierung und Betrieb eines Systems zur Unterstützung von Governance-, Risk- und Compliance-Management-Prozessen GRC-Tool als SaaS-Lösung",
-      "description": "Gegenstand der Ausschreibung ist die Bereitstellung, Implementierung und der Betrieb eines webbasierten Systems (Software-as-a-Service, SaaS) zur Unterstützung und Steuerung von Governance-, Risiko- und Compliance-Prozessen der Auftraggeberin. Das System soll insbesondere die GRC-Funktionen in den Bereichen Zentrales Auslagerungsmanagement (ZAM), Business Continuity Management (BCM), Informationssicherheitsmanagement (ISM) sowie im Kontext der Risiko-Steuerung im Bereich Non-Financial Risk (NFR) unterstützen und eine konsistente sowie nachvollziehbare Bearbeitung dieser Funktionen ermöglichen. Die Implementierung umfasst die fachliche und technische Einführung des Systems in die bestehende Systemlandschaft der Auftraggeberin. Hierzu gehört die Einbindung bestehender Systeme und Datenquellen sowie die Einrichtung und Abstimmung der erforderlichen Datenströme. Dies beinhaltet insbesondere die Definition von Datenmodellen, Schnittstellenformaten sowie die Festlegung von Integrationsmechanismen (z. B. API-basierte Anbindung oder auch strukturierte Datenimporte), einschließlich der Abstimmung von Datenfrequenzen, Verantwortlichkeiten und Fehlerbehandlungsprozessen. Die Datenbereitstellung erfolgt derzeit in wesentlichen Teilen über strukturierte Datenimporte (z. B. Datei-Upload). Gleichzeitig muss das System grundsätzlich auch die Möglichkeit zur Anbindung über standardisierte API-basierte Schnittstellen bieten. Dies gilt insbesondere für Systeme zur Verwaltung von Prozessen und IKT-Systemen sowie für Systeme zur Verwaltung von IKT-Assets und Konfigurationsdaten. Auch für Systeme, die derzeit noch nicht schnittstellenfähig sind, ist perspektivisch eine Integration vorzusehen. Für die technische Integration sind gängige Standards (z. B. REST-basierte Schnittstellen unter Nutzung von HTTPS) zu unterstützen; die Verarbeitung strukturierter Datenimporte (z. B. CSV, Excel) muss validiert, nachvollziehbar protokolliert und wiederholbar ausführbar sein. Dabei ist insbesondere eine priorisierte, bidirektionale Integration der CMDB ServiceNow vorgesehen, während weitere Systeme initial über eine manuelle Datenbereitstellung (Upload/Download) angebunden werden sollen. Das angebotene GRC-System muss bestehende datenhaltende Systeme der Auftraggeberin als Datenquellen anbinden und deren Informationen im GRC-Kontext nutzbar machen können. Eine Ablösung dieser Systeme darf für die Nutzung des GRC-Systems nicht erforderlich sein. Das GRC-System soll hierbei als zentrale Steuerungs- und Auswertungsplattform für GRC-relevante Informationen agieren. Weiterhin muss das System in der Lage sein, Beziehungen zwischen unterschiedlichen Datenobjekten (z. B. IKT-Assets, Prozesse, Risiken, Dienstleister) systemseitig abzubilden und für Auswertungen, Analysen sowie regulatorische Nachweise nutzbar zu machen. In den folgenden Abschnitten sind die Anforderungen zusammenfassend beschrieben. Eine vollumfängliche und detaillierte Auflistung aller Anforderungen findet sich im Lastenheft.",
-      "cpv": "72000000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-08-17",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/568163-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Excel"
-      ],
-      "bureautique": true,
-      "score": 35,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "no",
-      "notes": "",
-      "auto": true,
-      "score_raw": 65,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "noise",
-      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
     },
     {
       "id": "554266-2026",
@@ -906,6 +757,43 @@
       "gating_reason": "keyword solo ambigu sans bigramme contextuel"
     },
     {
+      "id": "520847-2026",
+      "ref": "520847-2026",
+      "acheteur": "Coallia",
+      "objet": "France – Services de maintenance et de réparation de logiciels – Gestion des identités et des habilitations (IAM)",
+      "description": "Mise en place d'une solution modulaire de gestion des identités et des accès (IAM), intégrant en priorité un module IGA (Identity Governance and Administration) ainsi qu'un module PAM (Privileged Access Management). La solution doit permettre à Coallia de disposer d'un socle IAM complet, avec une première mise en oeuvre centrée sur l'IGA et l'implémentation d'un premier niveau de fonctionnalités PAM standards pour la gestion, la sécurisation et la traçabilité des accès à privilèges. Les prestations comprennent la fourniture de la solution, son intégration et son paramétrage, le déploiement des connecteurs avec les systèmes cibles (ADP, Microsoft Active Directory et Entra ID, Efficia/GLPI, Microsoft Fabric, applications métiers), les tests et la recette, le déploiement, la formation et la conduite du changement, ainsi que le support utilisateur et la maintenance. Périmètre indicatif : environ 5 200 identités internes et 100 identités externes, entre 30 et 40 applications à interconnecter, entre 100 et 1 000 utilisateurs de la solution.",
+      "cpv": "72267000",
+      "pays": "FRA",
+      "deadline": "2026-09-10",
+      "montant": 0,
+      "publication": "2026-07-28",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/520847-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "habilitation"
+      ],
+      "bureautique": false,
+      "score": 35,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 1
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true,
+      "score_raw": 58,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
+      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
+    },
+    {
       "id": "26-74673",
       "ref": "26-74673",
       "acheteur": "Coallia",
@@ -1164,43 +1052,6 @@
       ],
       "quality_flag": "noise",
       "gating_reason": "stop-word : ISO 9001, ISO 14001"
-    },
-    {
-      "id": "513591-2026",
-      "ref": "513591-2026",
-      "acheteur": "CSTB",
-      "objet": "France – Services d'inspection technique – Réalisation d’audits de certification en France et à l’étranger pour les besoins de la Direction Baies et Vitrages (DBV) du CSTB",
-      "description": "La présente consultation porte sur des missions d’audits en France et à l’étranger qui s’intègrent dans le cadre de l’activité de certification du CSTB. Dans le cadre de son activité de certification, le CSTB recherche des prestataires pour réaliser des missions d’audits pour son compte, afin de valider le fonctionnement des contrôles du demandeur/titulaire de la marque de certification et la conformité des produits conformément aux référentiels de certification.",
-      "cpv": "71631000",
-      "pays": "FRA",
-      "deadline": "",
-      "montant": 2500,
-      "publication": "2026-07-24",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/513591-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "certification services"
-      ],
-      "bureautique": false,
-      "score": 0,
-      "score_detail": {
-        "fit": 25,
-        "size": 15,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "filtered",
-      "notes": "",
-      "auto": true,
-      "score_raw": 67,
-      "cpv_class": "blacklist",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "noise",
-      "gating_reason": "CPV blacklist (71631000)"
     }
   ]
 }

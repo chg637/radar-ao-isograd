@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-25T06:47:22.282Z",
+  "generated_at": "2026-08-26T06:48:34.001Z",
   "source": "MERGE",
   "schema_version": 2,
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 1512,
-      "matched": 26,
+      "fetched": 1595,
+      "matched": 27,
       "go": 1,
-      "generated_at": "2026-08-25T06:36:43.518Z"
+      "generated_at": "2026-08-26T06:38:16.273Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 3716,
+      "fetched": 3642,
       "matched": 10,
       "go": 0,
-      "generated_at": "2026-08-25T06:47:21.721Z"
+      "generated_at": "2026-08-26T06:48:33.226Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-08-25T06:47:22.159Z"
+      "generated_at": "2026-08-26T06:48:33.874Z"
     }
   },
-  "total_fetched": 5228,
-  "total_matched": 32,
+  "total_fetched": 5237,
+  "total_matched": 33,
   "total_go": 1,
   "total_dedup_collisions": 4,
   "dedup_breakdown": {
@@ -40,8 +40,8 @@
     "false_positives_human_verdict_4w": 0,
     "filtered_cpv_blacklist": 1,
     "filtered_stopword": 6,
-    "capped_no_context": 13,
-    "displayed_in_radar": 9
+    "capped_no_context": 14,
+    "displayed_in_radar": 8
   },
   "notices": [
     {
@@ -83,44 +83,6 @@
       "gating_reason": ""
     },
     {
-      "id": "584794-2026",
-      "ref": "584794-2026",
-      "acheteur": "COBAS",
-      "objet": "France – Services de formation – FORMATIONS PROFESSIONNELLES A DESTINATION DES AGENTS DE LA COLLECTIVITÉ",
-      "description": "FORMATIONS AIPR &amp;lt;br/&amp;gt; / FORMATIONS PERMIS CODE FIMO FCO&amp;lt;br/&amp;gt; / FORMATIONS INCENDIE ET EVACUATION &amp;lt;br/&amp;gt; / FORMATIONS HABILITATIONS ELECTRIQUE &amp;lt;br/&amp;gt; / FORMATIONS AMIANTE&amp;lt;br/&amp;gt; / FORMATIONS CACES&amp;lt;br/&amp;gt; / FORMATIONS ACES &amp;lt;br/&amp;gt; / FORMATIONS SSIAP&amp;lt;br/&amp;gt;",
-      "cpv": "80500000",
-      "pays": "FRA",
-      "deadline": "2026-09-25",
-      "montant": 460,
-      "publication": "2026-08-25",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/584794-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "habilitation",
-        "habilitations professionnelles"
-      ],
-      "bureautique": false,
-      "score": 67,
-      "score_detail": {
-        "fit": 25,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true,
-      "score_raw": 67,
-      "cpv_class": "core",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "actionable",
-      "gating_reason": ""
-    },
-    {
       "id": "545950-2026",
       "ref": "545950-2026",
       "acheteur": "Servicio Cántabro de Salud",
@@ -152,6 +114,44 @@
       "auto": true,
       "score_raw": 67,
       "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "actionable",
+      "gating_reason": ""
+    },
+    {
+      "id": "584794-2026",
+      "ref": "584794-2026",
+      "acheteur": "COBAS",
+      "objet": "France – Services de formation – FORMATIONS PROFESSIONNELLES A DESTINATION DES AGENTS DE LA COLLECTIVITÉ",
+      "description": "FORMATIONS AIPR &amp;lt;br/&amp;gt; / FORMATIONS PERMIS CODE FIMO FCO&amp;lt;br/&amp;gt; / FORMATIONS INCENDIE ET EVACUATION &amp;lt;br/&amp;gt; / FORMATIONS HABILITATIONS ELECTRIQUE &amp;lt;br/&amp;gt; / FORMATIONS AMIANTE&amp;lt;br/&amp;gt; / FORMATIONS CACES&amp;lt;br/&amp;gt; / FORMATIONS ACES &amp;lt;br/&amp;gt; / FORMATIONS SSIAP&amp;lt;br/&amp;gt;",
+      "cpv": "80500000",
+      "pays": "FRA",
+      "deadline": "2026-09-25",
+      "montant": 460,
+      "publication": "2026-08-25",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/584794-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "habilitation",
+        "habilitations professionnelles"
+      ],
+      "bureautique": false,
+      "score": 65,
+      "score_detail": {
+        "fit": 25,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true,
+      "score_raw": 65,
+      "cpv_class": "core",
       "bigrams_matched": [],
       "stop_hits": [],
       "quality_flag": "actionable",
@@ -260,19 +260,19 @@
       "keyword_hits": [
         "certification professionnelle"
       ],
-      "score": 65,
+      "score": 63,
       "score_detail": {
         "fit": 30,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 3
+        "delay": 1
       },
       "score_status": "cond",
       "notes": "",
       "auto": true,
-      "score_raw": 65,
+      "score_raw": 63,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
@@ -382,23 +382,23 @@
       "keyword_hits": [
         "qualification professionnelle"
       ],
-      "score": 60,
+      "score": 58,
       "score_detail": {
         "fit": 25,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 3
+        "delay": 1
       },
       "score_status": "cond",
       "notes": "",
       "auto": true,
-      "score_raw": 60,
+      "score_raw": 58,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
-      "quality_flag": "actionable",
+      "quality_flag": "noise",
       "gating_reason": ""
     },
     {
@@ -593,6 +593,43 @@
       "stop_hits": [],
       "quality_flag": "noise",
       "gating_reason": ""
+    },
+    {
+      "id": "589346-2026",
+      "ref": "589346-2026",
+      "acheteur": "Ville d'Arles",
+      "objet": "France – Services de formation dans le domaine de la sécurité – PRESTATIONS DE FORMATIONS OBLIGATOIRES DE SÉCURITÉ (6 LOTS)",
+      "description": "Formations à la conduite d'engins, CACES et AIPR. Pour plus de détails, se reporter au CCTP (art. 1 : Description des prestations de chaque lot) / Formations habilitations électriques (Éclairage public B2T-TST-BT &amp;amp; Outillage). Pour plus de détails, se reporter au CCTP (art. 1 : Description des prestations de chaque lot) / Formations habilitations électriques (B0/BS/H0/BE, H0V-HTA, B1V-B2V-BS-BR-BC). Pour plus de détails, se reporter au CCTP (art. 1 : Description des prestations de chaque lot) / Formations Risques spécifiques (hauteur, outils manuels et motorisés, amiante). Pour plus de détails, se reporter au CCTP (art. 1 : Description des prestations de chaque lot) / Formations Secourisme &amp;amp; Sécurité (SST, SSIAP1, Gestes et postures, Gestes qui sauvent). Pour plus de détails, se reporter au CCTP (art. 1 : Description des prestations de chaque lot) / Formations Conduites de véhicule et transports de marchandises (Permis, FCO, FIMO, Code). Pour plus de détails, se reporter au CCTP (art. 1 : Description des prestations de chaque lot)",
+      "cpv": "80550000",
+      "pays": "FRA",
+      "deadline": "2026-09-28",
+      "montant": 800,
+      "publication": "2026-08-26",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/589346-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "habilitation"
+      ],
+      "bureautique": false,
+      "score": 35,
+      "score_detail": {
+        "fit": 25,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true,
+      "score_raw": 67,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
+      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
     },
     {
       "id": "571060-2026",
@@ -849,12 +886,12 @@
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 3
+        "delay": 1
       },
       "score_status": "no",
       "notes": "",
       "auto": true,
-      "score_raw": 60,
+      "score_raw": 58,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],

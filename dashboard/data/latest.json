@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-08-26T06:48:34.001Z",
+  "generated_at": "2026-08-27T17:24:37.411Z",
   "source": "MERGE",
   "schema_version": 2,
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 1595,
+      "fetched": 1579,
       "matched": 27,
       "go": 1,
-      "generated_at": "2026-08-26T06:38:16.273Z"
+      "generated_at": "2026-08-27T17:14:05.522Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 3642,
+      "fetched": 3781,
       "matched": 10,
       "go": 0,
-      "generated_at": "2026-08-26T06:48:33.226Z"
+      "generated_at": "2026-08-27T17:24:36.763Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-08-26T06:48:33.874Z"
+      "generated_at": "2026-08-27T17:24:37.307Z"
     }
   },
-  "total_fetched": 5237,
+  "total_fetched": 5360,
   "total_matched": 33,
   "total_go": 1,
   "total_dedup_collisions": 4,
@@ -656,12 +656,12 @@
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 1
+        "delay": 0
       },
       "score_status": "no",
       "notes": "",
       "auto": true,
-      "score_raw": 58,
+      "score_raw": 57,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
@@ -1050,12 +1050,12 @@
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 1
+        "delay": 0
       },
       "score_status": "no",
       "notes": "",
       "auto": true,
-      "score_raw": 58,
+      "score_raw": 57,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
@@ -1260,12 +1260,12 @@
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 1
+        "delay": 0
       },
       "score_status": "filtered",
       "notes": "",
       "auto": true,
-      "score_raw": 63,
+      "score_raw": 62,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [
@@ -1307,12 +1307,12 @@
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 1
+        "delay": 0
       },
       "score_status": "filtered",
       "notes": "",
       "auto": true,
-      "score_raw": 43,
+      "score_raw": 42,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [

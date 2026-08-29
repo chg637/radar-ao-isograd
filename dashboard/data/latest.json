@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-28T18:17:02.881Z",
+  "generated_at": "2026-08-29T12:18:59.109Z",
   "source": "MERGE",
   "schema_version": 2,
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 1556,
-      "matched": 24,
+      "fetched": 1492,
+      "matched": 23,
       "go": 1,
-      "generated_at": "2026-08-28T18:06:37.349Z"
+      "generated_at": "2026-08-29T12:09:10.682Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 3790,
+      "fetched": 3576,
       "matched": 9,
       "go": 0,
-      "generated_at": "2026-08-28T18:17:02.321Z"
+      "generated_at": "2026-08-29T12:18:58.686Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-08-28T18:17:02.743Z"
+      "generated_at": "2026-08-29T12:18:58.977Z"
     }
   },
-  "total_fetched": 5346,
-  "total_matched": 31,
+  "total_fetched": 5068,
+  "total_matched": 30,
   "total_go": 1,
   "total_dedup_collisions": 2,
   "dedup_breakdown": {
@@ -40,8 +40,8 @@
     "false_positives_human_verdict_4w": 0,
     "filtered_cpv_blacklist": 1,
     "filtered_stopword": 6,
-    "capped_no_context": 11,
-    "displayed_in_radar": 7
+    "capped_no_context": 10,
+    "displayed_in_radar": 6
   },
   "notices": [
     {
@@ -300,23 +300,23 @@
         "certification services"
       ],
       "bureautique": false,
-      "score": 60,
+      "score": 58,
       "score_detail": {
         "fit": 25,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 3
+        "delay": 1
       },
       "score_status": "cond",
       "notes": "",
       "auto": true,
-      "score_raw": 60,
+      "score_raw": 58,
       "cpv_class": "core",
       "bigrams_matched": [],
       "stop_hits": [],
-      "quality_flag": "actionable",
+      "quality_flag": "noise",
       "gating_reason": ""
     },
     {
@@ -501,19 +501,19 @@
         "plateforme de tests"
       ],
       "bureautique": false,
-      "score": 45,
+      "score": 43,
       "score_detail": {
         "fit": 10,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 3
+        "delay": 1
       },
       "score_status": "no",
       "notes": "",
       "auto": true,
-      "score_raw": 45,
+      "score_raw": 43,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
@@ -945,43 +945,6 @@
       "notes": "",
       "auto": true,
       "score_raw": 62,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "noise",
-      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
-    },
-    {
-      "id": "523290-2026",
-      "ref": "523290-2026",
-      "acheteur": "Stromnetz Berlin GmbH",
-      "objet": "Allemagne – Logiciels et systèmes d'information – Einführung einer SaaS-Lösung für das Lieferantenmanagement",
-      "description": "Der aktuelle IST-Zustand des Lieferantenmanagements ist geprägt von einer veralteten, technisch begrenzten Systemlandschaft, die den heutigen Anforderungen an Transparenz, Effizienz und Compliance nicht mehr entspricht. Das bestehende Lieferantenmanagement -Tool (VFM-Portal), das unternehmensintern entwickelte wurde, gilt sowohl funktional als auch technologisch als nicht mehr zeitgemäß. Es verfügt über keine ausreichende Prozessintegration, bietet nur eingeschränkte Benutzerfreundlichkeit und ist in seinem Betrieb zunehmend aufwendig. Zudem besteht keine umfassende und durchgängige SAP-Anbindung, wodurch viele Daten manuell gepflegt und aus verschiedenen Quellen wie Excel und Share Point Listen zusammengestellt werden müssen. Ein ganzheitliches, unternehmensweites Konzept für das Lieferantenmanagement, sowohl systemisch als auch prozessual, liegt derzeit nicht vor. Das neue Lieferantenmanagement-Tool verfolgt das Ziel, das unternehmensweite Lieferantenmanagement zu modernisieren, zu standardisieren und zukunftsfähig auszurichten. Im Mittelpunkt steht die durchgängige Abbildung des gesamten Lieferantenlebenszyklus – von der Registrierung über Qualifizierung, Bewertung und Entwicklung bis hin zur Steuerung und Beendigung von Lieferantenbeziehungen. Durch die Ablösung des bestehenden VFM-Portals sollen medienbruchfreie, systemgestützte Prozesse geschaffen werden, die eine höhere Datenqualität, reduzierte manuelle Aufwände und klar definierte Zuständigkeiten ermöglichen. Beim Vergabegegenstand handelt es sich um ein Lieferantenmanagement-Tool zum Verwalten von Lieferanten. Gegenstand der Ausschreibung ist die Einführung und Nutzung eines unternehmensweiten Lieferantenmanagement-Tools, mindestens in den Bereichen: Einkauf, IT, Arbeitssicherheit und den technischen Bereichen, dass die strukturierte Erfassung, Bewertung und Verwaltung von Lieferanten unterstützt. Der Vertrag hat eine Grundlaufzeit bis 31.12.2031 mit zwei Verlängerungsoptionen um jeweils zwei Jahre.",
-      "cpv": "48000000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-07-29",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/523290-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Excel"
-      ],
-      "bureautique": true,
-      "score": 35,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "no",
-      "notes": "",
-      "auto": true,
-      "score_raw": 65,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],

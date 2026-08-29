@@ -1,47 +1,15 @@
 {
-  "generated_at": "2026-08-29T12:18:59.109Z",
-  "source": "MERGE",
-  "schema_version": 2,
-  "sources_summary": {
-    "TED": {
-      "present": true,
-      "fetched": 1492,
-      "matched": 23,
-      "go": 1,
-      "generated_at": "2026-08-29T12:09:10.682Z"
-    },
-    "BOAMP": {
-      "present": true,
-      "fetched": 3576,
-      "matched": 9,
-      "go": 0,
-      "generated_at": "2026-08-29T12:18:58.686Z"
-    },
-    "Profil": {
-      "present": true,
-      "fetched": 0,
-      "matched": 0,
-      "go": 0,
-      "generated_at": "2026-08-29T12:18:58.977Z"
-    }
-  },
-  "total_fetched": 5068,
-  "total_matched": 30,
+  "generated_at": "2026-08-29T12:09:10.682Z",
+  "source": "TED",
+  "window_days": 30,
+  "total_fetched": 1492,
+  "total_available": 1492,
+  "total_matched": 23,
   "total_go": 1,
-  "total_dedup_collisions": 2,
-  "dedup_breakdown": {
-    "by_id": 0,
-    "fuzzy_signature": 2,
-    "fuzzy_jaccard": 0
-  },
-  "metrics": {
-    "precision_4w": null,
-    "human_verdicts_collected_4w": 0,
-    "false_positives_human_verdict_4w": 0,
-    "filtered_cpv_blacklist": 1,
-    "filtered_stopword": 6,
-    "capped_no_context": 10,
-    "displayed_in_radar": 6
+  "gating_stats": {
+    "capped_no_context": 7,
+    "filtered_stopword": 4,
+    "filtered_cpv_blacklist": 1
   },
   "notices": [
     {
@@ -120,28 +88,30 @@
       "gating_reason": ""
     },
     {
-      "id": "584794-2026",
-      "ref": "584794-2026",
-      "acheteur": "COBAS",
-      "objet": "France – Services de formation – FORMATIONS PROFESSIONNELLES A DESTINATION DES AGENTS DE LA COLLECTIVITÉ",
-      "description": "FORMATIONS AIPR &amp;lt;br/&amp;gt; / FORMATIONS PERMIS CODE FIMO FCO&amp;lt;br/&amp;gt; / FORMATIONS INCENDIE ET EVACUATION &amp;lt;br/&amp;gt; / FORMATIONS HABILITATIONS ELECTRIQUE &amp;lt;br/&amp;gt; / FORMATIONS AMIANTE&amp;lt;br/&amp;gt; / FORMATIONS CACES&amp;lt;br/&amp;gt; / FORMATIONS ACES &amp;lt;br/&amp;gt; / FORMATIONS SSIAP&amp;lt;br/&amp;gt;",
-      "cpv": "80500000",
-      "pays": "FRA",
-      "deadline": "2026-09-25",
-      "montant": 460,
-      "publication": "2026-08-25",
+      "id": "565844-2026",
+      "ref": "565844-2026",
+      "acheteur": "DFS Deutsche Flugsicherung GmbH",
+      "objet": "Allemagne – Services de formation de personnel – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+      "description": "Die DFS Deutsche Flugsicherung GmbH verfolgt das Ziel, einen strukturierten und unternehmensweiten Ansatz zum Aufbau von Kompetenzen im Bereich Künstliche Intelligenz (KI) zu etablieren. Mitarbeitende und Führungskräfte sollen im Sinne der KI-VO befähigt werden, KI-Anwendungen sicher, verantwortungsvoll und effizient im Arbeitsalltag einzusetzen sowie Potenziale für die Organisation systematisch zu erschließen. Hierzu soll ein mehrstufiges Befähigungskonzept umgesetzt werden, das unterschiedliche Zielgruppen und Kompetenzniveaus adressiert. Zentrale Bestandteile sollen modular aufgebaute Lernreisen für Mitarbeitende und Führungskräfte sein, die eine Kombination aus virtuellen Trainingsformaten, begleitetem Selbststudium sowie praxisnahen Übungen umfassen. Das Copilot Lizenz Kompakt Modul soll auf den Lernreisen für Mitarbeitenden und Führungskräften aufbauen. Inhaltlich sollen sowohl Grundlagen der Künstlichen Intelligenz als auch deren konkrete Anwendung im Arbeitskontext der DFS vermittelt werden. Schwerpunkte sollen insbesondere die Nutzung von Microsoft Copilot (Basic/Chat und Premium/mit Lizenz), praxisorientiertes Prompting und die Nutzung von Agenten, die Identifikation und Umsetzung von Anwendungsfällen sowie die Reflexion von Chancen, Grenzen und Risiken umfassen. Darüber hinaus sollen zielgruppenspezifische Formate vorgesehen werden: Für Mitarbeitende soll der Fokus auf der sicheren und effizienten Anwendung von KI im Tagesgeschäft liegen, während Formate für Führungskräfte insbesondere deren Rolle in der Steuerung, Förderung und kulturellen Verankerung von KI-Nutzung im eigenen Verantwortungsbereich adressieren sollen. Ein wesentliches Element der vorgesehenen Transferformate soll ein Erfahrungskreis „Prompting“ darstellen. Dabei soll es sich um ein strukturiertes Austauschformat handeln, in dem Mitarbeitende ihre Erfahrungen im Umgang mit generativer KI – insbesondere bei der Erstellung und Anwendung von Prompts – teilen und weiterentwickeln. Ziel soll es sein, Best Practices transparent zu machen, die Qualität der erzeugten Ergebnisse zu steigern und den nachhaltigen Transfer in den Arbeitsalltag zu unterstützen. Der Erfahrungskreis soll damit zur organisationsweiten Vernetzung sowie zur Etablierung einer lernorientierten, offenen Nutzungskultur im Umgang mit KI beitragen. Insgesamt soll der Ansatz auf einen breiten, praxisnahen Kompetenzaufbau ausgerichtet sein, der sowohl die individuelle Handlungssicherheit im Umgang mit KI stärkt als auch die strategische Weiterentwicklung und Effizienzsteigerung innerhalb der DFS unterstützt. Der Fokus der Seminare liegt hierbei insbesondere auf folgenden Schwerpunkten: • Lernreise KI für Führungskräfte (Modularer Aufbau/ Virtuell / In Summe 1 Tag) • Lernreise KI Copilot Chat Grundkurs für Mitarbeitende (Modularer Aufbau/ Virtuell / In Summe 1 Tag) • Lernreise KI Copilot mit Lizenz Grundkurs für Mitarbeitende (Modularer Aufbau / Virtuell / In Summe 1 Tag) • Aufbaumodul Copilot mit Lizenz für Führungskräfte und Mitarbeitende, die unterjährig eine Lizenz bekommen haben (Virtuell / halbtägig) • Promptathon (Präsenz in Langen / halbtägig bis max. 1 Tag) / Die Seminare sollen die Kommunikations-, Team-, Moderations- und Präsentationskompetenzen der Mitarbeitenden stärken und sie befähigen, in unterschiedlichen beruflichen Situationen souverän, überzeugend und zielgruppengerecht zu agieren. Die Maßnahmen sollen insbesondere die Schwerpunkte Kommunikation, Teamarbeit, überzeugendes Auftreten, Moderation von Workshops sowie wirkungsvolle Präsentation umfassen. Ein hoher Praxisbezug mit Übungen, Simulationen, Reflexion und individuellem Feedback zur nachhaltigen Anwendung im DFS-Arbeitsalltag soll sichergestellt werden. Der Fokus der Seminare liegt hierbei insbesondere auf folgenden Schwerpunkten: • Schlüsselfaktoren erfolgreicher Kommunikation (Präsenz / 2 Tage) • Teamfähigkeit und Teamarbeit (Präsenz / 2 Tage) • Überzeugend Auftreten und Wirken (Präsenz / 2 Tage) • Moderation von Workshops (Präsenz / 2 Tage) • Wirkungsvoll Präsentieren (Präsenz / 2 Tage) / Ziel der Trainings ist es, Mitarbeitende dabei zu unterstützen, ihre persönlichen Ressourcen gezielt einzusetzen, Belastungen gesund zu bewältigen und ihre Arbeitsweise nachhaltig zu optimieren. Die angebotenen Maßnahmen sollen praxisnah aufzeigen, wie Resilienz gestärkt, Belastungen frühzeitig erkannt und wirksame Strategien zur Stressbewältigung im Arbeitsalltag angewendet werden können. Gleichzeitig sollen die Teilnehmenden befähigt werden, ihre Zeit und Aufgaben gezielt zu priorisieren, ihre Arbeitsorganisation zu optimieren und so ihre persönliche Leistungsfähigkeit nachhaltig zu fördern. Die Trainings sollen konkrete Werkzeuge und Methoden vermitteln, die unmittelbar im Arbeitsalltag eingesetzt werden können und einen nachhaltigen Transfer in die Praxis ermöglichen. Der Fokus der Seminare liegt hierbei insbesondere auf folgenden Schwerpunkten: • Resilienz & Stressmanagement (Präsenz / 2 Tag) • Zeitmanagement und Selbsteffizienz (Präsenz / 2 Tage) Für das Los 3 kommt außerdem die Begleitung/ Moderation der \"Erfahrungskreise\" hinzu Bei den \"Erfahrungskreisen\" geht es um die Reflexion der eigenen Entwicklung der Mitarbeiterinnen und Mitarbeiter der DFS nach dem Training. Der Erfahrungskreis ist eine moderierte Austauschplattform (Präsenz oder virtuell) für die Trainingsteilnehmenden, bei dem diese sich unter Verwendung verschiedener Methoden zu Fragen oder Erfahrungswerten austauschen können. Dabei können konkrete Fragestellungen aus dem eigenen Arbeitsalltag oder DFS-aktuelle Themen bearbeitet werden. / Die DFS setzt auf moderne digitale Arbeitsweisen und eine effiziente standortübergreifende Zusammenarbeit. Die Trainings dieses Loses sollen Mitarbeitende dabei unterstützen, die vorhandenen Werkzeuge sicher, effizient und zielgerichtet einzusetzen. Die Maßnahmen umfassen sowohl Grundlagen- als auch Vertiefungstrainings zu den eingesetzten Microsoft-Anwendungen. Neben der Vermittlung fachlicher Kenntnisse wird besonderer Wert auf praxisnahe Anwendungsfälle aus dem Arbeitsalltag gelegt. Zu den inhaltlichen Schwerpunkten zählen unter anderem die Analyse und Aufbereitung von Daten in Excel, die professionelle Erstellung von Präsentationen mit PowerPoint, die Nutzung moderner Kollaborationswerkzeuge wie Microsoft Teams, OneNote und Whiteboard sowie die effiziente Anwendung der Microsoft-365-Umgebung zur Unterstützung von Kommunikation, Wissensmanagement und Zusammenarbeit. Der Fokus der Seminare liegt hierbei insbesondere auf folgenden Schwerpunkten: • Excel Anfänger (Virtuell / 1 Tag) • Excel Fortgeschrittene (Virtuell / 1 Tag) • Office 365 (Virtuell / 4 Stunden bis max. 1 Tag) • PowerPoint (Virtuell / 4 Stunden) • Microsoft Teams, OneNote & Whiteboard (Virtuell / 1 Tag) / Mit der Lernreise „Female Empowerment“ setzt die DFS ein sichtbares Zeichen für die nachhaltige Förderung von Mitarbeiterinnen und unterstreicht den Anspruch, weibliche Talente gezielt auf ihrem beruflichen und persönlichen Weg zu begleiten. Die Lernreise soll Frauen dabei unterstützen, ihre Stärken gezielt einzusetzen, ihre Sichtbarkeit und Einflussnahme zu erhöhen sowie ihre Karriere selbstbewusst, authentisch und erfolgreich zu gestalten. Gleichzeitig sollen Räume für Vernetzung, gegenseitige Unterstützung und gemeinsames Lernen geschaffen werden. Die Teilnehmerinnen sollen ihre persönliche Wirkung stärken, Sicherheit im Umgang mit anspruchsvollen beruflichen Situationen gewinnen und befähigt werden, Verantwortung zu übernehmen, Veränderungen aktiv mitzugestalten und Impulse für die Weiterentwicklung der DFS zu setzen. Die Lernreise soll inspirierende Lernerfahrungen mit einem hohen Praxisbezug verbinden, neue Perspektiven eröffnen und die Teilnehmerinnen darin bestärken, ihre individuellen Entwicklungs- und Karriereziele konsequent zu verfolgen. Im Mittelpunkt stehen insbesondere die Themen Selbstführung, persönliche Wirksamkeit, Kommunikation, Einflussnahme, strategisches Netzwerken, Stakeholdermanagement, Resilienz, Sichtbarkeit, professionelle Positionierung sowie Karriere- und Laufbahnentwicklung. Ergänzend sind innovative Lern- und Austauschformate gewünscht, die die Vernetzung stärken, bereichsübergreifende Lerngemeinschaften fördern und einen nachhaltigen Erfahrungsaustausch ermöglichen. Die Maßnahme ist als hochwertiges, langfristig angelegtes Entwicklungsprogramm mit einer Laufzeit von bis zu zwei Jahren auszugestalten. Die Maßnahme ist als hochwertiges und langfristig angelegtes Entwicklungsprogramm mit einer Laufzeit von bis zu zwei Jahren auszugestalten. (Laufzeit max. 2 Jahre / max. 6-8 Seminartage im Kalenderjahr / Präsenz in Langen)",
+      "cpv": "79632000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-08-14",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/584794-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/565844-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "habilitation",
-        "habilitations professionnelles"
+        "Microsoft Office",
+        "Office 365",
+        "Excel",
+        "PowerPoint"
       ],
-      "bureautique": false,
+      "bureautique": true,
       "score": 65,
       "score_detail": {
-        "fit": 25,
-        "size": 13,
+        "fit": 30,
+        "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -151,7 +121,7 @@
       "notes": "",
       "auto": true,
       "score_raw": 65,
-      "cpv_class": "core",
+      "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
       "quality_flag": "actionable",
@@ -195,30 +165,28 @@
       "gating_reason": ""
     },
     {
-      "id": "565844-2026",
-      "ref": "565844-2026",
-      "acheteur": "DFS Deutsche Flugsicherung GmbH",
-      "objet": "Allemagne – Services de formation de personnel – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
-      "description": "Die DFS Deutsche Flugsicherung GmbH verfolgt das Ziel, einen strukturierten und unternehmensweiten Ansatz zum Aufbau von Kompetenzen im Bereich Künstliche Intelligenz (KI) zu etablieren. Mitarbeitende und Führungskräfte sollen im Sinne der KI-VO befähigt werden, KI-Anwendungen sicher, verantwortungsvoll und effizient im Arbeitsalltag einzusetzen sowie Potenziale für die Organisation systematisch zu erschließen. Hierzu soll ein mehrstufiges Befähigungskonzept umgesetzt werden, das unterschiedliche Zielgruppen und Kompetenzniveaus adressiert. Zentrale Bestandteile sollen modular aufgebaute Lernreisen für Mitarbeitende und Führungskräfte sein, die eine Kombination aus virtuellen Trainingsformaten, begleitetem Selbststudium sowie praxisnahen Übungen umfassen. Das Copilot Lizenz Kompakt Modul soll auf den Lernreisen für Mitarbeitenden und Führungskräften aufbauen. Inhaltlich sollen sowohl Grundlagen der Künstlichen Intelligenz als auch deren konkrete Anwendung im Arbeitskontext der DFS vermittelt werden. Schwerpunkte sollen insbesondere die Nutzung von Microsoft Copilot (Basic/Chat und Premium/mit Lizenz), praxisorientiertes Prompting und die Nutzung von Agenten, die Identifikation und Umsetzung von Anwendungsfällen sowie die Reflexion von Chancen, Grenzen und Risiken umfassen. Darüber hinaus sollen zielgruppenspezifische Formate vorgesehen werden: Für Mitarbeitende soll der Fokus auf der sicheren und effizienten Anwendung von KI im Tagesgeschäft liegen, während Formate für Führungskräfte insbesondere deren Rolle in der Steuerung, Förderung und kulturellen Verankerung von KI-Nutzung im eigenen Verantwortungsbereich adressieren sollen. Ein wesentliches Element der vorgesehenen Transferformate soll ein Erfahrungskreis „Prompting“ darstellen. Dabei soll es sich um ein strukturiertes Austauschformat handeln, in dem Mitarbeitende ihre Erfahrungen im Umgang mit generativer KI – insbesondere bei der Erstellung und Anwendung von Prompts – teilen und weiterentwickeln. Ziel soll es sein, Best Practices transparent zu machen, die Qualität der erzeugten Ergebnisse zu steigern und den nachhaltigen Transfer in den Arbeitsalltag zu unterstützen. Der Erfahrungskreis soll damit zur organisationsweiten Vernetzung sowie zur Etablierung einer lernorientierten, offenen Nutzungskultur im Umgang mit KI beitragen. Insgesamt soll der Ansatz auf einen breiten, praxisnahen Kompetenzaufbau ausgerichtet sein, der sowohl die individuelle Handlungssicherheit im Umgang mit KI stärkt als auch die strategische Weiterentwicklung und Effizienzsteigerung innerhalb der DFS unterstützt. Der Fokus der Seminare liegt hierbei insbesondere auf folgenden Schwerpunkten: • Lernreise KI für Führungskräfte (Modularer Aufbau/ Virtuell / In Summe 1 Tag) • Lernreise KI Copilot Chat Grundkurs für Mitarbeitende (Modularer Aufbau/ Virtuell / In Summe 1 Tag) • Lernreise KI Copilot mit Lizenz Grundkurs für Mitarbeitende (Modularer Aufbau / Virtuell / In Summe 1 Tag) • Aufbaumodul Copilot mit Lizenz für Führungskräfte und Mitarbeitende, die unterjährig eine Lizenz bekommen haben (Virtuell / halbtägig) • Promptathon (Präsenz in Langen / halbtägig bis max. 1 Tag) / Die Seminare sollen die Kommunikations-, Team-, Moderations- und Präsentationskompetenzen der Mitarbeitenden stärken und sie befähigen, in unterschiedlichen beruflichen Situationen souverän, überzeugend und zielgruppengerecht zu agieren. Die Maßnahmen sollen insbesondere die Schwerpunkte Kommunikation, Teamarbeit, überzeugendes Auftreten, Moderation von Workshops sowie wirkungsvolle Präsentation umfassen. Ein hoher Praxisbezug mit Übungen, Simulationen, Reflexion und individuellem Feedback zur nachhaltigen Anwendung im DFS-Arbeitsalltag soll sichergestellt werden. Der Fokus der Seminare liegt hierbei insbesondere auf folgenden Schwerpunkten: • Schlüsselfaktoren erfolgreicher Kommunikation (Präsenz / 2 Tage) • Teamfähigkeit und Teamarbeit (Präsenz / 2 Tage) • Überzeugend Auftreten und Wirken (Präsenz / 2 Tage) • Moderation von Workshops (Präsenz / 2 Tage) • Wirkungsvoll Präsentieren (Präsenz / 2 Tage) / Ziel der Trainings ist es, Mitarbeitende dabei zu unterstützen, ihre persönlichen Ressourcen gezielt einzusetzen, Belastungen gesund zu bewältigen und ihre Arbeitsweise nachhaltig zu optimieren. Die angebotenen Maßnahmen sollen praxisnah aufzeigen, wie Resilienz gestärkt, Belastungen frühzeitig erkannt und wirksame Strategien zur Stressbewältigung im Arbeitsalltag angewendet werden können. Gleichzeitig sollen die Teilnehmenden befähigt werden, ihre Zeit und Aufgaben gezielt zu priorisieren, ihre Arbeitsorganisation zu optimieren und so ihre persönliche Leistungsfähigkeit nachhaltig zu fördern. Die Trainings sollen konkrete Werkzeuge und Methoden vermitteln, die unmittelbar im Arbeitsalltag eingesetzt werden können und einen nachhaltigen Transfer in die Praxis ermöglichen. Der Fokus der Seminare liegt hierbei insbesondere auf folgenden Schwerpunkten: • Resilienz & Stressmanagement (Präsenz / 2 Tag) • Zeitmanagement und Selbsteffizienz (Präsenz / 2 Tage) Für das Los 3 kommt außerdem die Begleitung/ Moderation der \"Erfahrungskreise\" hinzu Bei den \"Erfahrungskreisen\" geht es um die Reflexion der eigenen Entwicklung der Mitarbeiterinnen und Mitarbeiter der DFS nach dem Training. Der Erfahrungskreis ist eine moderierte Austauschplattform (Präsenz oder virtuell) für die Trainingsteilnehmenden, bei dem diese sich unter Verwendung verschiedener Methoden zu Fragen oder Erfahrungswerten austauschen können. Dabei können konkrete Fragestellungen aus dem eigenen Arbeitsalltag oder DFS-aktuelle Themen bearbeitet werden. / Die DFS setzt auf moderne digitale Arbeitsweisen und eine effiziente standortübergreifende Zusammenarbeit. Die Trainings dieses Loses sollen Mitarbeitende dabei unterstützen, die vorhandenen Werkzeuge sicher, effizient und zielgerichtet einzusetzen. Die Maßnahmen umfassen sowohl Grundlagen- als auch Vertiefungstrainings zu den eingesetzten Microsoft-Anwendungen. Neben der Vermittlung fachlicher Kenntnisse wird besonderer Wert auf praxisnahe Anwendungsfälle aus dem Arbeitsalltag gelegt. Zu den inhaltlichen Schwerpunkten zählen unter anderem die Analyse und Aufbereitung von Daten in Excel, die professionelle Erstellung von Präsentationen mit PowerPoint, die Nutzung moderner Kollaborationswerkzeuge wie Microsoft Teams, OneNote und Whiteboard sowie die effiziente Anwendung der Microsoft-365-Umgebung zur Unterstützung von Kommunikation, Wissensmanagement und Zusammenarbeit. Der Fokus der Seminare liegt hierbei insbesondere auf folgenden Schwerpunkten: • Excel Anfänger (Virtuell / 1 Tag) • Excel Fortgeschrittene (Virtuell / 1 Tag) • Office 365 (Virtuell / 4 Stunden bis max. 1 Tag) • PowerPoint (Virtuell / 4 Stunden) • Microsoft Teams, OneNote & Whiteboard (Virtuell / 1 Tag) / Mit der Lernreise „Female Empowerment“ setzt die DFS ein sichtbares Zeichen für die nachhaltige Förderung von Mitarbeiterinnen und unterstreicht den Anspruch, weibliche Talente gezielt auf ihrem beruflichen und persönlichen Weg zu begleiten. Die Lernreise soll Frauen dabei unterstützen, ihre Stärken gezielt einzusetzen, ihre Sichtbarkeit und Einflussnahme zu erhöhen sowie ihre Karriere selbstbewusst, authentisch und erfolgreich zu gestalten. Gleichzeitig sollen Räume für Vernetzung, gegenseitige Unterstützung und gemeinsames Lernen geschaffen werden. Die Teilnehmerinnen sollen ihre persönliche Wirkung stärken, Sicherheit im Umgang mit anspruchsvollen beruflichen Situationen gewinnen und befähigt werden, Verantwortung zu übernehmen, Veränderungen aktiv mitzugestalten und Impulse für die Weiterentwicklung der DFS zu setzen. Die Lernreise soll inspirierende Lernerfahrungen mit einem hohen Praxisbezug verbinden, neue Perspektiven eröffnen und die Teilnehmerinnen darin bestärken, ihre individuellen Entwicklungs- und Karriereziele konsequent zu verfolgen. Im Mittelpunkt stehen insbesondere die Themen Selbstführung, persönliche Wirksamkeit, Kommunikation, Einflussnahme, strategisches Netzwerken, Stakeholdermanagement, Resilienz, Sichtbarkeit, professionelle Positionierung sowie Karriere- und Laufbahnentwicklung. Ergänzend sind innovative Lern- und Austauschformate gewünscht, die die Vernetzung stärken, bereichsübergreifende Lerngemeinschaften fördern und einen nachhaltigen Erfahrungsaustausch ermöglichen. Die Maßnahme ist als hochwertiges, langfristig angelegtes Entwicklungsprogramm mit einer Laufzeit von bis zu zwei Jahren auszugestalten. Die Maßnahme ist als hochwertiges und langfristig angelegtes Entwicklungsprogramm mit einer Laufzeit von bis zu zwei Jahren auszugestalten. (Laufzeit max. 2 Jahre / max. 6-8 Seminartage im Kalenderjahr / Präsenz in Langen)",
-      "cpv": "79632000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-08-14",
+      "id": "584794-2026",
+      "ref": "584794-2026",
+      "acheteur": "COBAS",
+      "objet": "France – Services de formation – FORMATIONS PROFESSIONNELLES A DESTINATION DES AGENTS DE LA COLLECTIVITÉ",
+      "description": "FORMATIONS AIPR &amp;lt;br/&amp;gt; / FORMATIONS PERMIS CODE FIMO FCO&amp;lt;br/&amp;gt; / FORMATIONS INCENDIE ET EVACUATION &amp;lt;br/&amp;gt; / FORMATIONS HABILITATIONS ELECTRIQUE &amp;lt;br/&amp;gt; / FORMATIONS AMIANTE&amp;lt;br/&amp;gt; / FORMATIONS CACES&amp;lt;br/&amp;gt; / FORMATIONS ACES &amp;lt;br/&amp;gt; / FORMATIONS SSIAP&amp;lt;br/&amp;gt;",
+      "cpv": "80500000",
+      "pays": "FRA",
+      "deadline": "2026-09-25",
+      "montant": 460,
+      "publication": "2026-08-25",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/565844-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/584794-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "Microsoft Office",
-        "Office 365",
-        "Excel",
-        "PowerPoint"
+        "habilitation",
+        "habilitations professionnelles"
       ],
-      "bureautique": true,
+      "bureautique": false,
       "score": 65,
       "score_detail": {
-        "fit": 30,
-        "size": 8,
+        "fit": 25,
+        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -228,41 +196,34 @@
       "notes": "",
       "auto": true,
       "score_raw": 65,
-      "cpv_class": "unknown",
+      "cpv_class": "core",
       "bigrams_matched": [],
       "stop_hits": [],
       "quality_flag": "actionable",
       "gating_reason": ""
     },
     {
-      "id": "26-79755",
-      "ref": "26-79755",
+      "id": "559677-2026",
+      "ref": "559677-2026",
       "acheteur": "OPCO ATLAS",
-      "objet": "Marché d'assistance à maîtrise d'ouvrage (AMO) sur le champ de la certification professionnelle - Accompagnement à la sécurisation des processus qualité des certifications de branche",
+      "objet": "France – Services de certification – Marché d'assistance à maîtrise d'ouvrage (AMO) sur le champ de la certification professionnelle - Accompagnement à la sécurisation des processus qualité des certifications de branche",
       "description": "Marché d'assistance à maîtrise d'ouvrage (AMO) sur le champ de la certification professionnelle - Accompagnement à la sécurisation des processus qualité des certifications de branche",
-      "cpv": "",
+      "cpv": "79132000",
       "pays": "FRA",
       "deadline": "2026-09-14",
       "montant": 0,
       "publication": "2026-08-12",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-79755",
-      "_boamp": {
-        "famille": "Marchés européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Assistance à maîtrise d'ouvrage"
-        ],
-        "departement": "75"
-      },
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/559677-2026",
       "segment": "Formation pro",
       "keyword_hits": [
-        "certification professionnelle"
+        "certification professionnelle",
+        "certification services"
       ],
-      "score": 63,
+      "bureautique": false,
+      "score": 58,
       "score_detail": {
-        "fit": 30,
+        "fit": 25,
         "size": 8,
         "tech": 12,
         "com": 5,
@@ -272,15 +233,12 @@
       "score_status": "cond",
       "notes": "",
       "auto": true,
-      "score_raw": 63,
-      "cpv_class": "unknown",
+      "score_raw": 58,
+      "cpv_class": "core",
       "bigrams_matched": [],
       "stop_hits": [],
-      "quality_flag": "actionable",
-      "gating_reason": "",
-      "_also_seen_in": [
-        "TED"
-      ]
+      "quality_flag": "noise",
+      "gating_reason": ""
     },
     {
       "id": "564901-2026",
@@ -320,51 +278,6 @@
       "gating_reason": ""
     },
     {
-      "id": "26-79132",
-      "ref": "26-79132",
-      "acheteur": "MULHOUSE ALSACE AGGLOMERATION",
-      "objet": "Marché d'insertion et de qualification professionnelle ayant comme prestation support des prestations de service des repas pour les périscolaires et autres établissements de m2A",
-      "description": "Marché d'insertion et de qualification professionnelle ayant comme prestation support des prestations de service des repas pour les périscolaires et autres établissements de m2A",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-09-14",
-      "montant": 0,
-      "publication": "2026-08-09",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-79132",
-      "_boamp": {
-        "famille": "Marchés européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure NC",
-        "descripteurs": [
-          "Prestations de services"
-        ],
-        "departement": "68"
-      },
-      "segment": "Autre",
-      "keyword_hits": [
-        "qualification professionnelle"
-      ],
-      "score": 58,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 1
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true,
-      "score_raw": 58,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "noise",
-      "gating_reason": ""
-    },
-    {
       "id": "542095-2026",
       "ref": "542095-2026",
       "acheteur": "CHAMBRE DE COMMERCE ET D'INDUSTRIE DE REGION HAUTS-DE-FRANCE",
@@ -396,51 +309,6 @@
       "auto": true,
       "score_raw": 57,
       "cpv_class": "core",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "noise",
-      "gating_reason": ""
-    },
-    {
-      "id": "26-79761",
-      "ref": "26-79761",
-      "acheteur": "Hospices Civils de Lyon",
-      "objet": "Prestation de sous-traitance d’examens d’anatomo-pathologie pour le GHT Val Rhône Centre",
-      "description": "Prestation de sous-traitance d’examens d’anatomo-pathologie pour le GHT Val Rhône Centre",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-09-07",
-      "montant": 0,
-      "publication": "2026-08-13",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-79761",
-      "_boamp": {
-        "famille": "Marchés européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Analyses médicales, biologiques"
-        ],
-        "departement": "38,69"
-      },
-      "segment": "Formation pro",
-      "keyword_hits": [
-        "centre d'examens"
-      ],
-      "score": 47,
-      "score_detail": {
-        "fit": 15,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "no",
-      "notes": "",
-      "auto": true,
-      "score_raw": 47,
-      "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
       "quality_flag": "noise",
@@ -558,18 +426,92 @@
       "gating_reason": ""
     },
     {
-      "id": "589346-2026",
-      "ref": "589346-2026",
-      "acheteur": "Ville d'Arles",
-      "objet": "France – Services de formation dans le domaine de la sécurité – PRESTATIONS DE FORMATIONS OBLIGATOIRES DE SÉCURITÉ (6 LOTS)",
-      "description": "Formations à la conduite d'engins, CACES et AIPR. Pour plus de détails, se reporter au CCTP (art. 1 : Description des prestations de chaque lot) / Formations habilitations électriques (Éclairage public B2T-TST-BT &amp;amp; Outillage). Pour plus de détails, se reporter au CCTP (art. 1 : Description des prestations de chaque lot) / Formations habilitations électriques (B0/BS/H0/BE, H0V-HTA, B1V-B2V-BS-BR-BC). Pour plus de détails, se reporter au CCTP (art. 1 : Description des prestations de chaque lot) / Formations Risques spécifiques (hauteur, outils manuels et motorisés, amiante). Pour plus de détails, se reporter au CCTP (art. 1 : Description des prestations de chaque lot) / Formations Secourisme &amp;amp; Sécurité (SST, SSIAP1, Gestes et postures, Gestes qui sauvent). Pour plus de détails, se reporter au CCTP (art. 1 : Description des prestations de chaque lot) / Formations Conduites de véhicule et transports de marchandises (Permis, FCO, FIMO, Code). Pour plus de détails, se reporter au CCTP (art. 1 : Description des prestations de chaque lot)",
-      "cpv": "80550000",
+      "id": "533075-2026",
+      "ref": "533075-2026",
+      "acheteur": "Commune de Pontault-Combault",
+      "objet": "France – Services de formation du personnel – Formations",
+      "description": "Prévention des risques liés à l’activité physique (PRAP) – formation initiale et maintien/actualisation des compétences (MAC) / Sauveteur secouriste du travail (SST) – formation initiale et maintien/actualisation des compétences (MAC) / Habilitations électriques (BR – BC – BE – BS) / Autorisations de conduite et recyclages / FIMO et FCO pour les permis C, CE, D et ED / Risque incendie / Autorisation d’intervention à proximité des réseaux / Travail en hauteur / montage et démontage d’échafaudages / Certiphyto",
+      "cpv": "80511000",
+      "pays": "FRA",
+      "deadline": "2026-09-14",
+      "montant": 0,
+      "publication": "2026-07-31",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/533075-2026",
+      "segment": "Collectivités",
+      "keyword_hits": [
+        "habilitation"
+      ],
+      "bureautique": false,
+      "score": 35,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 1
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true,
+      "score_raw": 58,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
+      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
+    },
+    {
+      "id": "537230-2026",
+      "ref": "537230-2026",
+      "acheteur": "Bezirksregierung Münster",
+      "objet": "Allemagne – Logiciels pédagogiques – Beschaffung Digitales Tool - BR Dt, D, K",
+      "description": "Gegenstand dieser Beschaffung ist die Bereitstellung von Software Schullizenzen für die Anwendungssoftware \"SPLINT\" einschließlich der hierfür erforderlichen Dienstleistungen (insbesondere Einrichtung, Support, Wartung und Updates). Die Software wird von Lehrkräften zur Erstellung, Dokumentation und Fortschreibung von Förderplänen für Schülerinnen und Schüler mit (sonderpädagogischem) Unterstützungsbedarf im Gemeinsamen Lernen und an Förderschulen eingesetzt. Die Laufzeit beträgt drei Schuljahre. Das erste Schuljahr beginnt mit dem Schuljahr 2026/2027 und endet zum Ende des dritten darauf folgenden Schuljahres am 31.07.2029. Es sind Schullizenzen für 2.600 Schulen in den Regierungsbezirken Detmold, Düsseldorf und Köln anzubieten. Eine Schullizenz berechtigt jeweils eine Schule zur Nutzung der Software durch die im Schulbetrieb eingesetzten Nutzerinnen und Nutzer (Lehrkräfte, Schülerinnen und Schüler, sonstiges pädagogisches Personal) sowie auf den im Schulbetrieb eingesetzten Endgeräten. Im Angebot ist eindeutig darzustellen, welche Nutzungsrechte die Schullizenzen umfassen (z. B. Anzahl gleichzeitiger Zugriffe, Einsatz auf schulischen und privaten Endgeräten, Nutzung in AGs, Hausaufgabenbereich etc.). Der Auftraggeber beabsichtigt, die beauftragte Lösung perspektivisch auf weitere Schulen in Nordrhein-Westfalen (NRW) auszuweiten. . Neben der Grundmenge an Schullizenzen umfasst der Auftrag daher eine Option des Auftraggebers, während der Vertragslaufzeit zusätzliche Schullizenzen für weitere Schulen in NRW abzurufen. Es ist sicherzustellen, dass die angebotene Lösung technisch skalierbar ist und die Einbindung weiterer Schulen ohne Systembruch ermöglicht und die lizenzrechtlichen Bedingungen eine spätere Erweiterung des Lizenzbestands auf zusätzliche Schulen in NRW ermöglichen. Zur Abbildung des potentiellen Gesamtumfangs und zur Vergleichbarkeit der Angebote wird davon ausgegangen, dass die Lösung grundsätzlich so auszugestalten ist, dass sie auf landesweit weitere Schulen in NRW ausgedehnt werden kann. Die Anwendungssoftware muss folgende Anforderungen erfüllen: - Lehrkräfte haben die Möglichkeit, kollaborativ Förderpläne zu erstellen und fortzuschreiben. - Die Einbindung von Eltern sowie Schülerinnen und Schülern in die Förderplanung wird unterstützt (z. B. durch geeignete Darstellungs- und Kommunikationsfunktionen). - Nutzerinnen und Nutzer sowie Fachexpertinnen und Fachexperten können in Peer?Review?Verfahren eingebunden werden. - Sonderpädagogische Expertise und unterrichtsfachliche Inhalte werden sowohl \"Top-down\" (zentrale Vorgaben, Handreichungen) als auch \"Bottom-up\" (Impulse aus der Praxis) generiert und in der Anwendung nutzbar gemacht. Die Anwendungssoftware muss insbesondere folgende Anforderungen im Bereich der sonderpädagogischen Förderung erfüllen: - Neben den bisherigen Förderschwerpunkten werden weitere Themen in zuständigen Fachgruppen kontinuierlich bearbeitet. Dazu zählen insbesondere der Förderschwerpunkt Geistige Entwicklung sowie die Bereiche Autismus-Spektrumsstörungen, Assistive Technologien und Unterstützte Kommunikation. Diese Fachgruppen erstellen Inhalte (z. B. Handreichungen, Materialien), die laufend systematisch durch den Bieter in die Anwendungssoftware eingepflegt werden. - Die Anwendungssoftware muss die Möglichkeit zur Erfassung des Lernstands und der Fördermaßnahmen in den Unterrichtsfächern und damit zur Vernetzung von Fach? und Förderzielen bieten. - Die inhaltliche Anschlussfähigkeit zu den Fachoffensiven Deutsch und Mathematik in der Primarstufe sowie zu den Unterrichtsvorgaben für den Bildungsgang Geistige Entwicklung des Landes NRW muss gewährleistet sein. - Angebote zur Förderung der Basiskompetenzen im Rahmen der Fachoffensiven Deutsch und Mathematik werden in den abgeleiteten Fördermaßnahmen berücksichtigt. - Die Anwendungssoftware schlägt konkrete Fördermaßnahmen vor und bietet den Lehrkräften zielführende Anhaltspunkte für die Arbeit mit den Schülerinnen und Schülern. - Die vorgeschlagenen Fördermaßnahmen entsprechen schulfachlichen Qualitätsansprüchen. - Kompetenzraster (z. B. MESK), Förderangebote und Maßnahmen sind mit den Handreichungen der Bezirksregierung Münster und den Vorgaben des Landes NRW kompatibel. - Die Anwendungssoftware ist sowohl bei einem Schulwechsel als auch bei einem Wechsel des Förderortes nutzbar; relevante Daten können im Rahmen der rechtlichen Vorgaben übertragen und fortgeführt werden. Die Anwendungssoftware muss insbesondere folgende Anforderungen erfüllen: - Sie kann durch Lehrkräfte sowohl für die Förderplanung und Dokumentation als auch für die eigene Recherche zu konkreten Fragestellungen genutzt werden. - Durch digitale Instrumente (z. B. intelligente Such- und Filterfunktionen, ggf. KI-basierte Unterstützung) müssen die hinterlegten Inhalte sowohl in der Förderplanung für den Einzelfall als auch in der Nutzung durch Lehrkräfte zur professionellen Weiterentwicklung ihrer Fachlichkeit nutzbar sein. - Förderpläne müssen in geeigneter Form externen Stellen (z. B. der Schulaufsicht) zur Verfügung gestellt werden können. - Die Anwendungssoftware ist geräteunabhängig nutzbar. Die Eingabe erfolgt direkt im System; eine Bearbeitung ausschließlich in externen, editierbaren Word- oder PDF-Dateien ist nicht vorgesehen. Ein Datenexport und Ausdruck ist möglich. - Es besteht die technische Möglichkeit, die Anwendung an die von den Schulträgern installierten und von den Schulen genutzten Lernmanagementsysteme, wie beispielsweise LOGINEO NRW, I-Serv oder WebUntis, anzubinden. Dies geschieht über ein Single-Sign-On. - Das Verfahren muss OAuth- und OpenID-Connect-kompatibel sein, um das künftige Identitätsmanagement (IDM) des Ministeriums für Schule und Bildung (MSB) nutzen zu können.",
+      "cpv": "48190000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-08-04",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/537230-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Word"
+      ],
+      "bureautique": true,
+      "score": 35,
+      "score_detail": {
+        "fit": 35,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true,
+      "score_raw": 70,
+      "cpv_class": "core",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
+      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
+    },
+    {
+      "id": "550672-2026",
+      "ref": "550672-2026",
+      "acheteur": "Grand-Orly Seine bièvre",
+      "objet": "France – Services de formation spécialisée – Groupement de commande – Accord-cadre de formations de prévention des risques professionnels",
+      "description": "CACES (Certificat d'aptitude à la conduite en sécurité) / Travail en hauteur / Habilitation électrique / Secourisme / Premiers secours en santé mentale / Risque incendie / (Atmosphère explosive) ATEX / Outils et sécurité / Utilisation en sécurité du chlrore gazeux / Espaces confinés / Amiante / Prévention des risques secteurs d'activité déchets / Certiphyto et certibiocide / Prévention des risques liés à l'activité physique / Conduite de véhicule et prévention du risque routier / Organisation de la prévention / Formations assistant.es de prévention - chef.fes d'établissement / Formation des membres de la formation spécialisée en matière de santé, sécurité et conditions de travail (F3SCT) / Prévention des risques psychosociaux",
+      "cpv": "80510000",
       "pays": "FRA",
       "deadline": "2026-09-28",
-      "montant": 800,
-      "publication": "2026-08-26",
+      "montant": 0,
+      "publication": "2026-08-10",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/589346-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/550672-2026",
       "segment": "Autre",
       "keyword_hits": [
         "habilitation"
@@ -578,7 +520,81 @@
       "score": 35,
       "score_detail": {
         "fit": 25,
-        "size": 13,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true,
+      "score_raw": 60,
+      "cpv_class": "core",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
+      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
+    },
+    {
+      "id": "554266-2026",
+      "ref": "554266-2026",
+      "acheteur": "Einkauf und Vergabemanagement der SBK",
+      "objet": "Allemagne – Services de développement de logiciels transactionnels commerciaux et personnels – Treasury Management System",
+      "description": "Es soll ein Treasury Management System eingeführt werden, welches die bisherige Excel Struktur ablöst.",
+      "cpv": "72212400",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-08-11",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/554266-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Excel"
+      ],
+      "bureautique": true,
+      "score": 35,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true,
+      "score_raw": 65,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
+      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
+    },
+    {
+      "id": "568163-2026",
+      "ref": "568163-2026",
+      "acheteur": "Investitionsbank Schleswig-Holstein",
+      "objet": "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Bereitstellung, Implementierung und Betrieb eines Systems zur Unterstützung von Governance-, Risk- und Compliance-Management-Prozessen GRC-Tool als SaaS-Lösung",
+      "description": "Gegenstand der Ausschreibung ist die Bereitstellung, Implementierung und der Betrieb eines webbasierten Systems (Software-as-a-Service, SaaS) zur Unterstützung und Steuerung von Governance-, Risiko- und Compliance-Prozessen der Auftraggeberin. Das System soll insbesondere die GRC-Funktionen in den Bereichen Zentrales Auslagerungsmanagement (ZAM), Business Continuity Management (BCM), Informationssicherheitsmanagement (ISM) sowie im Kontext der Risiko-Steuerung im Bereich Non-Financial Risk (NFR) unterstützen und eine konsistente sowie nachvollziehbare Bearbeitung dieser Funktionen ermöglichen. Die Implementierung umfasst die fachliche und technische Einführung des Systems in die bestehende Systemlandschaft der Auftraggeberin. Hierzu gehört die Einbindung bestehender Systeme und Datenquellen sowie die Einrichtung und Abstimmung der erforderlichen Datenströme. Dies beinhaltet insbesondere die Definition von Datenmodellen, Schnittstellenformaten sowie die Festlegung von Integrationsmechanismen (z. B. API-basierte Anbindung oder auch strukturierte Datenimporte), einschließlich der Abstimmung von Datenfrequenzen, Verantwortlichkeiten und Fehlerbehandlungsprozessen. Die Datenbereitstellung erfolgt derzeit in wesentlichen Teilen über strukturierte Datenimporte (z. B. Datei-Upload). Gleichzeitig muss das System grundsätzlich auch die Möglichkeit zur Anbindung über standardisierte API-basierte Schnittstellen bieten. Dies gilt insbesondere für Systeme zur Verwaltung von Prozessen und IKT-Systemen sowie für Systeme zur Verwaltung von IKT-Assets und Konfigurationsdaten. Auch für Systeme, die derzeit noch nicht schnittstellenfähig sind, ist perspektivisch eine Integration vorzusehen. Für die technische Integration sind gängige Standards (z. B. REST-basierte Schnittstellen unter Nutzung von HTTPS) zu unterstützen; die Verarbeitung strukturierter Datenimporte (z. B. CSV, Excel) muss validiert, nachvollziehbar protokolliert und wiederholbar ausführbar sein. Dabei ist insbesondere eine priorisierte, bidirektionale Integration der CMDB ServiceNow vorgesehen, während weitere Systeme initial über eine manuelle Datenbereitstellung (Upload/Download) angebunden werden sollen. Das angebotene GRC-System muss bestehende datenhaltende Systeme der Auftraggeberin als Datenquellen anbinden und deren Informationen im GRC-Kontext nutzbar machen können. Eine Ablösung dieser Systeme darf für die Nutzung des GRC-Systems nicht erforderlich sein. Das GRC-System soll hierbei als zentrale Steuerungs- und Auswertungsplattform für GRC-relevante Informationen agieren. Weiterhin muss das System in der Lage sein, Beziehungen zwischen unterschiedlichen Datenobjekten (z. B. IKT-Assets, Prozesse, Risiken, Dienstleister) systemseitig abzubilden und für Auswertungen, Analysen sowie regulatorische Nachweise nutzbar zu machen. In den folgenden Abschnitten sind die Anforderungen zusammenfassend beschrieben. Eine vollumfängliche und detaillierte Auflistung aller Anforderungen findet sich im Lastenheft.",
+      "cpv": "72000000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-08-17",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/568163-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Excel"
+      ],
+      "bureautique": true,
+      "score": 35,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -632,137 +648,18 @@
       "gating_reason": "keyword solo ambigu sans bigramme contextuel"
     },
     {
-      "id": "26-80976",
-      "ref": "26-80976",
-      "acheteur": "Coallia",
-      "objet": "Gestion des identités et des habilitations (IAM)",
-      "description": "Gestion des identités et des habilitations (IAM)",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-09-10",
-      "montant": 0,
-      "publication": "2026-08-18",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-80976",
-      "_boamp": {
-        "famille": "Marchés européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Logiciel"
-        ],
-        "departement": "75"
-      },
-      "segment": "Autre",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "score": 35,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "no",
-      "notes": "",
-      "auto": true,
-      "score_raw": 57,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "noise",
-      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
-    },
-    {
-      "id": "568163-2026",
-      "ref": "568163-2026",
-      "acheteur": "Investitionsbank Schleswig-Holstein",
-      "objet": "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Bereitstellung, Implementierung und Betrieb eines Systems zur Unterstützung von Governance-, Risk- und Compliance-Management-Prozessen GRC-Tool als SaaS-Lösung",
-      "description": "Gegenstand der Ausschreibung ist die Bereitstellung, Implementierung und der Betrieb eines webbasierten Systems (Software-as-a-Service, SaaS) zur Unterstützung und Steuerung von Governance-, Risiko- und Compliance-Prozessen der Auftraggeberin. Das System soll insbesondere die GRC-Funktionen in den Bereichen Zentrales Auslagerungsmanagement (ZAM), Business Continuity Management (BCM), Informationssicherheitsmanagement (ISM) sowie im Kontext der Risiko-Steuerung im Bereich Non-Financial Risk (NFR) unterstützen und eine konsistente sowie nachvollziehbare Bearbeitung dieser Funktionen ermöglichen. Die Implementierung umfasst die fachliche und technische Einführung des Systems in die bestehende Systemlandschaft der Auftraggeberin. Hierzu gehört die Einbindung bestehender Systeme und Datenquellen sowie die Einrichtung und Abstimmung der erforderlichen Datenströme. Dies beinhaltet insbesondere die Definition von Datenmodellen, Schnittstellenformaten sowie die Festlegung von Integrationsmechanismen (z. B. API-basierte Anbindung oder auch strukturierte Datenimporte), einschließlich der Abstimmung von Datenfrequenzen, Verantwortlichkeiten und Fehlerbehandlungsprozessen. Die Datenbereitstellung erfolgt derzeit in wesentlichen Teilen über strukturierte Datenimporte (z. B. Datei-Upload). Gleichzeitig muss das System grundsätzlich auch die Möglichkeit zur Anbindung über standardisierte API-basierte Schnittstellen bieten. Dies gilt insbesondere für Systeme zur Verwaltung von Prozessen und IKT-Systemen sowie für Systeme zur Verwaltung von IKT-Assets und Konfigurationsdaten. Auch für Systeme, die derzeit noch nicht schnittstellenfähig sind, ist perspektivisch eine Integration vorzusehen. Für die technische Integration sind gängige Standards (z. B. REST-basierte Schnittstellen unter Nutzung von HTTPS) zu unterstützen; die Verarbeitung strukturierter Datenimporte (z. B. CSV, Excel) muss validiert, nachvollziehbar protokolliert und wiederholbar ausführbar sein. Dabei ist insbesondere eine priorisierte, bidirektionale Integration der CMDB ServiceNow vorgesehen, während weitere Systeme initial über eine manuelle Datenbereitstellung (Upload/Download) angebunden werden sollen. Das angebotene GRC-System muss bestehende datenhaltende Systeme der Auftraggeberin als Datenquellen anbinden und deren Informationen im GRC-Kontext nutzbar machen können. Eine Ablösung dieser Systeme darf für die Nutzung des GRC-Systems nicht erforderlich sein. Das GRC-System soll hierbei als zentrale Steuerungs- und Auswertungsplattform für GRC-relevante Informationen agieren. Weiterhin muss das System in der Lage sein, Beziehungen zwischen unterschiedlichen Datenobjekten (z. B. IKT-Assets, Prozesse, Risiken, Dienstleister) systemseitig abzubilden und für Auswertungen, Analysen sowie regulatorische Nachweise nutzbar zu machen. In den folgenden Abschnitten sind die Anforderungen zusammenfassend beschrieben. Eine vollumfängliche und detaillierte Auflistung aller Anforderungen findet sich im Lastenheft.",
-      "cpv": "72000000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-08-17",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/568163-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Excel"
-      ],
-      "bureautique": true,
-      "score": 35,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "no",
-      "notes": "",
-      "auto": true,
-      "score_raw": 65,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "noise",
-      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
-    },
-    {
-      "id": "554266-2026",
-      "ref": "554266-2026",
-      "acheteur": "Einkauf und Vergabemanagement der SBK",
-      "objet": "Allemagne – Services de développement de logiciels transactionnels commerciaux et personnels – Treasury Management System",
-      "description": "Es soll ein Treasury Management System eingeführt werden, welches die bisherige Excel Struktur ablöst.",
-      "cpv": "72212400",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-08-11",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/554266-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Excel"
-      ],
-      "bureautique": true,
-      "score": 35,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "no",
-      "notes": "",
-      "auto": true,
-      "score_raw": 65,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "noise",
-      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
-    },
-    {
-      "id": "550672-2026",
-      "ref": "550672-2026",
-      "acheteur": "Grand-Orly Seine bièvre",
-      "objet": "France – Services de formation spécialisée – Groupement de commande – Accord-cadre de formations de prévention des risques professionnels",
-      "description": "CACES (Certificat d'aptitude à la conduite en sécurité) / Travail en hauteur / Habilitation électrique / Secourisme / Premiers secours en santé mentale / Risque incendie / (Atmosphère explosive) ATEX / Outils et sécurité / Utilisation en sécurité du chlrore gazeux / Espaces confinés / Amiante / Prévention des risques secteurs d'activité déchets / Certiphyto et certibiocide / Prévention des risques liés à l'activité physique / Conduite de véhicule et prévention du risque routier / Organisation de la prévention / Formations assistant.es de prévention - chef.fes d'établissement / Formation des membres de la formation spécialisée en matière de santé, sécurité et conditions de travail (F3SCT) / Prévention des risques psychosociaux",
-      "cpv": "80510000",
+      "id": "589346-2026",
+      "ref": "589346-2026",
+      "acheteur": "Ville d'Arles",
+      "objet": "France – Services de formation dans le domaine de la sécurité – PRESTATIONS DE FORMATIONS OBLIGATOIRES DE SÉCURITÉ (6 LOTS)",
+      "description": "Formations à la conduite d'engins, CACES et AIPR. Pour plus de détails, se reporter au CCTP (art. 1 : Description des prestations de chaque lot) / Formations habilitations électriques (Éclairage public B2T-TST-BT &amp;amp; Outillage). Pour plus de détails, se reporter au CCTP (art. 1 : Description des prestations de chaque lot) / Formations habilitations électriques (B0/BS/H0/BE, H0V-HTA, B1V-B2V-BS-BR-BC). Pour plus de détails, se reporter au CCTP (art. 1 : Description des prestations de chaque lot) / Formations Risques spécifiques (hauteur, outils manuels et motorisés, amiante). Pour plus de détails, se reporter au CCTP (art. 1 : Description des prestations de chaque lot) / Formations Secourisme &amp;amp; Sécurité (SST, SSIAP1, Gestes et postures, Gestes qui sauvent). Pour plus de détails, se reporter au CCTP (art. 1 : Description des prestations de chaque lot) / Formations Conduites de véhicule et transports de marchandises (Permis, FCO, FIMO, Code). Pour plus de détails, se reporter au CCTP (art. 1 : Description des prestations de chaque lot)",
+      "cpv": "80550000",
       "pays": "FRA",
       "deadline": "2026-09-28",
-      "montant": 0,
-      "publication": "2026-08-10",
+      "montant": 800,
+      "publication": "2026-08-26",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/550672-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/589346-2026",
       "segment": "Autre",
       "keyword_hits": [
         "habilitation"
@@ -771,7 +668,7 @@
       "score": 35,
       "score_detail": {
         "fit": 25,
-        "size": 8,
+        "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
@@ -780,260 +677,131 @@
       "score_status": "no",
       "notes": "",
       "auto": true,
-      "score_raw": 60,
-      "cpv_class": "core",
+      "score_raw": 65,
+      "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
       "quality_flag": "noise",
       "gating_reason": "keyword solo ambigu sans bigramme contextuel"
     },
     {
-      "id": "26-77508",
-      "ref": "26-77508",
-      "acheteur": "EFS ILE-DE-FRANCE",
-      "objet": "Nettoyage des zones nécessitant des exigences techniques et habilitations spécifiques",
-      "description": "Nettoyage des zones nécessitant des exigences techniques et habilitations spécifiques",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-09-03",
-      "montant": 0,
-      "publication": "2026-08-05",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-77508",
-      "_boamp": {
-        "famille": "Marchés européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Nettoyage de locaux"
-        ],
-        "departement": "94"
-      },
+      "id": "533416-2026",
+      "ref": "533416-2026",
+      "acheteur": "SNCB",
+      "objet": "Belgique – Services de certification – External audit ISO",
+      "description": "Dans le cadre de la certification et/ou de la re-certification des systèmes de management ISO 9001, ISO 14001 et ISO 45001 de NMBS Technics, la SNCB souhaite faire appel à un organisme de certification accrédité, chargé d’assurer la continuité des certificats existants ainsi que la certification des entités restantes qui ne sont pas encore certifiées. Dans ce contexte, les missions confiées à l’organisme de certification sont les suivantes: Réalisation d’audits externes et élaboration d’un calendrier d’audit.",
+      "cpv": "79132000",
+      "pays": "BEL",
+      "deadline": "",
+      "montant": 798,
+      "publication": "2026-07-31",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/533416-2026",
       "segment": "Autre",
       "keyword_hits": [
-        "habilitation"
+        "certification services"
       ],
-      "score": 35,
+      "bureautique": false,
+      "score": 0,
       "score_detail": {
         "fit": 25,
+        "size": 13,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "filtered",
+      "notes": "",
+      "auto": true,
+      "score_raw": 65,
+      "cpv_class": "core",
+      "bigrams_matched": [],
+      "stop_hits": [
+        "ISO 9001",
+        "ISO 14001"
+      ],
+      "quality_flag": "noise",
+      "gating_reason": "stop-word : ISO 9001, ISO 14001"
+    },
+    {
+      "id": "534564-2026",
+      "ref": "534564-2026",
+      "acheteur": "Office Wallon de la formation professionnelle et de l'emploi",
+      "objet": "Belgique – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Marché de services : maintenance et évolution du système d’information et de gestion des ressources humaines du Forem (HR Access)",
+      "description": "* Poste 1 – Acquisition de licences supplémentaires - Sous-poste 1.1 : Licence supplémentaire à l’unité - Sous-poste 1.2 : Pack de 10 licences supplémentaires - Sous-poste 1.3 : Pack de 50 licences supplémentaires * Poste 2 – Maintenance annuelle des licences - Sous-poste 2.1 : Maintenance licence globale de base 5000 utilisateurs - Sous-poste 2.2 : Maintenance licence supplémentaire à l’unité - Sous-poste 2.3 : Maintenance licences supplémentaires en pack de 10 - Sous-poste 2.4 : Maintenance licences supplémentaires en pack de 50 / * Poste 1 – Tierce maintenance applicative (TMA - forfait annuel) * Poste 2 – Développements HR Access en régie - Sous-poste 2.1 : Chef de projet spécialiste HRA - Sous-poste 2.2 : Analyste fonctionnel spécialiste HRA - Sous-poste 2.3 : Développeur spécialiste HRA - Sous-poste 2.4 : Testeur spécialiste HRA",
+      "cpv": "72000000",
+      "pays": "BEL",
+      "deadline": "2026-09-10",
+      "montant": 0,
+      "publication": "2026-08-03",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/534564-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Pack Office"
+      ],
+      "bureautique": true,
+      "score": 0,
+      "score_detail": {
+        "fit": 30,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
         "delay": 0
       },
-      "score_status": "no",
-      "notes": "",
-      "auto": true,
-      "score_raw": 57,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "noise",
-      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
-    },
-    {
-      "id": "537230-2026",
-      "ref": "537230-2026",
-      "acheteur": "Bezirksregierung Münster",
-      "objet": "Allemagne – Logiciels pédagogiques – Beschaffung Digitales Tool - BR Dt, D, K",
-      "description": "Gegenstand dieser Beschaffung ist die Bereitstellung von Software Schullizenzen für die Anwendungssoftware \"SPLINT\" einschließlich der hierfür erforderlichen Dienstleistungen (insbesondere Einrichtung, Support, Wartung und Updates). Die Software wird von Lehrkräften zur Erstellung, Dokumentation und Fortschreibung von Förderplänen für Schülerinnen und Schüler mit (sonderpädagogischem) Unterstützungsbedarf im Gemeinsamen Lernen und an Förderschulen eingesetzt. Die Laufzeit beträgt drei Schuljahre. Das erste Schuljahr beginnt mit dem Schuljahr 2026/2027 und endet zum Ende des dritten darauf folgenden Schuljahres am 31.07.2029. Es sind Schullizenzen für 2.600 Schulen in den Regierungsbezirken Detmold, Düsseldorf und Köln anzubieten. Eine Schullizenz berechtigt jeweils eine Schule zur Nutzung der Software durch die im Schulbetrieb eingesetzten Nutzerinnen und Nutzer (Lehrkräfte, Schülerinnen und Schüler, sonstiges pädagogisches Personal) sowie auf den im Schulbetrieb eingesetzten Endgeräten. Im Angebot ist eindeutig darzustellen, welche Nutzungsrechte die Schullizenzen umfassen (z. B. Anzahl gleichzeitiger Zugriffe, Einsatz auf schulischen und privaten Endgeräten, Nutzung in AGs, Hausaufgabenbereich etc.). Der Auftraggeber beabsichtigt, die beauftragte Lösung perspektivisch auf weitere Schulen in Nordrhein-Westfalen (NRW) auszuweiten. . Neben der Grundmenge an Schullizenzen umfasst der Auftrag daher eine Option des Auftraggebers, während der Vertragslaufzeit zusätzliche Schullizenzen für weitere Schulen in NRW abzurufen. Es ist sicherzustellen, dass die angebotene Lösung technisch skalierbar ist und die Einbindung weiterer Schulen ohne Systembruch ermöglicht und die lizenzrechtlichen Bedingungen eine spätere Erweiterung des Lizenzbestands auf zusätzliche Schulen in NRW ermöglichen. Zur Abbildung des potentiellen Gesamtumfangs und zur Vergleichbarkeit der Angebote wird davon ausgegangen, dass die Lösung grundsätzlich so auszugestalten ist, dass sie auf landesweit weitere Schulen in NRW ausgedehnt werden kann. Die Anwendungssoftware muss folgende Anforderungen erfüllen: - Lehrkräfte haben die Möglichkeit, kollaborativ Förderpläne zu erstellen und fortzuschreiben. - Die Einbindung von Eltern sowie Schülerinnen und Schülern in die Förderplanung wird unterstützt (z. B. durch geeignete Darstellungs- und Kommunikationsfunktionen). - Nutzerinnen und Nutzer sowie Fachexpertinnen und Fachexperten können in Peer?Review?Verfahren eingebunden werden. - Sonderpädagogische Expertise und unterrichtsfachliche Inhalte werden sowohl \"Top-down\" (zentrale Vorgaben, Handreichungen) als auch \"Bottom-up\" (Impulse aus der Praxis) generiert und in der Anwendung nutzbar gemacht. Die Anwendungssoftware muss insbesondere folgende Anforderungen im Bereich der sonderpädagogischen Förderung erfüllen: - Neben den bisherigen Förderschwerpunkten werden weitere Themen in zuständigen Fachgruppen kontinuierlich bearbeitet. Dazu zählen insbesondere der Förderschwerpunkt Geistige Entwicklung sowie die Bereiche Autismus-Spektrumsstörungen, Assistive Technologien und Unterstützte Kommunikation. Diese Fachgruppen erstellen Inhalte (z. B. Handreichungen, Materialien), die laufend systematisch durch den Bieter in die Anwendungssoftware eingepflegt werden. - Die Anwendungssoftware muss die Möglichkeit zur Erfassung des Lernstands und der Fördermaßnahmen in den Unterrichtsfächern und damit zur Vernetzung von Fach? und Förderzielen bieten. - Die inhaltliche Anschlussfähigkeit zu den Fachoffensiven Deutsch und Mathematik in der Primarstufe sowie zu den Unterrichtsvorgaben für den Bildungsgang Geistige Entwicklung des Landes NRW muss gewährleistet sein. - Angebote zur Förderung der Basiskompetenzen im Rahmen der Fachoffensiven Deutsch und Mathematik werden in den abgeleiteten Fördermaßnahmen berücksichtigt. - Die Anwendungssoftware schlägt konkrete Fördermaßnahmen vor und bietet den Lehrkräften zielführende Anhaltspunkte für die Arbeit mit den Schülerinnen und Schülern. - Die vorgeschlagenen Fördermaßnahmen entsprechen schulfachlichen Qualitätsansprüchen. - Kompetenzraster (z. B. MESK), Förderangebote und Maßnahmen sind mit den Handreichungen der Bezirksregierung Münster und den Vorgaben des Landes NRW kompatibel. - Die Anwendungssoftware ist sowohl bei einem Schulwechsel als auch bei einem Wechsel des Förderortes nutzbar; relevante Daten können im Rahmen der rechtlichen Vorgaben übertragen und fortgeführt werden. Die Anwendungssoftware muss insbesondere folgende Anforderungen erfüllen: - Sie kann durch Lehrkräfte sowohl für die Förderplanung und Dokumentation als auch für die eigene Recherche zu konkreten Fragestellungen genutzt werden. - Durch digitale Instrumente (z. B. intelligente Such- und Filterfunktionen, ggf. KI-basierte Unterstützung) müssen die hinterlegten Inhalte sowohl in der Förderplanung für den Einzelfall als auch in der Nutzung durch Lehrkräfte zur professionellen Weiterentwicklung ihrer Fachlichkeit nutzbar sein. - Förderpläne müssen in geeigneter Form externen Stellen (z. B. der Schulaufsicht) zur Verfügung gestellt werden können. - Die Anwendungssoftware ist geräteunabhängig nutzbar. Die Eingabe erfolgt direkt im System; eine Bearbeitung ausschließlich in externen, editierbaren Word- oder PDF-Dateien ist nicht vorgesehen. Ein Datenexport und Ausdruck ist möglich. - Es besteht die technische Möglichkeit, die Anwendung an die von den Schulträgern installierten und von den Schulen genutzten Lernmanagementsysteme, wie beispielsweise LOGINEO NRW, I-Serv oder WebUntis, anzubinden. Dies geschieht über ein Single-Sign-On. - Das Verfahren muss OAuth- und OpenID-Connect-kompatibel sein, um das künftige Identitätsmanagement (IDM) des Ministeriums für Schule und Bildung (MSB) nutzen zu können.",
-      "cpv": "48190000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-08-04",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/537230-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 35,
-      "score_detail": {
-        "fit": 35,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "no",
-      "notes": "",
-      "auto": true,
-      "score_raw": 70,
-      "cpv_class": "core",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "noise",
-      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
-    },
-    {
-      "id": "533075-2026",
-      "ref": "533075-2026",
-      "acheteur": "Commune de Pontault-Combault",
-      "objet": "France – Services de formation du personnel – Formations",
-      "description": "Prévention des risques liés à l’activité physique (PRAP) – formation initiale et maintien/actualisation des compétences (MAC) / Sauveteur secouriste du travail (SST) – formation initiale et maintien/actualisation des compétences (MAC) / Habilitations électriques (BR – BC – BE – BS) / Autorisations de conduite et recyclages / FIMO et FCO pour les permis C, CE, D et ED / Risque incendie / Autorisation d’intervention à proximité des réseaux / Travail en hauteur / montage et démontage d’échafaudages / Certiphyto",
-      "cpv": "80511000",
-      "pays": "FRA",
-      "deadline": "2026-09-14",
-      "montant": 0,
-      "publication": "2026-07-31",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/533075-2026",
-      "segment": "Collectivités",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "bureautique": false,
-      "score": 35,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 1
-      },
-      "score_status": "no",
-      "notes": "",
-      "auto": true,
-      "score_raw": 58,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "noise",
-      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
-    },
-    {
-      "id": "26-76725",
-      "ref": "26-76725",
-      "acheteur": "Syndicat départemental de traitement des déchets ménagers de l'Aisne, Valor'Aisne",
-      "objet": "Formation et recyclages \"Sauveteur Secouriste du Travail \", habilitations électriques\", \"CACES\" et \"Incendie\"-.",
-      "description": "Formation et recyclages \"Sauveteur Secouriste du Travail \", habilitations électriques\", \"CACES\" et \"Incendie\"-.",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-09-21",
-      "montant": 150,
-      "publication": "2026-07-31",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-76725",
-      "_boamp": {
-        "famille": "Marchés entre 90 k€ et seuils européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Formation"
-        ],
-        "departement": "2"
-      },
-      "segment": "État",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "score": 35,
-      "score_detail": {
-        "fit": 25,
-        "size": 10,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "no",
-      "notes": "",
-      "auto": true,
-      "score_raw": 62,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "noise",
-      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
-    },
-    {
-      "id": "585322-2026",
-      "ref": "585322-2026",
-      "acheteur": "Communauté de Communes Loire Layon Aubance",
-      "objet": "France – Services d'ingénierie – Surveillance, entretien et réparation d'ouvrages d'art et hydraulique sur le périmètre de la CCLLA",
-      "description": "Ce lot correspond à un marché de prestation intellectuelle dont l’objet est la réalisation de visite d’évaluation des ouvrages sans moyens lourds. Les prestations comprennent l’identification, la description, l’analyse des pathologies, la notation de l’état des ouvrages, la proposition de travaux à réaliser et l’élaboration d’une base de données relative au patrimoine évalué. / Prestations de maîtrise d’oeuvre pour la réparation et la réhabilitation des ouvrages",
-      "cpv": "71300000",
-      "pays": "FRA",
-      "deadline": "2026-10-05",
-      "montant": 0,
-      "publication": "2026-08-25",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/585322-2026",
-      "segment": "Collectivités",
-      "keyword_hits": [
-        "ingénierie d'évaluation"
-      ],
-      "bureautique": false,
-      "score": 0,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
       "score_status": "filtered",
       "notes": "",
       "auto": true,
       "score_raw": 62,
-      "cpv_class": "blacklist",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "noise",
-      "gating_reason": "CPV blacklist (71300000)"
-    },
-    {
-      "id": "26-82714",
-      "ref": "26-82714",
-      "acheteur": "CPAM DES LANDES",
-      "objet": "Maîtrise d’œuvre pour les travaux d’aménagement intérieurs du Siège de la CPAM des Landes – Activités du Centre d’Examens de Santé, du Service médical, du Service social et d’Accès à la santé",
-      "description": "Maîtrise d’œuvre pour les travaux d’aménagement intérieurs du Siège de la CPAM des Landes – Activités du Centre d’Examens de Santé, du Service médical, du Service social et d’Accès à la santé",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-10-05",
-      "montant": 150,
-      "publication": "2026-08-24",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-82714",
-      "_boamp": {
-        "famille": "Marchés entre 90 k€ et seuils européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Maîtrise d'oeuvre"
-        ],
-        "departement": "40"
-      },
-      "segment": "Autre",
-      "keyword_hits": [
-        "centre d'examens"
-      ],
-      "score": 0,
-      "score_detail": {
-        "fit": 10,
-        "size": 10,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 5
-      },
-      "score_status": "filtered",
-      "notes": "",
-      "auto": true,
-      "score_raw": 49,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [
-        "médical"
+        "ressources humaines"
       ],
       "quality_flag": "noise",
-      "gating_reason": "stop-word : médical"
+      "gating_reason": "stop-word : ressources humaines"
+    },
+    {
+      "id": "549360-2026",
+      "ref": "549360-2026",
+      "acheteur": "VILLE DE MARSEILLE",
+      "objet": "France – Logiciels et systèmes d'information – REFONTE DU SYSTEME D’INFORMATION DE GESTION DES RESSOURCES HUMAINES (SIRH)",
+      "description": "Lot 1 – Gestion administrative des carrières et de la paie / Lot 2 – Gestion du temps de travail / Lot 3 – Gestion prévisionnelle des emplois et des compétences",
+      "cpv": "48000000",
+      "pays": "FRA",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-08-07",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/549360-2026",
+      "segment": "Collectivités",
+      "keyword_hits": [
+        "gestion prévisionnelle des emplois"
+      ],
+      "bureautique": false,
+      "score": 0,
+      "score_detail": {
+        "fit": 10,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "filtered",
+      "notes": "",
+      "auto": true,
+      "score_raw": 45,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [
+        "ressources humaines",
+        "paie"
+      ],
+      "quality_flag": "noise",
+      "gating_reason": "stop-word : ressources humaines, paie"
     },
     {
       "id": "556244-2026",
@@ -1085,170 +853,41 @@
       "gating_reason": "stop-word : ISO 27001, cybersécurité"
     },
     {
-      "id": "549360-2026",
-      "ref": "549360-2026",
-      "acheteur": "VILLE DE MARSEILLE",
-      "objet": "France – Logiciels et systèmes d'information – REFONTE DU SYSTEME D’INFORMATION DE GESTION DES RESSOURCES HUMAINES (SIRH)",
-      "description": "Lot 1 – Gestion administrative des carrières et de la paie / Lot 2 – Gestion du temps de travail / Lot 3 – Gestion prévisionnelle des emplois et des compétences",
-      "cpv": "48000000",
+      "id": "585322-2026",
+      "ref": "585322-2026",
+      "acheteur": "Communauté de Communes Loire Layon Aubance",
+      "objet": "France – Services d'ingénierie – Surveillance, entretien et réparation d'ouvrages d'art et hydraulique sur le périmètre de la CCLLA",
+      "description": "Ce lot correspond à un marché de prestation intellectuelle dont l’objet est la réalisation de visite d’évaluation des ouvrages sans moyens lourds. Les prestations comprennent l’identification, la description, l’analyse des pathologies, la notation de l’état des ouvrages, la proposition de travaux à réaliser et l’élaboration d’une base de données relative au patrimoine évalué. / Prestations de maîtrise d’oeuvre pour la réparation et la réhabilitation des ouvrages",
+      "cpv": "71300000",
       "pays": "FRA",
-      "deadline": "",
+      "deadline": "2026-10-05",
       "montant": 0,
-      "publication": "2026-08-07",
+      "publication": "2026-08-25",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/549360-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/585322-2026",
       "segment": "Collectivités",
       "keyword_hits": [
-        "gestion prévisionnelle des emplois"
-      ],
-      "bureautique": false,
-      "score": 0,
-      "score_detail": {
-        "fit": 10,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "filtered",
-      "notes": "",
-      "auto": true,
-      "score_raw": 45,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [
-        "ressources humaines",
-        "paie"
-      ],
-      "quality_flag": "noise",
-      "gating_reason": "stop-word : ressources humaines, paie"
-    },
-    {
-      "id": "534564-2026",
-      "ref": "534564-2026",
-      "acheteur": "Office Wallon de la formation professionnelle et de l'emploi",
-      "objet": "Belgique – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Marché de services : maintenance et évolution du système d’information et de gestion des ressources humaines du Forem (HR Access)",
-      "description": "* Poste 1 – Acquisition de licences supplémentaires - Sous-poste 1.1 : Licence supplémentaire à l’unité - Sous-poste 1.2 : Pack de 10 licences supplémentaires - Sous-poste 1.3 : Pack de 50 licences supplémentaires * Poste 2 – Maintenance annuelle des licences - Sous-poste 2.1 : Maintenance licence globale de base 5000 utilisateurs - Sous-poste 2.2 : Maintenance licence supplémentaire à l’unité - Sous-poste 2.3 : Maintenance licences supplémentaires en pack de 10 - Sous-poste 2.4 : Maintenance licences supplémentaires en pack de 50 / * Poste 1 – Tierce maintenance applicative (TMA - forfait annuel) * Poste 2 – Développements HR Access en régie - Sous-poste 2.1 : Chef de projet spécialiste HRA - Sous-poste 2.2 : Analyste fonctionnel spécialiste HRA - Sous-poste 2.3 : Développeur spécialiste HRA - Sous-poste 2.4 : Testeur spécialiste HRA",
-      "cpv": "72000000",
-      "pays": "BEL",
-      "deadline": "2026-09-10",
-      "montant": 0,
-      "publication": "2026-08-03",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/534564-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Pack Office"
-      ],
-      "bureautique": true,
-      "score": 0,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "filtered",
-      "notes": "",
-      "auto": true,
-      "score_raw": 62,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [
-        "ressources humaines"
-      ],
-      "quality_flag": "noise",
-      "gating_reason": "stop-word : ressources humaines"
-    },
-    {
-      "id": "26-76437",
-      "ref": "26-76437",
-      "acheteur": "CENTRE HOSPITALIER D'ARRAS",
-      "objet": "Réalisation d’examens d’anatomie et de cytologie pathologique pour le Centre Hospitalier d’Arras",
-      "description": "Réalisation d’examens d’anatomie et de cytologie pathologique pour le Centre Hospitalier d’Arras",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-09-10",
-      "montant": 0,
-      "publication": "2026-08-01",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-76437",
-      "_boamp": {
-        "famille": "Marchés européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Analyses médicales, biologiques"
-        ],
-        "departement": "62,59,75,80,60"
-      },
-      "segment": "FPH",
-      "keyword_hits": [
-        "centre d'examens"
-      ],
-      "score": 0,
-      "score_detail": {
-        "fit": 10,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "filtered",
-      "notes": "",
-      "auto": true,
-      "score_raw": 42,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [
-        "hospitalier"
-      ],
-      "quality_flag": "noise",
-      "gating_reason": "stop-word : hospitalier"
-    },
-    {
-      "id": "533416-2026",
-      "ref": "533416-2026",
-      "acheteur": "SNCB",
-      "objet": "Belgique – Services de certification – External audit ISO",
-      "description": "Dans le cadre de la certification et/ou de la re-certification des systèmes de management ISO 9001, ISO 14001 et ISO 45001 de NMBS Technics, la SNCB souhaite faire appel à un organisme de certification accrédité, chargé d’assurer la continuité des certificats existants ainsi que la certification des entités restantes qui ne sont pas encore certifiées. Dans ce contexte, les missions confiées à l’organisme de certification sont les suivantes: Réalisation d’audits externes et élaboration d’un calendrier d’audit.",
-      "cpv": "79132000",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 798,
-      "publication": "2026-07-31",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/533416-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "certification services"
+        "ingénierie d'évaluation"
       ],
       "bureautique": false,
       "score": 0,
       "score_detail": {
         "fit": 25,
-        "size": 13,
+        "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 3
+        "delay": 5
       },
       "score_status": "filtered",
       "notes": "",
       "auto": true,
-      "score_raw": 65,
-      "cpv_class": "core",
+      "score_raw": 62,
+      "cpv_class": "blacklist",
       "bigrams_matched": [],
-      "stop_hits": [
-        "ISO 9001",
-        "ISO 14001"
-      ],
+      "stop_hits": [],
       "quality_flag": "noise",
-      "gating_reason": "stop-word : ISO 9001, ISO 14001"
+      "gating_reason": "CPV blacklist (71300000)"
     }
   ]
 }

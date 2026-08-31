@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-30T11:15:04.171Z",
+  "generated_at": "2026-08-31T12:38:06.304Z",
   "source": "MERGE",
   "schema_version": 2,
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 1427,
-      "matched": 23,
+      "fetched": 1395,
+      "matched": 22,
       "go": 1,
-      "generated_at": "2026-08-30T11:05:15.552Z"
+      "generated_at": "2026-08-31T12:28:37.638Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 3510,
-      "matched": 9,
+      "fetched": 3362,
+      "matched": 8,
       "go": 0,
-      "generated_at": "2026-08-30T11:15:03.731Z"
+      "generated_at": "2026-08-31T12:38:05.856Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-08-30T11:15:04.043Z"
+      "generated_at": "2026-08-31T12:38:06.163Z"
     }
   },
-  "total_fetched": 4937,
-  "total_matched": 30,
+  "total_fetched": 4757,
+  "total_matched": 28,
   "total_go": 1,
   "total_dedup_collisions": 2,
   "dedup_breakdown": {
@@ -39,8 +39,8 @@
     "human_verdicts_collected_4w": 0,
     "false_positives_human_verdict_4w": 0,
     "filtered_cpv_blacklist": 1,
-    "filtered_stopword": 6,
-    "capped_no_context": 10,
+    "filtered_stopword": 5,
+    "capped_no_context": 8,
     "displayed_in_radar": 6
   },
   "notices": [
@@ -63,19 +63,19 @@
         "bilan professionnel"
       ],
       "bureautique": false,
-      "score": 82,
+      "score": 80,
       "score_detail": {
         "fit": 40,
         "size": 13,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 3
       },
       "score_status": "go",
       "notes": "",
       "auto": true,
-      "score_raw": 82,
+      "score_raw": 80,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
@@ -260,19 +260,19 @@
       "keyword_hits": [
         "certification professionnelle"
       ],
-      "score": 63,
+      "score": 62,
       "score_detail": {
         "fit": 30,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 1
+        "delay": 0
       },
       "score_status": "cond",
       "notes": "",
       "auto": true,
-      "score_raw": 63,
+      "score_raw": 62,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
@@ -281,6 +281,43 @@
       "_also_seen_in": [
         "TED"
       ]
+    },
+    {
+      "id": "598947-2026",
+      "ref": "598947-2026",
+      "acheteur": "FIT FORMATION",
+      "objet": "France – Services de formation – Réalisation d'actions de formation en Français Langue Étrangère (FLE)",
+      "description": "AURILLAC - FLE VIE QUOTIDIENNE / ACCÈS AU DROIT COMMUN&amp;lt;br/&amp;gt; / AURILLAC - FLE ALPHA / POST-ALPHA&amp;lt;br/&amp;gt; / AURILLAC - PRÉPARATION CERTIFICATION A2/B1&amp;lt;br/&amp;gt; / LE PUY-EN-VELAY - FLE VIE QUOTIDIENNE&amp;lt;br/&amp;gt; / LE PUY-EN-VELAY - FLE ALPHA / POST-ALPHA&amp;lt;br/&amp;gt;",
+      "cpv": "80500000",
+      "pays": "FRA",
+      "deadline": "2026-09-11",
+      "montant": 195,
+      "publication": "2026-08-31",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/598947-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "certification services"
+      ],
+      "bureautique": false,
+      "score": 59,
+      "score_detail": {
+        "fit": 25,
+        "size": 10,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true,
+      "score_raw": 59,
+      "cpv_class": "core",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
+      "gating_reason": ""
     },
     {
       "id": "564901-2026",
@@ -345,19 +382,19 @@
       "keyword_hits": [
         "qualification professionnelle"
       ],
-      "score": 58,
+      "score": 57,
       "score_detail": {
         "fit": 25,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 1
+        "delay": 0
       },
       "score_status": "cond",
       "notes": "",
       "auto": true,
-      "score_raw": 58,
+      "score_raw": 57,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
@@ -870,88 +907,6 @@
       "gating_reason": "keyword solo ambigu sans bigramme contextuel"
     },
     {
-      "id": "533075-2026",
-      "ref": "533075-2026",
-      "acheteur": "Commune de Pontault-Combault",
-      "objet": "France – Services de formation du personnel – Formations",
-      "description": "Prévention des risques liés à l’activité physique (PRAP) – formation initiale et maintien/actualisation des compétences (MAC) / Sauveteur secouriste du travail (SST) – formation initiale et maintien/actualisation des compétences (MAC) / Habilitations électriques (BR – BC – BE – BS) / Autorisations de conduite et recyclages / FIMO et FCO pour les permis C, CE, D et ED / Risque incendie / Autorisation d’intervention à proximité des réseaux / Travail en hauteur / montage et démontage d’échafaudages / Certiphyto",
-      "cpv": "80511000",
-      "pays": "FRA",
-      "deadline": "2026-09-14",
-      "montant": 0,
-      "publication": "2026-07-31",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/533075-2026",
-      "segment": "Collectivités",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "bureautique": false,
-      "score": 35,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 1
-      },
-      "score_status": "no",
-      "notes": "",
-      "auto": true,
-      "score_raw": 58,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "noise",
-      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
-    },
-    {
-      "id": "26-76725",
-      "ref": "26-76725",
-      "acheteur": "Syndicat départemental de traitement des déchets ménagers de l'Aisne, Valor'Aisne",
-      "objet": "Formation et recyclages \"Sauveteur Secouriste du Travail \", habilitations électriques\", \"CACES\" et \"Incendie\"-.",
-      "description": "Formation et recyclages \"Sauveteur Secouriste du Travail \", habilitations électriques\", \"CACES\" et \"Incendie\"-.",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-09-21",
-      "montant": 150,
-      "publication": "2026-07-31",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-76725",
-      "_boamp": {
-        "famille": "Marchés entre 90 k€ et seuils européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Formation"
-        ],
-        "departement": "2"
-      },
-      "segment": "État",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "score": 35,
-      "score_detail": {
-        "fit": 25,
-        "size": 10,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "no",
-      "notes": "",
-      "auto": true,
-      "score_raw": 62,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "noise",
-      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
-    },
-    {
       "id": "585322-2026",
       "ref": "585322-2026",
       "acheteur": "Communauté de Communes Loire Layon Aubance",
@@ -1209,46 +1164,6 @@
       ],
       "quality_flag": "noise",
       "gating_reason": "stop-word : hospitalier"
-    },
-    {
-      "id": "533416-2026",
-      "ref": "533416-2026",
-      "acheteur": "SNCB",
-      "objet": "Belgique – Services de certification – External audit ISO",
-      "description": "Dans le cadre de la certification et/ou de la re-certification des systèmes de management ISO 9001, ISO 14001 et ISO 45001 de NMBS Technics, la SNCB souhaite faire appel à un organisme de certification accrédité, chargé d’assurer la continuité des certificats existants ainsi que la certification des entités restantes qui ne sont pas encore certifiées. Dans ce contexte, les missions confiées à l’organisme de certification sont les suivantes: Réalisation d’audits externes et élaboration d’un calendrier d’audit.",
-      "cpv": "79132000",
-      "pays": "BEL",
-      "deadline": "",
-      "montant": 798,
-      "publication": "2026-07-31",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/533416-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "certification services"
-      ],
-      "bureautique": false,
-      "score": 0,
-      "score_detail": {
-        "fit": 25,
-        "size": 13,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "filtered",
-      "notes": "",
-      "auto": true,
-      "score_raw": 65,
-      "cpv_class": "core",
-      "bigrams_matched": [],
-      "stop_hits": [
-        "ISO 9001",
-        "ISO 14001"
-      ],
-      "quality_flag": "noise",
-      "gating_reason": "stop-word : ISO 9001, ISO 14001"
     }
   ]
 }

@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-31T12:38:06.304Z",
+  "generated_at": "2026-09-01T11:07:49.133Z",
   "source": "MERGE",
   "schema_version": 2,
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 1395,
-      "matched": 22,
+      "fetched": 1449,
+      "matched": 25,
       "go": 1,
-      "generated_at": "2026-08-31T12:28:37.638Z"
+      "generated_at": "2026-09-01T10:58:12.417Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 3362,
-      "matched": 8,
+      "fetched": 3370,
+      "matched": 7,
       "go": 0,
-      "generated_at": "2026-08-31T12:38:05.856Z"
+      "generated_at": "2026-09-01T11:07:48.672Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-08-31T12:38:06.163Z"
+      "generated_at": "2026-09-01T11:07:49.003Z"
     }
   },
-  "total_fetched": 4757,
-  "total_matched": 28,
+  "total_fetched": 4819,
+  "total_matched": 30,
   "total_go": 1,
   "total_dedup_collisions": 2,
   "dedup_breakdown": {
@@ -39,9 +39,9 @@
     "human_verdicts_collected_4w": 0,
     "false_positives_human_verdict_4w": 0,
     "filtered_cpv_blacklist": 1,
-    "filtered_stopword": 5,
-    "capped_no_context": 8,
-    "displayed_in_radar": 6
+    "filtered_stopword": 4,
+    "capped_no_context": 9,
+    "displayed_in_radar": 8
   },
   "notices": [
     {
@@ -235,6 +235,43 @@
       "gating_reason": ""
     },
     {
+      "id": "601010-2026",
+      "ref": "601010-2026",
+      "acheteur": "Estado-Maior do Exército",
+      "objet": "Portugal – Services de certification – 4026016580/DA/A0216/2026- Renovação, por 3 (três) anos, do licenciamento de suporte do Sistema Integrado de Controlo de Acessos e Videovigilância do Exército (SICAVE).",
+      "description": "4026016580/DA/A0216/2026- Renovação, por 3 (três) anos, do licenciamento de suporte do Sistema Integrado de Controlo de Acessos e Videovigilância do Exército (SICAVE).",
+      "cpv": "79132000",
+      "pays": "PRT",
+      "deadline": "",
+      "montant": 176,
+      "publication": "2026-09-01",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/601010-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "certification services"
+      ],
+      "bureautique": false,
+      "score": 62,
+      "score_detail": {
+        "fit": 25,
+        "size": 10,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true,
+      "score_raw": 62,
+      "cpv_class": "core",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "actionable",
+      "gating_reason": ""
+    },
+    {
       "id": "26-79755",
       "ref": "26-79755",
       "acheteur": "OPCO ATLAS",
@@ -281,6 +318,45 @@
       "_also_seen_in": [
         "TED"
       ]
+    },
+    {
+      "id": "600545-2026",
+      "ref": "600545-2026",
+      "acheteur": "Institut de la Formation en cours de Carrière",
+      "objet": "Belgique – Services de formation professionnelle – Accord-cadre de services relatif à la formation à la pédagogie de l’enseignement fondamental ou de l’enseignement secondaire inférieur à destination des agrégés de l’enseignement secondaire supérieur et des porteurs d’un diplôme de niveau universitaire complété par le certificat d’aptitudes pédagogiques ou le certificat de cours normaux techniques moyens",
+      "description": "Ces services consistent en l’organisation et la certification des volets du module de la formation à la pédagogie de l’enseignement primaire ou de l’enseignement secondaire inférieur à destination des agrégés de l’enseignement secondaire supérieur et des porteurs d’un diplôme de niveau universitaire complété par le certificat d’aptitudes pédagogiques ou le certificat de cours normaux techniques moyens. Ces formations doivent répondre au plan de formation (contenu, objectifs, compétences à acquérir, public cible) (Annexe I) tel que décrit dans les spécifications techniques du présent cahier spécial des charges. Elles doivent être organisées et certifiées en dehors des périodes normales de fonctionnement des établissements scolaires.",
+      "cpv": "80530000",
+      "pays": "BEL",
+      "deadline": "2026-09-28",
+      "montant": 0,
+      "publication": "2026-09-01",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/600545-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "certification de compétences",
+        "certification professionnelle",
+        "certification services"
+      ],
+      "bureautique": false,
+      "score": 60,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true,
+      "score_raw": 60,
+      "cpv_class": "core",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "actionable",
+      "gating_reason": ""
     },
     {
       "id": "598947-2026",
@@ -593,6 +669,43 @@
       "stop_hits": [],
       "quality_flag": "noise",
       "gating_reason": ""
+    },
+    {
+      "id": "601008-2026",
+      "ref": "601008-2026",
+      "acheteur": "Commune de Pontault-Combault",
+      "objet": "France – Services de formation du personnel – Formations",
+      "description": "Prévention des risques liés à l’activité physique (PRAP) – formation initiale et maintien/actualisation des compétences (MAC) / Sauveteur secouriste du travail (SST) – formation initiale et maintien/actualisation des compétences (MAC) / Habilitations électriques (BR – BC – BE – BS) / Autorisations de conduite et recyclages / FIMO et FCO pour les permis C, CE, D et ED / Risque incendie / Autorisation d’intervention à proximité des réseaux / Travail en hauteur / montage et démontage d’échafaudages / Certiphyto",
+      "cpv": "80511000",
+      "pays": "FRA",
+      "deadline": "2026-09-29",
+      "montant": 0,
+      "publication": "2026-09-01",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/601008-2026",
+      "segment": "Collectivités",
+      "keyword_hits": [
+        "habilitation"
+      ],
+      "bureautique": false,
+      "score": 35,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true,
+      "score_raw": 60,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
+      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
     },
     {
       "id": "589346-2026",
@@ -1117,53 +1230,6 @@
       ],
       "quality_flag": "noise",
       "gating_reason": "stop-word : ressources humaines"
-    },
-    {
-      "id": "26-76437",
-      "ref": "26-76437",
-      "acheteur": "CENTRE HOSPITALIER D'ARRAS",
-      "objet": "Réalisation d’examens d’anatomie et de cytologie pathologique pour le Centre Hospitalier d’Arras",
-      "description": "Réalisation d’examens d’anatomie et de cytologie pathologique pour le Centre Hospitalier d’Arras",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-09-10",
-      "montant": 0,
-      "publication": "2026-08-01",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-76437",
-      "_boamp": {
-        "famille": "Marchés européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Analyses médicales, biologiques"
-        ],
-        "departement": "62,59,75,80,60"
-      },
-      "segment": "FPH",
-      "keyword_hits": [
-        "centre d'examens"
-      ],
-      "score": 0,
-      "score_detail": {
-        "fit": 10,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "filtered",
-      "notes": "",
-      "auto": true,
-      "score_raw": 42,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [
-        "hospitalier"
-      ],
-      "quality_flag": "noise",
-      "gating_reason": "stop-word : hospitalier"
     }
   ]
 }

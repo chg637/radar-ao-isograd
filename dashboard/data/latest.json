@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-09-01T11:07:49.133Z",
+  "generated_at": "2026-09-02T10:36:27.215Z",
   "source": "MERGE",
   "schema_version": 2,
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 1449,
-      "matched": 25,
+      "fetched": 1525,
+      "matched": 28,
       "go": 1,
-      "generated_at": "2026-09-01T10:58:12.417Z"
+      "generated_at": "2026-09-02T10:27:04.361Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 3370,
-      "matched": 7,
+      "fetched": 3347,
+      "matched": 8,
       "go": 0,
-      "generated_at": "2026-09-01T11:07:48.672Z"
+      "generated_at": "2026-09-02T10:36:26.845Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-09-01T11:07:49.003Z"
+      "generated_at": "2026-09-02T10:36:27.080Z"
     }
   },
-  "total_fetched": 4819,
-  "total_matched": 30,
+  "total_fetched": 4872,
+  "total_matched": 32,
   "total_go": 1,
-  "total_dedup_collisions": 2,
+  "total_dedup_collisions": 4,
   "dedup_breakdown": {
     "by_id": 0,
-    "fuzzy_signature": 2,
+    "fuzzy_signature": 4,
     "fuzzy_jaccard": 0
   },
   "metrics": {
@@ -120,6 +120,46 @@
       "gating_reason": ""
     },
     {
+      "id": "605512-2026",
+      "ref": "605512-2026",
+      "acheteur": "DFS Deutsche Flugsicherung GmbH",
+      "objet": "Allemagne – Services de formation de personnel – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+      "description": "Die DFS Deutsche Flugsicherung GmbH verfolgt das Ziel, einen strukturierten und unternehmensweiten Ansatz zum Aufbau von Kompetenzen im Bereich Künstliche Intelligenz (KI) zu etablieren. Mitarbeitende und Führungskräfte sollen im Sinne der KI-VO befähigt werden, KI-Anwendungen sicher, verantwortungsvoll und effizient im Arbeitsalltag einzusetzen sowie Potenziale für die Organisation systematisch zu erschließen. Hierzu soll ein mehrstufiges Befähigungskonzept umgesetzt werden, das unterschiedliche Zielgruppen und Kompetenzniveaus adressiert. Zentrale Bestandteile sollen modular aufgebaute Lernreisen für Mitarbeitende und Führungskräfte sein, die eine Kombination aus virtuellen Trainingsformaten, begleitetem Selbststudium sowie praxisnahen Übungen umfassen. Das Copilot Lizenz Kompakt Modul soll auf den Lernreisen für Mitarbeitenden und Führungskräften aufbauen. Inhaltlich sollen sowohl Grundlagen der Künstlichen Intelligenz als auch deren konkrete Anwendung im Arbeitskontext der DFS vermittelt werden. Schwerpunkte sollen insbesondere die Nutzung von Microsoft Copilot (Basic/Chat und Premium/mit Lizenz), praxisorientiertes Prompting und die Nutzung von Agenten, die Identifikation und Umsetzung von Anwendungsfällen sowie die Reflexion von Chancen, Grenzen und Risiken umfassen. Darüber hinaus sollen zielgruppenspezifische Formate vorgesehen werden: Für Mitarbeitende soll der Fokus auf der sicheren und effizienten Anwendung von KI im Tagesgeschäft liegen, während Formate für Führungskräfte insbesondere deren Rolle in der Steuerung, Förderung und kulturellen Verankerung von KI-Nutzung im eigenen Verantwortungsbereich adressieren sollen. Ein wesentliches Element der vorgesehenen Transferformate soll ein Erfahrungskreis „Prompting“ darstellen. Dabei soll es sich um ein strukturiertes Austauschformat handeln, in dem Mitarbeitende ihre Erfahrungen im Umgang mit generativer KI – insbesondere bei der Erstellung und Anwendung von Prompts – teilen und weiterentwickeln. Ziel soll es sein, Best Practices transparent zu machen, die Qualität der erzeugten Ergebnisse zu steigern und den nachhaltigen Transfer in den Arbeitsalltag zu unterstützen. Der Erfahrungskreis soll damit zur organisationsweiten Vernetzung sowie zur Etablierung einer lernorientierten, offenen Nutzungskultur im Umgang mit KI beitragen. Insgesamt soll der Ansatz auf einen breiten, praxisnahen Kompetenzaufbau ausgerichtet sein, der sowohl die individuelle Handlungssicherheit im Umgang mit KI stärkt als auch die strategische Weiterentwicklung und Effizienzsteigerung innerhalb der DFS unterstützt. Der Fokus der Seminare liegt hierbei insbesondere auf folgenden Schwerpunkten: • Lernreise KI für Führungskräfte (Modularer Aufbau/ Virtuell / In Summe 1 Tag) • Lernreise KI Copilot Chat Grundkurs für Mitarbeitende (Modularer Aufbau/ Virtuell / In Summe 1 Tag) • Lernreise KI Copilot mit Lizenz Grundkurs für Mitarbeitende (Modularer Aufbau / Virtuell / In Summe 1 Tag) • Aufbaumodul Copilot mit Lizenz für Führungskräfte und Mitarbeitende, die unterjährig eine Lizenz bekommen haben (Virtuell / halbtägig) • Promptathon (Präsenz in Langen / halbtägig bis max. 1 Tag) / Die Seminare sollen die Kommunikations-, Team-, Moderations- und Präsentationskompetenzen der Mitarbeitenden stärken und sie befähigen, in unterschiedlichen beruflichen Situationen souverän, überzeugend und zielgruppengerecht zu agieren. Die Maßnahmen sollen insbesondere die Schwerpunkte Kommunikation, Teamarbeit, überzeugendes Auftreten, Moderation von Workshops sowie wirkungsvolle Präsentation umfassen. Ein hoher Praxisbezug mit Übungen, Simulationen, Reflexion und individuellem Feedback zur nachhaltigen Anwendung im DFS-Arbeitsalltag soll sichergestellt werden. Der Fokus der Seminare liegt hierbei insbesondere auf folgenden Schwerpunkten: • Schlüsselfaktoren erfolgreicher Kommunikation (Präsenz / 2 Tage) • Teamfähigkeit und Teamarbeit (Präsenz / 2 Tage) • Überzeugend Auftreten und Wirken (Präsenz / 2 Tage) • Moderation von Workshops (Präsenz / 2 Tage) • Wirkungsvoll Präsentieren (Präsenz / 2 Tage) / Ziel der Trainings ist es, Mitarbeitende dabei zu unterstützen, ihre persönlichen Ressourcen gezielt einzusetzen, Belastungen gesund zu bewältigen und ihre Arbeitsweise nachhaltig zu optimieren. Die angebotenen Maßnahmen sollen praxisnah aufzeigen, wie Resilienz gestärkt, Belastungen frühzeitig erkannt und wirksame Strategien zur Stressbewältigung im Arbeitsalltag angewendet werden können. Gleichzeitig sollen die Teilnehmenden befähigt werden, ihre Zeit und Aufgaben gezielt zu priorisieren, ihre Arbeitsorganisation zu optimieren und so ihre persönliche Leistungsfähigkeit nachhaltig zu fördern. Die Trainings sollen konkrete Werkzeuge und Methoden vermitteln, die unmittelbar im Arbeitsalltag eingesetzt werden können und einen nachhaltigen Transfer in die Praxis ermöglichen. Der Fokus der Seminare liegt hierbei insbesondere auf folgenden Schwerpunkten: • Resilienz & Stressmanagement (Präsenz / 2 Tag) • Zeitmanagement und Selbsteffizienz (Präsenz / 2 Tage) Für das Los 3 kommt außerdem die Begleitung/ Moderation der \"Erfahrungskreise\" hinzu Bei den \"Erfahrungskreisen\" geht es um die Reflexion der eigenen Entwicklung der Mitarbeiterinnen und Mitarbeiter der DFS nach dem Training. Der Erfahrungskreis ist eine moderierte Austauschplattform (Präsenz oder virtuell) für die Trainingsteilnehmenden, bei dem diese sich unter Verwendung verschiedener Methoden zu Fragen oder Erfahrungswerten austauschen können. Dabei können konkrete Fragestellungen aus dem eigenen Arbeitsalltag oder DFS-aktuelle Themen bearbeitet werden. / Die DFS setzt auf moderne digitale Arbeitsweisen und eine effiziente standortübergreifende Zusammenarbeit. Die Trainings dieses Loses sollen Mitarbeitende dabei unterstützen, die vorhandenen Werkzeuge sicher, effizient und zielgerichtet einzusetzen. Die Maßnahmen umfassen sowohl Grundlagen- als auch Vertiefungstrainings zu den eingesetzten Microsoft-Anwendungen. Neben der Vermittlung fachlicher Kenntnisse wird besonderer Wert auf praxisnahe Anwendungsfälle aus dem Arbeitsalltag gelegt. Zu den inhaltlichen Schwerpunkten zählen unter anderem die Analyse und Aufbereitung von Daten in Excel, die professionelle Erstellung von Präsentationen mit PowerPoint, die Nutzung moderner Kollaborationswerkzeuge wie Microsoft Teams, OneNote und Whiteboard sowie die effiziente Anwendung der Microsoft-365-Umgebung zur Unterstützung von Kommunikation, Wissensmanagement und Zusammenarbeit. Der Fokus der Seminare liegt hierbei insbesondere auf folgenden Schwerpunkten: • Excel Anfänger (Virtuell / 1 Tag) • Excel Fortgeschrittene (Virtuell / 1 Tag) • Office 365 (Virtuell / 4 Stunden bis max. 1 Tag) • PowerPoint (Virtuell / 4 Stunden) • Microsoft Teams, OneNote & Whiteboard (Virtuell / 1 Tag) / Mit der Lernreise „Female Empowerment“ setzt die DFS ein sichtbares Zeichen für die nachhaltige Förderung von Mitarbeiterinnen und unterstreicht den Anspruch, weibliche Talente gezielt auf ihrem beruflichen und persönlichen Weg zu begleiten. Die Lernreise soll Frauen dabei unterstützen, ihre Stärken gezielt einzusetzen, ihre Sichtbarkeit und Einflussnahme zu erhöhen sowie ihre Karriere selbstbewusst, authentisch und erfolgreich zu gestalten. Gleichzeitig sollen Räume für Vernetzung, gegenseitige Unterstützung und gemeinsames Lernen geschaffen werden. Die Teilnehmerinnen sollen ihre persönliche Wirkung stärken, Sicherheit im Umgang mit anspruchsvollen beruflichen Situationen gewinnen und befähigt werden, Verantwortung zu übernehmen, Veränderungen aktiv mitzugestalten und Impulse für die Weiterentwicklung der DFS zu setzen. Die Lernreise soll inspirierende Lernerfahrungen mit einem hohen Praxisbezug verbinden, neue Perspektiven eröffnen und die Teilnehmerinnen darin bestärken, ihre individuellen Entwicklungs- und Karriereziele konsequent zu verfolgen. Im Mittelpunkt stehen insbesondere die Themen Selbstführung, persönliche Wirksamkeit, Kommunikation, Einflussnahme, strategisches Netzwerken, Stakeholdermanagement, Resilienz, Sichtbarkeit, professionelle Positionierung sowie Karriere- und Laufbahnentwicklung. Ergänzend sind innovative Lern- und Austauschformate gewünscht, die die Vernetzung stärken, bereichsübergreifende Lerngemeinschaften fördern und einen nachhaltigen Erfahrungsaustausch ermöglichen. Die Maßnahme ist als hochwertiges, langfristig angelegtes Entwicklungsprogramm mit einer Laufzeit von bis zu zwei Jahren auszugestalten. Die Maßnahme ist als hochwertiges und langfristig angelegtes Entwicklungsprogramm mit einer Laufzeit von bis zu zwei Jahren auszugestalten. (Laufzeit max. 2 Jahre / max. 6-8 Seminartage im Kalenderjahr / Präsenz in Langen)",
+      "cpv": "79632000",
+      "pays": "DEU",
+      "deadline": "",
+      "montant": 0,
+      "publication": "2026-09-02",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/605512-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Microsoft Office",
+        "Office 365",
+        "Excel",
+        "PowerPoint"
+      ],
+      "bureautique": true,
+      "score": 65,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true,
+      "score_raw": 65,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "actionable",
+      "gating_reason": ""
+    },
+    {
       "id": "584794-2026",
       "ref": "584794-2026",
       "acheteur": "COBAS",
@@ -189,46 +229,6 @@
       "auto": true,
       "score_raw": 65,
       "cpv_class": "secondary",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "actionable",
-      "gating_reason": ""
-    },
-    {
-      "id": "565844-2026",
-      "ref": "565844-2026",
-      "acheteur": "DFS Deutsche Flugsicherung GmbH",
-      "objet": "Allemagne – Services de formation de personnel – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
-      "description": "Die DFS Deutsche Flugsicherung GmbH verfolgt das Ziel, einen strukturierten und unternehmensweiten Ansatz zum Aufbau von Kompetenzen im Bereich Künstliche Intelligenz (KI) zu etablieren. Mitarbeitende und Führungskräfte sollen im Sinne der KI-VO befähigt werden, KI-Anwendungen sicher, verantwortungsvoll und effizient im Arbeitsalltag einzusetzen sowie Potenziale für die Organisation systematisch zu erschließen. Hierzu soll ein mehrstufiges Befähigungskonzept umgesetzt werden, das unterschiedliche Zielgruppen und Kompetenzniveaus adressiert. Zentrale Bestandteile sollen modular aufgebaute Lernreisen für Mitarbeitende und Führungskräfte sein, die eine Kombination aus virtuellen Trainingsformaten, begleitetem Selbststudium sowie praxisnahen Übungen umfassen. Das Copilot Lizenz Kompakt Modul soll auf den Lernreisen für Mitarbeitenden und Führungskräften aufbauen. Inhaltlich sollen sowohl Grundlagen der Künstlichen Intelligenz als auch deren konkrete Anwendung im Arbeitskontext der DFS vermittelt werden. Schwerpunkte sollen insbesondere die Nutzung von Microsoft Copilot (Basic/Chat und Premium/mit Lizenz), praxisorientiertes Prompting und die Nutzung von Agenten, die Identifikation und Umsetzung von Anwendungsfällen sowie die Reflexion von Chancen, Grenzen und Risiken umfassen. Darüber hinaus sollen zielgruppenspezifische Formate vorgesehen werden: Für Mitarbeitende soll der Fokus auf der sicheren und effizienten Anwendung von KI im Tagesgeschäft liegen, während Formate für Führungskräfte insbesondere deren Rolle in der Steuerung, Förderung und kulturellen Verankerung von KI-Nutzung im eigenen Verantwortungsbereich adressieren sollen. Ein wesentliches Element der vorgesehenen Transferformate soll ein Erfahrungskreis „Prompting“ darstellen. Dabei soll es sich um ein strukturiertes Austauschformat handeln, in dem Mitarbeitende ihre Erfahrungen im Umgang mit generativer KI – insbesondere bei der Erstellung und Anwendung von Prompts – teilen und weiterentwickeln. Ziel soll es sein, Best Practices transparent zu machen, die Qualität der erzeugten Ergebnisse zu steigern und den nachhaltigen Transfer in den Arbeitsalltag zu unterstützen. Der Erfahrungskreis soll damit zur organisationsweiten Vernetzung sowie zur Etablierung einer lernorientierten, offenen Nutzungskultur im Umgang mit KI beitragen. Insgesamt soll der Ansatz auf einen breiten, praxisnahen Kompetenzaufbau ausgerichtet sein, der sowohl die individuelle Handlungssicherheit im Umgang mit KI stärkt als auch die strategische Weiterentwicklung und Effizienzsteigerung innerhalb der DFS unterstützt. Der Fokus der Seminare liegt hierbei insbesondere auf folgenden Schwerpunkten: • Lernreise KI für Führungskräfte (Modularer Aufbau/ Virtuell / In Summe 1 Tag) • Lernreise KI Copilot Chat Grundkurs für Mitarbeitende (Modularer Aufbau/ Virtuell / In Summe 1 Tag) • Lernreise KI Copilot mit Lizenz Grundkurs für Mitarbeitende (Modularer Aufbau / Virtuell / In Summe 1 Tag) • Aufbaumodul Copilot mit Lizenz für Führungskräfte und Mitarbeitende, die unterjährig eine Lizenz bekommen haben (Virtuell / halbtägig) • Promptathon (Präsenz in Langen / halbtägig bis max. 1 Tag) / Die Seminare sollen die Kommunikations-, Team-, Moderations- und Präsentationskompetenzen der Mitarbeitenden stärken und sie befähigen, in unterschiedlichen beruflichen Situationen souverän, überzeugend und zielgruppengerecht zu agieren. Die Maßnahmen sollen insbesondere die Schwerpunkte Kommunikation, Teamarbeit, überzeugendes Auftreten, Moderation von Workshops sowie wirkungsvolle Präsentation umfassen. Ein hoher Praxisbezug mit Übungen, Simulationen, Reflexion und individuellem Feedback zur nachhaltigen Anwendung im DFS-Arbeitsalltag soll sichergestellt werden. Der Fokus der Seminare liegt hierbei insbesondere auf folgenden Schwerpunkten: • Schlüsselfaktoren erfolgreicher Kommunikation (Präsenz / 2 Tage) • Teamfähigkeit und Teamarbeit (Präsenz / 2 Tage) • Überzeugend Auftreten und Wirken (Präsenz / 2 Tage) • Moderation von Workshops (Präsenz / 2 Tage) • Wirkungsvoll Präsentieren (Präsenz / 2 Tage) / Ziel der Trainings ist es, Mitarbeitende dabei zu unterstützen, ihre persönlichen Ressourcen gezielt einzusetzen, Belastungen gesund zu bewältigen und ihre Arbeitsweise nachhaltig zu optimieren. Die angebotenen Maßnahmen sollen praxisnah aufzeigen, wie Resilienz gestärkt, Belastungen frühzeitig erkannt und wirksame Strategien zur Stressbewältigung im Arbeitsalltag angewendet werden können. Gleichzeitig sollen die Teilnehmenden befähigt werden, ihre Zeit und Aufgaben gezielt zu priorisieren, ihre Arbeitsorganisation zu optimieren und so ihre persönliche Leistungsfähigkeit nachhaltig zu fördern. Die Trainings sollen konkrete Werkzeuge und Methoden vermitteln, die unmittelbar im Arbeitsalltag eingesetzt werden können und einen nachhaltigen Transfer in die Praxis ermöglichen. Der Fokus der Seminare liegt hierbei insbesondere auf folgenden Schwerpunkten: • Resilienz & Stressmanagement (Präsenz / 2 Tag) • Zeitmanagement und Selbsteffizienz (Präsenz / 2 Tage) Für das Los 3 kommt außerdem die Begleitung/ Moderation der \"Erfahrungskreise\" hinzu Bei den \"Erfahrungskreisen\" geht es um die Reflexion der eigenen Entwicklung der Mitarbeiterinnen und Mitarbeiter der DFS nach dem Training. Der Erfahrungskreis ist eine moderierte Austauschplattform (Präsenz oder virtuell) für die Trainingsteilnehmenden, bei dem diese sich unter Verwendung verschiedener Methoden zu Fragen oder Erfahrungswerten austauschen können. Dabei können konkrete Fragestellungen aus dem eigenen Arbeitsalltag oder DFS-aktuelle Themen bearbeitet werden. / Die DFS setzt auf moderne digitale Arbeitsweisen und eine effiziente standortübergreifende Zusammenarbeit. Die Trainings dieses Loses sollen Mitarbeitende dabei unterstützen, die vorhandenen Werkzeuge sicher, effizient und zielgerichtet einzusetzen. Die Maßnahmen umfassen sowohl Grundlagen- als auch Vertiefungstrainings zu den eingesetzten Microsoft-Anwendungen. Neben der Vermittlung fachlicher Kenntnisse wird besonderer Wert auf praxisnahe Anwendungsfälle aus dem Arbeitsalltag gelegt. Zu den inhaltlichen Schwerpunkten zählen unter anderem die Analyse und Aufbereitung von Daten in Excel, die professionelle Erstellung von Präsentationen mit PowerPoint, die Nutzung moderner Kollaborationswerkzeuge wie Microsoft Teams, OneNote und Whiteboard sowie die effiziente Anwendung der Microsoft-365-Umgebung zur Unterstützung von Kommunikation, Wissensmanagement und Zusammenarbeit. Der Fokus der Seminare liegt hierbei insbesondere auf folgenden Schwerpunkten: • Excel Anfänger (Virtuell / 1 Tag) • Excel Fortgeschrittene (Virtuell / 1 Tag) • Office 365 (Virtuell / 4 Stunden bis max. 1 Tag) • PowerPoint (Virtuell / 4 Stunden) • Microsoft Teams, OneNote & Whiteboard (Virtuell / 1 Tag) / Mit der Lernreise „Female Empowerment“ setzt die DFS ein sichtbares Zeichen für die nachhaltige Förderung von Mitarbeiterinnen und unterstreicht den Anspruch, weibliche Talente gezielt auf ihrem beruflichen und persönlichen Weg zu begleiten. Die Lernreise soll Frauen dabei unterstützen, ihre Stärken gezielt einzusetzen, ihre Sichtbarkeit und Einflussnahme zu erhöhen sowie ihre Karriere selbstbewusst, authentisch und erfolgreich zu gestalten. Gleichzeitig sollen Räume für Vernetzung, gegenseitige Unterstützung und gemeinsames Lernen geschaffen werden. Die Teilnehmerinnen sollen ihre persönliche Wirkung stärken, Sicherheit im Umgang mit anspruchsvollen beruflichen Situationen gewinnen und befähigt werden, Verantwortung zu übernehmen, Veränderungen aktiv mitzugestalten und Impulse für die Weiterentwicklung der DFS zu setzen. Die Lernreise soll inspirierende Lernerfahrungen mit einem hohen Praxisbezug verbinden, neue Perspektiven eröffnen und die Teilnehmerinnen darin bestärken, ihre individuellen Entwicklungs- und Karriereziele konsequent zu verfolgen. Im Mittelpunkt stehen insbesondere die Themen Selbstführung, persönliche Wirksamkeit, Kommunikation, Einflussnahme, strategisches Netzwerken, Stakeholdermanagement, Resilienz, Sichtbarkeit, professionelle Positionierung sowie Karriere- und Laufbahnentwicklung. Ergänzend sind innovative Lern- und Austauschformate gewünscht, die die Vernetzung stärken, bereichsübergreifende Lerngemeinschaften fördern und einen nachhaltigen Erfahrungsaustausch ermöglichen. Die Maßnahme ist als hochwertiges, langfristig angelegtes Entwicklungsprogramm mit einer Laufzeit von bis zu zwei Jahren auszugestalten. Die Maßnahme ist als hochwertiges und langfristig angelegtes Entwicklungsprogramm mit einer Laufzeit von bis zu zwei Jahren auszugestalten. (Laufzeit max. 2 Jahre / max. 6-8 Seminartage im Kalenderjahr / Präsenz in Langen)",
-      "cpv": "79632000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-08-14",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/565844-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Microsoft Office",
-        "Office 365",
-        "Excel",
-        "PowerPoint"
-      ],
-      "bureautique": true,
-      "score": 65,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true,
-      "score_raw": 65,
-      "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
       "quality_flag": "actionable",
@@ -359,8 +359,8 @@
       "gating_reason": ""
     },
     {
-      "id": "598947-2026",
-      "ref": "598947-2026",
+      "id": "603801-2026",
+      "ref": "603801-2026",
       "acheteur": "FIT FORMATION",
       "objet": "France – Services de formation – Réalisation d'actions de formation en Français Langue Étrangère (FLE)",
       "description": "AURILLAC - FLE VIE QUOTIDIENNE / ACCÈS AU DROIT COMMUN&amp;lt;br/&amp;gt; / AURILLAC - FLE ALPHA / POST-ALPHA&amp;lt;br/&amp;gt; / AURILLAC - PRÉPARATION CERTIFICATION A2/B1&amp;lt;br/&amp;gt; / LE PUY-EN-VELAY - FLE VIE QUOTIDIENNE&amp;lt;br/&amp;gt; / LE PUY-EN-VELAY - FLE ALPHA / POST-ALPHA&amp;lt;br/&amp;gt;",
@@ -368,9 +368,9 @@
       "pays": "FRA",
       "deadline": "2026-09-11",
       "montant": 195,
-      "publication": "2026-08-31",
+      "publication": "2026-09-02",
       "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/598947-2026",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/603801-2026",
       "segment": "Autre",
       "keyword_hits": [
         "certification services"
@@ -509,6 +509,89 @@
       "auto": true,
       "score_raw": 57,
       "cpv_class": "core",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
+      "gating_reason": ""
+    },
+    {
+      "id": "603835-2026",
+      "ref": "603835-2026",
+      "acheteur": "LfA Förderbank Bayern",
+      "objet": "Allemagne – Services de conseil en systèmes informatiques et conseils techniques – Unterstützung - technische Systemadministration",
+      "description": "Die SAP-Basis Administration verantwortet, unter der Beachtung, dass die LfA den SAP-Betrieb ihres ERP- sowie ihres BW-Systems in die SAP-Cloud ausgelagert hat, den reibungslosen Betrieb unserer SAP-Systeme in enger Zusammenarbeit mit der SAP. Zu den zentralen Aufgaben im SAP-Basis-Umfeld gehört die tägliche Überwachung der SAP-Systemlandschaft, um einen performanten und fehlerfreien Betrieb sicherzustellen. Dabei werden regelmäßig die Standard-Basis-Transaktionen auf Fehlermeldungen geprüft - sowohl direkt in den relevanten SAP-Transaktionen als auch anhand eingehender Systemmeldungen per E-Mail, bzw. über ein aktives Auswerten der Reports in SAP for Me. Ein weiterer wesentlicher Bestandteil ist das Einspielen von Hotfixes sowie SAP- und LfA-Fach-Releases, um die Systeme stets auf dem aktuellen und sicheren Stand zu halten. Dazu zählt auch die Analyse, Bewertung und das Abarbeiten von Schwachstellen im Baramundi-System, um die IT-Sicherheit nachhaltig zu gewährleisten. Zu den Aufgaben in der SAP Basis gehören zudem Betrieb und Wartung des SAP Solution Managers (z.B. Einspielen von Security-Patches, Anlage neuer Änderungszyklen, Analyse von Transportproblemen). Neue eingehende Tickets (Incident-, Problem- und Change-Management) werden kontinuierlich bearbeitet. Quartalsweise werden gemeinsam mit der SAP System- und Mandantenkopien durchgeführt, wobei der Schwerpunkt der Tätigkeiten in der LfA einerseits auf der Koordinierung der einzelnen Arbeitspakete auch unter Einbeziehung der SAP-Umsysteme und andererseits auf den Nacharbeiten in den SAP-Systemen liegt. / - Analysen von Anforderungen - Betreuung des produktiven Betriebs / Support (Fehleranalyse und -bereinigung) - Erstellung von IT-Konzeptionen und Testkonzepten - Umsetzung / Implementierung von kundeneigenen Entwicklungen o Open Text Team Developer - Entwicklung o ABAP-Entwicklung o Pl/Sql - Entwicklungen o C# - Entwicklungen o Schnittstellen o Pflege des Datenmodells - Test / - Softwareentwicklung für das RISK/CONT System - Schnittstellenprogrammierung für Datenversorgung RISK/CONT aus operativen Systemen und Datenlieferung aus RISK/CONT an weitere dispositive Systeme - Erstellen von Fach-, DV-, Test-Konzepten - Klärung und Abstimmung fachlicher Anforderungen mit dem Fachbereich - Aufwandsschätzung für Umsetzungen aus fachlichen Anforderungen - Test - Betreuung des produktiven Betriebs / Support (Fehleranalyse und -bereinigung) im RISK/CONT System. - Erstellen und Pflege von Dokumentation der technischen Systeme und Prozesse für das RISK/CONT System.",
+      "cpv": "72220000",
+      "pays": "DEU",
+      "deadline": "2026-10-01",
+      "montant": 1850,
+      "publication": "2026-09-02",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/603835-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "test administration"
+      ],
+      "bureautique": false,
+      "score": 52,
+      "score_detail": {
+        "fit": 10,
+        "size": 15,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true,
+      "score_raw": 52,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
+      "gating_reason": ""
+    },
+    {
+      "id": "26-85056",
+      "ref": "26-85056",
+      "acheteur": "CPCAM DES BOUCHES-DU-RHONE",
+      "objet": "Accompagnement dans le maintien de l'accréditation de la norme NF EN ISO 15189 du laboratoire du CESAM 13 de la caisse primaire centrale d'assurance maladie des Bouches-du-Rhône",
+      "description": "Accompagnement dans le maintien de l'accréditation de la norme NF EN ISO 15189 du laboratoire du CESAM 13 de la caisse primaire centrale d'assurance maladie des Bouches-du-Rhône",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-10-01",
+      "montant": 150,
+      "publication": "2026-09-01",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-85056",
+      "_boamp": {
+        "famille": "Marchés entre 90 k€ et seuils européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Prestations de services"
+        ],
+        "departement": "13"
+      },
+      "segment": "Autre",
+      "keyword_hits": [
+        "accréditation",
+        "accreditation"
+      ],
+      "score": 47,
+      "score_detail": {
+        "fit": 10,
+        "size": 10,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true,
+      "score_raw": 47,
+      "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
       "quality_flag": "noise",

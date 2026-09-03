@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-09-02T10:36:27.215Z",
+  "generated_at": "2026-09-03T10:43:05.553Z",
   "source": "MERGE",
   "schema_version": 2,
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 1525,
-      "matched": 28,
+      "fetched": 1513,
+      "matched": 29,
       "go": 1,
-      "generated_at": "2026-09-02T10:27:04.361Z"
+      "generated_at": "2026-09-03T10:33:45.067Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 3347,
+      "fetched": 3458,
       "matched": 8,
       "go": 0,
-      "generated_at": "2026-09-02T10:36:26.845Z"
+      "generated_at": "2026-09-03T10:43:04.985Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-09-02T10:36:27.080Z"
+      "generated_at": "2026-09-03T10:43:05.440Z"
     }
   },
-  "total_fetched": 4872,
-  "total_matched": 32,
+  "total_fetched": 4971,
+  "total_matched": 33,
   "total_go": 1,
   "total_dedup_collisions": 4,
   "dedup_breakdown": {
@@ -40,7 +40,7 @@
     "false_positives_human_verdict_4w": 0,
     "filtered_cpv_blacklist": 1,
     "filtered_stopword": 4,
-    "capped_no_context": 9,
+    "capped_no_context": 10,
     "displayed_in_radar": 8
   },
   "notices": [
@@ -754,6 +754,43 @@
       "gating_reason": ""
     },
     {
+      "id": "606500-2026",
+      "ref": "606500-2026",
+      "acheteur": "CNBF Caisse Nationale des Barreaux Français",
+      "objet": "France – Services des actuaires – Prestations d'actuariat",
+      "description": "Le présent marché a pour objet la réalisation de prestations d'études actuarielles, de conseil, d'assistance au pilotage financier et de refonte/maintenance d'outils de projection pour l'ensemble des régimes gérés par la CNBF. Le présent marché est un marché public ordinaire à prix mixtes, conclu en application des articles R. 2112-6 et suivants du Code de la commande publique. Le montant total estimé du marché s'élève à 600 000 € HT sur sa durée totale. Il combine deux modes de rémunération et d'exécution distincts : 1. Une part forfaitaire annuelle : • Elle couvre les prestations récurrentes d'études actuarielles annuelles obligatoires et la maintenance corrective • Ces prestations s'appliquent de plein droit dès la notification du marché sans émission préalable de bon de commande. • Elles sont rémunérées sur la base d'un prix forfaitaire ferme figurant au bordereau des prix unitaires (BPU). 2. 2. Une part à prix unitaires sur bons de commande : • Elle couvre les études spécifiques et prospectives ponctuelles (projets de réformes, analyses d'équité, etc.), les simulations complémentaires, les actions de formation ainsi que la maintenance évolutive de l’outil et l’évolution majeure ou la refonte de l'outil de projection Excel. • Ces prestations sont exécutées au fur et à mesure des besoins par l'émission de bons de commande, sur la base des prix unitaires figurant au Bordereau des Prix Unitaires (BPU). • La part à bons de commande est conclue avec un montant maximum de 300 000 € HT sur la durée totale du marché.",
+      "cpv": "66519600",
+      "pays": "FRA",
+      "deadline": "2026-10-05",
+      "montant": 0,
+      "publication": "2026-09-03",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/606500-2026",
+      "segment": "Autre",
+      "keyword_hits": [
+        "Excel"
+      ],
+      "bureautique": true,
+      "score": 35,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true,
+      "score_raw": 67,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
+      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
+    },
+    {
       "id": "601008-2026",
       "ref": "601008-2026",
       "acheteur": "Commune de Pontault-Combault",
@@ -1103,6 +1140,46 @@
       "gating_reason": "keyword solo ambigu sans bigramme contextuel"
     },
     {
+      "id": "607385-2026",
+      "ref": "607385-2026",
+      "acheteur": "Université de Lorraine",
+      "objet": "France – Services de formation professionnelle – PRESTATIONS DE FORMATION CONTINUE À DESTINATION DES AGENTS",
+      "description": "Les profonds changements qui ont affecté le paysage universitaire ces dernières années, ainsi que les évolutions du management dans la fonction publique, se traduisent par des exigences fortes en matière de gestion des ressources humaines dans les établissements. Ils entrainent en particulier pour les directrices et directeurs de composantes de formation, laboratoire de recherches ou de direction, la nécessité de porter une attention particulière aux aspects managériaux de cette fonction. / Le présent lot porte sur les formations suivantes : • Habilitation électrique – Formation initiale • Habilitation électrique – Recyclage / Les formations pourront se faire en présentiel et distanciel. L’Université de Lorraine ne prendra pas en charge les frais de déplacement, d’hébergement et de restauration du prestataire. L’animation repose sur une répartition équilibrée et complémentaire des interventions entre les deux formateurs·rices (une personne interne UL et une personne issue de l’équipe du titulaire), avec un rôle équivalent afin d’assurer une cohérence dans l’évaluation et le suivi des candidats. Les deux formateurs·rices, interviendront de manière coordonnée, en alternance ou en binôme, selon les besoins spécifiques de chaque session. Chaque partie apportera son expertise tout en veillant à garantir une continuité pédagogique et une homogénéité dans les critères d’évaluation.",
+      "cpv": "80530000",
+      "pays": "FRA",
+      "deadline": "2026-10-05",
+      "montant": 0,
+      "publication": "2026-09-03",
+      "source": "TED",
+      "url": "https://ted.europa.eu/fr/notice/-/detail/607385-2026",
+      "segment": "ESR",
+      "keyword_hits": [
+        "session d'évaluation",
+        "habilitation"
+      ],
+      "bureautique": false,
+      "score": 0,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "filtered",
+      "notes": "",
+      "auto": true,
+      "score_raw": 62,
+      "cpv_class": "core",
+      "bigrams_matched": [],
+      "stop_hits": [
+        "ressources humaines"
+      ],
+      "quality_flag": "noise",
+      "gating_reason": "stop-word : ressources humaines"
+    },
+    {
       "id": "585322-2026",
       "ref": "585322-2026",
       "acheteur": "Communauté de Communes Loire Layon Aubance",
@@ -1274,45 +1351,6 @@
       ],
       "quality_flag": "noise",
       "gating_reason": "stop-word : ressources humaines, paie"
-    },
-    {
-      "id": "534564-2026",
-      "ref": "534564-2026",
-      "acheteur": "Office Wallon de la formation professionnelle et de l'emploi",
-      "objet": "Belgique – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Marché de services : maintenance et évolution du système d’information et de gestion des ressources humaines du Forem (HR Access)",
-      "description": "* Poste 1 – Acquisition de licences supplémentaires - Sous-poste 1.1 : Licence supplémentaire à l’unité - Sous-poste 1.2 : Pack de 10 licences supplémentaires - Sous-poste 1.3 : Pack de 50 licences supplémentaires * Poste 2 – Maintenance annuelle des licences - Sous-poste 2.1 : Maintenance licence globale de base 5000 utilisateurs - Sous-poste 2.2 : Maintenance licence supplémentaire à l’unité - Sous-poste 2.3 : Maintenance licences supplémentaires en pack de 10 - Sous-poste 2.4 : Maintenance licences supplémentaires en pack de 50 / * Poste 1 – Tierce maintenance applicative (TMA - forfait annuel) * Poste 2 – Développements HR Access en régie - Sous-poste 2.1 : Chef de projet spécialiste HRA - Sous-poste 2.2 : Analyste fonctionnel spécialiste HRA - Sous-poste 2.3 : Développeur spécialiste HRA - Sous-poste 2.4 : Testeur spécialiste HRA",
-      "cpv": "72000000",
-      "pays": "BEL",
-      "deadline": "2026-09-10",
-      "montant": 0,
-      "publication": "2026-08-03",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/534564-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Pack Office"
-      ],
-      "bureautique": true,
-      "score": 0,
-      "score_detail": {
-        "fit": 30,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "filtered",
-      "notes": "",
-      "auto": true,
-      "score_raw": 62,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [
-        "ressources humaines"
-      ],
-      "quality_flag": "noise",
-      "gating_reason": "stop-word : ressources humaines"
     }
   ]
 }

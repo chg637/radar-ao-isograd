@@ -1,0 +1,377 @@
+{
+  "generated_at": "2026-09-03T10:43:04.985Z",
+  "source": "BOAMP",
+  "window_days": 30,
+  "total_fetched": 3458,
+  "total_matched": 8,
+  "total_go": 0,
+  "gating_stats": {
+    "filtered_stopword": 1,
+    "capped_no_context": 2
+  },
+  "notices": [
+    {
+      "id": "26-79755",
+      "ref": "26-79755",
+      "acheteur": "OPCO ATLAS",
+      "objet": "Marché d'assistance à maîtrise d'ouvrage (AMO) sur le champ de la certification professionnelle - Accompagnement à la sécurisation des processus qualité des certifications de branche",
+      "description": "Marché d'assistance à maîtrise d'ouvrage (AMO) sur le champ de la certification professionnelle - Accompagnement à la sécurisation des processus qualité des certifications de branche",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-09-14",
+      "montant": 0,
+      "publication": "2026-08-12",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-79755",
+      "_boamp": {
+        "famille": "Marchés européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Assistance à maîtrise d'ouvrage"
+        ],
+        "departement": "75"
+      },
+      "segment": "Formation pro",
+      "keyword_hits": [
+        "certification professionnelle"
+      ],
+      "score": 62,
+      "score_detail": {
+        "fit": 30,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true,
+      "score_raw": 62,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "actionable",
+      "gating_reason": ""
+    },
+    {
+      "id": "26-79132",
+      "ref": "26-79132",
+      "acheteur": "MULHOUSE ALSACE AGGLOMERATION",
+      "objet": "Marché d'insertion et de qualification professionnelle ayant comme prestation support des prestations de service des repas pour les périscolaires et autres établissements de m2A",
+      "description": "Marché d'insertion et de qualification professionnelle ayant comme prestation support des prestations de service des repas pour les périscolaires et autres établissements de m2A",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-09-14",
+      "montant": 0,
+      "publication": "2026-08-09",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-79132",
+      "_boamp": {
+        "famille": "Marchés européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure NC",
+        "descripteurs": [
+          "Prestations de services"
+        ],
+        "departement": "68"
+      },
+      "segment": "Autre",
+      "keyword_hits": [
+        "qualification professionnelle"
+      ],
+      "score": 57,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "cond",
+      "notes": "",
+      "auto": true,
+      "score_raw": 57,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
+      "gating_reason": ""
+    },
+    {
+      "id": "26-85056",
+      "ref": "26-85056",
+      "acheteur": "CPCAM DES BOUCHES-DU-RHONE",
+      "objet": "Accompagnement dans le maintien de l'accréditation de la norme NF EN ISO 15189 du laboratoire du CESAM 13 de la caisse primaire centrale d'assurance maladie des Bouches-du-Rhône",
+      "description": "Accompagnement dans le maintien de l'accréditation de la norme NF EN ISO 15189 du laboratoire du CESAM 13 de la caisse primaire centrale d'assurance maladie des Bouches-du-Rhône",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-10-01",
+      "montant": 150,
+      "publication": "2026-09-01",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-85056",
+      "_boamp": {
+        "famille": "Marchés entre 90 k€ et seuils européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Prestations de services"
+        ],
+        "departement": "13"
+      },
+      "segment": "Autre",
+      "keyword_hits": [
+        "accréditation",
+        "accreditation"
+      ],
+      "score": 47,
+      "score_detail": {
+        "fit": 10,
+        "size": 10,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 3
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true,
+      "score_raw": 47,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
+      "gating_reason": ""
+    },
+    {
+      "id": "26-80378",
+      "ref": "26-80378",
+      "acheteur": "Hospices Civils de Lyon",
+      "objet": "Prestation de sous-traitance d’examens d’anatomo-pathologie pour le GHT Val Rhône Centre",
+      "description": "Prestation de sous-traitance d’examens d’anatomo-pathologie pour le GHT Val Rhône Centre",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-09-07",
+      "montant": 0,
+      "publication": "2026-08-14",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-80378",
+      "_boamp": {
+        "famille": "Marchés européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Analyses médicales, biologiques"
+        ],
+        "departement": "38,69"
+      },
+      "segment": "Formation pro",
+      "keyword_hits": [
+        "centre d'examens"
+      ],
+      "score": 47,
+      "score_detail": {
+        "fit": 15,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true,
+      "score_raw": 47,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
+      "gating_reason": ""
+    },
+    {
+      "id": "26-79761",
+      "ref": "26-79761",
+      "acheteur": "Hospices Civils de Lyon",
+      "objet": "Prestation de sous-traitance d’examens d’anatomo-pathologie pour le GHT Val Rhône Centre",
+      "description": "Prestation de sous-traitance d’examens d’anatomo-pathologie pour le GHT Val Rhône Centre",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-09-07",
+      "montant": 0,
+      "publication": "2026-08-13",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-79761",
+      "_boamp": {
+        "famille": "Marchés européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Analyses médicales, biologiques"
+        ],
+        "departement": "38,69"
+      },
+      "segment": "Formation pro",
+      "keyword_hits": [
+        "centre d'examens"
+      ],
+      "score": 47,
+      "score_detail": {
+        "fit": 15,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true,
+      "score_raw": 47,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
+      "gating_reason": ""
+    },
+    {
+      "id": "26-80976",
+      "ref": "26-80976",
+      "acheteur": "Coallia",
+      "objet": "Gestion des identités et des habilitations (IAM)",
+      "description": "Gestion des identités et des habilitations (IAM)",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-09-10",
+      "montant": 0,
+      "publication": "2026-08-18",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-80976",
+      "_boamp": {
+        "famille": "Marchés européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Logiciel"
+        ],
+        "departement": "75"
+      },
+      "segment": "Autre",
+      "keyword_hits": [
+        "habilitation"
+      ],
+      "score": 35,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true,
+      "score_raw": 57,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
+      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
+    },
+    {
+      "id": "26-77508",
+      "ref": "26-77508",
+      "acheteur": "EFS ILE-DE-FRANCE",
+      "objet": "Nettoyage des zones nécessitant des exigences techniques et habilitations spécifiques",
+      "description": "Nettoyage des zones nécessitant des exigences techniques et habilitations spécifiques",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-09-03",
+      "montant": 0,
+      "publication": "2026-08-05",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-77508",
+      "_boamp": {
+        "famille": "Marchés européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Nettoyage de locaux"
+        ],
+        "departement": "94"
+      },
+      "segment": "Autre",
+      "keyword_hits": [
+        "habilitation"
+      ],
+      "score": 35,
+      "score_detail": {
+        "fit": 25,
+        "size": 8,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 0
+      },
+      "score_status": "no",
+      "notes": "",
+      "auto": true,
+      "score_raw": 57,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [],
+      "quality_flag": "noise",
+      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
+    },
+    {
+      "id": "26-82714",
+      "ref": "26-82714",
+      "acheteur": "CPAM DES LANDES",
+      "objet": "Maîtrise d’œuvre pour les travaux d’aménagement intérieurs du Siège de la CPAM des Landes – Activités du Centre d’Examens de Santé, du Service médical, du Service social et d’Accès à la santé",
+      "description": "Maîtrise d’œuvre pour les travaux d’aménagement intérieurs du Siège de la CPAM des Landes – Activités du Centre d’Examens de Santé, du Service médical, du Service social et d’Accès à la santé",
+      "cpv": "",
+      "pays": "FRA",
+      "deadline": "2026-10-05",
+      "montant": 150,
+      "publication": "2026-08-24",
+      "source": "BOAMP",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-82714",
+      "_boamp": {
+        "famille": "Marchés entre 90 k€ et seuils européens",
+        "nature": "Avis de marché",
+        "procedure": "Procédure Ouverte",
+        "descripteurs": [
+          "Maîtrise d'oeuvre"
+        ],
+        "departement": "40"
+      },
+      "segment": "Autre",
+      "keyword_hits": [
+        "centre d'examens"
+      ],
+      "score": 0,
+      "score_detail": {
+        "fit": 10,
+        "size": 10,
+        "tech": 12,
+        "com": 5,
+        "admin": 7,
+        "delay": 5
+      },
+      "score_status": "filtered",
+      "notes": "",
+      "auto": true,
+      "score_raw": 49,
+      "cpv_class": "unknown",
+      "bigrams_matched": [],
+      "stop_hits": [
+        "médical"
+      ],
+      "quality_flag": "noise",
+      "gating_reason": "stop-word : médical"
+    }
+  ]
+}

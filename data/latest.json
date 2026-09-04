@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-09-03T10:43:05.553Z",
+  "generated_at": "2026-09-04T10:34:01.893Z",
   "source": "MERGE",
   "schema_version": 2,
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 1513,
-      "matched": 29,
+      "fetched": 1400,
+      "matched": 28,
       "go": 1,
-      "generated_at": "2026-09-03T10:33:45.067Z"
+      "generated_at": "2026-09-04T10:24:22.110Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 3458,
+      "fetched": 3512,
       "matched": 8,
       "go": 0,
-      "generated_at": "2026-09-03T10:43:04.985Z"
+      "generated_at": "2026-09-04T10:34:01.302Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-09-03T10:43:05.440Z"
+      "generated_at": "2026-09-04T10:34:01.753Z"
     }
   },
-  "total_fetched": 4971,
-  "total_matched": 33,
+  "total_fetched": 4912,
+  "total_matched": 32,
   "total_go": 1,
   "total_dedup_collisions": 4,
   "dedup_breakdown": {
@@ -40,7 +40,7 @@
     "false_positives_human_verdict_4w": 0,
     "filtered_cpv_blacklist": 1,
     "filtered_stopword": 4,
-    "capped_no_context": 10,
+    "capped_no_context": 9,
     "displayed_in_radar": 8
   },
   "notices": [
@@ -413,19 +413,19 @@
         "certification services"
       ],
       "bureautique": false,
-      "score": 58,
+      "score": 57,
       "score_detail": {
         "fit": 25,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 1
+        "delay": 0
       },
       "score_status": "cond",
       "notes": "",
       "auto": true,
-      "score_raw": 58,
+      "score_raw": 57,
       "cpv_class": "core",
       "bigrams_matched": [],
       "stop_hits": [],
@@ -697,19 +697,19 @@
         "plateforme de tests"
       ],
       "bureautique": false,
-      "score": 43,
+      "score": 42,
       "score_detail": {
         "fit": 10,
         "size": 8,
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 1
+        "delay": 0
       },
       "score_status": "no",
       "notes": "",
       "auto": true,
-      "score_raw": 43,
+      "score_raw": 42,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
@@ -1097,43 +1097,6 @@
       "auto": true,
       "score_raw": 57,
       "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "noise",
-      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
-    },
-    {
-      "id": "537230-2026",
-      "ref": "537230-2026",
-      "acheteur": "Bezirksregierung Münster",
-      "objet": "Allemagne – Logiciels pédagogiques – Beschaffung Digitales Tool - BR Dt, D, K",
-      "description": "Gegenstand dieser Beschaffung ist die Bereitstellung von Software Schullizenzen für die Anwendungssoftware \"SPLINT\" einschließlich der hierfür erforderlichen Dienstleistungen (insbesondere Einrichtung, Support, Wartung und Updates). Die Software wird von Lehrkräften zur Erstellung, Dokumentation und Fortschreibung von Förderplänen für Schülerinnen und Schüler mit (sonderpädagogischem) Unterstützungsbedarf im Gemeinsamen Lernen und an Förderschulen eingesetzt. Die Laufzeit beträgt drei Schuljahre. Das erste Schuljahr beginnt mit dem Schuljahr 2026/2027 und endet zum Ende des dritten darauf folgenden Schuljahres am 31.07.2029. Es sind Schullizenzen für 2.600 Schulen in den Regierungsbezirken Detmold, Düsseldorf und Köln anzubieten. Eine Schullizenz berechtigt jeweils eine Schule zur Nutzung der Software durch die im Schulbetrieb eingesetzten Nutzerinnen und Nutzer (Lehrkräfte, Schülerinnen und Schüler, sonstiges pädagogisches Personal) sowie auf den im Schulbetrieb eingesetzten Endgeräten. Im Angebot ist eindeutig darzustellen, welche Nutzungsrechte die Schullizenzen umfassen (z. B. Anzahl gleichzeitiger Zugriffe, Einsatz auf schulischen und privaten Endgeräten, Nutzung in AGs, Hausaufgabenbereich etc.). Der Auftraggeber beabsichtigt, die beauftragte Lösung perspektivisch auf weitere Schulen in Nordrhein-Westfalen (NRW) auszuweiten. . Neben der Grundmenge an Schullizenzen umfasst der Auftrag daher eine Option des Auftraggebers, während der Vertragslaufzeit zusätzliche Schullizenzen für weitere Schulen in NRW abzurufen. Es ist sicherzustellen, dass die angebotene Lösung technisch skalierbar ist und die Einbindung weiterer Schulen ohne Systembruch ermöglicht und die lizenzrechtlichen Bedingungen eine spätere Erweiterung des Lizenzbestands auf zusätzliche Schulen in NRW ermöglichen. Zur Abbildung des potentiellen Gesamtumfangs und zur Vergleichbarkeit der Angebote wird davon ausgegangen, dass die Lösung grundsätzlich so auszugestalten ist, dass sie auf landesweit weitere Schulen in NRW ausgedehnt werden kann. Die Anwendungssoftware muss folgende Anforderungen erfüllen: - Lehrkräfte haben die Möglichkeit, kollaborativ Förderpläne zu erstellen und fortzuschreiben. - Die Einbindung von Eltern sowie Schülerinnen und Schülern in die Förderplanung wird unterstützt (z. B. durch geeignete Darstellungs- und Kommunikationsfunktionen). - Nutzerinnen und Nutzer sowie Fachexpertinnen und Fachexperten können in Peer?Review?Verfahren eingebunden werden. - Sonderpädagogische Expertise und unterrichtsfachliche Inhalte werden sowohl \"Top-down\" (zentrale Vorgaben, Handreichungen) als auch \"Bottom-up\" (Impulse aus der Praxis) generiert und in der Anwendung nutzbar gemacht. Die Anwendungssoftware muss insbesondere folgende Anforderungen im Bereich der sonderpädagogischen Förderung erfüllen: - Neben den bisherigen Förderschwerpunkten werden weitere Themen in zuständigen Fachgruppen kontinuierlich bearbeitet. Dazu zählen insbesondere der Förderschwerpunkt Geistige Entwicklung sowie die Bereiche Autismus-Spektrumsstörungen, Assistive Technologien und Unterstützte Kommunikation. Diese Fachgruppen erstellen Inhalte (z. B. Handreichungen, Materialien), die laufend systematisch durch den Bieter in die Anwendungssoftware eingepflegt werden. - Die Anwendungssoftware muss die Möglichkeit zur Erfassung des Lernstands und der Fördermaßnahmen in den Unterrichtsfächern und damit zur Vernetzung von Fach? und Förderzielen bieten. - Die inhaltliche Anschlussfähigkeit zu den Fachoffensiven Deutsch und Mathematik in der Primarstufe sowie zu den Unterrichtsvorgaben für den Bildungsgang Geistige Entwicklung des Landes NRW muss gewährleistet sein. - Angebote zur Förderung der Basiskompetenzen im Rahmen der Fachoffensiven Deutsch und Mathematik werden in den abgeleiteten Fördermaßnahmen berücksichtigt. - Die Anwendungssoftware schlägt konkrete Fördermaßnahmen vor und bietet den Lehrkräften zielführende Anhaltspunkte für die Arbeit mit den Schülerinnen und Schülern. - Die vorgeschlagenen Fördermaßnahmen entsprechen schulfachlichen Qualitätsansprüchen. - Kompetenzraster (z. B. MESK), Förderangebote und Maßnahmen sind mit den Handreichungen der Bezirksregierung Münster und den Vorgaben des Landes NRW kompatibel. - Die Anwendungssoftware ist sowohl bei einem Schulwechsel als auch bei einem Wechsel des Förderortes nutzbar; relevante Daten können im Rahmen der rechtlichen Vorgaben übertragen und fortgeführt werden. Die Anwendungssoftware muss insbesondere folgende Anforderungen erfüllen: - Sie kann durch Lehrkräfte sowohl für die Förderplanung und Dokumentation als auch für die eigene Recherche zu konkreten Fragestellungen genutzt werden. - Durch digitale Instrumente (z. B. intelligente Such- und Filterfunktionen, ggf. KI-basierte Unterstützung) müssen die hinterlegten Inhalte sowohl in der Förderplanung für den Einzelfall als auch in der Nutzung durch Lehrkräfte zur professionellen Weiterentwicklung ihrer Fachlichkeit nutzbar sein. - Förderpläne müssen in geeigneter Form externen Stellen (z. B. der Schulaufsicht) zur Verfügung gestellt werden können. - Die Anwendungssoftware ist geräteunabhängig nutzbar. Die Eingabe erfolgt direkt im System; eine Bearbeitung ausschließlich in externen, editierbaren Word- oder PDF-Dateien ist nicht vorgesehen. Ein Datenexport und Ausdruck ist möglich. - Es besteht die technische Möglichkeit, die Anwendung an die von den Schulträgern installierten und von den Schulen genutzten Lernmanagementsysteme, wie beispielsweise LOGINEO NRW, I-Serv oder WebUntis, anzubinden. Dies geschieht über ein Single-Sign-On. - Das Verfahren muss OAuth- und OpenID-Connect-kompatibel sein, um das künftige Identitätsmanagement (IDM) des Ministeriums für Schule und Bildung (MSB) nutzen zu können.",
-      "cpv": "48190000",
-      "pays": "DEU",
-      "deadline": "",
-      "montant": 0,
-      "publication": "2026-08-04",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/537230-2026",
-      "segment": "Autre",
-      "keyword_hits": [
-        "Word"
-      ],
-      "bureautique": true,
-      "score": 35,
-      "score_detail": {
-        "fit": 35,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 3
-      },
-      "score_status": "no",
-      "notes": "",
-      "auto": true,
-      "score_raw": 70,
-      "cpv_class": "core",
       "bigrams_matched": [],
       "stop_hits": [],
       "quality_flag": "noise",

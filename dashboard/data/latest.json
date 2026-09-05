@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-09-04T10:34:01.893Z",
+  "generated_at": "2026-09-05T10:00:27.317Z",
   "source": "MERGE",
   "schema_version": 2,
   "sources_summary": {
     "TED": {
       "present": true,
-      "fetched": 1400,
-      "matched": 28,
+      "fetched": 1416,
+      "matched": 27,
       "go": 1,
-      "generated_at": "2026-09-04T10:24:22.110Z"
+      "generated_at": "2026-09-05T09:51:19.014Z"
     },
     "BOAMP": {
       "present": true,
-      "fetched": 3512,
-      "matched": 8,
+      "fetched": 3360,
+      "matched": 7,
       "go": 0,
-      "generated_at": "2026-09-04T10:34:01.302Z"
+      "generated_at": "2026-09-05T10:00:26.745Z"
     },
     "Profil": {
       "present": true,
       "fetched": 0,
       "matched": 0,
       "go": 0,
-      "generated_at": "2026-09-04T10:34:01.753Z"
+      "generated_at": "2026-09-05T10:00:27.204Z"
     }
   },
-  "total_fetched": 4912,
-  "total_matched": 32,
+  "total_fetched": 4776,
+  "total_matched": 30,
   "total_go": 1,
   "total_dedup_collisions": 4,
   "dedup_breakdown": {
@@ -40,7 +40,7 @@
     "false_positives_human_verdict_4w": 0,
     "filtered_cpv_blacklist": 1,
     "filtered_stopword": 4,
-    "capped_no_context": 9,
+    "capped_no_context": 8,
     "displayed_in_radar": 8
   },
   "notices": [
@@ -478,43 +478,6 @@
       "gating_reason": ""
     },
     {
-      "id": "542095-2026",
-      "ref": "542095-2026",
-      "acheteur": "CHAMBRE DE COMMERCE ET D'INDUSTRIE DE REGION HAUTS-DE-FRANCE",
-      "objet": "France – Services de formation – PRESTATIONS DE SOURCING, DE RECRUTEMENT ET D'ANIMATION DE FORMATIONS PROFESSIONNELLES DANS LE CADRE DES PARCOURS INFORMATIQUES DU SFER (SE FORMER POUR UN EMPLOI EN REGION)",
-      "description": "Sourcing, recrutement et animation au profit des centres de formation LAHO, pour assurer la Certification en Développement IA / Sourcing, recrutement et animation au profit des centres de formation LAHO, pour assurer le Module de Perfectionnement MCPD / Sourcing, recrutement et animation au profit des centres de formation LAHO, pour assurer le Module de Perfectionnement - ARCHITECTE SYSTEMES D'INFORMATION, RESEAUX INFORMATIQUES, CYBER SECURITE",
-      "cpv": "80500000",
-      "pays": "FRA",
-      "deadline": "2026-09-07",
-      "montant": 0,
-      "publication": "2026-08-05",
-      "source": "TED",
-      "url": "https://ted.europa.eu/fr/notice/-/detail/542095-2026",
-      "segment": "Collectivités",
-      "keyword_hits": [
-        "certification services"
-      ],
-      "bureautique": false,
-      "score": 57,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "cond",
-      "notes": "",
-      "auto": true,
-      "score_raw": 57,
-      "cpv_class": "core",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "noise",
-      "gating_reason": ""
-    },
-    {
       "id": "603835-2026",
       "ref": "603835-2026",
       "acheteur": "LfA Förderbank Bayern",
@@ -778,12 +741,12 @@
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 3
       },
       "score_status": "no",
       "notes": "",
       "auto": true,
-      "score_raw": 67,
+      "score_raw": 65,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [],
@@ -1058,51 +1021,6 @@
       "gating_reason": "keyword solo ambigu sans bigramme contextuel"
     },
     {
-      "id": "26-77508",
-      "ref": "26-77508",
-      "acheteur": "EFS ILE-DE-FRANCE",
-      "objet": "Nettoyage des zones nécessitant des exigences techniques et habilitations spécifiques",
-      "description": "Nettoyage des zones nécessitant des exigences techniques et habilitations spécifiques",
-      "cpv": "",
-      "pays": "FRA",
-      "deadline": "2026-09-03",
-      "montant": 0,
-      "publication": "2026-08-05",
-      "source": "BOAMP",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-77508",
-      "_boamp": {
-        "famille": "Marchés européens",
-        "nature": "Avis de marché",
-        "procedure": "Procédure Ouverte",
-        "descripteurs": [
-          "Nettoyage de locaux"
-        ],
-        "departement": "94"
-      },
-      "segment": "Autre",
-      "keyword_hits": [
-        "habilitation"
-      ],
-      "score": 35,
-      "score_detail": {
-        "fit": 25,
-        "size": 8,
-        "tech": 12,
-        "com": 5,
-        "admin": 7,
-        "delay": 0
-      },
-      "score_status": "no",
-      "notes": "",
-      "auto": true,
-      "score_raw": 57,
-      "cpv_class": "unknown",
-      "bigrams_matched": [],
-      "stop_hits": [],
-      "quality_flag": "noise",
-      "gating_reason": "keyword solo ambigu sans bigramme contextuel"
-    },
-    {
       "id": "607385-2026",
       "ref": "607385-2026",
       "acheteur": "Université de Lorraine",
@@ -1128,12 +1046,12 @@
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 3
       },
       "score_status": "filtered",
       "notes": "",
       "auto": true,
-      "score_raw": 62,
+      "score_raw": 60,
       "cpv_class": "core",
       "bigrams_matched": [],
       "stop_hits": [
@@ -1167,12 +1085,12 @@
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 3
       },
       "score_status": "filtered",
       "notes": "",
       "auto": true,
-      "score_raw": 62,
+      "score_raw": 60,
       "cpv_class": "blacklist",
       "bigrams_matched": [],
       "stop_hits": [],
@@ -1212,12 +1130,12 @@
         "tech": 12,
         "com": 5,
         "admin": 7,
-        "delay": 5
+        "delay": 3
       },
       "score_status": "filtered",
       "notes": "",
       "auto": true,
-      "score_raw": 49,
+      "score_raw": 47,
       "cpv_class": "unknown",
       "bigrams_matched": [],
       "stop_hits": [
